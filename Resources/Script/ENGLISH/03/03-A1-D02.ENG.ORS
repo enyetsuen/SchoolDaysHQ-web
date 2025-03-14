@@ -1,0 +1,54 @@
+[SkipFRAME]=00:33:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:33:22;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-D02/03-A1-D02-001	00:33:22;
+
+[PrintText]=00:00:00	Makoto	I'm not sure.	00:01:07;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-D02/03-A1-D02-0030	1	mak	00:01:07;
+
+[PrintText]=00:01:12	Setsuna	?	00:02:02;
+
+[PlayVoice]=00:01:12	Voice03/03-A1/03-A1-D02/03-A1-D02-0040	0	set	00:02:02;
+
+[PrintText]=00:02:12	Makoto	I don't know...	00:03:13;
+
+[PlayVoice]=00:02:12	Voice03/03-A1/03-A1-D02/03-A1-D02-0050	1	mak	00:03:13;
+
+[PrintText]=00:04:00	Setsuna	Why not? This is about you, isn't it?	00:07:11;
+
+[PlayVoice]=00:04:00	Voice03/03-A1/03-A1-D02/03-A1-D02-0060	0	set	00:07:11;
+
+[PrintText]=00:07:11	Makoto	We... should be going out, but...	00:11:13;
+
+[PlayVoice]=00:07:11	Voice03/03-A1/03-A1-D02/03-A1-D02-0070	1	mak	00:11:13;
+
+[PrintText]=00:11:12	Setsuna	'Should be'?	00:12:10;
+
+[PlayVoice]=00:11:12	Voice03/03-A1/03-A1-D02/03-A1-D02-0080	0	set	00:12:10;
+
+[PrintText]=00:12:21	Makoto	Kotonoha... I don't know how I feel about her anymore.	00:18:09;
+
+[PlayVoice]=00:12:21	Voice03/03-A1/03-A1-D02/03-A1-D02-0090	1	mak	00:18:09;
+
+[PrintText]=00:18:21	Setsuna	You had a fight?	00:19:20;
+
+[PlayVoice]=00:18:21	Voice03/03-A1/03-A1-D02/03-A1-D02-0100	0	set	00:19:20;
+
+[PrintText]=00:20:04	Makoto	It might look like that from the outside... but I get the feeling it's a little different.	00:27:07;
+
+[PlayVoice]=00:20:04	Voice03/03-A1/03-A1-D02/03-A1-D02-0110	1	mak	00:27:07;
+
+[PrintText]=00:27:06	Setsuna	How is it different?	00:29:08;
+
+[PlayVoice]=00:27:06	Voice03/03-A1/03-A1-D02/03-A1-D02-0120	0	set	00:29:08;
+
+[PrintText]=00:29:15	Makoto	We're always so awkward around each other... I guess I'm just tired of it...	00:33:10;
+
+[PlayVoice]=00:29:15	Voice03/03-A1/03-A1-D02/03-A1-D02-0130	1	mak	00:33:10;
+
+ ;
+
+[Next]=00:33:22;
+

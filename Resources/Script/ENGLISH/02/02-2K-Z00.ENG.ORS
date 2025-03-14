@@ -1,0 +1,244 @@
+[SkipFRAME]=02:33:09;
+
+[PlaySe]=00:00:00	1	Se02/02-2K/02-2K-O00/SE02-2K-O00-001	01:59:09;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-001	00:25:08;
+
+[PrintText]=00:00:00	Makoto	...Sorry.	00:00:22;
+
+[PlayVoice]=00:00:00	Voice02/02-2K/02-2K-O00/02-2K-O00-0040	1	mak	00:00:22;
+
+[PrintText]=00:00:23	Sekai	Things didn't go well?	00:02:16;
+
+[PlayVoice]=00:00:23	Voice02/02-2K/02-2K-O00/02-2K-O00-0050	0	sek	00:02:16;
+
+[PrintText]=00:02:15	Makoto	Well... not really, no.	00:05:05;
+
+[PlayVoice]=00:02:15	Voice02/02-2K/02-2K-O00/02-2K-O00-0060	1	mak	00:05:05;
+
+[PrintText]=00:05:05	Sekai	If you like, you can tell me about it... ah, and if you don't think I can help, I can go and find someone who can!	00:14:11;
+
+[PlayVoice]=00:05:05	Voice02/02-2K/02-2K-O00/02-2K-O00-0070	0	sek	00:14:11;
+
+[PrintText]=00:14:11	Makoto	...Yeah.	00:15:05;
+
+[PlayVoice]=00:14:11	Voice02/02-2K/02-2K-O00/02-2K-O00-0080	1	mak	00:15:05;
+
+[PrintText]=00:15:05	Sekai	Makoto...	00:16:07;
+
+[PlayVoice]=00:15:05	Voice02/02-2K/02-2K-O00/02-2K-O00-0090	0	sek	00:16:07;
+
+[PrintText]=00:16:07	Makoto	Am I... weird?	00:19:07;
+
+[PlayVoice]=00:16:07	Voice02/02-2K/02-2K-O00/02-2K-O00-0100	1	mak	00:19:07;
+
+[PrintText]=00:19:08	Sekai	Weird?	00:20:10;
+
+[PlayVoice]=00:19:08	Voice02/02-2K/02-2K-O00/02-2K-O00-0110	0	sek	00:20:10;
+
+[PrintText]=00:20:09	Makoto	I love Kotonoha.	00:22:13;
+
+[PlayVoice]=00:20:09	Voice02/02-2K/02-2K-O00/02-2K-O00-0120	1	mak	00:22:13;
+
+[PrintText]=00:22:14	Sekai	There's nothing weird about that.	00:25:08;
+
+[PlayVoice]=00:22:14	Voice02/02-2K/02-2K-O00/02-2K-O00-0130	0	sek	00:25:08;
+
+[CreateBG]=00:25:08	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-002	00:51:19;
+
+[PrintText]=00:25:08	Makoto	It's weird... whenever I think about her, I feel like I want to embrace her and...	00:34:11;
+
+[PlayVoice]=00:25:08	Voice02/02-2K/02-2K-O00/02-2K-O00-0150	1	mak	00:34:11;
+
+[PrintText]=00:34:11	Makoto	and even do those perverted things you keep talking about.	00:39:15;
+
+[PlayVoice]=00:34:11	Voice02/02-2K/02-2K-O00/02-2K-O00-0151	1	mak	00:39:15;
+
+[PrintText]=00:40:00	Makoto	Just yesterday, I couldn't help myself. I forced myself on her, and...	00:46:05;
+
+[PlayVoice]=00:40:00	Voice02/02-2K/02-2K-O00/02-2K-O00-0160	1	mak	00:46:05;
+
+[PrintText]=00:46:06	Sekai	So that's why Katsura-san is...	00:48:11;
+
+[PlayVoice]=00:46:06	Voice02/02-2K/02-2K-O00/02-2K-O00-0170	0	sek	00:48:11;
+
+[PrintText]=00:48:10	Makoto	I'm hopeless, aren't I...?	00:51:19;
+
+[PlayVoice]=00:48:10	Voice02/02-2K/02-2K-O00/02-2K-O00-0190	1	mak	00:51:19;
+
+[CreateBG]=00:51:19	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-003	01:01:08;
+
+[PrintText]=00:51:20	Sekai	But... it's normal to want to do those things with the person you love, right?	00:56:20;
+
+[PlayVoice]=00:51:20	Voice02/02-2K/02-2K-O00/02-2K-O00-0200	0	sek	00:56:20;
+
+[PrintText]=00:56:20	Makoto	You think so...?	00:58:06;
+
+[PlayVoice]=00:56:20	Voice02/02-2K/02-2K-O00/02-2K-O00-0210	1	mak	00:58:06;
+
+[PrintText]=00:58:06	Sekai	You probably just went about it the wrong way.	01:01:08;
+
+[PlayVoice]=00:58:06	Voice02/02-2K/02-2K-O00/02-2K-O00-0220	0	sek	01:01:08;
+
+[CreateBG]=01:01:08	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-004	01:11:02;
+
+[PrintText]=01:01:08	Makoto	Way...?	01:02:19;
+
+[PlayVoice]=01:01:08	Voice02/02-2K/02-2K-O00/02-2K-O00-0230	1	mak	01:02:19;
+
+[PrintText]=01:02:19	Sekai	Anyone would be afraid if you just suddenly threw yourself at them.	01:07:08;
+
+[PlayVoice]=01:02:19	Voice02/02-2K/02-2K-O00/02-2K-O00-0240	0	sek	01:07:08;
+
+[PrintText]=01:07:08	Makoto	I didn't 'throw' myself at her.	01:11:02;
+
+[PlayVoice]=01:07:08	Voice02/02-2K/02-2K-O00/02-2K-O00-0250	1	mak	01:11:02;
+
+[CreateBG]=01:11:02	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-004B	01:16:15;
+
+[PrintText]=01:11:02	Sekai	Reaaaally?	01:12:15;
+
+[PlayVoice]=01:11:02	Voice02/02-2K/02-2K-O00/02-2K-O00-0260	0	sek	01:12:15;
+
+[PrintText]=01:12:15	Makoto	R-really, I didn't.	01:14:11;
+
+[PlayVoice]=01:12:15	Voice02/02-2K/02-2K-O00/02-2K-O00-0270	1	mak	01:14:11;
+
+[PrintText]=01:14:11	Sekai	Really? For real?	01:16:14;
+
+[PlayVoice]=01:14:11	Voice02/02-2K/02-2K-O00/02-2K-O00-0280	0	sek	01:16:14;
+
+[PrintText]=01:16:14	Makoto	I... guess I was a little forceful.	01:23:00;
+
+[PlayVoice]=01:16:14	Voice02/02-2K/02-2K-O00/02-2K-O00-0290	1	mak	01:23:00;
+
+[CreateBG]=01:16:15	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-005	01:24:16;
+
+[PrintText]=01:22:05	Sekai	See?	01:23:06;
+
+[PlayVoice]=01:22:05	Voice02/02-2K/02-2K-O00/02-2K-O00-0300	0	sek	01:23:06;
+
+[PrintText]=01:23:08	Makoto	Uuu...	01:24:12;
+
+[PlayVoice]=01:23:08	Voice02/02-2K/02-2K-O00/02-2K-O00-0310	1	mak	01:24:12;
+
+[CreateBG]=01:24:16	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-005B	01:30:14;
+
+[PrintText]=01:24:17	Makoto	I just don't know how to take a girl's feelings into consideration like that...	01:30:14;
+
+[PlayVoice]=01:24:17	Voice02/02-2K/02-2K-O00/02-2K-O00-0330	1	mak	01:30:14;
+
+[CreateBG]=01:30:14	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-006	01:38:00;
+
+[PrintText]=01:30:20	Sekai	Hmm...	01:32:09;
+
+[PlayVoice]=01:30:20	Voice02/02-2K/02-2K-O00/02-2K-O00-0340	0	sek	01:32:09;
+
+[PrintText]=01:32:09	Makoto	Haah...	01:33:15;
+
+[PlayVoice]=01:32:09	Voice02/02-2K/02-2K-O00/02-2K-O00-0350	1	mak	01:33:15;
+
+[PrintText]=01:34:17	Makoto	Hey, what about you, Sekai?	01:38:02;
+
+[PlayVoice]=01:34:17	Voice02/02-2K/02-2K-O00/02-2K-O00-0370	1	mak	01:38:02;
+
+[PrintText]=01:37:23	Sekai	Eh?!	01:38:14;
+
+[PlayVoice]=01:37:23	Voice02/02-2K/02-2K-O00/02-2K-O00-0380	0	sek	01:38:14;
+
+[CreateBG]=01:38:00	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-007	01:43:19;
+
+[PrintText]=01:38:12	Makoto	You're technically a girl, right? You should know.	01:43:19;
+
+[PlayVoice]=01:38:12	Voice02/02-2K/02-2K-O00/02-2K-O00-0390	1	mak	01:43:19;
+
+[PrintText]=01:43:17	Sekai	'Technically'... that's just mean. Well, I guess you'd normally kiss her...	01:50:20;
+
+[PlayVoice]=01:43:17	Voice02/02-2K/02-2K-O00/02-2K-O00-0400	0	sek	01:50:20;
+
+[CreateBG]=01:43:19	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-008	01:51:19;
+
+[PrintText]=01:50:19	Makoto	Uh-huh.	01:51:19;
+
+[PlayVoice]=01:50:19	Voice02/02-2K/02-2K-O00/02-2K-O00-0410	1	mak	01:51:19;
+
+[CreateBG]=01:51:19	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-001	01:56:12;
+
+[PrintText]=01:52:00	Sekai	...	01:52:19;
+
+[PlayVoice]=01:52:00	Voice02/02-2K/02-2K-O00/02-2K-O00-0420	0	xxx	01:52:19;
+
+[PrintText]=01:53:12	Makoto	What is it? Go on.	01:56:07;
+
+[PlayVoice]=01:53:12	Voice02/02-2K/02-2K-O00/02-2K-O00-0430	1	mak	01:56:07;
+
+[CreateBG]=01:56:12	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-010	01:59:11;
+
+[PrintText]=01:56:12	Sekai	Listen, why don't you practice on me?	01:59:15;
+
+[PlayVoice]=01:56:12	Voice02/02-2K/02-2K-O00/02-2K-O00-0440	0	sek	01:59:15;
+
+[PlaySe]=01:59:09	2	Se02/02-2K/02-2K-O00/SE02-2K-O00-001	02:39:09;
+
+[CreateBG]=01:59:11	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-010B	02:02:13;
+
+[PrintText]=01:59:11	Makoto	Ehh?! I can't do that.	02:03:01;
+
+[PlayVoice]=01:59:11	Voice02/02-2K/02-2K-O00/02-2K-O00-0450	1	mak	02:03:01;
+
+[PrintText]=02:02:12	Sekai	It'll just be pretend. You can practice how to approach a girl gently.	02:06:01;
+
+[PlayVoice]=02:02:12	Voice02/02-2K/02-2K-O00/02-2K-O00-0460	0	sek	02:06:01;
+
+[CreateBG]=02:02:13	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-010C	02:05:23;
+
+[PrintText]=02:05:22	Makoto	I see... practice, huh...	02:09:05;
+
+[PlayVoice]=02:05:22	Voice02/02-2K/02-2K-O00/02-2K-O00-0470	1	mak	02:09:05;
+
+[CreateBG]=02:05:23	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-011	02:15:15;
+
+[PrintText]=02:09:05	Sekai	Rather than just talking about it, I think you'll pick it up better by actually practicing.	02:14:17;
+
+[PlayVoice]=02:09:05	Voice02/02-2K/02-2K-O00/02-2K-O00-0480	0	sek	02:14:17;
+
+[PrintText]=02:14:14	Makoto	You're right.	02:15:15;
+
+[PlayVoice]=02:14:14	Voice02/02-2K/02-2K-O00/02-2K-O00-0490	1	mak	02:15:15;
+
+[CreateBG]=02:15:15	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-012	02:22:16;
+
+[PrintText]=02:15:15	Sekai	Ah, but listen, this is just practice, okay? If you really kiss me, I'll kill you.	02:23:02;
+
+[PlayVoice]=02:15:15	Voice02/02-2K/02-2K-O00/02-2K-O00-0500	0	sek	02:23:02;
+
+[CreateBG]=02:22:16	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-012B	02:24:01;
+
+[PrintText]=02:22:17	Makoto	Like I would!	02:24:05;
+
+[PlayVoice]=02:22:17	Voice02/02-2K/02-2K-O00/02-2K-O00-0510	1	mak	02:24:05;
+
+[PrintText]=02:24:00	Sekai	Good.	02:25:02;
+
+[PlayVoice]=02:24:00	Voice02/02-2K/02-2K-O00/02-2K-O00-0520	0	sek	02:25:02;
+
+[CreateBG]=02:24:01	BGS	Event02/02-2K/02-2K-O00/02-2K-O00-001	02:39:11;
+
+[PrintText]=02:25:05	Makoto	Still... actual practice, huh...	02:29:16;
+
+[PlayVoice]=02:25:05	Voice02/02-2K/02-2K-O00/02-2K-O00-0530	1	mak	02:29:16;
+
+[PrintText]=02:29:19	Sekai	Okay, ready?	02:31:02;
+
+[PlayVoice]=02:29:19	Voice02/02-2K/02-2K-O00/02-2K-O00-0540	0	sek	02:31:02;
+
+[PrintText]=02:31:07	Makoto	Hmm... well...	02:36:02;
+
+[PlayVoice]=02:31:07	Voice02/02-2K/02-2K-O00/02-2K-O00-0550	1	mak	02:36:02;
+
+[SetSELECT]=02:33:09	'This isn't right'	null	02:38:09;
+
+ ;
+
+[Next]=02:39:11;
+

@@ -1,0 +1,74 @@
+[SkipFRAME]=00:40:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:46:01;
+
+[PlaySe]=00:00:00	2	Voice01/01-00/01-00-R00/01-00-R00-0050	00:11:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-R00/01-00-R00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event01/01-00/01-00-R00/01-00-R00-002	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event01/01-00/01-00-R00/01-00-R00-003	00:08:03;
+
+[PrintText]=00:06:10	Sekai	...	00:07:04;
+
+[PlayVoice]=00:06:10	Voice01/01-00/01-00-R00/01-00-R00-0060	0	xxx	00:07:04;
+
+[CreateBG]=00:08:03	BGS	Event01/01-00/01-00-R00/01-00-R00-004	00:10:05;
+
+[PlayMovie]=00:10:05	Movie01/01-00/01-00-R00/01-00-R00-005	0	00:12:10;
+
+[PrintText]=00:10:05	Sekai	"It's not right, you know."	00:12:10;
+
+[PlayVoice]=00:11:03	Voice01/01-00/01-00-R00/01-00-R00-0090	1	mak	00:11:19;
+
+[PlaySe]=00:11:21	2	Voice01/01-00/01-00-R00/01-00-R00-0051	00:24:16;
+
+[PlayMovie]=00:12:10	Movie01/01-00/01-00-R00/01-00-R00-006	0	00:14:22;
+
+[PrintText]=00:12:17	Makoto	'It'? What does that mean?	00:14:09;
+
+[PlayVoice]=00:12:17	Voice01/01-00/01-00-R00/01-00-R00-0110	1	mak	00:14:09;
+
+[CreateBG]=00:14:22	BGS	Event01/01-00/01-00-R00/01-00-R00-007	00:17:09;
+
+[CreateBG]=00:17:09	BGS	Event01/01-00/01-00-R00/01-00-R00-004	00:17:21;
+
+[PlayMovie]=00:17:21	Movie01/01-00/01-00-R00/01-00-R00-009	0	00:22:04;
+
+[PrintText]=00:17:23	Makoto	"What do you mean, 'it'?"	00:20:00;
+
+[PrintText]=00:20:00	Makoto	What does 'it' mean...?	00:21:20;
+
+[PlayVoice]=00:20:00	Voice01/01-00/01-00-R00/01-00-R00-0140	1	mak	00:21:20;
+
+[PlayMovie]=00:22:04	Movie01/01-00/01-00-R00/01-00-R00-010	0	00:25:04;
+
+[PrintText]=00:22:06	Sekai	"Work it out yourself!"	00:25:03;
+
+[PlaySe]=00:24:16	2	Voice01/01-00/01-00-R00/01-00-R00-0052	00:42:15;
+
+[PlaySe]=00:25:04	1	Voice01/01-00/01-00-R00/01-00-R00-0170	00:25:17;
+
+[CreateBG]=00:25:04	BGS	Event01/01-00/01-00-R00/01-00-R00-011	00:27:15;
+
+[PlaySe]=00:26:06	1	Voice01/01-00/01-00-R00/01-00-R00-0180	00:27:07;
+
+[CreateBG]=00:27:15	BGS	Event01/01-00/01-00-R00/01-00-R00-012	00:46:00;
+
+[PrintText]=00:27:15	Makoto	Sheesh... what's she getting all angry for? She looked like she was having fun when we were at lunch, too.	00:33:22;
+
+[PlayVoice]=00:27:15	Voice01/01-00/01-00-R00/01-00-R00-0190	1	mak	00:33:22;
+
+[PrintText]=00:34:16	Makoto	Hmmn... just what could 'it' be?	00:40:04;
+
+[PlayVoice]=00:34:16	Voice01/01-00/01-00-R00/01-00-R00-0200	1	mak	00:40:04;
+
+[SetSELECT]=00:40:00	'You mean the kiss?'	'You mean yesterday's date?'	00:45:00;
+
+[PlaySe]=00:42:16	2	Voice01/01-00/01-00-R00/01-00-R00-0053	00:45:07;
+
+ ;
+
+[Next]=00:46:01;
+

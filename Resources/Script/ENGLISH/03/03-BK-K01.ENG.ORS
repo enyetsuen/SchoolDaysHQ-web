@@ -1,0 +1,56 @@
+[SkipFRAME]=00:23:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:23:14;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-K01/SE03-BK-K01-001	00:23:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-001	00:03:15;
+
+[PrintText]=00:00:00	Makoto	I just...!	00:02:22;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-K01/03-BK-K01-0040	1	mak	00:02:22;
+
+[PrintText]=00:02:11	Kotonoha	Eh?!	00:03:06;
+
+[PlayVoice]=00:02:11	Voice03/03-BK/03-BK-K01/03-BK-K01-0050	0	kot	00:03:06;
+
+[PrintText]=00:03:00	Makoto	I'm sorry!	00:03:14;
+
+[PlayVoice]=00:03:00	Voice03/03-BK/03-BK-K01/03-BK-K01-0070	1	mak	00:03:14;
+
+[CreateBG]=00:03:15	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-002	00:06:14;
+
+[PrintText]=00:03:15	Kotonoha	Eh?! M-Makoto-kun?	00:06:15;
+
+[PlayVoice]=00:03:15	Voice03/03-BK/03-BK-K01/03-BK-K01-0080	0	kot	00:06:15;
+
+[CreateBG]=00:06:14	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-003	00:18:05;
+
+[PrintText]=00:06:14	Makoto	I just can't... keep silent about how I really feel anymore.	00:10:12;
+
+[PlayVoice]=00:06:14	Voice03/03-BK/03-BK-K01/03-BK-K01-0090	1	mak	00:10:12;
+
+[PrintText]=00:10:07	Kotonoha	How you... really feel?	00:13:08;
+
+[PlayVoice]=00:10:07	Voice03/03-BK/03-BK-K01/03-BK-K01-0100	0	kot	00:13:08;
+
+[PrintText]=00:13:09	Makoto	How I really feel... and the person that I really love.	00:18:13;
+
+[PlayVoice]=00:13:09	Voice03/03-BK/03-BK-K01/03-BK-K01-0110	1	mak	00:18:13;
+
+[CreateBG]=00:18:05	BGS	Event03/03-BK/03-BK-K01/03-BK-K01-004	00:23:14;
+
+[PrintText]=00:18:05	Kotonoha	Eh...?!	00:19:01;
+
+[PlayVoice]=00:18:05	Voice03/03-BK/03-BK-K01/03-BK-K01-0120	0	kot	00:19:01;
+
+[PrintText]=00:18:22	Makoto	I'm really sorry!	00:20:21;
+
+[PlayVoice]=00:18:22	Voice03/03-BK/03-BK-K01/03-BK-K01-0130	1	mak	00:20:21;
+
+[BlackFade]=00:22:14	OUT	00:23:14;
+
+ ;
+
+[Next]=00:23:14;
+

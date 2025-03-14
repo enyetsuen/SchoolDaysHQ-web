@@ -1,0 +1,22 @@
+[SkipFRAME]=00:03:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:09:18;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-J07/02-2S-J07-001	00:03:03;
+
+[PrintText]=00:00:06	Makoto	The way I really feel...	00:02:07;
+
+[PlayVoice]=00:00:06	Voice02/02-2S/02-2S-J07/02-2S-J07-0030	1	xxx	00:02:07;
+
+[CreateBG]=00:03:03	BGS	Event02/02-2S/02-2S-J07/02-2S-J07-002	00:09:18;
+
+[PrintText]=00:03:03	Makoto	"The truth is, I..."	00:09:17;
+
+[PlayVoice]=00:03:09	Voice02/02-2S/02-2S-J07/02-2S-J07-0050	1	mak	00:04:12;
+
+[SetSELECT]=00:03:18	'I don't think I know'	'I might like Kotonoha'	00:08:18;
+
+ ;
+
+[Next]=00:09:18;
+

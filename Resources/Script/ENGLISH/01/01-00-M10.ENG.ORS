@@ -1,0 +1,102 @@
+[SkipFRAME]=01:02:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm15	01:02:19;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-M10/SE01-00-M10-001	01:02:19;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-M09/01-00-M09-001	00:03:10;
+
+[PrintText]=00:00:00	Makoto	All right, I'll listen.	00:02:17;
+
+[PlayVoice]=00:00:00	Voice01/01-00/01-00-M10/01-00-M10-0030	1	mak	00:02:17;
+
+[PrintText]=00:02:17	Kotonoha	Okay.	00:03:10;
+
+[PlayVoice]=00:02:17	Voice01/01-00/01-00-M10/01-00-M10-0040	0	kot	00:03:10;
+
+[CreateBG]=00:03:10	BGS	Event01/01-00/01-00-M10/01-00-M10-002	00:15:19;
+
+[PrintText]=00:03:10	Makoto	...	00:04:07;
+
+[PlayVoice]=00:03:10	Voice01/01-00/01-00-M10/01-00-M10-0050	1	xxx	00:04:07;
+
+[PrintText]=00:04:08	Kotonoha	What I was going to tell you yesterday was...	00:07:10;
+
+[PlayVoice]=00:04:08	Voice01/01-00/01-00-M10/01-00-M10-0070	0	kot	00:07:10;
+
+[PrintText]=00:07:09	Makoto	Y-yes?	00:08:23;
+
+[PlayVoice]=00:07:09	Voice01/01-00/01-00-M10/01-00-M10-0080	1	mak	00:08:23;
+
+[PrintText]=00:08:23	Kotonoha	I... wanted to call you by your name, like Saionji-san does.	00:15:18;
+
+[PlayVoice]=00:08:23	Voice01/01-00/01-00-M10/01-00-M10-0090	0	kot	00:15:18;
+
+[PrintText]=00:15:18	Makoto	Eh...? Name?	00:18:03;
+
+[PlayVoice]=00:15:18	Voice01/01-00/01-00-M10/01-00-M10-0100	1	mak	00:18:03;
+
+[CreateBG]=00:15:19	BGS	Event01/01-00/01-00-M10/01-00-M10-003	00:18:03;
+
+[CreateBG]=00:18:03	BGS	Event01/01-00/01-00-M08/01-00-M08-007	00:33:18;
+
+[PrintText]=00:18:03	Kotonoha	I thought the reason that Saionji-san seemed so close to you was because of how she addressed you,	00:25:18;
+
+[PlayVoice]=00:18:03	Voice01/01-00/01-00-M10/01-00-M10-0110	0	kot	00:25:18;
+
+[PrintText]=00:25:18	Kotonoha	and that if I could do what she did...	00:28:23;
+
+[PlayVoice]=00:25:18	Voice01/01-00/01-00-M10/01-00-M10-0111	0	kot	00:28:23;
+
+[PrintText]=00:29:03	Makoto	By name... you mean, Makoto?	00:33:18;
+
+[PlayVoice]=00:29:03	Voice01/01-00/01-00-M10/01-00-M10-0120	1	mak	00:33:18;
+
+[CreateBG]=00:33:18	BGS	Event01/01-00/01-00-M10/01-00-M10-005	00:40:15;
+
+[PrintText]=00:33:18	Makoto	Sure. In that case, can I call you by your name too?	00:38:05;
+
+[PlayVoice]=00:33:18	Voice01/01-00/01-00-M10/01-00-M10-0140	1	mak	00:38:05;
+
+[PrintText]=00:38:06	Kotonoha	Eh?! ...You would do that?	00:40:14;
+
+[PlayVoice]=00:38:06	Voice01/01-00/01-00-M10/01-00-M10-0150	0	kot	00:40:14;
+
+[PrintText]=00:40:14	Makoto	Would I...? You mean you'd prefer it if I did?	00:46:09;
+
+[PlayVoice]=00:40:14	Voice01/01-00/01-00-M10/01-00-M10-0160	1	mak	00:46:09;
+
+[CreateBG]=00:40:15	BGS	Event01/01-00/01-00-M10/01-00-M10-006	00:53:11;
+
+[PrintText]=00:46:09	Kotonoha	Yes.	00:47:19;
+
+[PlayVoice]=00:46:09	Voice01/01-00/01-00-M10/01-00-M10-0170	0	kot	00:47:19;
+
+[PrintText]=00:47:19	Makoto	In that case, I'll call you Kotonoha.	00:50:10;
+
+[PlayVoice]=00:47:19	Voice01/01-00/01-00-M10/01-00-M10-0180	1	mak	00:50:10;
+
+[PrintText]=00:50:11	Kotonoha	And I'll call you Makoto-kun.	00:53:10;
+
+[PlayVoice]=00:50:11	Voice01/01-00/01-00-M10/01-00-M10-0190	0	kot	00:53:10;
+
+[PrintText]=00:53:10	Makoto	...This is a little embarrassing.	00:56:19;
+
+[PlayVoice]=00:53:10	Voice01/01-00/01-00-M10/01-00-M10-0200	1	mak	00:56:19;
+
+[CreateBG]=00:53:11	BGS	Event01/01-00/01-00-M10/01-00-M10-007	00:58:22;
+
+[PrintText]=00:56:20	Kotonoha	Yes, you're right... Ufufu...	01:00:01;
+
+[PlayVoice]=00:56:20	Voice01/01-00/01-00-M10/01-00-M10-0210	0	kot	01:00:01;
+
+[CreateBG]=00:58:22	BGS	Event01/01-00/01-00-M09/01-00-M09-001	01:02:19;
+
+[PrintText]=01:00:01	Makoto	Haha...	01:02:05;
+
+[PlayVoice]=01:00:01	Voice01/01-00/01-00-M10/01-00-M10-0220	1	mak	01:02:05;
+
+ ;
+
+[Next]=01:02:19;
+

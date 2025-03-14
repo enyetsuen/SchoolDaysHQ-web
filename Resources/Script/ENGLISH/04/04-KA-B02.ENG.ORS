@@ -1,0 +1,198 @@
+[SkipFRAME]=01:31:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:31:01;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-B02/04-KA-B02-001	00:02:14;
+
+[PrintText]=00:00:00	Makoto's Mother	Oh?	00:00:16;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-B02/04-KA-B02-0050	0	mkm	00:00:16;
+
+[PrintText]=00:00:16	Makoto	Ah...	00:01:09;
+
+[PlayVoice]=00:00:16	Voice04/04-KA/04-KA-B02/04-KA-B02-0060	1	mak	00:01:09;
+
+[PrintText]=00:01:09	Makoto's Mother	Oh, my.	00:02:12;
+
+[PlayVoice]=00:01:09	Voice04/04-KA/04-KA-B02/04-KA-B02-0070	0	mkm	00:02:12;
+
+[PrintText]=00:02:12	Kotonoha	G-good evening.	00:06:05;
+
+[PlayVoice]=00:02:12	Voice04/04-KA/04-KA-B02/04-KA-B02-0080	0	kot	00:06:05;
+
+[CreateBG]=00:02:14	BGS	Event04/04-KA/04-KA-B02/04-KA-B02-002	00:18:07;
+
+[PrintText]=00:06:05	Makoto's Mother	My, my, my!	00:08:17;
+
+[PlayVoice]=00:06:05	Voice04/04-KA/04-KA-B02/04-KA-B02-0090	0	mkm	00:08:17;
+
+[PrintText]=00:08:17	Makoto	M-mom!	00:10:10;
+
+[PlayVoice]=00:08:17	Voice04/04-KA/04-KA-B02/04-KA-B02-0100	1	mak	00:10:10;
+
+[PrintText]=00:10:10	Makoto's Mother	Good evening, um...	00:13:12;
+
+[PlayVoice]=00:10:10	Voice04/04-KA/04-KA-B02/04-KA-B02-0110	0	mkm	00:13:12;
+
+[PrintText]=00:13:12	Kotonoha	My name is Katsura Kotonoha!	00:15:09;
+
+[PlayVoice]=00:13:12	Voice04/04-KA/04-KA-B02/04-KA-B02-0120	0	kot	00:15:09;
+
+[PrintText]=00:15:08	Makoto's Mother	Kotonoha-san... are you the girlfriend?	00:18:06;
+
+[PlayVoice]=00:15:08	Voice04/04-KA/04-KA-B02/04-KA-B02-0130	0	mkm	00:18:06;
+
+[PrintText]=00:18:06	Makoto	She's not.	00:19:15;
+
+[PlayVoice]=00:18:06	Voice04/04-KA/04-KA-B02/04-KA-B02-0140	1	mak	00:19:15;
+
+[CreateBG]=00:18:07	BGS	Event04/04-KA/04-KA-B02/04-KA-B02-002B	00:20:21;
+
+[PrintText]=00:19:15	Makoto's Mother	Really?	00:20:20;
+
+[PlayVoice]=00:19:15	Voice04/04-KA/04-KA-B02/04-KA-B02-0150	0	mkm	00:20:20;
+
+[PrintText]=00:20:20	Kotonoha	Um! Y... yes, I'm his girlfriend!	00:24:12;
+
+[PlayVoice]=00:20:20	Voice04/04-KA/04-KA-B02/04-KA-B02-0160	0	kot	00:24:12;
+
+[CreateBG]=00:20:21	BGS	Event04/04-KA/04-KA-B02/04-KA-B02-002C	00:24:13;
+
+[CreateBG]=00:24:13	BGS	Event04/04-KA/04-KA-B02/04-KA-B02-002D	00:43:06;
+
+[PrintText]=00:24:13	Makoto's Mother	See? What are you getting all shy about?	00:27:11;
+
+[PlayVoice]=00:24:13	Voice04/04-KA/04-KA-B02/04-KA-B02-0170	0	mkm	00:27:11;
+
+[PrintText]=00:27:11	Makoto	Uuh...	00:28:23;
+
+[PlayVoice]=00:27:11	Voice04/04-KA/04-KA-B02/04-KA-B02-0180	1	mak	00:28:23;
+
+[PrintText]=00:28:23	Makoto's Mother	What a lovely girlfriend you've brought home.	00:33:04;
+
+[PlayVoice]=00:28:23	Voice04/04-KA/04-KA-B02/04-KA-B02-0190	0	mkm	00:33:04;
+
+[PrintText]=00:33:05	Kotonoha	T-thank you.	00:35:23;
+
+[PlayVoice]=00:33:05	Voice04/04-KA/04-KA-B02/04-KA-B02-0200	0	kot	00:35:23;
+
+[PrintText]=00:35:22	Makoto's Mother	Please take good care of Makoto.	00:39:00;
+
+[PlayVoice]=00:35:22	Voice04/04-KA/04-KA-B02/04-KA-B02-0210	0	mkm	00:39:00;
+
+[PrintText]=00:39:00	Kotonoha	Yes, please accept my regards too!	00:40:10;
+
+[PlayVoice]=00:39:00	Voice04/04-KA/04-KA-B02/04-KA-B02-0220	0	kot	00:40:10;
+
+[PrintText]=00:40:10	Makoto's Mother	Well, I'm off to work now.	00:43:05;
+
+[PlayVoice]=00:40:10	Voice04/04-KA/04-KA-B02/04-KA-B02-0230	0	mkm	00:43:05;
+
+[PrintText]=00:43:05	Makoto	Okay.	00:44:01;
+
+[PlayVoice]=00:43:05	Voice04/04-KA/04-KA-B02/04-KA-B02-0240	1	mak	00:44:01;
+
+[CreateBG]=00:43:06	BGS	Event04/04-KA/04-KA-B02/04-KA-B02-002E	00:50:11;
+
+[PrintText]=00:44:01	Makoto's Mother	Well, make yourself at home.	00:45:21;
+
+[PlayVoice]=00:44:01	Voice04/04-KA/04-KA-B02/04-KA-B02-0250	0	mkm	00:45:21;
+
+[PrintText]=00:45:21	Kotonoha	Have a safe trip!	00:47:07;
+
+[PlayVoice]=00:45:21	Voice04/04-KA/04-KA-B02/04-KA-B02-0260	0	kot	00:47:07;
+
+[PrintText]=00:47:06	Makoto's Mother	Ahaha.	00:49:06;
+
+[PlayVoice]=00:47:06	Voice04/04-KA/04-KA-B02/04-KA-B02-0270	0	mkm	00:49:06;
+
+[BlackFade]=00:49:11	OUT	00:50:11;
+
+[PlaySe]=00:49:14	1	SysSe/SE_all/home/makoto_door_close	00:50:14;
+
+[CreateBG]=00:50:11	BGS	System/Screen/Black	00:52:16;
+
+[PlaySe]=00:50:16	2	SysSe/SE_all/footsteps/asioto_out_walk	00:53:03;
+
+[PlayMovie]=00:52:16	Movie04/04-KA/04-KA-B02/04-KA-B02-003	0	01:28:13;
+
+[BlackFade]=00:52:16	IN	00:53:16;
+
+[PrintText]=00:53:16	Kotonoha	Haah... I was so nervous.	00:57:23;
+
+[PlayVoice]=00:53:16	Voice04/04-KA/04-KA-B02/04-KA-B02-0300	0	kot	00:57:23;
+
+[PrintText]=00:57:23	Makoto	Haah... she misunderstood.	01:00:21;
+
+[PlayVoice]=00:57:23	Voice04/04-KA/04-KA-B02/04-KA-B02-0310	1	mak	01:00:21;
+
+[PrintText]=01:00:17	Kotonoha	Eh?!	01:01:09;
+
+[PlayVoice]=01:00:17	Voice04/04-KA/04-KA-B02/04-KA-B02-0320	0	kot	01:01:09;
+
+[PrintText]=01:01:17	Makoto	About you...	01:03:09;
+
+[PlayVoice]=01:01:17	Voice04/04-KA/04-KA-B02/04-KA-B02-0330	1	mak	01:03:09;
+
+[PrintText]=01:02:19	Kotonoha	No, she didn't.	01:04:12;
+
+[PlayVoice]=01:02:19	Voice04/04-KA/04-KA-B02/04-KA-B02-0340	0	kot	01:04:12;
+
+[PrintText]=01:04:06	Makoto	Eh?!	01:05:04;
+
+[PlayVoice]=01:04:06	Voice04/04-KA/04-KA-B02/04-KA-B02-0350	1	mak	01:05:04;
+
+[PrintText]=01:05:11	Kotonoha	I am your girlfriend.	01:06:16;
+
+[PlayVoice]=01:05:11	Voice04/04-KA/04-KA-B02/04-KA-B02-0360	0	kot	01:06:16;
+
+[PrintText]=01:06:22	Makoto	...	01:08:09;
+
+[PlayVoice]=01:06:22	Voice04/04-KA/04-KA-B02/04-KA-B02-0370	1	xxx	01:08:09;
+
+[PrintText]=01:08:20	Kotonoha	Or... can't I be?	01:11:12;
+
+[PlayVoice]=01:08:20	Voice04/04-KA/04-KA-B02/04-KA-B02-0380	0	kot	01:11:12;
+
+[PrintText]=01:11:17	Makoto	I...	01:12:16;
+
+[PlayVoice]=01:11:17	Voice04/04-KA/04-KA-B02/04-KA-B02-0390	1	mak	01:12:16;
+
+[PrintText]=01:13:01	Kotonoha	...	01:13:12;
+
+[PlayVoice]=01:13:01	Voice04/04-KA/04-KA-B02/04-KA-B02-0400	0	xxx	01:13:12;
+
+[PrintText]=01:14:06	Makoto	You should go home.	01:16:13;
+
+[PlayVoice]=01:14:06	Voice04/04-KA/04-KA-B02/04-KA-B02-0410	1	mak	01:16:13;
+
+[PrintText]=01:16:15	Kotonoha	...No.	01:17:17;
+
+[PlayVoice]=01:16:15	Voice04/04-KA/04-KA-B02/04-KA-B02-0420	0	kot	01:17:17;
+
+[PrintText]=01:17:17	Makoto	I got caught up in the moment and brought you home... but this isn't right.	01:23:11;
+
+[PlayVoice]=01:17:17	Voice04/04-KA/04-KA-B02/04-KA-B02-0430	1	mak	01:23:11;
+
+[PrintText]=01:23:05	Kotonoha	No.	01:24:05;
+
+[PlayVoice]=01:23:05	Voice04/04-KA/04-KA-B02/04-KA-B02-0440	0	kot	01:24:05;
+
+[PrintText]=01:24:11	Makoto	This won't do either of us any good.	01:27:20;
+
+[PlayVoice]=01:24:11	Voice04/04-KA/04-KA-B02/04-KA-B02-0450	1	mak	01:27:20;
+
+[PrintText]=01:27:08	Kotonoha	It will.	01:28:08;
+
+[PlayVoice]=01:27:08	Voice04/04-KA/04-KA-B02/04-KA-B02-0460	0	kot	01:28:08;
+
+[PlayMovie]=01:28:13	Movie04/04-KA/04-KA-B02/04-KA-B02-008	0	01:31:01;
+
+[PrintText]=01:28:13	Makoto	Sekai is the one that I lov...	01:31:01;
+
+[PlayVoice]=01:28:13	Voice04/04-KA/04-KA-B02/04-KA-B02-0470	1	mak	01:31:01;
+
+ ;
+
+[Next]=01:31:01;
+

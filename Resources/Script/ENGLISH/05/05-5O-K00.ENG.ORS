@@ -1,0 +1,82 @@
+[SkipFRAME]=00:45:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/haramasu	00:51:13;
+
+[PlayMovie]=00:00:00	Movie00/00-00/00-00-A00/00-00-A00-016	0	00:01:11;
+
+[CreateBG]=00:01:11	BGS	Event05/05-5O/05-5O-K00/05-5O-K00-002	00:07:05;
+
+[PrintText]=00:01:14	Makoto	Fwah...	00:07:01;
+
+[PlayVoice]=00:01:14	Voice05/05-5O/05-5O-K00/05-5O-K00-0040	1	mak	00:07:01;
+
+[CreateBG]=00:07:05	BGS	Event05/05-5O/05-5O-K00/05-5O-K00-003	00:14:22;
+
+[PrintText]=00:07:07	Otome	Morning, Itou.	00:08:21;
+
+[PlayVoice]=00:07:07	Voice05/05-5O/05-5O-K00/05-5O-K00-0060	0	oto	00:08:21;
+
+[PrintText]=00:09:01	Makoto	Oh, Katou. Morning.	00:12:16;
+
+[PlayVoice]=00:09:01	Voice05/05-5O/05-5O-K00/05-5O-K00-0070	1	mak	00:12:16;
+
+[PrintText]=00:12:18	Otome	Are you always here at around this time?	00:15:00;
+
+[PlayVoice]=00:12:18	Voice05/05-5O/05-5O-K00/05-5O-K00-0080	0	oto	00:15:00;
+
+[PrintText]=00:14:21	Makoto	No... I stayed up late last night, so I overslept a little.	00:19:19;
+
+[PlayVoice]=00:14:21	Voice05/05-5O/05-5O-K00/05-5O-K00-0090	1	mak	00:19:19;
+
+[CreateBG]=00:14:22	BGS	Event05/05-5O/05-5O-K00/05-5O-K00-004	00:19:21;
+
+[CreateBG]=00:19:21	BGS	Event05/05-5O/05-5O-K00/05-5O-K00-005	00:34:12;
+
+[PrintText]=00:19:21	Otome	I see... so, you're normally on the train before this one?	00:23:17;
+
+[PlayVoice]=00:19:21	Voice05/05-5O/05-5O-K00/05-5O-K00-0100	0	oto	00:23:17;
+
+[PrintText]=00:23:20	Makoto	No, I'd say about two trains earlier.	00:26:15;
+
+[PlayVoice]=00:23:20	Voice05/05-5O/05-5O-K00/05-5O-K00-0110	1	mak	00:26:15;
+
+[PrintText]=00:26:20	Otome	I see... maybe I should start getting up a little earlier, then.	00:31:12;
+
+[PlayVoice]=00:26:20	Voice05/05-5O/05-5O-K00/05-5O-K00-0120	0	oto	00:31:12;
+
+[PrintText]=00:31:08	Makoto	Why?	00:32:12;
+
+[PlayVoice]=00:31:08	Voice05/05-5O/05-5O-K00/05-5O-K00-0130	1	mak	00:32:12;
+
+[PrintText]=00:32:08	Otome	Because I want to be on the same train as you.	00:34:12;
+
+[PlayVoice]=00:32:08	Voice05/05-5O/05-5O-K00/05-5O-K00-0140	0	oto	00:34:12;
+
+[CreateBG]=00:34:12	BGS	Event05/05-5O/05-5O-K00/05-5O-K00-006	00:51:13;
+
+[PrintText]=00:34:12	Makoto	Katou...	00:35:14;
+
+[PlayVoice]=00:34:12	Voice05/05-5O/05-5O-K00/05-5O-K00-0150	1	mak	00:35:14;
+
+[PrintText]=00:35:14	Otome	I told you yesterday, didn't I? About how I felt?	00:38:19;
+
+[PlayVoice]=00:35:14	Voice05/05-5O/05-5O-K00/05-5O-K00-0160	0	oto	00:38:19;
+
+[PrintText]=00:38:19	Makoto	Y-yeah...	00:40:09;
+
+[PlayVoice]=00:38:19	Voice05/05-5O/05-5O-K00/05-5O-K00-0170	1	mak	00:40:09;
+
+[PrintText]=00:40:09	Otome	That's why I'm not going to hide it any longer. If it bothers you, then just tell me.	00:45:12;
+
+[PlayVoice]=00:40:09	Voice05/05-5O/05-5O-K00/05-5O-K00-0180	0	oto	00:45:12;
+
+[PrintText]=00:45:12	Makoto	Ah...	00:46:06;
+
+[PlayVoice]=00:45:12	Voice05/05-5O/05-5O-K00/05-5O-K00-0190	1	mak	00:46:06;
+
+[SetSELECT]=00:45:12	'I don't mind'	'It does bother me'	00:50:12;
+
+ ;
+
+[Next]=00:51:13;
+

@@ -1,0 +1,44 @@
+[SkipFRAME]=00:13:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:13:16;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-G00/SE04-KA-G00-001	00:13:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F01/04-KA-F01-001	00:06:01;
+
+[PrintText]=00:00:04	Makoto	I don't know.	00:01:04;
+
+[PlayVoice]=00:00:04	Voice04/04-KA/04-KA-F01/04-KA-F01-0030	1	mak	00:01:04;
+
+[PrintText]=00:01:04	Taisuke	What do you mean?	00:02:15;
+
+[PlayVoice]=00:01:04	Voice04/04-KA/04-KA-F01/04-KA-F01-0040	1	tai	00:02:15;
+
+[PrintText]=00:02:14	Makoto	I'll think about it after we're done here, if I'm not too tired.	00:06:02;
+
+[PlayVoice]=00:02:14	Voice04/04-KA/04-KA-F01/04-KA-F01-0050	1	mak	00:06:02;
+
+[CreateBG]=00:06:01	BGS	Event04/04-KA/04-KA-F01/04-KA-F01-002	00:11:00;
+
+[PrintText]=00:06:01	Taisuke	Man, I'm pooped.	00:08:01;
+
+[PlayVoice]=00:06:01	Voice04/04-KA/04-KA-F01/04-KA-F01-0060	1	tai	00:08:01;
+
+[PrintText]=00:08:00	Makoto	I could fall asleep right now.	00:10:23;
+
+[PlayVoice]=00:08:00	Voice04/04-KA/04-KA-F01/04-KA-F01-0070	1	mak	00:10:23;
+
+[CreateBG]=00:11:00	BGS	Event04/04-KA/04-KA-F01/04-KA-F01-003	00:13:16;
+
+[PrintText]=00:11:00	Taisuke	Okay, see you later, then.	00:12:13;
+
+[PlayVoice]=00:11:00	Voice04/04-KA/04-KA-F01/04-KA-F01-0080	1	tai	00:12:13;
+
+[PrintText]=00:12:16	Makoto	Yeah.	00:13:12;
+
+[PlayVoice]=00:12:16	Voice04/04-KA/04-KA-F01/04-KA-F01-0090	1	mak	00:13:12;
+
+ ;
+
+[Next]=00:13:16;
+

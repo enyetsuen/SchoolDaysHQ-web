@@ -1,0 +1,88 @@
+[SkipFRAME]=00:42:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:42:04;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-F02/SE03-BK-F02-001	00:42:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-001	00:01:06;
+
+[PrintText]=00:00:00	Makoto	Shall I help you choose?	00:01:13;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-F02/03-BK-F02-0030	1	mak	00:01:13;
+
+[CreateBG]=00:01:06	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-002	00:03:17;
+
+[PrintText]=00:01:06	Sekai	Would you?! ...Wait, no, that's no good.	00:04:17;
+
+[PlayVoice]=00:01:06	Voice03/03-BK/03-BK-F02/03-BK-F02-0040	0	sek	00:04:17;
+
+[CreateBG]=00:03:17	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-003A	00:07:15;
+
+[PrintText]=00:04:17	Makoto	No? Well, I guess that makes sense.	00:08:03;
+
+[PlayVoice]=00:04:17	Voice03/03-BK/03-BK-F02/03-BK-F02-0050	1	mak	00:08:03;
+
+[CreateBG]=00:07:15	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-003B	00:12:19;
+
+[PrintText]=00:07:15	Sekai	Ah, no, I didn't mean it like that... I'm about to go and meet up with Nanami.	00:12:23;
+
+[PlayVoice]=00:07:15	Voice03/03-BK/03-BK-F02/03-BK-F02-0060	0	sek	00:12:23;
+
+[CreateBG]=00:12:19	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-003C	00:16:17;
+
+[PrintText]=00:12:19	Makoto	With Kanroji?	00:13:19;
+
+[PlayVoice]=00:12:19	Voice03/03-BK/03-BK-F02/03-BK-F02-0070	1	mak	00:13:19;
+
+[PrintText]=00:13:21	Sekai	I was thinking of picking one together with Nanami.	00:16:17;
+
+[PlayVoice]=00:13:21	Voice03/03-BK/03-BK-F02/03-BK-F02-0080	0	sek	00:16:17;
+
+[CreateBG]=00:16:17	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-004	00:24:06;
+
+[PrintText]=00:16:17	Makoto	That's unusual.	00:18:00;
+
+[PlayVoice]=00:16:17	Voice03/03-BK/03-BK-F02/03-BK-F02-0090	1	mak	00:18:00;
+
+[PrintText]=00:17:21	Sekai	You think so?	00:19:06;
+
+[PlayVoice]=00:17:21	Voice03/03-BK/03-BK-F02/03-BK-F02-0100	0	sek	00:19:06;
+
+[PrintText]=00:19:05	Makoto	You usually ask Kioura about stuff like this.	00:24:08;
+
+[PlayVoice]=00:19:05	Voice03/03-BK/03-BK-F02/03-BK-F02-0110	1	mak	00:24:08;
+
+[CreateBG]=00:24:06	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-005	00:27:10;
+
+[PrintText]=00:24:06	Sekai	Setsuna's busy with student rep stuff today.	00:27:13;
+
+[PlayVoice]=00:24:06	Voice03/03-BK/03-BK-F02/03-BK-F02-0120	0	sek	00:27:13;
+
+[CreateBG]=00:27:10	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-006	00:32:13;
+
+[PrintText]=00:27:10	Makoto	Come to think of it, I guess they'd be flat out on cleaning up day...	00:32:08;
+
+[PlayVoice]=00:27:10	Voice03/03-BK/03-BK-F02/03-BK-F02-0130	1	mak	00:32:08;
+
+[CreateBG]=00:32:13	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-007	00:38:14;
+
+[PrintText]=00:32:14	Sekai	Besides, Nanami's got a boyfriend, so I was thinking I'd be able to ask her about the most effective way.	00:38:22;
+
+[PlayVoice]=00:32:14	Voice03/03-BK/03-BK-F02/03-BK-F02-0140	0	sek	00:38:22;
+
+[CreateBG]=00:38:14	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-008	00:39:16;
+
+[PrintText]=00:38:14	Makoto	Eh? What did you say?	00:40:06;
+
+[PlayVoice]=00:38:14	Voice03/03-BK/03-BK-F02/03-BK-F02-0150	1	mak	00:40:06;
+
+[CreateBG]=00:39:16	BGS	Event03/03-BK/03-BK-F02/03-BK-F02-009	00:42:04;
+
+[PrintText]=00:39:16	Sekai	Wawah! Nothing.	00:42:00;
+
+[PlayVoice]=00:39:16	Voice03/03-BK/03-BK-F02/03-BK-F02-0160	0	sek	00:42:00;
+
+ ;
+
+[Next]=00:42:04;
+

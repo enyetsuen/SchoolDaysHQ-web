@@ -1,0 +1,154 @@
+[SkipFRAME]=01:34:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	01:34:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-001	00:03:06;
+
+[PrintText]=00:00:00	Kotonoha	I'm home.	00:01:02;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-G00/03-BK-G00-0050	0	kot	00:01:02;
+
+[PrintText]=00:01:02	Kotonoha's Mother	Welcome home.	00:02:08;
+
+[PlayVoice]=00:01:02	Voice03/03-BK/03-BK-G00/03-BK-G00-0060	0	man	00:02:08;
+
+[PrintText]=00:02:08	Kotonoha	Eh?!	00:03:06;
+
+[PlayVoice]=00:02:08	Voice03/03-BK/03-BK-G00/03-BK-G00-0070	0	kot	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-002	00:12:09;
+
+[PrintText]=00:03:06	Kotonoha	Mom! You're home?	00:05:23;
+
+[PlayVoice]=00:03:06	Voice03/03-BK/03-BK-G00/03-BK-G00-0090	0	kot	00:05:23;
+
+[PrintText]=00:05:19	Kotonoha's Mother	I came back this morning. I've got to get over the jet lag, and I've got time today, so I made an extra effort to get up.	00:12:11;
+
+[PlayVoice]=00:05:19	Voice03/03-BK/03-BK-G00/03-BK-G00-0100	0	man	00:12:11;
+
+[CreateBG]=00:12:09	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-003	00:16:16;
+
+[PrintText]=00:12:09	Kotonoha	Thank goodness...	00:14:21;
+
+[PlayVoice]=00:12:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0110	0	kot	00:14:21;
+
+[PrintText]=00:14:10	Kotonoha's Mother	Oh? What's the matter?	00:16:20;
+
+[PlayVoice]=00:14:10	Voice03/03-BK/03-BK-G00/03-BK-G00-0120	0	man	00:16:20;
+
+[CreateBG]=00:16:16	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-004	00:23:22;
+
+[PrintText]=00:16:16	Kotonoha	My swimsuit! Where did we put that swimsuit I wore when we went to Nice in the summer?	00:22:07;
+
+[PlayVoice]=00:16:16	Voice03/03-BK/03-BK-G00/03-BK-G00-0130	0	kot	00:22:07;
+
+[PrintText]=00:22:04	Kotonoha's Mother	Swimsuit?	00:23:07;
+
+[PlayVoice]=00:22:04	Voice03/03-BK/03-BK-G00/03-BK-G00-0150	0	man	00:23:07;
+
+[PrintText]=00:23:04	Kotonoha	Uh-huh!	00:23:21;
+
+[PlayVoice]=00:23:04	Voice03/03-BK/03-BK-G00/03-BK-G00-0160	0	kot	00:23:21;
+
+[CreateBG]=00:23:22	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-005	00:33:12;
+
+[PrintText]=00:23:23	Kotonoha's Mother	We left all the swimsuits we bought over there at our holiday house in Castiglioncello.	00:29:12;
+
+[PlayVoice]=00:23:23	Voice03/03-BK/03-BK-G00/03-BK-G00-0170	0	man	00:29:12;
+
+[PrintText]=00:29:09	Kotonoha	Ah...	00:30:10;
+
+[PlayVoice]=00:29:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0190	0	kot	00:30:10;
+
+[PrintText]=00:30:09	Kotonoha's Mother	What's the matter? Why do you need a swimsuit?	00:33:09;
+
+[PlayVoice]=00:30:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0200	0	man	00:33:09;
+
+[CreateBG]=00:33:12	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-006	00:37:11;
+
+[PrintText]=00:33:13	Kotonoha	U-um... because I'll be going to the pool.	00:37:13;
+
+[PlayVoice]=00:33:13	Voice03/03-BK/03-BK-G00/03-BK-G00-0210	0	kot	00:37:13;
+
+[CreateBG]=00:37:11	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-005	00:38:17;
+
+[PrintText]=00:37:11	Kotonoha's Mother	Together with your boyfriend?	00:39:00;
+
+[PlayVoice]=00:37:11	Voice03/03-BK/03-BK-G00/03-BK-G00-0220	0	man	00:39:00;
+
+[CreateBG]=00:38:17	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-006	00:57:17;
+
+[PrintText]=00:38:17	Kotonoha	No! With my friends! ...But Makoto-kun is coming too.	00:45:18;
+
+[PlayVoice]=00:38:17	Voice03/03-BK/03-BK-G00/03-BK-G00-0230	0	kot	00:45:18;
+
+[PrintText]=00:45:09	Kotonoha's Mother	Ahh... and so you'll need a swimsuit that'll really catch his eye.	00:51:17;
+
+[PlayVoice]=00:45:09	Voice03/03-BK/03-BK-G00/03-BK-G00-0240	0	man	00:51:17;
+
+[PrintText]=00:51:14	Kotonoha	Ooh... I'm not telling you any more.	00:53:19;
+
+[PlayVoice]=00:51:14	Voice03/03-BK/03-BK-G00/03-BK-G00-0250	0	kot	00:53:19;
+
+[PrintText]=00:53:18	Kotonoha's Mother	Take a look in that paper bag on the table.	00:57:02;
+
+[PlayVoice]=00:53:18	Voice03/03-BK/03-BK-G00/03-BK-G00-0260	0	man	00:57:02;
+
+[PrintText]=00:57:01	Kotonoha	Eh?!	00:57:14;
+
+[PlayVoice]=00:57:01	Voice03/03-BK/03-BK-G00/03-BK-G00-0270	0	kot	00:57:14;
+
+[CreateBG]=00:57:17	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-009	01:04:15;
+
+[PrintText]=00:57:17	Kotonoha's Mother	Oh, how strange. It just so happens that there's a swimsuit there among the souvenirs... here!	01:04:19;
+
+[PlayVoice]=00:57:17	Voice03/03-BK/03-BK-G00/03-BK-G00-0290	0	man	01:04:19;
+
+[CreateBG]=01:04:15	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-002	01:12:04;
+
+[PrintText]=01:04:15	Kotonoha	Ehh?! That's amazing!	01:07:06;
+
+[PlayVoice]=01:04:15	Voice03/03-BK/03-BK-G00/03-BK-G00-0300	0	kot	01:07:06;
+
+[PrintText]=01:06:02	Kotonoha's Mother	Isn't it?	01:08:08;
+
+[PlayVoice]=01:06:02	Voice03/03-BK/03-BK-G00/03-BK-G00-0310	0	man	01:08:08;
+
+[PrintText]=01:08:07	Kotonoha	How did you know? We only decided to go to the pool today.	01:12:05;
+
+[PlayVoice]=01:08:07	Voice03/03-BK/03-BK-G00/03-BK-G00-0320	0	kot	01:12:05;
+
+[CreateBG]=01:12:04	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-003	01:21:18;
+
+[PrintText]=01:12:04	Kotonoha's Mother	Well, the truth is, I bought them thinking we'd go to Australia for the winter holidays.	01:18:03;
+
+[PlayVoice]=01:12:04	Voice03/03-BK/03-BK-G00/03-BK-G00-0330	0	man	01:18:03;
+
+[PrintText]=01:18:03	Kotonoha's Mother	That's why there's one for Kokoro as well.	01:21:16;
+
+[PlayVoice]=01:18:03	Voice03/03-BK/03-BK-G00/03-BK-G00-0331	0	man	01:21:16;
+
+[CreateBG]=01:21:18	BGS	Event03/03-BK/03-BK-G00/03-BK-G00-004	01:34:13;
+
+[PrintText]=01:21:20	Kotonoha	I see... I sure am lucky.	01:26:14;
+
+[PlayVoice]=01:21:20	Voice03/03-BK/03-BK-G00/03-BK-G00-0340	0	kot	01:26:14;
+
+[PrintText]=01:26:16	Kotonoha's Mother	You'd better be grateful for your mother's love.	01:28:20;
+
+[PlayVoice]=01:26:16	Voice03/03-BK/03-BK-G00/03-BK-G00-0350	0	man	01:28:20;
+
+[PrintText]=01:28:16	Kotonoha	Oh, I am... thanks, Mom.	01:32:14;
+
+[PlayVoice]=01:28:16	Voice03/03-BK/03-BK-G00/03-BK-G00-0360	0	kot	01:32:14;
+
+[PrintText]=01:32:11	Kotonoha's Mother	Ufufu...	01:33:07;
+
+[PlayVoice]=01:32:11	Voice03/03-BK/03-BK-G00/03-BK-G00-0370	0	man	01:33:07;
+
+[BlackFade]=01:33:13	OUT	01:34:13;
+
+ ;
+
+[Next]=01:34:13;
+

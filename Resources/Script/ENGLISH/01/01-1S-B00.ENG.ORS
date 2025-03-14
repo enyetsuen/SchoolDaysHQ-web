@@ -1,0 +1,186 @@
+[SkipFRAME]=02:17:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	02:17:14;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-B00/SE01-1S-B00-001	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-001	00:01:10;
+
+[PrintText]=00:00:00	Makoto	Let's eat.	00:01:09;
+
+[PlayVoice]=00:00:00	Voice01/01-1S/01-1S-B00/01-1S-B00-0040	1	mak	00:01:09;
+
+[CreateBG]=00:01:10	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	00:07:04;
+
+[PrintText]=00:01:10	Kotonoha	Ah, what about Saionji-san?	00:03:20;
+
+[PlayVoice]=00:01:10	Voice01/01-1S/01-1S-B00/01-1S-B00-0050	0	kot	00:03:20;
+
+[PrintText]=00:03:20	Makoto	I invited her, but she said she'd pass.	00:06:19;
+
+[PlayVoice]=00:03:20	Voice01/01-1S/01-1S-B00/01-1S-B00-0060	1	mak	00:06:19;
+
+[PrintText]=00:06:10	Kotonoha	Eh...?	00:07:02;
+
+[PlayVoice]=00:06:10	Voice01/01-1S/01-1S-B00/01-1S-B00-0070	0	kot	00:07:02;
+
+[CreateBG]=00:07:04	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-003	00:15:15;
+
+[PrintText]=00:07:12	Makoto	Oh, she's not doing it because of us. She said she's been eating with us all the time lately,	00:13:07;
+
+[PlayVoice]=00:07:12	Voice01/01-1S/01-1S-B00/01-1S-B00-0080	1	mak	00:15:15;
+
+[PrintText]=00:13:07	Makoto	so she was going to restore her friendship with Kioura and the others.	00:15:15;
+
+[CreateBG]=00:15:15	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-004	00:23:09;
+
+[PrintText]=00:15:15	Kotonoha	Kioura-san and the others?	00:17:07;
+
+[PlayVoice]=00:15:15	Voice01/01-1S/01-1S-B00/01-1S-B00-0090	0	kot	00:17:07;
+
+[PrintText]=00:17:07	Makoto	Yeah. She was like, 'I'll be back once I've had enough of friendship, so you'd better be ready.'	00:22:07;
+
+[PlayVoice]=00:17:07	Voice01/01-1S/01-1S-B00/01-1S-B00-0100	1	mak	00:22:07;
+
+[PrintText]=00:22:08	Kotonoha	Haah...	00:23:08;
+
+[PlayVoice]=00:22:08	Voice01/01-1S/01-1S-B00/01-1S-B00-0110	0	kot	00:23:08;
+
+[PrintText]=00:23:08	Makoto	I know how she must feel. She hangs around us so much that Kioura's group might be getting the wrong idea.	00:31:05;
+
+[PlayVoice]=00:23:08	Voice01/01-1S/01-1S-B00/01-1S-B00-0120	1	mak	00:31:05;
+
+[CreateBG]=00:23:09	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-005	00:31:05;
+
+[CreateBG]=00:31:05	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-006	00:42:14;
+
+[PrintText]=00:31:05	Kotonoha	Kioura-san is the student rep from class 3, isn't she?	00:34:22;
+
+[PlayVoice]=00:31:05	Voice01/01-1S/01-1S-B00/01-1S-B00-0130	0	kot	00:34:22;
+
+[PrintText]=00:34:23	Makoto	Yeah. I hear that she and Sekai have been\nfriends ever since they were little.	00:41:09;
+
+[PlayVoice]=00:34:23	Voice01/01-1S/01-1S-B00/01-1S-B00-0140	1	mak	00:41:09;
+
+[PrintText]=00:41:09	Kotonoha	Wow.	00:42:13;
+
+[PlayVoice]=00:41:09	Voice01/01-1S/01-1S-B00/01-1S-B00-0150	0	kot	00:42:13;
+
+[PrintText]=00:42:13	Makoto	She only got to know Kanroji and Kuroda once she started school here,	00:46:01;
+
+[PlayVoice]=00:42:13	Voice01/01-1S/01-1S-B00/01-1S-B00-0160	1	mak	00:49:18;
+
+[CreateBG]=00:42:14	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-007	00:49:19;
+
+[PrintText]=00:46:01	Makoto	but they're so close now that you'd think they've always gone to the same school.	00:49:18;
+
+[CreateBG]=00:49:19	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-008	01:04:10;
+
+[PrintText]=00:49:19	Kotonoha	Do you have any friends from your previous school?	00:54:11;
+
+[PlayVoice]=00:49:19	Voice01/01-1S/01-1S-B00/01-1S-B00-0170	0	kot	00:54:11;
+
+[PrintText]=00:54:11	Makoto	Well, there aren't many people here from my old school, really... when it comes down to it, I guess it's just Katou.	01:03:06;
+
+[PlayVoice]=00:54:11	Voice01/01-1S/01-1S-B00/01-1S-B00-0180	1	mak	01:03:06;
+
+[PrintText]=01:03:06	Kotonoha	Katou-san?	01:04:09;
+
+[PlayVoice]=01:03:06	Voice01/01-1S/01-1S-B00/01-1S-B00-0190	0	kot	01:04:09;
+
+[PrintText]=01:04:09	Makoto	You know, Katou from your class.	01:07:12;
+
+[PlayVoice]=01:04:09	Voice01/01-1S/01-1S-B00/01-1S-B00-0200	1	mak	01:07:12;
+
+[CreateBG]=01:04:10	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-009	01:27:02;
+
+[PrintText]=01:08:00	Makoto	We're not exactly friends, but I guess you could say we're inseparable, since we've always gone to the same schools.	01:15:02;
+
+[PlayVoice]=01:08:00	Voice01/01-1S/01-1S-B00/01-1S-B00-0201	1	mak	01:15:02;
+
+[PlaySe]=01:09:05	2	Se01/01-1S/01-1S-B00/SE01-1S-B00-001	02:17:14;
+
+[PrintText]=01:14:22	Kotonoha	Really?	01:16:10;
+
+[PlayVoice]=01:14:22	Voice01/01-1S/01-1S-B00/01-1S-B00-0210	0	kot	01:16:10;
+
+[PrintText]=01:16:17	Makoto	Still... it's not a nice way to put it, but she's more like a bad influence than a friend.	01:24:02;
+
+[PlayVoice]=01:16:17	Voice01/01-1S/01-1S-B00/01-1S-B00-0220	1	mak	01:24:02;
+
+[PrintText]=01:24:00	Kotonoha	A bad influence?	01:25:14;
+
+[PlayVoice]=01:24:00	Voice01/01-1S/01-1S-B00/01-1S-B00-0230	0	kot	01:25:14;
+
+[PrintText]=01:25:22	Makoto	What about you? Is there anyone here from your old school?	01:29:11;
+
+[PlayVoice]=01:25:22	Voice01/01-1S/01-1S-B00/01-1S-B00-0240	1	mak	01:29:11;
+
+[CreateBG]=01:27:02	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-010	01:50:18;
+
+[PrintText]=01:29:12	Kotonoha	Ah... there aren't many from my school either.	01:37:22;
+
+[PlayVoice]=01:29:12	Voice01/01-1S/01-1S-B00/01-1S-B00-0250	0	kot	01:37:22;
+
+[PrintText]=01:37:22	Kotonoha	Saionji-san's friend Kanroji-san is from my school, but she was accepted on a sports scholarship.	01:40:23;
+
+[PlayVoice]=01:37:22	Voice01/01-1S/01-1S-B00/01-1S-B00-0251	0	kot	01:40:23;
+
+[PrintText]=01:41:01	Makoto	I see.	01:42:05;
+
+[PlayVoice]=01:41:01	Voice01/01-1S/01-1S-B00/01-1S-B00-0260	1	mak	01:42:05;
+
+[PrintText]=01:42:18	Kotonoha	I was always in the library reading, so I didn't have much contact with the people from the sports clubs.	01:50:17;
+
+[PlayVoice]=01:42:18	Voice01/01-1S/01-1S-B00/01-1S-B00-0270	0	kot	01:50:17;
+
+[CreateBG]=01:50:18	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-002	02:01:19;
+
+[PrintText]=01:50:18	Makoto	Hmm... ah, what kind of books do you read?	01:56:03;
+
+[PlayVoice]=01:50:18	Voice01/01-1S/01-1S-B00/01-1S-B00-0280	1	mak	01:56:03;
+
+[PrintText]=01:55:03	Kotonoha	Eh? Ah... um...	02:00:11;
+
+[PlayVoice]=01:55:03	Voice01/01-1S/01-1S-B00/01-1S-B00-0290	0	kot	02:00:11;
+
+[PrintText]=02:00:11	Makoto	Difficult books?	02:01:20;
+
+[PlayVoice]=02:00:11	Voice01/01-1S/01-1S-B00/01-1S-B00-0300	1	mak	02:01:20;
+
+[CreateBG]=02:01:19	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-007	02:05:21;
+
+[PrintText]=02:01:19	Kotonoha	Not at all. Things like fantasy...	02:05:16;
+
+[PlayVoice]=02:01:19	Voice01/01-1S/01-1S-B00/01-1S-B00-0310	0	kot	02:05:16;
+
+[CreateBG]=02:05:21	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-013	02:08:16;
+
+[PrintText]=02:05:21	Makoto	With swords and dragons and stuff?	02:08:18;
+
+[PlayVoice]=02:05:21	Voice01/01-1S/01-1S-B00/01-1S-B00-0320	1	mak	02:08:18;
+
+[CreateBG]=02:08:16	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-014	02:10:11;
+
+[PrintText]=02:08:16	Kotonoha	Some are like that.	02:10:12;
+
+[PlayVoice]=02:08:16	Voice01/01-1S/01-1S-B00/01-1S-B00-0330	0	kot	02:10:12;
+
+[CreateBG]=02:10:11	BGS	Event01/01-1S/01-1S-B00/01-1S-B00-015	02:17:18;
+
+[PrintText]=02:10:11	Makoto	Ah.	02:11:01;
+
+[PlayVoice]=02:10:11	Voice01/01-1S/01-1S-B00/01-1S-B00-0340	1	mak	02:11:01;
+
+[PrintText]=02:11:08	Kotonoha	What's wrong?	02:12:16;
+
+[PlayVoice]=02:11:08	Voice01/01-1S/01-1S-B00/01-1S-B00-0350	0	kot	02:12:16;
+
+[PrintText]=02:12:15	Makoto	Come to think of it, there's a film like that coming out soon...	02:16:14;
+
+[PlayVoice]=02:12:15	Voice01/01-1S/01-1S-B00/01-1S-B00-0360	1	mak	02:16:14;
+
+ ;
+
+[Next]=02:17:18;
+

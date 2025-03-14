@@ -1,0 +1,156 @@
+[SkipFRAME]=01:28:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm17	01:28:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-001	00:04:01;
+
+[PrintText]=00:00:00	Makoto	...	00:01:10;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-A08/03-KA-A08-0030	1	xxx	00:01:10;
+
+[PrintText]=00:01:07	Kokoro	What's wrong? Can't decide?	00:04:02;
+
+[PlayVoice]=00:01:07	Voice03/03-KA/03-KA-A08/03-KA-A08-0040	0	kok	00:04:02;
+
+[CreateBG]=00:04:01	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-002	00:19:11;
+
+[PrintText]=00:04:09	Makoto	W-well, it's not like that...	00:06:22;
+
+[PlayVoice]=00:04:09	Voice03/03-KA/03-KA-A08/03-KA-A08-0050	1	mak	00:06:22;
+
+[PrintText]=00:06:19	Kokoro	Ahh! He can't decide! Onee-chan, this guy is indecisive.	00:12:05;
+
+[PlayVoice]=00:06:19	Voice03/03-KA/03-KA-A08/03-KA-A08-0060	0	kok	00:12:05;
+
+[PrintText]=00:12:03	Makoto	W-what?! I'm...	00:14:13;
+
+[PlayVoice]=00:12:03	Voice03/03-KA/03-KA-A08/03-KA-A08-0070	1	mak	00:14:13;
+
+[PrintText]=00:14:13	Kokoro	Ahh! Now I'm annoyed. I knew it. He's naturally indecisive.	00:19:17;
+
+[PlayVoice]=00:14:13	Voice03/03-KA/03-KA-A08/03-KA-A08-0080	0	kok	00:19:17;
+
+[CreateBG]=00:19:11	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-003	00:20:22;
+
+[PrintText]=00:19:11	Makoto	That's not it.	00:20:23;
+
+[PlayVoice]=00:19:11	Voice03/03-KA/03-KA-A08/03-KA-A08-0090	1	mak	00:20:23;
+
+[CreateBG]=00:20:22	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-004	00:25:02;
+
+[PrintText]=00:20:22	Kokoro	Must be tough having such an indecisive boyfriend, onee-chan.	00:25:06;
+
+[PlayVoice]=00:20:22	Voice03/03-KA/03-KA-A08/03-KA-A08-0100	0	kok	00:25:06;
+
+[CreateBG]=00:25:02	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-005	00:28:02;
+
+[PrintText]=00:25:02	Kotonoha	We're okay now. You can go back downstairs.	00:28:06;
+
+[PlayVoice]=00:25:02	Voice03/03-KA/03-KA-A08/03-KA-A08-0110	0	kot	00:28:06;
+
+[CreateBG]=00:28:02	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-003	00:33:13;
+
+[PrintText]=00:28:02	Kokoro	No way! If I go back, I won't get my allowance.	00:32:01;
+
+[PlayVoice]=00:28:02	Voice03/03-KA/03-KA-A08/03-KA-A08-0120	0	kok	00:32:01;
+
+[PrintText]=00:31:23	Kotonoha	Allowance?	00:33:07;
+
+[PlayVoice]=00:31:23	Voice03/03-KA/03-KA-A08/03-KA-A08-0130	0	kot	00:33:07;
+
+[CreateBG]=00:33:13	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-007	00:45:14;
+
+[PrintText]=00:33:15	Kokoro	Uh-oh.	00:34:14;
+
+[PlayVoice]=00:33:15	Voice03/03-KA/03-KA-A08/03-KA-A08-0140	0	kok	00:34:14;
+
+[PrintText]=00:34:12	Kotonoha	Dad?	00:35:19;
+
+[PlayVoice]=00:34:12	Voice03/03-KA/03-KA-A08/03-KA-A08-0150	0	kot	00:35:19;
+
+[PrintText]=00:35:22	Kokoro	...	00:36:15;
+
+[PlayVoice]=00:35:22	Voice03/03-KA/03-KA-A08/03-KA-A08-0160	0	xxx	00:36:15;
+
+[PrintText]=00:36:17	Kotonoha	Kokoro! Tell me the truth!	00:39:01;
+
+[PlayVoice]=00:36:17	Voice03/03-KA/03-KA-A08/03-KA-A08-0170	0	kot	00:39:01;
+
+[PrintText]=00:39:01	Kokoro	...Yeah. Dad said to stick with you and make sure nothing funny happens.	00:45:17;
+
+[PlayVoice]=00:39:01	Voice03/03-KA/03-KA-A08/03-KA-A08-0180	0	kok	00:45:17;
+
+[CreateBG]=00:45:14	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-008	00:52:00;
+
+[PrintText]=00:45:14	Kotonoha	I knew it...	00:47:02;
+
+[PlayVoice]=00:45:14	Voice03/03-KA/03-KA-A08/03-KA-A08-0190	0	kot	00:47:02;
+
+[PrintText]=00:47:04	Kokoro	If I do a good job of watching you, he'll give me an allowance.	00:50:08;
+
+[PlayVoice]=00:47:04	Voice03/03-KA/03-KA-A08/03-KA-A08-0200	0	kok	00:50:08;
+
+[PrintText]=00:50:06	Kotonoha	Dad...	00:51:22;
+
+[PlayVoice]=00:50:06	Voice03/03-KA/03-KA-A08/03-KA-A08-0210	0	kot	00:51:22;
+
+[CreateBG]=00:52:00	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-009	01:07:03;
+
+[PrintText]=00:52:02	Makoto	Well, that's okay. Let's all play together, then.	00:55:10;
+
+[PlayVoice]=00:52:02	Voice03/03-KA/03-KA-A08/03-KA-A08-0230	1	mak	00:55:10;
+
+[PrintText]=00:55:12	Kotonoha	Makoto-kun.	00:56:17;
+
+[PlayVoice]=00:55:12	Voice03/03-KA/03-KA-A08/03-KA-A08-0240	0	kot	00:56:17;
+
+[PrintText]=00:56:17	Makoto	It's only natural for your dad to worry, right?	00:59:13;
+
+[PlayVoice]=00:56:17	Voice03/03-KA/03-KA-A08/03-KA-A08-0250	1	mak	00:59:13;
+
+[PrintText]=00:59:20	Makoto	He doesn't know what sort of guy I am,	01:05:06;
+
+[PlayVoice]=00:59:20	Voice03/03-KA/03-KA-A08/03-KA-A08-0251	1	mak	01:07:03;
+
+[PrintText]=01:05:06	Makoto	and when he heard the two of us would be spending time alone, he probably couldn't help himself.	01:07:03;
+
+[CreateBG]=01:07:03	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-010	01:08:05;
+
+[PrintText]=01:07:03	Kotonoha	But...	01:08:09;
+
+[PlayVoice]=01:07:03	Voice03/03-KA/03-KA-A08/03-KA-A08-0260	0	kot	01:08:09;
+
+[PrintText]=01:08:02	Makoto	I don't want your family to hate me... and besides...	01:12:05;
+
+[PlayVoice]=01:08:02	Voice03/03-KA/03-KA-A08/03-KA-A08-0270	1	mak	01:12:05;
+
+[CreateBG]=01:08:05	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-011	01:12:10;
+
+[CreateBG]=01:12:10	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-010	01:13:18;
+
+[PrintText]=01:12:14	Kotonoha	Besides?	01:13:14;
+
+[PlayVoice]=01:12:14	Voice03/03-KA/03-KA-A08/03-KA-A08-0280	0	kot	01:13:14;
+
+[CreateBG]=01:13:18	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-013	01:21:00;
+
+[PrintText]=01:13:20	Makoto	It looks like it'll be fun to hear from Kokoro-chan about her sister. Tell me all about her, Kokoro-chan.	01:21:02;
+
+[PlayVoice]=01:13:20	Voice03/03-KA/03-KA-A08/03-KA-A08-0290	1	mak	01:21:02;
+
+[CreateBG]=01:21:00	BGS	Event03/03-KA/03-KA-A08/03-KA-A08-014	01:28:18;
+
+[PrintText]=01:21:00	Kokoro	Okay! Well, when onee-chan was in primary school, there was this time at the pool...	01:25:06;
+
+[PlayVoice]=01:21:00	Voice03/03-KA/03-KA-A08/03-KA-A08-0300	0	kok	01:25:06;
+
+[PrintText]=01:24:13	Kotonoha	Wah! W-wah! S-stop it, Kokoro!	01:27:21;
+
+[PlayVoice]=01:24:13	Voice03/03-KA/03-KA-A08/03-KA-A08-0310	0	kot	01:27:21;
+
+[BlackFade]=01:27:18	OUT	01:28:18;
+
+ ;
+
+[Next]=01:28:18;
+

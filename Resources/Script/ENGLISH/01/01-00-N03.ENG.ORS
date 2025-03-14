@@ -1,0 +1,18 @@
+[SkipFRAME]=00:12:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:12:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-N03/01-00-N03-001	00:12:10;
+
+[PrintText]=00:00:14	Makoto	I like Katsura... don't I? I...	00:05:09;
+
+[PlayVoice]=00:00:14	Voice01/01-00/01-00-N03/01-00-N03-0030	1	mak	00:05:09;
+
+[PrintText]=00:06:05	Makoto	I like her, so... I've got to do something...	00:11:20;
+
+[PlayVoice]=00:06:05	Voice01/01-00/01-00-N03/01-00-N03-0040	1	mak	00:11:20;
+
+ ;
+
+[Next]=00:12:10;
+

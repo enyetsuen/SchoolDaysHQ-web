@@ -1,0 +1,42 @@
+[SkipFRAME]=00:21:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:21:04;
+
+[PlaySe]=00:00:00	2	Voice01/01-00/01-00-R00/01-00-R00-0057	00:09:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-R10/01-00-R10-001	00:01:12;
+
+[CreateBG]=00:01:12	BGS	Event01/01-00/01-00-R10/01-00-R10-002	00:05:03;
+
+[PrintText]=00:01:12	Sekai	"Katsura-san is a shy girl, so you've got to lead her out of her shell!"	00:03:00;
+
+[PrintText]=00:03:00	Sekai&Makoto	"Katsura-san is a shy girl, so you've got to lead her out of her shell!"\nMakoto: You've got to be kidding...	00:05:03;
+
+[PlayVoice]=00:03:00	Voice01/01-00/01-00-R10/01-00-R10-0040	1	mak	00:04:22;
+
+[CreateBG]=00:05:03	BGS	Event01/01-00/01-00-R10/01-00-R10-003	00:07:12;
+
+[PrintText]=00:05:03	Makoto	"It's no big deal."	00:07:12;
+
+[CreateBG]=00:07:12	BGS	Event01/01-00/01-00-R10/01-00-R10-004	00:10:01;
+
+[PrintText]=00:07:12	Sekai	"IT'S NOT RIGHT!"	00:10:00;
+
+[CreateBG]=00:10:01	BGS	Event01/01-00/01-00-R10/01-00-R10-005	00:12:12;
+
+[PlaySe]=00:10:13	3	Voice01/01-00/01-00-R00/01-00-R00-0058	00:20:00;
+
+[PlaySe]=00:10:18	1	Voice01/01-00/01-00-R10/01-00-R10-0040A	00:12:00;
+
+[CreateBG]=00:12:12	BGS	Event01/01-00/01-00-R10/01-00-R10-006	00:17:17;
+
+[PrintText]=00:12:12	Makoto	"I couldn't help it. It's more fun to talk to you.\nPS: I'll go and apologise to her later. Happy now?"	00:17:16;
+
+[CreateBG]=00:17:17	BGS	Event01/01-00/01-00-R10/01-00-R10-007	00:21:04;
+
+[BlackFade]=00:20:16	OUT	00:21:04;
+
+ ;
+
+[Next]=00:21:04;
+

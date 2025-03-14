@@ -1,0 +1,76 @@
+[SkipFRAME]=00:44:22;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:44:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-001	00:03:21;
+
+[PrintText]=00:00:10	Makoto	I'm pulling out.	00:01:22;
+
+[PlayVoice]=00:00:10	Voice04/04-SA/04-SA-H01/04-SA-H01-0030	1	mak	00:01:22;
+
+[PrintText]=00:01:23	Sekai	Eh?! You can't!	00:04:01;
+
+[PlayVoice]=00:01:23	Voice04/04-SA/04-SA-H01/04-SA-H01-0040	0	sek	00:04:01;
+
+[CreateBG]=00:03:21	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-002	00:15:08;
+
+[PrintText]=00:04:06	Makoto	It'll be fine. Things can still go on even if I'm not there, but you and Kuroda are essential, right?	00:09:19;
+
+[PlayVoice]=00:04:06	Voice04/04-SA/04-SA-H01/04-SA-H01-0050	1	mak	00:09:19;
+
+[PrintText]=00:09:18	Sekai	There's no need for me to go, either.	00:11:19;
+
+[PlayVoice]=00:09:18	Voice04/04-SA/04-SA-H01/04-SA-H01-0060	0	sek	00:11:19;
+
+[PrintText]=00:11:19	Makoto	If Kuroda runs into trouble, you're the only one who can help her.	00:15:13;
+
+[PlayVoice]=00:11:19	Voice04/04-SA/04-SA-H01/04-SA-H01-0070	1	mak	00:15:13;
+
+[CreateBG]=00:15:08	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-003	00:26:02;
+
+[PrintText]=00:15:17	Sekai	Well... it's true that you two don't really get along.	00:20:17;
+
+[PlayVoice]=00:15:17	Voice04/04-SA/04-SA-H01/04-SA-H01-0080	0	sek	00:20:17;
+
+[PrintText]=00:20:14	Makoto	It's more like we don't get along at all.	00:24:20;
+
+[PlayVoice]=00:20:14	Voice04/04-SA/04-SA-H01/04-SA-H01-0090	1	mak	00:24:20;
+
+[PrintText]=00:24:20	Sekai	Uuh...	00:26:01;
+
+[PlayVoice]=00:24:20	Voice04/04-SA/04-SA-H01/04-SA-H01-0100	0	sek	00:26:01;
+
+[CreateBG]=00:26:02	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-004	00:33:18;
+
+[PrintText]=00:26:13	Makoto	In exchange, just let me know the results.	00:29:16;
+
+[PlayVoice]=00:26:13	Voice04/04-SA/04-SA-H01/04-SA-H01-0110	1	mak	00:29:16;
+
+[PrintText]=00:29:17	Sekai	The results?	00:30:21;
+
+[PlayVoice]=00:29:17	Voice04/04-SA/04-SA-H01/04-SA-H01-0120	0	sek	00:30:21;
+
+[PrintText]=00:30:19	Makoto	Whether things go well for Taisuke and Kuroda.	00:33:22;
+
+[PlayVoice]=00:30:19	Voice04/04-SA/04-SA-H01/04-SA-H01-0130	1	mak	00:33:22;
+
+[CreateBG]=00:33:18	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-005	00:40:22;
+
+[PrintText]=00:33:23	Sekai	All right.	00:35:04;
+
+[PlayVoice]=00:33:23	Voice04/04-SA/04-SA-H01/04-SA-H01-0140	0	sek	00:35:04;
+
+[PrintText]=00:35:09	Makoto	Your role will be to keep Taisuke and that other girl apart, okay?	00:40:22;
+
+[PlayVoice]=00:35:09	Voice04/04-SA/04-SA-H01/04-SA-H01-0150	1	mak	00:40:22;
+
+[CreateBG]=00:40:22	BGS	Event04/04-SA/04-SA-H01/04-SA-H01-006	00:44:22;
+
+[PrintText]=00:41:13	Sekai	Okay.	00:42:17;
+
+[PlayVoice]=00:41:13	Voice04/04-SA/04-SA-H01/04-SA-H01-0160	0	sek	00:42:17;
+
+ ;
+
+[Next]=00:44:22;
+

@@ -1,0 +1,166 @@
+[SkipFRAME]=02:12:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm13	02:12:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-A00/04-KB-A00-001	00:28:15;
+
+[PrintText]=00:00:12	Kotonoha's Father	It's sure been a long time since we've had the family together like this.	00:04:11;
+
+[PlayVoice]=00:00:12	Voice04/04-KB/04-KB-A00/04-KB-A00-0070	1	tit	00:04:11;
+
+[PrintText]=00:04:06	Kotonoha's Mother	You just don't come home often enough.	00:07:00;
+
+[PlayVoice]=00:04:06	Voice04/04-KB/04-KB-A00/04-KB-A00-0080	0	man	00:07:00;
+
+[PrintText]=00:06:21	Kotonoha's Father	Wh... you know I can't help that. Property development is all about visiting this site and that...	00:13:19;
+
+[PlayVoice]=00:06:21	Voice04/04-KB/04-KB-A00/04-KB-A00-0090	1	tit	00:13:19;
+
+[PrintText]=00:12:22	Kotonoha's Mother	Yes, yes, and I'm always going overseas on business trips, so there's no helping it.	00:18:23;
+
+[PlayVoice]=00:12:22	Voice04/04-KB/04-KB-A00/04-KB-A00-0100	0	man	00:18:23;
+
+[PrintText]=00:18:18	Kotonoha's Father	Y-yes... well, in any case, as absent as we may be, our children are kind enough not to complain.	00:29:02;
+
+[PlayVoice]=00:18:18	Voice04/04-KB/04-KB-A00/04-KB-A00-0110	1	tit	00:29:02;
+
+[CreateBG]=00:28:15	BGS	Event04/04-KB/04-KB-A00/04-KB-A00-002	01:11:20;
+
+[PrintText]=00:28:15	Kotonoha's Mother	Yes, the two of them seem like they'd grow up just fine, even without us.	00:35:02;
+
+[PlayVoice]=00:28:15	Voice04/04-KB/04-KB-A00/04-KB-A00-0120	0	man	00:35:02;
+
+[PrintText]=00:35:01	Kotonoha's Father	Well, that's kind of sad in itself...	00:38:05;
+
+[PlayVoice]=00:35:01	Voice04/04-KB/04-KB-A00/04-KB-A00-0130	1	tit	00:38:05;
+
+[PrintText]=00:38:01	Kotonoha's Mother	Well, Kotonoha's at that age where she enjoys being with her boyfriend more than us.	00:43:08;
+
+[PlayVoice]=00:38:01	Voice04/04-KB/04-KB-A00/04-KB-A00-0140	0	man	00:43:08;
+
+[PrintText]=00:43:05	Kotonoha's Father	Hmn... that guy, huh.	00:46:01;
+
+[PlayVoice]=00:43:05	Voice04/04-KB/04-KB-A00/04-KB-A00-0150	1	tit	00:46:01;
+
+[PrintText]=00:45:15	Kotonoha's Mother	Kotonoha will start hating you if you call him 'that guy'.	00:49:13;
+
+[PlayVoice]=00:45:15	Voice04/04-KB/04-KB-A00/04-KB-A00-0160	0	man	00:49:13;
+
+[PrintText]=00:49:03	Kotonoha's Father	Guh...	00:50:01;
+
+[PlayVoice]=00:49:03	Voice04/04-KB/04-KB-A00/04-KB-A00-0170	1	tit	00:50:01;
+
+[PrintText]=00:50:05	Kotonoha's Mother	I'm sure Kokoro will find a boy like that too, soon enough.	00:54:23;
+
+[PlayVoice]=00:50:05	Voice04/04-KB/04-KB-A00/04-KB-A00-0180	0	man	00:54:23;
+
+[PrintText]=00:53:12	Kotonoha's Father	I-it's too early for Kokoro! Even Kotonoha is still too young to...	00:59:02;
+
+[PlayVoice]=00:53:12	Voice04/04-KB/04-KB-A00/04-KB-A00-0190	1	tit	00:59:02;
+
+[PrintText]=00:58:05	Kotonoha's Mother	Yes, yes.	00:59:10;
+
+[PlayVoice]=00:58:05	Voice04/04-KB/04-KB-A00/04-KB-A00-0200	0	man	00:59:10;
+
+[PrintText]=01:00:08	Kotonoha's Father	...Now then, dear.	01:03:05;
+
+[PlayVoice]=01:00:08	Voice04/04-KB/04-KB-A00/04-KB-A00-0220	1	tit	01:03:05;
+
+[PrintText]=01:03:01	Kotonoha's Mother	What is it?	01:05:06;
+
+[PlayVoice]=01:03:01	Voice04/04-KB/04-KB-A00/04-KB-A00-0230	0	man	01:05:06;
+
+[PrintText]=01:05:08	Kotonoha's Father	I believe that it is very important for a family to get along.	01:09:04;
+
+[PlayVoice]=01:05:08	Voice04/04-KB/04-KB-A00/04-KB-A00-0240	1	tit	01:09:04;
+
+[PrintText]=01:09:00	Kotonoha's Mother	Yes, you're right.	01:10:08;
+
+[PlayVoice]=01:09:00	Voice04/04-KB/04-KB-A00/04-KB-A00-0250	0	man	01:10:08;
+
+[PrintText]=01:10:14	Kotonoha's Father	I received these tickets to Aqua Square at Sakakino Hills from a business contact. Let's take the whole family and...	01:18:13;
+
+[PlayVoice]=01:10:14	Voice04/04-KB/04-KB-A00/04-KB-A00-0260	1	tit	01:18:13;
+
+[CreateBG]=01:11:20	BGS	Event04/04-KB/04-KB-A00/04-KB-A00-003	01:30:23;
+
+[PrintText]=01:17:13	Kotonoha's Mother	I'm not going.	01:19:05;
+
+[PlayVoice]=01:17:13	Voice04/04-KB/04-KB-A00/04-KB-A00-0270	0	man	01:19:05;
+
+[PrintText]=01:18:19	Kotonoha's Father	Gwah! W-why not...?	01:21:04;
+
+[PlayVoice]=01:18:19	Voice04/04-KB/04-KB-A00/04-KB-A00-0280	1	tit	01:21:04;
+
+[PrintText]=01:20:15	Kotonoha's Mother	I've made plans to be in Sydney for my next break.	01:24:10;
+
+[PlayVoice]=01:20:15	Voice04/04-KB/04-KB-A00/04-KB-A00-0290	0	man	01:24:10;
+
+[PrintText]=01:24:09	Kotonoha's Father	B-but... the pool is nice too, isn't it? The whole family together, having fun in nearby Sakakino-cho.	01:31:20;
+
+[PlayVoice]=01:24:09	Voice04/04-KB/04-KB-A00/04-KB-A00-0300	1	tit	01:31:20;
+
+[CreateBG]=01:30:23	BGS	Event04/04-KB/04-KB-A00/04-KB-A00-002	01:46:23;
+
+[PrintText]=01:30:23	Kotonoha's Mother	That won't do. There's a more effective way in which those tickets can be used.	01:36:04;
+
+[PlayVoice]=01:30:23	Voice04/04-KB/04-KB-A00/04-KB-A00-0310	0	man	01:36:04;
+
+[PrintText]=01:36:04	Kotonoha's Father	...A more effective way?	01:38:13;
+
+[PlayVoice]=01:36:04	Voice04/04-KB/04-KB-A00/04-KB-A00-0320	1	tit	01:38:13;
+
+[PrintText]=01:38:14	Kotonoha's Mother	A way which will earn a father the love and gratitude of his daughter.	01:43:05;
+
+[PlayVoice]=01:38:14	Voice04/04-KB/04-KB-A00/04-KB-A00-0330	0	man	01:43:05;
+
+[PrintText]=01:43:07	Kotonoha's Father	A... a way that I can...?	01:45:21;
+
+[PlayVoice]=01:43:07	Voice04/04-KB/04-KB-A00/04-KB-A00-0340	1	tit	01:45:21;
+
+[PrintText]=01:45:21	Kotonoha's Mother	Kotonoha!	01:47:02;
+
+[PlayVoice]=01:45:21	Voice04/04-KB/04-KB-A00/04-KB-A00-0350	0	man	01:47:02;
+
+[CreateBG]=01:46:23	BGS	Event04/04-KB/04-KB-A00/04-KB-A00-005	01:54:02;
+
+[PrintText]=01:46:23	Kotonoha	What is it, Mom?	01:48:22;
+
+[PlayVoice]=01:46:23	Voice04/04-KB/04-KB-A00/04-KB-A00-0360	0	kot	01:48:22;
+
+[PrintText]=01:49:03	Kotonoha's Mother	Your father has a present for you.	01:52:06;
+
+[PlayVoice]=01:49:03	Voice04/04-KB/04-KB-A00/04-KB-A00-0370	0	man	01:52:06;
+
+[PrintText]=01:52:02	Kotonoha	Eh?! What could it be?	01:54:04;
+
+[PlayVoice]=01:52:02	Voice04/04-KB/04-KB-A00/04-KB-A00-0380	0	kot	01:54:04;
+
+[CreateBG]=01:54:02	BGS	Event04/04-KB/04-KB-A00/04-KB-A00-006	02:05:11;
+
+[PrintText]=01:54:02	Kotonoha's Father	Ah! You don't mean...?	01:55:20;
+
+[PlayVoice]=01:54:02	Voice04/04-KB/04-KB-A00/04-KB-A00-0390	1	tit	01:55:20;
+
+[PrintText]=01:55:20	Kotonoha's Mother	If you take these and invite Makoto-kun, he'll like you more for sure.	02:00:11;
+
+[PlayVoice]=01:55:20	Voice04/04-KB/04-KB-A00/04-KB-A00-0400	0	man	02:00:11;
+
+[PrintText]=02:00:10	Kotonoha	Eh?! Eh?! What is it?	02:03:23;
+
+[PlayVoice]=02:00:10	Voice04/04-KB/04-KB-A00/04-KB-A00-0410	0	kot	02:03:23;
+
+[PrintText]=02:03:21	Kotonoha's Mother	Come on.	02:05:13;
+
+[PlayVoice]=02:03:21	Voice04/04-KB/04-KB-A00/04-KB-A00-0420	0	man	02:05:13;
+
+[CreateBG]=02:05:11	BGS	Event04/04-KB/04-KB-A00/04-KB-A00-003	02:12:16;
+
+[PrintText]=02:05:11	Kotonoha's Father	Guh... l-listen, Kotonoha... use these and take all of your friends to...	02:12:16;
+
+[PlayVoice]=02:05:11	Voice04/04-KB/04-KB-A00/04-KB-A00-0430	1	tit	02:12:16;
+
+ ;
+
+[Next]=02:12:16;
+

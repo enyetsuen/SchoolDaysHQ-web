@@ -1,0 +1,198 @@
+[SkipFRAME]=04:12:19;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-002	00:08:05;
+
+[PrintText]=00:03:01	Nanami	Hey, speaking of which, how are things going, Hikari?	00:05:23;
+
+[PlayVoice]=00:03:01	Voice04/04-KC/04-KC-O00/04-KC-O00-0050	0	nan	00:05:23;
+
+[PrintText]=00:06:00	Hikari	Things...? What do you mean?	00:08:04;
+
+[PlayVoice]=00:06:00	Voice04/04-KC/04-KC-O00/04-KC-O00-0060	0	hik	00:08:04;
+
+[PrintText]=00:08:03	Nanami	You know what I mean. That guy you're all lovey-dovey over!	00:13:03;
+
+[PlayVoice]=00:08:03	Voice04/04-KC/04-KC-O00/04-KC-O00-0070	0	nan	00:13:03;
+
+[CreateBG]=00:08:05	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-003	00:20:16;
+
+[PrintText]=00:13:02	Hikari	W-what?! What does it matter?!	00:16:15;
+
+[PlayVoice]=00:13:02	Voice04/04-KC/04-KC-O00/04-KC-O00-0080	0	hik	00:16:15;
+
+[PrintText]=00:16:15	Nanami	What? You mean there's been no progress?	00:19:13;
+
+[PlayVoice]=00:16:15	Voice04/04-KC/04-KC-O00/04-KC-O00-0090	0	nan	00:19:13;
+
+[PrintText]=00:19:14	Hikari	Shut up!	00:20:16;
+
+[PlayVoice]=00:19:14	Voice04/04-KC/04-KC-O00/04-KC-O00-0100	0	hik	00:20:16;
+
+[CreateBG]=00:20:16	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-004	00:34:01;
+
+[PrintText]=00:20:16	Nanami	You did that charm thing, didn't you? Didn't it work?	00:25:00;
+
+[PlayVoice]=00:20:16	Voice04/04-KC/04-KC-O00/04-KC-O00-0110	0	nan	00:25:00;
+
+[PrintText]=00:25:00	Hikari	Ah, the one where you put his picture on your phone? I've been doing that since junior high.	00:31:13;
+
+[PlayVoice]=00:25:00	Voice04/04-KC/04-KC-O00/04-KC-O00-0120	0	hik	00:31:13;
+
+[PrintText]=00:31:13	Nanami	Uwah, I see.	00:34:00;
+
+[PlayVoice]=00:31:13	Voice04/04-KC/04-KC-O00/04-KC-O00-0130	0	nan	00:34:00;
+
+[PrintText]=00:34:00	Hikari	He falls for every girl he sees, but never gives me a second look - even though we've been in the same class all this time.	00:43:13;
+
+[PlayVoice]=00:34:00	Voice04/04-KC/04-KC-O00/04-KC-O00-0140	0	hik	00:43:13;
+
+[CreateBG]=00:34:01	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-005	00:46:10;
+
+[PrintText]=00:43:13	Nanami	I see... so it didn't work after all.	00:46:10;
+
+[PlayVoice]=00:43:13	Voice04/04-KC/04-KC-O00/04-KC-O00-0150	0	nan	00:46:10;
+
+[CreateBG]=00:46:10	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-005A	00:50:09;
+
+[PrintText]=00:46:10	Hikari	I'm sure it doesn't!	00:48:23;
+
+[PlayVoice]=00:46:10	Voice04/04-KC/04-KC-O00/04-KC-O00-0160	0	hik	00:48:23;
+
+[PrintText]=00:48:23	Nanami	Ahaha.	00:50:09;
+
+[PlayVoice]=00:48:23	Voice04/04-KC/04-KC-O00/04-KC-O00-0170	0	nan	00:50:09;
+
+[CreateBG]=00:50:09	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-006	01:02:11;
+
+[PrintText]=00:50:09	Sekai	...It does.	00:52:03;
+
+[PlayVoice]=00:50:09	Voice04/04-KC/04-KC-O00/04-KC-O00-0180	0	sek	00:52:03;
+
+[PrintText]=00:52:03	Nanami	Eh?	00:52:20;
+
+[PlayVoice]=00:52:03	Voice04/04-KC/04-KC-O00/04-KC-O00-0190	0	nan	00:52:20;
+
+[PrintText]=00:52:20	Sekai	It works...	00:53:23;
+
+[PlayVoice]=00:52:20	Voice04/04-KC/04-KC-O00/04-KC-O00-0200	0	sek	00:53:23;
+
+[PrintText]=00:53:23	Hikari	Sekai... did you try it?	00:56:10;
+
+[PlayVoice]=00:53:23	Voice04/04-KC/04-KC-O00/04-KC-O00-0210	0	hik	00:56:10;
+
+[PrintText]=00:56:11	Sekai	Yep.	00:57:02;
+
+[PlayVoice]=00:56:11	Voice04/04-KC/04-KC-O00/04-KC-O00-0220	0	sek	00:57:02;
+
+[PrintText]=00:57:02	Nanami	I see.	00:58:10;
+
+[PlayVoice]=00:57:02	Voice04/04-KC/04-KC-O00/04-KC-O00-0230	0	nan	00:58:10;
+
+[PrintText]=00:58:10	Sekai	I was positive it wouldn't... but I think it just might.	01:02:11;
+
+[PlayVoice]=00:58:10	Voice04/04-KC/04-KC-O00/04-KC-O00-0240	0	sek	01:02:11;
+
+[CreateBG]=01:02:11	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-007	01:06:08;
+
+[PrintText]=01:02:11	Hikari	Just might...?	01:04:00;
+
+[PlayVoice]=01:02:11	Voice04/04-KC/04-KC-O00/04-KC-O00-0250	0	hik	01:04:00;
+
+[PrintText]=01:04:00	Nanami	You mean Itou...?	01:06:07;
+
+[PlayVoice]=01:04:00	Voice04/04-KC/04-KC-O00/04-KC-O00-0260	0	nan	01:06:07;
+
+[CreateBG]=01:06:08	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-008	01:06:23;
+
+[PrintText]=01:06:08	Sekai	Uh-huh.	01:06:22;
+
+[PlayVoice]=01:06:08	Voice04/04-KC/04-KC-O00/04-KC-O00-0270	0	sek	01:06:22;
+
+[PrintText]=01:06:22	Hikari	Ehh? Itou? And just when I'd been hearing rumors that you and he broke up...	01:14:13;
+
+[PlayVoice]=01:06:22	Voice04/04-KC/04-KC-O00/04-KC-O00-0280	0	hik	01:14:13;
+
+[CreateBG]=01:06:23	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-009	01:17:07;
+
+[PrintText]=01:14:13	Nanami	Keep quiet, Hikari.	01:15:21;
+
+[PlayVoice]=01:14:13	Voice04/04-KC/04-KC-O00/04-KC-O00-0290	0	nan	01:15:21;
+
+[PrintText]=01:15:21	Hikari	Uuu...	01:17:06;
+
+[PlayVoice]=01:15:21	Voice04/04-KC/04-KC-O00/04-KC-O00-0300	0	hik	01:17:06;
+
+[CreateBG]=01:17:07	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-010	01:27:07;
+
+[PrintText]=01:17:07	Sekai	Makoto... thinks he likes Katsura-san, so he can't give her up... that's what he's been telling himself all this time.	01:27:07;
+
+[PlayVoice]=01:17:07	Voice04/04-KC/04-KC-O00/04-KC-O00-0310	0	sek	01:27:07;
+
+[CreateBG]=01:27:07	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-011	01:32:11;
+
+[PrintText]=01:27:07	Nanami	Ehh!? Katsura? You mean that...?	01:30:05;
+
+[PlayVoice]=01:27:07	Voice04/04-KC/04-KC-O00/04-KC-O00-0320	0	nan	01:30:05;
+
+[PrintText]=01:30:04	Hikari	The girl from the class next door, right?	01:32:10;
+
+[PlayVoice]=01:30:04	Voice04/04-KC/04-KC-O00/04-KC-O00-0330	0	hik	01:32:10;
+
+[CreateBG]=01:32:11	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-010	01:37:01;
+
+[PrintText]=01:32:11	Sekai	Yep.	01:33:02;
+
+[PlayVoice]=01:32:11	Voice04/04-KC/04-KC-O00/04-KC-O00-0340	0	sek	01:33:02;
+
+[PrintText]=01:33:02	Nanami	She's the one making the moves on Itou...? Okay. Leave it to us, Sekai.	01:41:09;
+
+[PlayVoice]=01:33:02	Voice04/04-KC/04-KC-O00/04-KC-O00-0350	0	nan	01:41:09;
+
+[CreateBG]=01:37:01	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-013	01:41:09;
+
+[PrintText]=01:41:08	Hikari	Us? You mean 'us' as in including me?	01:45:21;
+
+[PlayVoice]=01:41:08	Voice04/04-KC/04-KC-O00/04-KC-O00-0360	0	hik	01:45:21;
+
+[CreateBG]=01:41:09	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-001	01:56:03;
+
+[PrintText]=01:45:22	Nanami	Yep! We're going to tell her to keep away from him.	01:50:06;
+
+[PlayVoice]=01:45:22	Voice04/04-KC/04-KC-O00/04-KC-O00-0370	0	nan	01:50:06;
+
+[PrintText]=01:50:05	Hikari	Ehh? Sounds like a pain in the butt.	01:53:04;
+
+[PlayVoice]=01:50:05	Voice04/04-KC/04-KC-O00/04-KC-O00-0380	0	hik	01:53:04;
+
+[PrintText]=01:53:05	Nanami	Just do it!	01:54:09;
+
+[PlayVoice]=01:53:05	Voice04/04-KC/04-KC-O00/04-KC-O00-0390	0	nan	01:54:09;
+
+[PrintText]=01:54:09	Hikari	Fine...	01:56:03;
+
+[PlayVoice]=01:54:09	Voice04/04-KC/04-KC-O00/04-KC-O00-0400	0	hik	01:56:03;
+
+[CreateBG]=01:56:03	BGS	Event04/04-KB/04-KB-N00/04-KB-N00-006	02:07:15;
+
+[PrintText]=01:56:03	Sekai	It's okay. I'll try to work something out on my own.	02:00:10;
+
+[PlayVoice]=01:56:03	Voice04/04-KC/04-KC-O00/04-KC-O00-0410	0	sek	02:00:10;
+
+[PrintText]=02:00:10	Nanami	Mmn... all right, but we're behind you on this, okay?	02:06:12;
+
+[PlayVoice]=02:00:10	Voice04/04-KC/04-KC-O00/04-KC-O00-0420	0	nan	02:06:12;
+
+[EndBGM]=02:01:21	BGM/Vocal/SDV04	04:12:14;
+
+[PrintText]=02:06:12	Sekai	Thanks...	02:07:11;
+
+[PlayVoice]=02:06:12	Voice04/04-KC/04-KC-O00/04-KC-O00-0430	0	sek	02:07:11;
+
+[EndRoll]=02:07:15	Movie04/04-KC/04-KC-O00/04-KC-O00-016	04:12:19;
+
+ ;
+
+[Next]=04:12:19;
+

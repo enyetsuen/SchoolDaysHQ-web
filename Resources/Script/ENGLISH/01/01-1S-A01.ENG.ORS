@@ -1,0 +1,150 @@
+[SkipFRAME]=01:34:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	01:34:02;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-A01/SE01-1S-A01-001	01:34:02;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-001	00:10:02;
+
+[PlaySe]=00:02:01	3	SysSe/SE_all/school/standup	00:03:13;
+
+[PlaySe]=00:06:23	3	SysSe/SE_all/school/tyakuseki	00:08:08;
+
+[CreateBG]=00:10:02	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-002	00:11:05;
+
+[PrintText]=00:10:02	Makoto	In that case, Sekai...	00:11:04;
+
+[PlayVoice]=00:10:02	Voice01/01-1S/01-1S-A01/01-1S-A01-0040	1	mak	00:11:04;
+
+[CreateBG]=00:11:05	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-003	00:14:14;
+
+[PrintText]=00:11:22	Makoto	H-hey, wait up!	00:13:20;
+
+[PlayVoice]=00:11:22	Voice01/01-1S/01-1S-A01/01-1S-A01-0060	1	mak	00:13:20;
+
+[PrintText]=00:13:14	Sekai	I'll pass.	00:14:10;
+
+[PlayVoice]=00:13:14	Voice01/01-1S/01-1S-A01/01-1S-A01-0070	0	sek	00:14:10;
+
+[CreateBG]=00:14:14	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-004	00:16:00;
+
+[PrintText]=00:14:14	Makoto	You said we'd have lunch together...	00:16:05;
+
+[PlayVoice]=00:14:14	Voice01/01-1S/01-1S-A01/01-1S-A01-0080	1	mak	00:16:05;
+
+[CreateBG]=00:16:00	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-005	00:31:23;
+
+[PrintText]=00:16:00	Sekai	Now that I think about it, I've been so focused on getting you and Katsura-san together...	00:22:00;
+
+[PlayVoice]=00:16:00	Voice01/01-1S/01-1S-A01/01-1S-A01-0090	0	sek	00:25:22;
+
+[PrintText]=00:22:00	Sekai	that I haven't eaten with Setsuna and Nanami for a while.	00:25:22;
+
+[PrintText]=00:25:20	Makoto	Ah... yeah.	00:28:06;
+
+[PlayVoice]=00:25:20	Voice01/01-1S/01-1S-A01/01-1S-A01-0100	1	mak	00:28:06;
+
+[PrintText]=00:28:06	Sekai	I've got to go and salvage our friendship, or I'll end up being left out.	00:31:20;
+
+[PlayVoice]=00:28:06	Voice01/01-1S/01-1S-A01/01-1S-A01-0110	0	sek	00:31:20;
+
+[CreateBG]=00:31:23	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-006	00:33:06;
+
+[PrintText]=00:32:02	Makoto	Really?	00:33:08;
+
+[PlayVoice]=00:32:02	Voice01/01-1S/01-1S-A01/01-1S-A01-0120	1	mak	00:33:08;
+
+[CreateBG]=00:33:06	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-007	00:46:20;
+
+[PrintText]=00:33:06	Sekai	Yeah, so you two go on ahead and eat by yourselves.	00:36:20;
+
+[PlayVoice]=00:33:06	Voice01/01-1S/01-1S-A01/01-1S-A01-0130	0	sek	00:36:20;
+
+[PrintText]=00:37:05	Sekai	I'll invite you both to lunch after I've had my fill of friendship.	00:44:22;
+
+[PlayVoice]=00:37:05	Voice01/01-1S/01-1S-A01/01-1S-A01-0131	0	sek	00:44:22;
+
+[PrintText]=00:45:01	Makoto	R-really?	00:46:21;
+
+[PlayVoice]=00:45:01	Voice01/01-1S/01-1S-A01/01-1S-A01-0140	1	mak	00:46:21;
+
+[CreateBG]=00:46:20	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-008	00:55:20;
+
+[PrintText]=00:46:20	Sekai	Yep. You'd better be ready! Oh, that's right. Here's a present for you two.	00:54:15;
+
+[PlayVoice]=00:46:20	Voice01/01-1S/01-1S-A01/01-1S-A01-0150	0	sek	00:54:15;
+
+[PrintText]=00:54:10	Makoto	Present? What's this?	00:57:11;
+
+[PlayVoice]=00:54:10	Voice01/01-1S/01-1S-A01/01-1S-A01-0160	1	mak	00:57:11;
+
+[CreateBG]=00:55:20	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-009	01:01:08;
+
+[PrintText]=00:57:05	Sekai	Just what it looks like.	00:58:15;
+
+[PlayVoice]=00:57:05	Voice01/01-1S/01-1S-A01/01-1S-A01-0170	0	sek	00:58:15;
+
+[PrintText]=00:58:17	Makoto	...A discount coupon for a movie?	01:00:19;
+
+[PlayVoice]=00:58:17	Voice01/01-1S/01-1S-A01/01-1S-A01-0180	1	mak	01:00:19;
+
+[PrintText]=01:00:14	Sekai	Yep.	01:01:04;
+
+[PlayVoice]=01:00:14	Voice01/01-1S/01-1S-A01/01-1S-A01-0190	0	sek	01:01:04;
+
+[CreateBG]=01:01:08	BGS	Event01/01-1S/01-1S-A00/01-1S-A00-002	01:13:14;
+
+[PrintText]=01:01:08	Makoto	What movie is it for? All it says is the name of the cinema, 'Radish Theatre'.	01:06:13;
+
+[PlayVoice]=01:01:08	Voice01/01-1S/01-1S-A01/01-1S-A01-0200	1	mak	01:06:13;
+
+[PrintText]=01:06:10	Sekai	Some fantasy-ish movie called 'Silmaril-something', I think.	01:12:01;
+
+[PlayVoice]=01:06:10	Voice01/01-1S/01-1S-A01/01-1S-A01-0210	0	sek	01:12:01;
+
+[PrintText]=01:12:00	Makoto	Hmm...	01:13:08;
+
+[PlayVoice]=01:12:00	Voice01/01-1S/01-1S-A01/01-1S-A01-0220	1	mak	01:13:08;
+
+[CreateBG]=01:13:14	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-011	01:22:05;
+
+[PrintText]=01:13:14	Sekai	Well, whatever you watch, you'll get 200 yen off with this coupon.	01:19:15;
+
+[PlayVoice]=01:13:14	Voice01/01-1S/01-1S-A01/01-1S-A01-0230	0	sek	01:19:15;
+
+[PrintText]=01:19:08	Makoto	Tsk... you could have just bought us the tickets instead.	01:22:10;
+
+[PlayVoice]=01:19:08	Voice01/01-1S/01-1S-A01/01-1S-A01-0240	1	mak	01:22:10;
+
+[CreateBG]=01:22:05	BGS	Event01/01-1S/01-1S-A00/01-1S-A00-002	01:28:08;
+
+[PrintText]=01:22:05	Sekai	If I had tickets, I would have gone myself.	01:26:00;
+
+[PlayVoice]=01:22:05	Voice01/01-1S/01-1S-A01/01-1S-A01-0250	0	sek	01:26:00;
+
+[PrintText]=01:25:20	Makoto	What's that supposed to mean?	01:27:06;
+
+[PlayVoice]=01:25:20	Voice01/01-1S/01-1S-A01/01-1S-A01-0260	1	mak	01:27:06;
+
+[PrintText]=01:27:03	Sekai	Ahaha... well, I'm off to the cafeteria.	01:30:09;
+
+[PlayVoice]=01:27:03	Voice01/01-1S/01-1S-A01/01-1S-A01-0270	0	sek	01:30:09;
+
+[CreateBG]=01:28:08	BGS	Event01/01-1S/01-1S-A01/01-1S-A01-013	01:34:02;
+
+[PrintText]=01:30:01	Makoto	Off you go, then.	01:31:12;
+
+[PlayVoice]=01:30:01	Voice01/01-1S/01-1S-A01/01-1S-A01-0280	1	mak	01:31:12;
+
+[PrintText]=01:31:11	Sekai	Mfufu...	01:32:22;
+
+[PlayVoice]=01:31:11	Voice01/01-1S/01-1S-A01/01-1S-A01-0290	0	sek	01:32:22;
+
+[BlackFade]=01:33:02	OUT	01:34:02;
+
+ ;
+
+[Next]=01:34:02;
+

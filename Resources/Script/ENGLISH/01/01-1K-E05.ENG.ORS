@@ -1,0 +1,78 @@
+[SkipFRAME]=00:44:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm09	00:35:03;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-001	00:04:03;
+
+[PrintText]=00:00:12	Makoto	...I wonder what kind of movie this is?	00:04:01;
+
+[PlayVoice]=00:00:12	Voice01/01-1K/01-1K-E05/01-1K-E05-0040	1	mak	00:04:01;
+
+[CreateBG]=00:04:03	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-002	00:10:09;
+
+[PrintText]=00:04:03	Kotonoha	It's based on a novel written near the end of the 19th century by an English language professor.	00:10:07;
+
+[PlayVoice]=00:04:03	Voice01/01-1K/01-1K-E05/01-1K-E05-0060	0	kot	00:10:07;
+
+[CreateBG]=00:10:09	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-003	00:13:05;
+
+[PrintText]=00:10:09	Makoto	You sure know a lot about it.	00:12:00;
+
+[PlayVoice]=00:10:09	Voice01/01-1K/01-1K-E05/01-1K-E05-0070	1	mak	00:12:00;
+
+[PrintText]=00:12:01	Kotonoha	Eheheh... actually, I recently read the book it was based on.	00:16:22;
+
+[PlayVoice]=00:12:01	Voice01/01-1K/01-1K-E05/01-1K-E05-0080	0	kot	00:16:22;
+
+[CreateBG]=00:13:05	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-004	00:20:08;
+
+[PrintText]=00:16:19	Makoto	Wow.	00:17:22;
+
+[PlayVoice]=00:16:19	Voice01/01-1K/01-1K-E05/01-1K-E05-0090	1	mak	00:17:22;
+
+[PrintText]=00:18:01	Kotonoha	It was just before we got to know each other. It kind of feels like it's the book that brought us together.	00:24:20;
+
+[PlayVoice]=00:18:01	Voice01/01-1K/01-1K-E05/01-1K-E05-0100	0	kot	00:24:20;
+
+[CreateBG]=00:20:08	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-005	00:28:04;
+
+[PrintText]=00:24:23	Makoto	Ah...	00:27:16;
+
+[PlayVoice]=00:24:23	Voice01/01-1K/01-1K-E05/01-1K-E05-0110	1	mak	00:27:16;
+
+[CreateBG]=00:28:04	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-006	00:35:03;
+
+[PrintText]=00:28:11	Kotonoha	I'm sure the movie will be interesting, too.	00:31:16;
+
+[PlayVoice]=00:28:11	Voice01/01-1K/01-1K-E05/01-1K-E05-0130	0	kot	00:31:16;
+
+[PrintText]=00:31:22	Makoto	Yeah, you're right.	00:33:21;
+
+[PlayVoice]=00:31:22	Voice01/01-1K/01-1K-E05/01-1K-E05-0140	1	mak	00:33:21;
+
+[BlackFade]=00:34:03	OUT	00:35:03;
+
+[PlayBgm]=00:35:03	BGM/SD_BGM/sdbgm20	00:44:14;
+
+[CreateBG]=00:35:03	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-007	00:39:09;
+
+[PrintText]=00:35:03	Fairy A	Do the dragons and the lord of the dead mean to harm us...?	00:39:12;
+
+[PlayVoice]=00:35:03	Voice01/01-1K/01-1K-E05/01-1K-E05-0170	0	yoa	00:39:12;
+
+[CreateBG]=00:39:09	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-008	00:42:08;
+
+[PrintText]=00:39:09	Fairy B	What say you?	00:41:00;
+
+[PlayVoice]=00:39:09	Voice01/01-1K/01-1K-E05/01-1K-E05-0180	0	yob	00:41:00;
+
+[PrintText]=00:41:02	Fairy A	Well... I...	00:44:00;
+
+[PlayVoice]=00:41:02	Voice01/01-1K/01-1K-E05/01-1K-E05-0190	0	yoa	00:44:00;
+
+[CreateBG]=00:42:08	BGS	Event01/01-1K/01-1K-E05/01-1K-E05-009	00:44:14;
+
+ ;
+
+[Next]=00:44:14;
+

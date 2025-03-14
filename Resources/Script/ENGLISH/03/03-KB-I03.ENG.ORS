@@ -1,0 +1,388 @@
+[SkipFRAME]=03:33:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	03:33:16;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I03/SE03-KB-I03-001	01:39:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-001	00:01:15;
+
+[CreateBG]=00:01:15	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-002	00:15:04;
+
+[PrintText]=00:01:15	Otome	Haah... somehow, it looks like we've made it in time.	00:05:00;
+
+[PlayVoice]=00:01:15	Voice03/03-KB/03-KB-I03/03-KB-I03-0060	0	oto	00:05:00;
+
+[PrintText]=00:05:00	Minami	Yeah, barely.	00:07:17;
+
+[PlayVoice]=00:05:00	Voice03/03-KB/03-KB-I03/03-KB-I03-0070	0	min	00:07:17;
+
+[PrintText]=00:07:17	Natsumi	It's turned out well, hasn't it?	00:09:10;
+
+[PlayVoice]=00:07:17	Voice03/03-KB/03-KB-I03/03-KB-I03-0080	0	nat	00:09:10;
+
+[PrintText]=00:09:11	Minami	Of course. We built it.	00:12:12;
+
+[PlayVoice]=00:09:11	Voice03/03-KB/03-KB-I03/03-KB-I03-0090	0	min	00:12:12;
+
+[PrintText]=00:12:12	Natsumi	That's true.	00:13:23;
+
+[PlayVoice]=00:12:12	Voice03/03-KB/03-KB-I03/03-KB-I03-0100	0	nat	00:13:23;
+
+[PrintText]=00:13:23	Kumi	Hey, by the way...	00:15:04;
+
+[PlayVoice]=00:13:23	Voice03/03-KB/03-KB-I03/03-KB-I03-0110	0	kum	00:15:04;
+
+[CreateBG]=00:15:04	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-003	00:20:14;
+
+[PrintText]=00:15:04	Natsumi	Hmn?	00:15:20;
+
+[PlayVoice]=00:15:04	Voice03/03-KB/03-KB-I03/03-KB-I03-0120	0	nat	00:15:20;
+
+[PrintText]=00:15:20	Kumi	The break room is done... but do any of us actually have boyfriends?	00:20:13;
+
+[PlayVoice]=00:15:20	Voice03/03-KB/03-KB-I03/03-KB-I03-0130	0	kum	00:20:13;
+
+[PrintText]=00:20:13	Natsumi	We're going to find them now!	00:23:17;
+
+[PlayVoice]=00:20:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0140	0	nat	00:23:17;
+
+[CreateBG]=00:20:14	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-004	00:31:10;
+
+[PrintText]=00:23:17	Kumi	B-but it's happening today!	00:26:21;
+
+[PlayVoice]=00:23:17	Voice03/03-KB/03-KB-I03/03-KB-I03-0150	0	kum	00:26:21;
+
+[PrintText]=00:26:22	Natsumi	I-it's fine! We're going to invite them now! Right, Minami?	00:31:09;
+
+[PlayVoice]=00:26:22	Voice03/03-KB/03-KB-I03/03-KB-I03-0160	0	nat	00:31:09;
+
+[PrintText]=00:31:09	Minami	Y-yeah, yeah!	00:32:14;
+
+[PlayVoice]=00:31:09	Voice03/03-KB/03-KB-I03/03-KB-I03-0170	0	min	00:32:14;
+
+[CreateBG]=00:31:10	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-005	00:41:12;
+
+[PrintText]=00:32:14	Kumi	I see. What about you, Otome-chan?	00:35:13;
+
+[PlayVoice]=00:32:14	Voice03/03-KB/03-KB-I03/03-KB-I03-0180	0	kum	00:35:13;
+
+[PrintText]=00:35:13	Otome	...Me too.	00:38:13;
+
+[PlayVoice]=00:35:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0190	0	oto	00:38:13;
+
+[PrintText]=00:38:13	Natsumi	Shall I have a girl from class 3 call him over?	00:41:11;
+
+[PlayVoice]=00:38:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0200	0	nat	00:41:11;
+
+[PrintText]=00:41:11	Otome	Like I said before, stop pinning it on class 3!	00:45:17;
+
+[PlayVoice]=00:41:11	Voice03/03-KB/03-KB-I03/03-KB-I03-0210	0	oto	00:45:17;
+
+[CreateBG]=00:41:12	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-001	00:47:02;
+
+[PrintText]=00:45:17	Minami	Ahaha...	00:47:01;
+
+[PlayVoice]=00:45:17	Voice03/03-KB/03-KB-I03/03-KB-I03-0220	0	min	00:47:01;
+
+[PrintText]=00:47:01	Kumi	So, I guess no one has any plans yet, right?	00:50:17;
+
+[PlayVoice]=00:47:01	Voice03/03-KB/03-KB-I03/03-KB-I03-0230	0	kum	00:50:17;
+
+[CreateBG]=00:47:02	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-007	01:02:21;
+
+[PrintText]=00:50:17	Otome	Some of the girls from the basketball club said they'd like to use it.	00:54:07;
+
+[PlayVoice]=00:50:17	Voice03/03-KB/03-KB-I03/03-KB-I03-0240	0	oto	00:54:07;
+
+[PrintText]=00:54:08	Kumi	I see...	00:56:05;
+
+[PlayVoice]=00:54:08	Voice03/03-KB/03-KB-I03/03-KB-I03-0250	0	kum	00:56:05;
+
+[PrintText]=00:56:05	Natsumi	Ah, don't tell me that you...?	00:58:19;
+
+[PlayVoice]=00:56:05	Voice03/03-KB/03-KB-I03/03-KB-I03-0260	0	nat	00:58:19;
+
+[PrintText]=00:58:19	Kumi	Eh...? Y-yeah. Can't I?	01:02:21;
+
+[PlayVoice]=00:58:19	Voice03/03-KB/03-KB-I03/03-KB-I03-0270	0	kum	01:02:21;
+
+[CreateBG]=01:02:21	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-008	01:12:23;
+
+[PrintText]=01:02:21	Minami	Eh? What?	01:04:03;
+
+[PlayVoice]=01:02:21	Voice03/03-KB/03-KB-I03/03-KB-I03-0280	0	min	01:04:03;
+
+[PrintText]=01:04:03	Natsumi	You... have a boyfriend?	01:06:10;
+
+[PlayVoice]=01:04:03	Voice03/03-KB/03-KB-I03/03-KB-I03-0290	0	nat	01:06:10;
+
+[PrintText]=01:06:10	Kumi	...Uh-huh.	01:07:06;
+
+[PlayVoice]=01:06:10	Voice03/03-KB/03-KB-I03/03-KB-I03-0300	0	kum	01:07:06;
+
+[PrintText]=01:07:07	Minami	Ehhh?!	01:08:06;
+
+[PlayVoice]=01:07:07	Voice03/03-KB/03-KB-I03/03-KB-I03-0310	0	min	01:08:06;
+
+[PrintText]=01:08:07	Kumi	Wah! I'm sorry!	01:10:06;
+
+[PlayVoice]=01:08:07	Voice03/03-KB/03-KB-I03/03-KB-I03-0320	0	kum	01:10:06;
+
+[PrintText]=01:10:07	Natsumi	W-what's he like? What class?	01:12:22;
+
+[PlayVoice]=01:10:07	Voice03/03-KB/03-KB-I03/03-KB-I03-0330	0	nat	01:12:22;
+
+[PrintText]=01:12:22	Kumi	It's not someone from our school... he's a university student I met at my part-time job...	01:19:00;
+
+[PlayVoice]=01:12:22	Voice03/03-KB/03-KB-I03/03-KB-I03-0340	0	kum	01:19:00;
+
+[CreateBG]=01:12:23	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-009	01:25:16;
+
+[PrintText]=01:19:00	Natsumi	Whaaaat?!	01:20:14;
+
+[PlayVoice]=01:19:00	Voice03/03-KB/03-KB-I03/03-KB-I03-0350	0	nat	01:20:14;
+
+[PrintText]=01:20:14	Minami	This is shocking...	01:22:07;
+
+[PlayVoice]=01:20:14	Voice03/03-KB/03-KB-I03/03-KB-I03-0360	0	min	01:22:07;
+
+[PrintText]=01:22:07	Kumi	Can't... I?	01:24:09;
+
+[PlayVoice]=01:22:07	Voice03/03-KB/03-KB-I03/03-KB-I03-0370	0	kum	01:24:09;
+
+[PrintText]=01:24:09	Otome	I don't see why not.	01:25:16;
+
+[PlayVoice]=01:24:09	Voice03/03-KB/03-KB-I03/03-KB-I03-0380	0	oto	01:25:16;
+
+[CreateBG]=01:25:16	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-010	01:31:20;
+
+[PrintText]=01:25:16	Kumi	Really?! Thanks, Otome-chan.	01:28:10;
+
+[PlayVoice]=01:25:16	Voice03/03-KB/03-KB-I03/03-KB-I03-0390	0	kum	01:28:10;
+
+[PrintText]=01:28:10	Otome	Uh-huh.	01:29:05;
+
+[PlayVoice]=01:28:10	Voice03/03-KB/03-KB-I03/03-KB-I03-0400	0	oto	01:29:05;
+
+[PrintText]=01:29:05	Kumi	Okay, I'm off to meet him, then.	01:31:20;
+
+[PlayVoice]=01:29:05	Voice03/03-KB/03-KB-I03/03-KB-I03-0410	0	kum	01:31:20;
+
+[CreateBG]=01:31:20	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-011	01:52:18;
+
+[PrintText]=01:31:20	Natsumi	What, he's already here? What if we'd said no?	01:34:17;
+
+[PlayVoice]=01:31:20	Voice03/03-KB/03-KB-I03/03-KB-I03-0430	0	nat	01:34:17;
+
+[PrintText]=01:34:18	Minami	...So, she said she wants to use it.	01:36:17;
+
+[PlayVoice]=01:34:18	Voice03/03-KB/03-KB-I03/03-KB-I03-0440	0	min	01:36:17;
+
+[PrintText]=01:36:17	Natsumi	That means she and her boyfriend are already doing it, right?	01:40:22;
+
+[PlayVoice]=01:36:17	Voice03/03-KB/03-KB-I03/03-KB-I03-0450	0	nat	01:40:22;
+
+[PrintText]=01:40:23	Minami	What about you, Natsumi?	01:41:23;
+
+[PlayVoice]=01:40:23	Voice03/03-KB/03-KB-I03/03-KB-I03-0460	0	min	01:41:23;
+
+[PlaySe]=01:41:01	2	Se03/03-KB/03-KB-I03/SE03-KB-I03-001	03:20:12;
+
+[PrintText]=01:41:23	Natsumi	Of course not.	01:44:04;
+
+[PlayVoice]=01:41:23	Voice03/03-KB/03-KB-I03/03-KB-I03-0470	0	nat	01:44:04;
+
+[PrintText]=01:44:03	Minami	Gwaah! To think that quiet little girl beat all of us to it!	01:50:10;
+
+[PlayVoice]=01:44:03	Voice03/03-KB/03-KB-I03/03-KB-I03-0480	0	min	01:50:10;
+
+[PrintText]=01:50:10	Natsumi	We ought to get going too.	01:52:02;
+
+[PlayVoice]=01:50:10	Voice03/03-KB/03-KB-I03/03-KB-I03-0490	0	nat	01:52:02;
+
+[PrintText]=01:52:02	Minami	Eh?	01:52:17;
+
+[PlayVoice]=01:52:02	Voice03/03-KB/03-KB-I03/03-KB-I03-0500	0	min	01:52:17;
+
+[PrintText]=01:52:17	Natsumi	Ishimaru-senpai from the soccer club, and Ohka-kun from the basketball club... let's try inviting all the nice catches!	01:57:18;
+
+[PlayVoice]=01:52:17	Voice03/03-KB/03-KB-I03/03-KB-I03-0510	0	nat	01:57:18;
+
+[CreateBG]=01:52:18	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-012	02:06:10;
+
+[PrintText]=01:57:13	Minami	Ehh? Isn't that just a little TOO haphazard...?	02:01:01;
+
+[PlayVoice]=01:57:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0520	0	min	02:01:01;
+
+[PrintText]=02:01:01	Natsumi	But we can't lose to Kumi, right?!	02:03:06;
+
+[PlayVoice]=02:01:01	Voice03/03-KB/03-KB-I03/03-KB-I03-0530	0	nat	02:03:06;
+
+[PrintText]=02:03:06	Minami	Y-yeah... what about you, Otome?	02:06:07;
+
+[PlayVoice]=02:03:06	Voice03/03-KB/03-KB-I03/03-KB-I03-0540	0	min	02:06:07;
+
+[CreateBG]=02:06:10	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-013	02:08:17;
+
+[PrintText]=02:06:13	Otome	Ah, I...	02:08:13;
+
+[PlayVoice]=02:06:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0550	0	oto	02:08:13;
+
+[CreateBG]=02:08:17	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-014	02:14:12;
+
+[PrintText]=02:08:17	Natsumi	Otome's got her mind set on one boy, so that's okay.	02:10:23;
+
+[PlayVoice]=02:08:17	Voice03/03-KB/03-KB-I03/03-KB-I03-0560	0	nat	02:10:23;
+
+[PrintText]=02:10:23	Otome	Sheesh...	02:12:14;
+
+[PlayVoice]=02:10:23	Voice03/03-KB/03-KB-I03/03-KB-I03-0570	0	oto	02:12:14;
+
+[PrintText]=02:12:14	Minami	Well, we're off.	02:14:12;
+
+[PlayVoice]=02:12:14	Voice03/03-KB/03-KB-I03/03-KB-I03-0580	0	min	02:14:12;
+
+[PrintText]=02:14:11	Otome	Yeah.	02:15:08;
+
+[PlayVoice]=02:14:11	Voice03/03-KB/03-KB-I03/03-KB-I03-0590	0	oto	02:15:08;
+
+[CreateBG]=02:14:12	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-015	02:15:08;
+
+[CreateBG]=02:15:08	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-016	02:16:06;
+
+[PrintText]=02:15:08	Otome	Haah...	02:16:05;
+
+[PlayVoice]=02:15:08	Voice03/03-KB/03-KB-I03/03-KB-I03-0610	0	oto	02:16:05;
+
+[PrintText]=02:16:05	Kotonoha	Ah...	02:17:07;
+
+[PlayVoice]=02:16:05	Voice03/03-KB/03-KB-I03/03-KB-I03-0630	0	kot	02:17:07;
+
+[CreateBG]=02:16:06	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-017	02:17:08;
+
+[PrintText]=02:17:07	Otome	What do you want?	02:18:16;
+
+[PlayVoice]=02:17:07	Voice03/03-KB/03-KB-I03/03-KB-I03-0640	0	oto	02:18:16;
+
+[CreateBG]=02:17:08	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-018	02:25:13;
+
+[PrintText]=02:18:16	Kotonoha	Koizumi-san and Mori-san were supposed to man the counter this afternoon...	02:22:21;
+
+[PlayVoice]=02:18:16	Voice03/03-KB/03-KB-I03/03-KB-I03-0650	0	kot	02:22:21;
+
+[PrintText]=02:22:22	Otome	They've got something more important to do than waiting at a counter!	02:25:12;
+
+[PlayVoice]=02:22:22	Voice03/03-KB/03-KB-I03/03-KB-I03-0660	0	oto	02:25:12;
+
+[PrintText]=02:25:12	Kotonoha	Eh...? O-okay.	02:28:02;
+
+[PlayVoice]=02:25:12	Voice03/03-KB/03-KB-I03/03-KB-I03-0670	0	kot	02:28:02;
+
+[CreateBG]=02:25:13	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-017	02:28:03;
+
+[PrintText]=02:28:02	Otome	There'll be no problem if you take over for them, right?	02:31:06;
+
+[PlayVoice]=02:28:02	Voice03/03-KB/03-KB-I03/03-KB-I03-0680	0	oto	02:31:06;
+
+[CreateBG]=02:28:03	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-020	02:31:07;
+
+[PrintText]=02:31:06	Kotonoha	Eh? B-but I've got something to take care of now too...	02:36:15;
+
+[PlayVoice]=02:31:06	Voice03/03-KB/03-KB-I03/03-KB-I03-0690	0	kot	02:36:15;
+
+[CreateBG]=02:31:07	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-021	02:38:11;
+
+[PrintText]=02:36:14	Otome	What?	02:37:14;
+
+[PlayVoice]=02:36:14	Voice03/03-KB/03-KB-I03/03-KB-I03-0700	0	oto	02:37:14;
+
+[PrintText]=02:37:13	Kotonoha	...It's nothing.	02:38:10;
+
+[PlayVoice]=02:37:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0710	0	kot	02:38:10;
+
+[CreateBG]=02:38:11	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-016	02:45:06;
+
+[PrintText]=02:38:11	Otome	Well, I'm going too, then.	02:40:04;
+
+[PlayVoice]=02:38:11	Voice03/03-KB/03-KB-I03/03-KB-I03-0720	0	oto	02:40:04;
+
+[PrintText]=02:40:05	Kotonoha	Eh?	02:40:22;
+
+[PlayVoice]=02:40:05	Voice03/03-KB/03-KB-I03/03-KB-I03-0730	0	kot	02:40:22;
+
+[PrintText]=02:40:22	Otome	I'm taking care of the girls' basketball display for the morning.	02:43:07;
+
+[PlayVoice]=02:40:22	Voice03/03-KB/03-KB-I03/03-KB-I03-0740	0	oto	02:43:07;
+
+[PrintText]=02:43:06	Kotonoha	Ah, that's right.	02:45:05;
+
+[PlayVoice]=02:43:06	Voice03/03-KB/03-KB-I03/03-KB-I03-0750	0	kot	02:45:05;
+
+[CreateBG]=02:45:06	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-023	02:57:16;
+
+[PrintText]=02:45:06	Otome	You'd better do a good job watching the counter.	02:48:15;
+
+[PlayVoice]=02:45:06	Voice03/03-KB/03-KB-I03/03-KB-I03-0760	0	oto	02:54:19;
+
+[PrintText]=02:48:15	Otome	Oh, and if anyone wants to use the break room, be sure to check if it's empty first, okay?	02:54:19;
+
+[PrintText]=02:54:19	Kotonoha	U-um...!	02:56:04;
+
+[PlayVoice]=02:54:19	Voice03/03-KB/03-KB-I03/03-KB-I03-0770	0	kot	02:56:04;
+
+[PrintText]=02:56:04	Otome	What?	02:57:16;
+
+[PlayVoice]=02:56:04	Voice03/03-KB/03-KB-I03/03-KB-I03-0780	0	oto	02:57:16;
+
+[PrintText]=02:57:15	Kotonoha	The break room... you mean that place with the bed... don't you?	03:04:12;
+
+[PlayVoice]=02:57:15	Voice03/03-KB/03-KB-I03/03-KB-I03-0790	0	kot	03:04:12;
+
+[CreateBG]=02:57:16	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-024	03:05:19;
+
+[PrintText]=03:04:13	Otome	What about it?	03:05:19;
+
+[PlayVoice]=03:04:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0800	0	oto	03:05:19;
+
+[CreateBG]=03:05:19	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-025	03:13:20;
+
+[PrintText]=03:05:19	Kotonoha	That sort of thing isn't right...! If one of the teachers found out, I think they'd be furious...	03:13:20;
+
+[PlayVoice]=03:05:19	Voice03/03-KB/03-KB-I03/03-KB-I03-0810	0	kot	03:13:20;
+
+[CreateBG]=03:13:20	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-018	03:23:07;
+
+[PrintText]=03:13:20	Otome	None of them will if you don't say anything.	03:17:09;
+
+[PlayVoice]=03:13:20	Voice03/03-KB/03-KB-I03/03-KB-I03-0820	0	oto	03:17:09;
+
+[PrintText]=03:17:10	Kotonoha	But...!	03:18:13;
+
+[PlayVoice]=03:17:10	Voice03/03-KB/03-KB-I03/03-KB-I03-0830	0	kot	03:18:13;
+
+[PrintText]=03:18:13	Otome	If anyone finds out, I'm going to tell everyone that you were the one who squealed.	03:23:06;
+
+[PlayVoice]=03:18:13	Voice03/03-KB/03-KB-I03/03-KB-I03-0840	0	oto	03:23:06;
+
+[PlaySe]=03:19:16	1	Se03/03-KB/03-KB-I03/SE03-KB-I03-001	03:33:16;
+
+[CreateBG]=03:23:07	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-027	03:28:16;
+
+[PrintText]=03:23:07	Kotonoha	I... wouldn't do that.	03:26:23;
+
+[PlayVoice]=03:23:07	Voice03/03-KB/03-KB-I03/03-KB-I03-0850	0	kot	03:26:23;
+
+[PrintText]=03:26:22	Otome	Then there's no problem, is there?	03:28:16;
+
+[PlayVoice]=03:26:22	Voice03/03-KB/03-KB-I03/03-KB-I03-0860	0	oto	03:28:16;
+
+[PrintText]=03:28:15	Kotonoha	...	03:30:23;
+
+[PlayVoice]=03:28:15	Voice03/03-KB/03-KB-I03/03-KB-I03-0890	0	xxx	03:30:23;
+
+[CreateBG]=03:28:16	BGS	Event03/03-KB/03-KB-I03/03-KB-I03-028	03:33:16;
+
+ ;
+
+[Next]=03:33:16;
+

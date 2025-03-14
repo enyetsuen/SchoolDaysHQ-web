@@ -1,0 +1,96 @@
+[SkipFRAME]=00:50:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:50:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-001	00:02:19;
+
+[PrintText]=00:00:00	Makoto	...	00:01:08;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-F03/04-KA-F03-0030	1	xxx	00:01:08;
+
+[PrintText]=00:01:08	Taisuke	...Makoto?	00:02:19;
+
+[PlayVoice]=00:01:08	Voice04/04-KA/04-KA-F03/04-KA-F03-0040	1	tai	00:02:19;
+
+[CreateBG]=00:02:19	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-002	00:05:20;
+
+[PrintText]=00:02:19	Makoto	...Zzz.	00:04:23;
+
+[PlayVoice]=00:02:19	Voice04/04-KA/04-KA-F03/04-KA-F03-0050	1	mak	00:04:23;
+
+[PrintText]=00:04:23	Taisuke	Stop sleeping!	00:05:20;
+
+[PlayVoice]=00:04:23	Voice04/04-KA/04-KA-F03/04-KA-F03-0060	1	tai	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-003	00:09:19;
+
+[PrintText]=00:05:20	Makoto	Ah! Was it all a dream?!	00:08:03;
+
+[PlayVoice]=00:05:20	Voice04/04-KA/04-KA-F03/04-KA-F03-0070	1	mak	00:08:03;
+
+[PrintText]=00:08:03	Taisuke	What dream?	00:09:14;
+
+[PlayVoice]=00:08:03	Voice04/04-KA/04-KA-F03/04-KA-F03-0080	1	tai	00:09:14;
+
+[PrintText]=00:09:14	Makoto	You were inviting me to this party for the school festival...	00:13:12;
+
+[PlayVoice]=00:09:14	Voice04/04-KA/04-KA-F03/04-KA-F03-0090	1	mak	00:13:12;
+
+[CreateBG]=00:09:19	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-003	00:15:10;
+
+[PrintText]=00:13:13	Taisuke	Yeah, that wasn't a dream.	00:15:10;
+
+[PlayVoice]=00:13:13	Voice04/04-KA/04-KA-F03/04-KA-F03-0100	1	tai	00:15:10;
+
+[CreateBG]=00:15:10	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-004	00:22:20;
+
+[PrintText]=00:15:10	Makoto	You were saying crazy stuff, like how I should make out with your sister while you made out with the girls in our class...	00:21:07;
+
+[PlayVoice]=00:15:10	Voice04/04-KA/04-KA-F03/04-KA-F03-0110	1	mak	00:21:07;
+
+[PrintText]=00:21:06	Taisuke	That WAS a dream!	00:22:19;
+
+[PlayVoice]=00:21:06	Voice04/04-KA/04-KA-F03/04-KA-F03-0120	1	tai	00:22:19;
+
+[CreateBG]=00:22:20	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-005	00:39:10;
+
+[PrintText]=00:22:20	Makoto	I see... yeah, I've never even met her before.	00:26:14;
+
+[PlayVoice]=00:22:20	Voice04/04-KA/04-KA-F03/04-KA-F03-0130	1	mak	00:26:14;
+
+[PrintText]=00:26:14	Taisuke	And I just swore an oath to make sure that you never will...	00:33:05;
+
+[PlayVoice]=00:26:14	Voice04/04-KA/04-KA-F03/04-KA-F03-0140	1	tai	00:33:05;
+
+[PrintText]=00:33:05	Makoto	Right. Fwah...	00:39:11;
+
+[PlayVoice]=00:33:05	Voice04/04-KA/04-KA-F03/04-KA-F03-0150	1	mak	00:39:11;
+
+[CreateBG]=00:39:10	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-006	00:46:19;
+
+[PrintText]=00:39:11	Taisuke	What, are you seriously sleepy?	00:41:22;
+
+[PlayVoice]=00:39:11	Voice04/04-KA/04-KA-F03/04-KA-F03-0160	1	tai	00:41:22;
+
+[PrintText]=00:41:23	Makoto	Yeah... I could fall asleep right now.	00:45:10;
+
+[PlayVoice]=00:41:23	Voice04/04-KA/04-KA-F03/04-KA-F03-0170	1	mak	00:45:10;
+
+[PrintText]=00:45:10	Taisuke	Well, take it easy.	00:46:22;
+
+[PlayVoice]=00:45:10	Voice04/04-KA/04-KA-F03/04-KA-F03-0180	1	tai	00:46:22;
+
+[CreateBG]=00:46:19	BGS	Event04/04-KA/04-KA-F03/04-KA-F03-007	00:50:00;
+
+[PrintText]=00:46:22	Makoto	Yeah.	00:47:21;
+
+[PlayVoice]=00:46:22	Voice04/04-KA/04-KA-F03/04-KA-F03-0190	1	mak	00:47:21;
+
+[PrintText]=00:47:21	Taisuke	See you later.	00:48:21;
+
+[PlayVoice]=00:47:21	Voice04/04-KA/04-KA-F03/04-KA-F03-0200	1	tai	00:48:21;
+
+ ;
+
+[Next]=00:50:00;
+

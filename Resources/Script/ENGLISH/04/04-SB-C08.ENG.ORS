@@ -1,0 +1,74 @@
+[SkipFRAME]=00:54:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/gakuenmae_yuugata	00:54:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-C01/04-SB-C01-006	00:13:05;
+
+[PrintText]=00:00:00	Kotonoha	I don't love him... but he tells me that he loves me...	00:07:12;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-C08/04-SB-C08-0030	0	kot	00:07:12;
+
+[PrintText]=00:07:12	Makoto	You can't go out with someone based on that kind of thing.	00:11:22;
+
+[PlayVoice]=00:07:12	Voice04/04-SB/04-SB-C08/04-SB-C08-0040	1	mak	00:11:22;
+
+[PrintText]=00:11:22	Kotonoha	But...	00:13:05;
+
+[PlayVoice]=00:11:22	Voice04/04-SB/04-SB-C08/04-SB-C08-0050	0	kot	00:13:05;
+
+[CreateBG]=00:13:05	BGS	Event04/04-SB/04-SB-C08/04-SB-C08-003	00:17:15;
+
+[PrintText]=00:13:05	Makoto	There's no point in going out with him if you have to suppress your own feelings...	00:17:15;
+
+[PlayVoice]=00:13:05	Voice04/04-SB/04-SB-C08/04-SB-C08-0060	1	mak	00:17:15;
+
+[CreateBG]=00:17:15	BGS	Event04/04-SB/04-SB-C08/04-SB-C08-002	00:36:17;
+
+[PrintText]=00:17:15	Kotonoha	I love you, Makoto-kun.	00:21:00;
+
+[PlayVoice]=00:17:15	Voice04/04-SB/04-SB-C08/04-SB-C08-0070	0	kot	00:21:00;
+
+[PrintText]=00:20:23	Makoto	Ah...	00:21:22;
+
+[PlayVoice]=00:20:23	Voice04/04-SB/04-SB-C08/04-SB-C08-0080	1	mak	00:21:22;
+
+[PrintText]=00:21:22	Kotonoha	But... you're going out with Saionji-san, and there's nothing I can do about that.	00:30:02;
+
+[PlayVoice]=00:21:22	Voice04/04-SB/04-SB-C08/04-SB-C08-0090	0	kot	00:30:02;
+
+[PrintText]=00:30:03	Kotonoha	Sawanaga-san tells me that he loves me, and that I'm his girlfriend...	00:36:22;
+
+[PlayVoice]=00:30:03	Voice04/04-SB/04-SB-C08/04-SB-C08-0091	0	kot	00:36:22;
+
+[CreateBG]=00:36:17	BGS	Event04/04-SB/04-SB-C07/04-SB-C07-003	00:38:02;
+
+[PrintText]=00:36:21	Makoto	...	00:38:02;
+
+[PlayVoice]=00:36:21	Voice04/04-SB/04-SB-C08/04-SB-C08-0100	1	xxx	00:38:02;
+
+[CreateBG]=00:38:02	BGS	Event04/04-SB/04-SB-C08/04-SB-C08-005	00:50:01;
+
+[PrintText]=00:38:02	Kotonoha	Would you break up with Saionji-san and go out with me?	00:44:13;
+
+[PlayVoice]=00:38:02	Voice04/04-SB/04-SB-C08/04-SB-C08-0110	0	kot	00:44:13;
+
+[PrintText]=00:44:15	Makoto	...	00:45:11;
+
+[PlayVoice]=00:44:15	Voice04/04-SB/04-SB-C08/04-SB-C08-0120	1	xxx	00:45:11;
+
+[PrintText]=00:45:12	Kotonoha	You wouldn't, would you...? I only wanted to ask you for the sake of it.	00:49:20;
+
+[PlayVoice]=00:45:12	Voice04/04-SB/04-SB-C08/04-SB-C08-0130	0	kot	00:49:20;
+
+[PlaySe]=00:50:01	2	SysSe/SE_all/station_train/train_start	00:54:00;
+
+[CreateBG]=00:50:01	BGS	Event04/04-SB/04-SB-C00/04-SB-C00-001	00:54:00;
+
+[PrintText]=00:52:16	Kotonoha	Makoto-kun...	00:53:20;
+
+[PlayVoice]=00:52:16	Voice04/04-SB/04-SB-C08/04-SB-C08-0150	0	kot	00:53:20;
+
+ ;
+
+[Next]=00:54:00;
+

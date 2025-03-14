@@ -1,0 +1,48 @@
+[SkipFRAME]=00:26:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:26:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-L05/04-SA-L05-001	00:11:05;
+
+[PrintText]=00:00:00	Sekai	You're thinking too hard about it.	00:02:09;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-L05/04-SA-L05-0030	0	sek	00:02:09;
+
+[PrintText]=00:02:09	Kotonoha	I hope that's the case...	00:04:08;
+
+[PlayVoice]=00:02:09	Voice04/04-SA/04-SA-L05/04-SA-L05-0040	0	kot	00:04:08;
+
+[PrintText]=00:04:08	Sekai	Besides, Setsuna transferred out last week, so even if she did like Makoto, there's nothing she can do about it now.	00:11:09;
+
+[PlayVoice]=00:04:08	Voice04/04-SA/04-SA-L05/04-SA-L05-0050	0	sek	00:11:09;
+
+[CreateBG]=00:11:05	BGS	Event04/04-SA/04-SA-L05/04-SA-L05-002	00:17:02;
+
+[PrintText]=00:11:09	Kotonoha	No! If Makoto-kun loved her too, I think the two of them would continue to feel the same way.	00:17:03;
+
+[PlayVoice]=00:11:09	Voice04/04-SA/04-SA-L05/04-SA-L05-0060	0	kot	00:17:03;
+
+[CreateBG]=00:17:02	BGS	Event04/04-SA/04-SA-L05/04-SA-L05-003	00:22:15;
+
+[PrintText]=00:17:03	Sekai	Oh, sheesh. You really do think too much.	00:20:00;
+
+[PlayVoice]=00:17:03	Voice04/04-SA/04-SA-L05/04-SA-L05-0070	0	sek	00:20:00;
+
+[PrintText]=00:20:00	Kotonoha	But...	00:21:07;
+
+[PlayVoice]=00:20:00	Voice04/04-SA/04-SA-L05/04-SA-L05-0080	0	kot	00:21:07;
+
+[PrintText]=00:21:07	Sekai	It's Makoto we're talking about.	00:22:15;
+
+[PlayVoice]=00:21:07	Voice04/04-SA/04-SA-L05/04-SA-L05-0090	0	sek	00:22:15;
+
+[CreateBG]=00:22:15	BGS	Event04/04-SA/04-SA-L05/04-SA-L05-004	00:26:04;
+
+[PrintText]=00:22:15	Kotonoha	Yes, but...	00:24:18;
+
+[PlayVoice]=00:22:15	Voice04/04-SA/04-SA-L05/04-SA-L05-0100	0	kot	00:24:18;
+
+ ;
+
+[Next]=00:26:04;
+

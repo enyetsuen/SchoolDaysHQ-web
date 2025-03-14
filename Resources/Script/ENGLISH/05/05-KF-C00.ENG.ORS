@@ -1,0 +1,166 @@
+[SkipFRAME]=01:39:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:45:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-001	00:02:00;
+
+[PrintText]=00:01:13	Makoto	Morning.	00:03:09;
+
+[PlayVoice]=00:01:13	Voice05/05-KF/05-KF-C00/05-KF-C00-0030	1	mak	00:03:09;
+
+[CreateBG]=00:02:00	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-002	00:08:13;
+
+[PrintText]=00:03:00	Taisuke	Hey. You sure are early today.	00:05:08;
+
+[PlayVoice]=00:03:00	Voice05/05-KF/05-KF-C00/05-KF-C00-0040	1	tai	00:05:08;
+
+[PrintText]=00:04:14	Makoto	Yeah... fwah.	00:10:07;
+
+[PlayVoice]=00:04:14	Voice05/05-KF/05-KF-C00/05-KF-C00-0050	1	mak	00:10:07;
+
+[CreateBG]=00:08:13	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-003	00:24:06;
+
+[PrintText]=00:08:13	Taisuke	Hmn? Not getting enough sleep? ...Or any at all?	00:12:19;
+
+[PlayVoice]=00:08:13	Voice05/05-KF/05-KF-C00/05-KF-C00-0060	1	tai	00:12:19;
+
+[PrintText]=00:12:08	Makoto	I was feeling drowsy, but for some reason, I couldn't fall asleep.	00:17:19;
+
+[PlayVoice]=00:12:08	Voice05/05-KF/05-KF-C00/05-KF-C00-0070	1	mak	00:17:19;
+
+[PrintText]=00:17:03	Taisuke	Yeah, well, there's a lot of classes you can't afford to sleep through today.	00:21:07;
+
+[PlayVoice]=00:17:03	Voice05/05-KF/05-KF-C00/05-KF-C00-0080	1	tai	00:21:07;
+
+[PrintText]=00:20:15	Makoto	I know.	00:22:23;
+
+[PlayVoice]=00:20:15	Voice05/05-KF/05-KF-C00/05-KF-C00-0090	1	mak	00:22:23;
+
+[PrintText]=00:22:15	Taisuke	Haha, right.	00:24:13;
+
+[PlayVoice]=00:22:15	Voice05/05-KF/05-KF-C00/05-KF-C00-0100	1	tai	00:24:13;
+
+[CreateBG]=00:24:06	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-004	00:45:13;
+
+[PrintText]=00:24:06	Makoto	...You sure are cheerful.	00:26:22;
+
+[PlayVoice]=00:24:06	Voice05/05-KF/05-KF-C00/05-KF-C00-0110	1	mak	00:26:22;
+
+[PrintText]=00:26:16	Taisuke	Yeah, I just went and asked Sekai outright. I told her I wanted to give her a present that she'd like!	00:33:18;
+
+[PlayVoice]=00:26:16	Voice05/05-KF/05-KF-C00/05-KF-C00-0120	1	tai	00:33:18;
+
+[PrintText]=00:33:06	Makoto	A-ah.	00:35:15;
+
+[PlayVoice]=00:33:06	Voice05/05-KF/05-KF-C00/05-KF-C00-0130	1	mak	00:35:15;
+
+[PrintText]=00:35:05	Taisuke	You know what she said? 'Anything's fine.'	00:38:21;
+
+[PlayVoice]=00:35:05	Voice05/05-KF/05-KF-C00/05-KF-C00-0140	1	tai	00:38:21;
+
+[PrintText]=00:38:12	Makoto	R-really.	00:40:16;
+
+[PlayVoice]=00:38:12	Voice05/05-KF/05-KF-C00/05-KF-C00-0150	1	mak	00:40:16;
+
+[PrintText]=00:40:06	Taisuke	In other words, she doesn't care what it is, as long as it's from me!	00:45:12;
+
+[PlayVoice]=00:40:06	Voice05/05-KF/05-KF-C00/05-KF-C00-0160	1	tai	00:45:12;
+
+[PrintText]=00:45:10	Makoto	...You think so?	00:47:06;
+
+[PlayVoice]=00:45:10	Voice05/05-KF/05-KF-C00/05-KF-C00-0170	1	mak	00:47:06;
+
+[CreateBG]=00:45:13	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-002	01:02:18;
+
+[PrintText]=00:46:18	Taisuke	Yeah. My sister says her boyfriend uses that line all the time!	00:52:00;
+
+[PlayVoice]=00:46:18	Voice05/05-KF/05-KF-C00/05-KF-C00-0180	1	tai	00:52:00;
+
+[PrintText]=00:51:09	Makoto	I see. You know, your sister is...	00:56:01;
+
+[PlayVoice]=00:51:09	Voice05/05-KF/05-KF-C00/05-KF-C00-0190	1	mak	00:56:01;
+
+[PrintText]=00:55:10	Taisuke	She said she wanted to talk at lunch, too. Maybe she wants to plan for Christmas!	01:02:18;
+
+[PlayVoice]=00:55:10	Voice05/05-KF/05-KF-C00/05-KF-C00-0200	1	tai	01:02:18;
+
+[CreateBG]=01:02:18	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-006	01:09:08;
+
+[PrintText]=01:02:18	Makoto	...	01:05:00;
+
+[PlayVoice]=01:02:18	Voice05/05-KF/05-KF-C00/05-KF-C00-0210	1	xxx	01:05:00;
+
+[PrintText]=01:04:10	Taisuke	So there you have it. Full steam ahead towards Christmas! Woohoo!	01:11:19;
+
+[PlayVoice]=01:04:10	Voice05/05-KF/05-KF-C00/05-KF-C00-0220	1	tai	01:11:19;
+
+[CreateBG]=01:09:08	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-007	01:14:08;
+
+[PlaySe]=01:11:06	2	SysSe/SE_all/footsteps/asioto_out_run	01:13:19;
+
+[PrintText]=01:11:18	Makoto	...	01:14:00;
+
+[PlayVoice]=01:11:18	Voice05/05-KF/05-KF-C00/05-KF-C00-0240	1	xxx	01:14:00;
+
+[PlaySe]=01:14:08	3	SysSe/SE_all/school/tyakuseki	01:15:17;
+
+[CreateBG]=01:14:08	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-008	01:19:22;
+
+[PrintText]=01:15:17	Sekai	Morning.	01:16:21;
+
+[PlayVoice]=01:15:17	Voice05/05-KF/05-KF-C00/05-KF-C00-0260	0	sek	01:16:21;
+
+[PrintText]=01:16:09	Makoto	Hey, morning.	01:19:05;
+
+[PlayVoice]=01:16:09	Voice05/05-KF/05-KF-C00/05-KF-C00-0270	1	mak	01:19:05;
+
+[PrintText]=01:18:19	Sekai	Uh-huh.	01:19:20;
+
+[PlayVoice]=01:18:19	Voice05/05-KF/05-KF-C00/05-KF-C00-0280	0	sek	01:19:20;
+
+[CreateBG]=01:19:22	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-009	01:35:03;
+
+[PrintText]=01:19:22	Makoto	...	01:21:18;
+
+[PlayVoice]=01:19:22	Voice05/05-KF/05-KF-C00/05-KF-C00-0290	1	xxx	01:21:18;
+
+[PrintText]=01:22:02	Sekai	...	01:22:20;
+
+[PlayVoice]=01:22:02	Voice05/05-KF/05-KF-C00/05-KF-C00-0300	0	xxx	01:22:20;
+
+[PrintText]=01:22:21	Makoto	Just now, Taisuke...	01:25:16;
+
+[PlayVoice]=01:22:21	Voice05/05-KF/05-KF-C00/05-KF-C00-0310	1	mak	01:25:16;
+
+[PrintText]=01:25:06	Sekai	Yeah...	01:26:01;
+
+[PlayVoice]=01:25:06	Voice05/05-KF/05-KF-C00/05-KF-C00-0320	0	sek	01:26:01;
+
+[PrintText]=01:26:06	Makoto	About that Christmas present...	01:29:12;
+
+[PlayVoice]=01:26:06	Voice05/05-KF/05-KF-C00/05-KF-C00-0330	1	mak	01:29:12;
+
+[PrintText]=01:29:07	Sekai	He looked so happy that I couldn't tell him.	01:33:13;
+
+[PlayVoice]=01:29:07	Voice05/05-KF/05-KF-C00/05-KF-C00-0340	0	sek	01:33:13;
+
+[PrintText]=01:33:15	Makoto	...I see.	01:35:09;
+
+[PlayVoice]=01:33:15	Voice05/05-KF/05-KF-C00/05-KF-C00-0350	1	mak	01:35:09;
+
+[CreateBG]=01:35:03	BGS	Event05/05-KF/05-KF-C00/05-KF-C00-010	01:45:17;
+
+[PrintText]=01:35:03	Sekai	But I will! I'm planning to tell him at lunchtime!	01:38:05;
+
+[PlayVoice]=01:35:03	Voice05/05-KF/05-KF-C00/05-KF-C00-0360	0	sek	01:38:05;
+
+[PrintText]=01:37:20	Makoto	...	01:40:04;
+
+[PlayVoice]=01:37:20	Voice05/05-KF/05-KF-C00/05-KF-C00-0370	1	xxx	01:40:04;
+
+[SetSELECT]=01:39:12	'Planning?!'	'Uh-huh'	01:44:12;
+
+ ;
+
+[Next]=01:45:17;
+

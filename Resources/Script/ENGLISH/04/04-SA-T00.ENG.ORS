@@ -1,0 +1,118 @@
+[SkipFRAME]=01:06:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:06:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-001	00:01:17;
+
+[PrintText]=00:00:04	Makoto	Now, then...	00:01:17;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-T00/04-SA-T00-0050	1	mak	00:01:17;
+
+[CreateBG]=00:01:17	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-002	00:03:15;
+
+[PrintText]=00:01:21	Sekai	Ah! Katsura-san.	00:03:14;
+
+[PlayVoice]=00:01:21	Voice04/04-SA/04-SA-T00/04-SA-T00-0070	0	sek	00:03:14;
+
+[CreateBG]=00:03:15	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-003	00:07:15;
+
+[PrintText]=00:03:17	Kotonoha	Eheheh... let's go.	00:06:05;
+
+[PlayVoice]=00:03:17	Voice04/04-SA/04-SA-T00/04-SA-T00-0080	0	kot	00:06:05;
+
+[PrintText]=00:06:05	Sekai	Well, actually...	00:07:15;
+
+[PlayVoice]=00:06:05	Voice04/04-SA/04-SA-T00/04-SA-T00-0090	0	sek	00:07:15;
+
+[CreateBG]=00:07:15	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-004	00:20:15;
+
+[PrintText]=00:07:20	Kotonoha	Is something the matter?	00:09:12;
+
+[PlayVoice]=00:07:20	Voice04/04-SA/04-SA-T00/04-SA-T00-0100	0	kot	00:09:12;
+
+[PrintText]=00:09:11	Makoto	Taisuke and Kuroda already made plans to meet for lunch... would you mind if it was just the three of us?	00:16:14;
+
+[PlayVoice]=00:09:11	Voice04/04-SA/04-SA-T00/04-SA-T00-0110	1	mak	00:16:14;
+
+[PrintText]=00:16:15	Kotonoha	Ah... well, if that's the case...	00:19:16;
+
+[PlayVoice]=00:16:15	Voice04/04-SA/04-SA-T00/04-SA-T00-0120	0	kot	00:19:16;
+
+[PrintText]=00:19:15	Sekai	Sorry.	00:20:15;
+
+[PlayVoice]=00:19:15	Voice04/04-SA/04-SA-T00/04-SA-T00-0130	0	sek	00:20:15;
+
+[CreateBG]=00:20:15	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-005	00:26:03;
+
+[PrintText]=00:20:20	Kotonoha	That's all right. I've always thought Sawanaga-san and Kuroda-san would make a nice couple.	00:26:01;
+
+[PlayVoice]=00:20:20	Voice04/04-SA/04-SA-T00/04-SA-T00-0140	0	kot	00:26:01;
+
+[CreateBG]=00:26:03	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-006	00:35:15;
+
+[PrintText]=00:26:07	Makoto	Well, let's head for the roof.	00:27:21;
+
+[PlayVoice]=00:26:07	Voice04/04-SA/04-SA-T00/04-SA-T00-0150	1	mak	00:27:21;
+
+[PrintText]=00:27:23	Sekai	Yeah. It's warm today, so the roof should be nice.	00:31:20;
+
+[PlayVoice]=00:27:23	Voice04/04-SA/04-SA-T00/04-SA-T00-0160	0	sek	00:31:20;
+
+[PrintText]=00:31:23	Kotonoha	I've made some black tea.	00:34:10;
+
+[PlayVoice]=00:31:23	Voice04/04-SA/04-SA-T00/04-SA-T00-0170	0	kot	00:34:10;
+
+[PrintText]=00:34:07	Sekai	I can't wait.	00:35:18;
+
+[PlayVoice]=00:34:07	Voice04/04-SA/04-SA-T00/04-SA-T00-0180	0	sek	00:35:18;
+
+[CreateBG]=00:35:15	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-007	00:48:04;
+
+[PrintText]=00:36:10	Committee Rep	Class representatives, please come to the student council room during lunch to pick up handouts for your class.	00:48:05;
+
+[PlayVoice]=00:36:10	Voice04/04-SA/04-SA-T00/04-SA-T00-0190	0	jin	00:48:05;
+
+[CreateBG]=00:48:04	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-008	00:49:07;
+
+[PrintText]=00:48:05	Kotonoha	Ah...	00:48:23;
+
+[PlayVoice]=00:48:05	Voice04/04-SA/04-SA-T00/04-SA-T00-0200	0	kot	00:48:23;
+
+[CreateBG]=00:49:07	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-009	00:53:03;
+
+[PrintText]=00:49:08	Makoto	I'll hold the water bottle, so just finish up quickly and come back.	00:52:17;
+
+[PlayVoice]=00:49:08	Voice04/04-SA/04-SA-T00/04-SA-T00-0210	1	mak	00:52:17;
+
+[PrintText]=00:52:09	Kotonoha	Okay.	00:53:03;
+
+[PlayVoice]=00:52:09	Voice04/04-SA/04-SA-T00/04-SA-T00-0220	0	kot	00:53:03;
+
+[CreateBG]=00:53:03	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-010	01:01:15;
+
+[PrintText]=00:53:14	Sekai	Would have been nice if she had given us the bread, too.	00:56:06;
+
+[PlayVoice]=00:53:14	Voice04/04-SA/04-SA-T00/04-SA-T00-0240	0	sek	00:56:06;
+
+[PrintText]=00:56:07	Makoto	Well, she was in a hurry, right? After all, it's the first time the three of us have eaten together in a while.	01:00:15;
+
+[PlayVoice]=00:56:07	Voice04/04-SA/04-SA-T00/04-SA-T00-0250	1	mak	01:00:15;
+
+[PrintText]=01:00:16	Sekai	I see...	01:01:14;
+
+[PlayVoice]=01:00:16	Voice04/04-SA/04-SA-T00/04-SA-T00-0260	0	sek	01:01:14;
+
+[CreateBG]=01:01:15	BGS	Event04/04-SA/04-SA-T00/04-SA-T00-011	01:06:15;
+
+[PrintText]=01:01:22	Makoto	Well, let's go on ahead.	01:03:15;
+
+[PlayVoice]=01:01:22	Voice04/04-SA/04-SA-T00/04-SA-T00-0270	1	mak	01:03:15;
+
+[PrintText]=01:03:17	Sekai	Okay.	01:04:09;
+
+[PlayVoice]=01:03:17	Voice04/04-SA/04-SA-T00/04-SA-T00-0280	0	sek	01:04:09;
+
+ ;
+
+[Next]=01:06:15;
+

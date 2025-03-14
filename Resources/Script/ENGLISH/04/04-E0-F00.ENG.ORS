@@ -1,0 +1,238 @@
+[SkipFRAME]=02:35:15;
+
+[PlaySe]=00:00:00	1	Se04/04-E0/04-E0-F00/SE04-E0-F00-001	01:53:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-001	00:01:05;
+
+[CreateBG]=00:01:05	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-002	00:08:13;
+
+[PrintText]=00:01:05	Makoto	Haah... we boys have basketball today, but I think I might have hurt my knee a little... ow...	00:08:12;
+
+[PlayVoice]=00:01:05	Voice04/04-E0/04-E0-F00/04-E0-F00-0040	1	mak	00:08:12;
+
+[CreateBG]=00:08:13	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-003	00:23:21;
+
+[PrintText]=00:08:13	Sekai	I see...	00:09:10;
+
+[PlayVoice]=00:08:13	Voice04/04-E0/04-E0-F00/04-E0-F00-0050	0	sek	00:09:10;
+
+[PlayBgm]=00:09:10	BGM/SD_BGM/sdbgm20	02:35:15;
+
+[PrintText]=00:09:10	Makoto	You seem kind of down, huh?	00:10:18;
+
+[PlayVoice]=00:09:10	Voice04/04-E0/04-E0-F00/04-E0-F00-0060	1	mak	00:10:18;
+
+[PrintText]=00:10:18	Sekai	Not really.	00:12:06;
+
+[PlayVoice]=00:10:18	Voice04/04-E0/04-E0-F00/04-E0-F00-0070	0	sek	00:12:06;
+
+[PrintText]=00:12:06	Makoto	Is it because of yesterday's conversation with Kotonoha?	00:14:20;
+
+[PlayVoice]=00:12:06	Voice04/04-E0/04-E0-F00/04-E0-F00-0080	1	mak	00:14:20;
+
+[PrintText]=00:14:21	Sekai	There's that, but... you and your g... no, it's nothing.	00:22:06;
+
+[PlayVoice]=00:14:21	Voice04/04-E0/04-E0-F00/04-E0-F00-0090	0	sek	00:22:06;
+
+[PrintText]=00:22:06	Makoto	Hmn...?	00:23:03;
+
+[PlayVoice]=00:22:06	Voice04/04-E0/04-E0-F00/04-E0-F00-0100	1	mak	00:23:03;
+
+[PrintText]=00:23:03	Sekai	Haah...	00:23:21;
+
+[PlayVoice]=00:23:03	Voice04/04-E0/04-E0-F00/04-E0-F00-0110	0	sek	00:23:21;
+
+[CreateBG]=00:23:21	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-004	00:32:03;
+
+[PrintText]=00:23:21	Makoto	Ah... come to think of it...	00:25:21;
+
+[PlayVoice]=00:23:21	Voice04/04-E0/04-E0-F00/04-E0-F00-0120	1	mak	00:25:21;
+
+[PrintText]=00:25:21	Sekai	Huh?	00:26:17;
+
+[PlayVoice]=00:25:21	Voice04/04-E0/04-E0-F00/04-E0-F00-0130	0	sek	00:26:17;
+
+[PrintText]=00:26:17	Makoto	What's up with Katou?	00:28:06;
+
+[PlayVoice]=00:26:17	Voice04/04-E0/04-E0-F00/04-E0-F00-0140	1	mak	00:28:06;
+
+[PrintText]=00:28:07	Sekai	Eh?	00:28:20;
+
+[PlayVoice]=00:28:07	Voice04/04-E0/04-E0-F00/04-E0-F00-0150	0	sek	00:28:20;
+
+[PrintText]=00:28:19	Makoto	I heard that you've been asking about her.	00:32:03;
+
+[PlayVoice]=00:28:19	Voice04/04-E0/04-E0-F00/04-E0-F00-0160	1	mak	00:32:03;
+
+[CreateBG]=00:32:03	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-004B	00:34:01;
+
+[PrintText]=00:32:03	Sekai	N-no, I haven't.	00:34:01;
+
+[PlayVoice]=00:32:03	Voice04/04-E0/04-E0-F00/04-E0-F00-0170	0	sek	00:34:01;
+
+[CreateBG]=00:34:01	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-004C	00:34:23;
+
+[PrintText]=00:34:01	Makoto	Really?	00:34:22;
+
+[PlayVoice]=00:34:01	Voice04/04-E0/04-E0-F00/04-E0-F00-0180	1	mak	00:34:22;
+
+[CreateBG]=00:34:23	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-005	00:41:00;
+
+[PrintText]=00:34:23	Sekai	...Who'd you hear that from?	00:36:09;
+
+[PlayVoice]=00:34:23	Voice04/04-E0/04-E0-F00/04-E0-F00-0190	0	sek	00:36:09;
+
+[PrintText]=00:36:09	Makoto	Oh, Katou told me just then.	00:39:01;
+
+[PlayVoice]=00:36:09	Voice04/04-E0/04-E0-F00/04-E0-F00-0200	1	mak	00:39:01;
+
+[PrintText]=00:39:01	Sekai	I knew it. You and Katou-san are...	00:41:00;
+
+[PlayVoice]=00:39:01	Voice04/04-E0/04-E0-F00/04-E0-F00-0210	0	sek	00:41:00;
+
+[CreateBG]=00:41:00	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-006	00:45:07;
+
+[PrintText]=00:41:00	Makoto	Not this again. Just cut it out, okay? I...	00:45:06;
+
+[PlayVoice]=00:41:00	Voice04/04-E0/04-E0-F00/04-E0-F00-0220	1	mak	00:45:06;
+
+[CreateBG]=00:45:07	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-007	01:03:13;
+
+[PrintText]=00:45:07	Sekai	You love her, don't you?!	00:48:21;
+
+[PlayVoice]=00:45:07	Voice04/04-E0/04-E0-F00/04-E0-F00-0230	0	sek	00:48:21;
+
+[PrintText]=00:48:21	Makoto	H-hey...	00:50:08;
+
+[PlayVoice]=00:48:21	Voice04/04-E0/04-E0-F00/04-E0-F00-0250	1	mak	00:50:08;
+
+[PrintText]=00:50:09	Sekai	I know all about it! About how you tell me you love me, and yet you're secretly going out with her!	00:56:08;
+
+[PlayVoice]=00:50:09	Voice04/04-E0/04-E0-F00/04-E0-F00-0260	0	sek	00:56:08;
+
+[PrintText]=00:56:09	Sekai	And how you stayed up until dawn flirting on the phone!	01:00:09;
+
+[PlayVoice]=00:56:09	Voice04/04-E0/04-E0-F00/04-E0-F00-0261	0	sek	01:00:09;
+
+[PrintText]=01:00:08	Makoto	Hey... you've got it all wrong. I haven't done any of that.	01:03:12;
+
+[PlayVoice]=01:00:08	Voice04/04-E0/04-E0-F00/04-E0-F00-0270	1	mak	01:03:12;
+
+[CreateBG]=01:03:13	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-008	01:18:05;
+
+[PrintText]=01:03:13	Sekai	You just keep lying! You're cheating on me!	01:07:08;
+
+[PlayVoice]=01:03:13	Voice04/04-E0/04-E0-F00/04-E0-F00-0280	0	sek	01:07:08;
+
+[PrintText]=01:07:07	Makoto	You say you know about it...? Seriously, you're mistaken. I don't know who's been spreading these rumors, but...	01:13:14;
+
+[PlayVoice]=01:07:07	Voice04/04-E0/04-E0-F00/04-E0-F00-0290	1	mak	01:13:14;
+
+[PrintText]=01:13:15	Sekai	There you go again, thinking you can fool me by playing dumb... that's not fair, Makoto.	01:21:02;
+
+[PlayVoice]=01:13:15	Voice04/04-E0/04-E0-F00/04-E0-F00-0300	0	sek	01:21:02;
+
+[CreateBG]=01:18:05	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-009	01:25:08;
+
+[PrintText]=01:21:02	Makoto	Hey, listen...	01:22:06;
+
+[PlayVoice]=01:21:02	Voice04/04-E0/04-E0-F00/04-E0-F00-0310	1	mak	01:22:06;
+
+[PrintText]=01:22:07	Sekai	That's why you won't even kiss me!	01:25:08;
+
+[PlayVoice]=01:22:07	Voice04/04-E0/04-E0-F00/04-E0-F00-0320	0	sek	01:25:08;
+
+[CreateBG]=01:25:08	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-010	01:27:10;
+
+[PrintText]=01:25:08	Makoto	I've kissed you before, haven't I?	01:27:11;
+
+[PlayVoice]=01:25:08	Voice04/04-E0/04-E0-F00/04-E0-F00-0330	1	mak	01:27:11;
+
+[CreateBG]=01:27:10	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-011	01:38:08;
+
+[PrintText]=01:27:12	Sekai	All you've ever done is kiss me back!	01:29:18;
+
+[PlayVoice]=01:27:12	Voice04/04-E0/04-E0-F00/04-E0-F00-0340	0	sek	01:29:18;
+
+[PrintText]=01:29:17	Makoto	I don't know what to tell you... I'll do it later, then.	01:33:12;
+
+[PlayVoice]=01:29:17	Voice04/04-E0/04-E0-F00/04-E0-F00-0350	1	mak	01:33:12;
+
+[PrintText]=01:33:12	Sekai	But you won't! You're saving it all up for Katou-san!	01:38:07;
+
+[PlayVoice]=01:33:12	Voice04/04-E0/04-E0-F00/04-E0-F00-0360	0	sek	01:38:07;
+
+[CreateBG]=01:38:08	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-012	01:44:14;
+
+[PrintText]=01:38:08	Makoto	That's ridiculous...	01:40:09;
+
+[PlayVoice]=01:38:08	Voice04/04-E0/04-E0-F00/04-E0-F00-0370	1	mak	01:40:09;
+
+[PrintText]=01:40:10	Sekai	If you really want to, then do it right here, right now!	01:44:14;
+
+[PlayVoice]=01:40:10	Voice04/04-E0/04-E0-F00/04-E0-F00-0380	0	sek	01:44:14;
+
+[CreateBG]=01:44:14	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-013	01:52:01;
+
+[PrintText]=01:44:14	Makoto	Hold on... there's no way I could do it right now. Just look around you. Everyone's looking at us...	01:51:23;
+
+[PlayVoice]=01:44:14	Voice04/04-E0/04-E0-F00/04-E0-F00-0390	1	mak	01:51:23;
+
+[PrintText]=01:52:00	Sekai	Even though you've already had sex with Katsura-san!	01:54:12;
+
+[PlayVoice]=01:52:00	Voice04/04-E0/04-E0-F00/04-E0-F00-0400	0	sek	01:54:12;
+
+[CreateBG]=01:52:01	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-014	02:03:09;
+
+[PrintText]=01:55:21	Sekai	I'll bet it's not just phone calls. You've done it with Katou-san too, haven't you?! So why won't you do it with me?	02:03:09;
+
+[PlayVoice]=01:55:21	Voice04/04-E0/04-E0-F00/04-E0-F00-0420	0	sek	02:03:09;
+
+[PrintText]=02:03:08	Makoto	Well, I mean... we've only been going out for two days...	02:08:14;
+
+[PlayVoice]=02:03:08	Voice04/04-E0/04-E0-F00/04-E0-F00-0430	1	mak	02:08:14;
+
+[CreateBG]=02:03:09	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-015	02:20:00;
+
+[PrintText]=02:08:14	Sekai	You don't love me... you don't find someone like me attractive...	02:14:15;
+
+[PlayVoice]=02:08:14	Voice04/04-E0/04-E0-F00/04-E0-F00-0440	0	sek	02:14:15;
+
+[PrintText]=02:14:15	Makoto	S-Sekai... calm down... l-let's talk over there, okay?	02:20:00;
+
+[PlayVoice]=02:14:15	Voice04/04-E0/04-E0-F00/04-E0-F00-0450	1	mak	02:20:00;
+
+[PlaySe]=02:19:19	1	SysSe/SE_all/action/naguru1	02:20:05;
+
+[CreateBG]=02:20:00	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-016	02:20:18;
+
+[PrintText]=02:20:00	Sekai	Don't touch me!	02:21:22;
+
+[PlayVoice]=02:20:00	Voice04/04-E0/04-E0-F00/04-E0-F00-0470	0	sek	02:21:22;
+
+[CreateBG]=02:20:18	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-017	02:21:22;
+
+[CreateBG]=02:21:22	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-018	02:23:13;
+
+[PrintText]=02:21:22	Makoto	Ah...	02:23:11;
+
+[PlayVoice]=02:21:22	Voice04/04-E0/04-E0-F00/04-E0-F00-0490	1	mak	02:23:11;
+
+[PrintText]=02:23:11	Sekai	You cheater... I hate you...	02:28:16;
+
+[PlayVoice]=02:23:11	Voice04/04-E0/04-E0-F00/04-E0-F00-0500	0	sek	02:28:16;
+
+[CreateBG]=02:23:13	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-019	02:27:22;
+
+[CreateBG]=02:27:22	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-021	02:29:23;
+
+[PlayVoice]=02:28:19	Voice04/04-E0/04-E0-F00/04-E0-F00-0510			02:35:04;
+
+[CreateBG]=02:29:23	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-022	02:30:19;
+
+[CreateBG]=02:30:19	BGS	Event04/04-E0/04-E0-F00/04-E0-F00-023	02:35:14;
+
+ ;
+
+[Next]=02:35:15;
+

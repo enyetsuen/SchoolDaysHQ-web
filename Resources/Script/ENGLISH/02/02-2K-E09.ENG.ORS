@@ -1,0 +1,22 @@
+[SkipFRAME]=00:11:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:11:21;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E09/02-2K-E09-001	00:05:00;
+
+[PlaySe]=00:00:03	1	SysSe/SE_all/keitai/keitai_vib	00:05:00;
+
+[CreateBG]=00:05:00	BGS	Event02/02-2K/02-2K-E09/02-2K-E09-002	00:08:08;
+
+[CreateBG]=00:08:08	BGS	Event02/02-2K/02-2K-E09/02-2K-E09-003	00:11:21;
+
+[PrintText]=00:08:22	Sekai	...	00:09:11;
+
+[PlayVoice]=00:08:22	Voice02/02-2K/02-2K-E09/02-2K-E09-0050	0	xxx	00:09:11;
+
+[BlackFade]=00:10:21	OUT	00:11:21;
+
+ ;
+
+[Next]=00:11:21;
+

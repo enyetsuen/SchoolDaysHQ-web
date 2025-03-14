@@ -1,0 +1,48 @@
+[SkipFRAME]=00:27:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:33:16;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-E01/03-KB-E01-001	00:19:04;
+
+[PrintText]=00:00:00	Taisuke	It doesn't matter who your girlfriend is. I just didn't want to invite Saionji without checking if it was okay with you.	00:08:09;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-E01/03-KB-E01-0030	1	tai	00:08:09;
+
+[PrintText]=00:08:09	Makoto	...	00:09:14;
+
+[PlayVoice]=00:08:09	Voice03/03-KB/03-KB-E01/03-KB-E01-0040	1	xxx	00:09:14;
+
+[PrintText]=00:09:14	Taisuke	But now that I know you aren't going out with her,	00:12:14;
+
+[PlayVoice]=00:09:14	Voice03/03-KB/03-KB-E01/03-KB-E01-0050	1	tai	00:16:03;
+
+[PrintText]=00:12:14	Taisuke	I think I'll be able to work up the courage to ask her out tomorrow.	00:16:03;
+
+[PrintText]=00:16:02	Makoto	...Yeah.	00:17:00;
+
+[PlayVoice]=00:16:02	Voice03/03-KB/03-KB-E01/03-KB-E01-0060	1	mak	00:17:00;
+
+[PrintText]=00:17:00	Taisuke	Sorry about calling you for something weird like this.	00:19:04;
+
+[PlayVoice]=00:17:00	Voice03/03-KB/03-KB-E01/03-KB-E01-0070	1	tai	00:19:04;
+
+[CreateBG]=00:19:04	BGS	Event03/03-KB/03-KB-E01/03-KB-E01-002	00:33:16;
+
+[PrintText]=00:19:04	Makoto	T-that's okay...	00:21:07;
+
+[PlayVoice]=00:19:04	Voice03/03-KB/03-KB-E01/03-KB-E01-0080	1	mak	00:21:07;
+
+[PrintText]=00:21:07	Taisuke	I'm going to give it my best shot tomorrow. Just watch me.	00:26:11;
+
+[PlayVoice]=00:21:07	Voice03/03-KB/03-KB-E01/03-KB-E01-0090	1	tai	00:26:11;
+
+[PrintText]=00:26:11	Makoto	...	00:27:15;
+
+[PlayVoice]=00:26:11	Voice03/03-KB/03-KB-E01/03-KB-E01-0100	1	xxx	00:27:15;
+
+[SetSELECT]=00:27:15	'Wait'	null	00:32:15;
+
+ ;
+
+[Next]=00:33:16;
+

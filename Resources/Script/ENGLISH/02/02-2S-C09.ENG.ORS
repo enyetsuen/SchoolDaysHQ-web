@@ -1,0 +1,34 @@
+[SkipFRAME]=00:21:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:21:21;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-002	00:05:17;
+
+[CreateBG]=00:05:17	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-003	00:08:08;
+
+[CreateBG]=00:08:08	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-004	00:11:06;
+
+[CreateBG]=00:11:06	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-005	00:13:07;
+
+[CreateBG]=00:13:07	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-005B	00:14:02;
+
+[CreateBG]=00:14:02	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-005C	00:16:17;
+
+[PrintText]=00:14:02	Kotonoha	"From: Katsura Kotonoha\nSub: I'll be late\nI'm so sorry!"	00:14:23;
+
+[PrintText]=00:14:23	Kotonoha	"I'm so sorry! There's a short-notice student rep meeting today, so I'm going to be about 20 minutes late."	00:16:16;
+
+[CreateBG]=00:16:17	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-005D	00:18:15;
+
+[PrintText]=00:16:17	Makoto	"To: Saionji Sekai\nSub: Fwd: I'll be late\nText: I'm sorry!"	00:18:14;
+
+[CreateBG]=00:18:15	BGS	Event02/02-2S/02-2S-C09/02-2S-C09-006	00:21:21;
+
+[BlackFade]=00:20:21	OUT	00:21:21;
+
+ ;
+
+[Next]=00:21:21;
+

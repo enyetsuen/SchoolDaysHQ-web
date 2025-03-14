@@ -1,0 +1,42 @@
+[SkipFRAME]=00:34:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:34:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/footsteps/asioto_okugai	00:07:12;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/beach1	00:34:23;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-H03/05-KF-H03-002	00:08:20;
+
+[PrintText]=00:00:00	Makoto	I didn't do a good job of explaining, so I'm not sure she's really accepted it.	00:07:12;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-H05/05-KF-H05-0030	1	mak	00:07:12;
+
+[PrintText]=00:07:12	Sekai	What do you mean?	00:08:20;
+
+[PlayVoice]=00:07:12	Voice05/05-KF/05-KF-H05/05-KF-H05-0040	0	sek	00:08:20;
+
+[CreateBG]=00:08:20	BGS	Event05/05-KF/05-KF-H05/05-KF-H05-002	00:27:05;
+
+[PrintText]=00:08:20	Makoto	W-well... she might be under the impression that I was joking.	00:16:14;
+
+[PlayVoice]=00:08:20	Voice05/05-KF/05-KF-H05/05-KF-H05-0050	1	mak	00:16:14;
+
+[PrintText]=00:16:14	Sekai	Ah... yeah, Katsura-san is sort of like that. I'll bet she could never imagine you not liking her.	00:27:03;
+
+[PlayVoice]=00:16:14	Voice05/05-KF/05-KF-H05/05-KF-H05-0060	0	sek	00:27:03;
+
+[PrintText]=00:27:03	Makoto	Yeah, that's right.	00:31:11;
+
+[PlayVoice]=00:27:03	Voice05/05-KF/05-KF-H05/05-KF-H05-0070	1	mak	00:31:11;
+
+[CreateBG]=00:27:05	BGS	Event05/05-KF/05-KF-H05/05-KF-H05-003	00:34:23;
+
+[PrintText]=00:31:11	Sekai	It's hard, isn't it?	00:32:22;
+
+[PlayVoice]=00:31:11	Voice05/05-KF/05-KF-H05/05-KF-H05-0080	0	sek	00:32:22;
+
+ ;
+
+[Next]=00:34:23;
+

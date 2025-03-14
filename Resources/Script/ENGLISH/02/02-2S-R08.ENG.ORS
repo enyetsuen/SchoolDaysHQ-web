@@ -1,0 +1,128 @@
+[SkipFRAME]=01:10:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:10:23;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-R08/SE02-2S-R08-001	01:10:23;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-R08/02-2S-R08-001	00:01:19;
+
+[PrintText]=00:00:00	Otome	Katsura.	00:01:01;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-R08/02-2S-R08-0050	0	oto	00:01:01;
+
+[PrintText]=00:01:01	Kotonoha	Yes?	00:01:18;
+
+[PlayVoice]=00:01:01	Voice02/02-2S/02-2S-R08/02-2S-R08-0060	0	kot	00:01:18;
+
+[CreateBG]=00:01:19	BGS	Event02/02-2S/02-2S-R08/02-2S-R08-002	00:11:05;
+
+[PrintText]=00:01:22	Otome	Have you got a minute? I want to talk to you about the school festival.	00:05:22;
+
+[PlayVoice]=00:01:22	Voice02/02-2S/02-2S-R08/02-2S-R08-0070	0	oto	00:05:22;
+
+[PrintText]=00:06:00	Kotonoha	Eh...?	00:06:15;
+
+[PlayVoice]=00:06:00	Voice02/02-2S/02-2S-R08/02-2S-R08-0080	0	kot	00:06:15;
+
+[PrintText]=00:06:15	Otome	About how the haunted house is going to work...	00:09:01;
+
+[PlayVoice]=00:06:15	Voice02/02-2S/02-2S-R08/02-2S-R08-0090	0	oto	00:09:01;
+
+[PrintText]=00:09:02	Kotonoha	U... um...	00:11:05;
+
+[PlayVoice]=00:09:02	Voice02/02-2S/02-2S-R08/02-2S-R08-0100	0	kot	00:11:05;
+
+[CreateBG]=00:11:05	BGS	Event02/02-2S/02-2S-R08/02-2S-R08-003	00:31:08;
+
+[PrintText]=00:11:05	Otome	What? Do you have something you need to attend to?	00:14:03;
+
+[PlayVoice]=00:11:05	Voice02/02-2S/02-2S-R08/02-2S-R08-0110	0	oto	00:14:03;
+
+[PrintText]=00:14:04	Kotonoha	Yes, sort of...	00:16:10;
+
+[PlayVoice]=00:14:04	Voice02/02-2S/02-2S-R08/02-2S-R08-0120	0	kot	00:16:10;
+
+[PrintText]=00:16:10	Minami	I'll bet it's nothing important.	00:18:23;
+
+[PlayVoice]=00:16:10	Voice02/02-2S/02-2S-R08/02-2S-R08-0130	0	min	00:18:23;
+
+[PrintText]=00:18:23	Kotonoha	...	00:20:11;
+
+[PlayVoice]=00:18:23	Voice02/02-2S/02-2S-R08/02-2S-R08-0140	0	xxx	00:20:11;
+
+[PrintText]=00:20:12	Kumi	Yeah, she's got her lunchbox out. Isn't she just about to go and have lunch somewhere?	00:25:12;
+
+[PlayVoice]=00:20:12	Voice02/02-2S/02-2S-R08/02-2S-R08-0150	0	kum	00:25:12;
+
+[PrintText]=00:25:13	Natsumi	Ehhh? You don't want to talk just because you're going to have lunch?	00:30:10;
+
+[PlayVoice]=00:25:13	Voice02/02-2S/02-2S-R08/02-2S-R08-0160	0	nat	00:30:10;
+
+[PrintText]=00:30:10	Minami	Is it a guy?	00:31:08;
+
+[PlayVoice]=00:30:10	Voice02/02-2S/02-2S-R08/02-2S-R08-0170	0	min	00:31:08;
+
+[CreateBG]=00:31:08	BGS	Event02/02-2S/02-2S-R08/02-2S-R08-004	00:53:13;
+
+[PrintText]=00:31:08	Kotonoha	No, um...	00:33:14;
+
+[PlayVoice]=00:31:08	Voice02/02-2S/02-2S-R08/02-2S-R08-0180	0	kot	00:33:14;
+
+[PrintText]=00:33:12	Kumi	It's a guy.	00:35:01;
+
+[PlayVoice]=00:33:12	Voice02/02-2S/02-2S-R08/02-2S-R08-0200	0	kum	00:35:01;
+
+[PrintText]=00:35:04	Minami	She's keeping her boyfriend waiting.	00:36:21;
+
+[PlayVoice]=00:35:04	Voice02/02-2S/02-2S-R08/02-2S-R08-0210	0	min	00:36:21;
+
+[PrintText]=00:36:22	Natsumi	No wonder she doesn't have time to listen to us.	00:41:04;
+
+[PlayVoice]=00:36:22	Voice02/02-2S/02-2S-R08/02-2S-R08-0220	0	nat	00:41:04;
+
+[PrintText]=00:41:04	Minami	What's he like?	00:43:23;
+
+[PlayVoice]=00:41:04	Voice02/02-2S/02-2S-R08/02-2S-R08-0230	0	min	00:43:23;
+
+[PrintText]=00:44:00	Natsumi	What's the point in asking about her boyfriend?	00:47:16;
+
+[PlayVoice]=00:44:00	Voice02/02-2S/02-2S-R08/02-2S-R08-0240	0	nat	00:47:16;
+
+[PrintText]=00:47:16	Minami	Yeah, I guess you're right. If he actually wants to go out with Katsura, then...	00:53:13;
+
+[PlayVoice]=00:47:16	Voice02/02-2S/02-2S-R08/02-2S-R08-0250	0	min	00:53:13;
+
+[CreateBG]=00:53:13	BGS	Event02/02-2S/02-2S-R08/02-2S-R08-005	01:04:02;
+
+[PrintText]=00:53:13	Otome	Katsura. Is that true? Is your boyfriend more important than the class event?	00:59:10;
+
+[PlayVoice]=00:53:13	Voice02/02-2S/02-2S-R08/02-2S-R08-0260	0	oto	00:59:10;
+
+[PrintText]=00:59:11	Kotonoha	N-no, that's... not it.	01:02:16;
+
+[PlayVoice]=00:59:11	Voice02/02-2S/02-2S-R08/02-2S-R08-0270	0	kot	01:02:16;
+
+[PrintText]=01:02:16	Otome	Then you've got time, right?	01:04:02;
+
+[PlayVoice]=01:02:16	Voice02/02-2S/02-2S-R08/02-2S-R08-0280	0	oto	01:04:02;
+
+[CreateBG]=01:04:02	BGS	Event02/02-2S/02-2S-R08/02-2S-R08-006	01:10:23;
+
+[PrintText]=01:04:02	Kotonoha	Y-yes.	01:05:20;
+
+[PlayVoice]=01:04:02	Voice02/02-2S/02-2S-R08/02-2S-R08-0290	0	kot	01:05:20;
+
+[PrintText]=01:05:20	Otome	You don't mind, do you? It won't take long.	01:08:08;
+
+[PlayVoice]=01:05:20	Voice02/02-2S/02-2S-R08/02-2S-R08-0300	0	oto	01:08:08;
+
+[PrintText]=01:08:09	Kotonoha	...Okay.	01:09:22;
+
+[PlayVoice]=01:08:09	Voice02/02-2S/02-2S-R08/02-2S-R08-0310	0	kot	01:09:22;
+
+[BlackFade]=01:09:23	OUT	01:10:23;
+
+ ;
+
+[Next]=01:10:23;
+

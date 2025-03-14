@@ -1,0 +1,68 @@
+[SkipFRAME]=00:34:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:34:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-001	00:02:01;
+
+[PrintText]=00:00:06	Makoto	Morning.	00:01:03;
+
+[PlayVoice]=00:00:06	Voice04/04-SA/04-SA-H05/04-SA-H05-0030	1	mak	00:01:03;
+
+[PrintText]=00:01:03	Sekai	Morning.	00:02:00;
+
+[PlayVoice]=00:01:03	Voice04/04-SA/04-SA-H05/04-SA-H05-0040	0	sek	00:02:00;
+
+[CreateBG]=00:02:01	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-002	00:06:19;
+
+[PrintText]=00:02:07	Sekai	Hey, Makoto.	00:03:18;
+
+[PlayVoice]=00:02:07	Voice04/04-SA/04-SA-H05/04-SA-H05-0060	0	sek	00:03:18;
+
+[PrintText]=00:03:17	Makoto	Hmn?	00:04:09;
+
+[PlayVoice]=00:03:17	Voice04/04-SA/04-SA-H05/04-SA-H05-0070	1	mak	00:04:09;
+
+[PrintText]=00:04:10	Sekai	Are you free this lunchtime?	00:06:20;
+
+[PlayVoice]=00:04:10	Voice04/04-SA/04-SA-H05/04-SA-H05-0080	0	sek	00:06:20;
+
+[CreateBG]=00:06:19	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-003	00:09:16;
+
+[PrintText]=00:07:00	Makoto	Why? You want to have lunch together?	00:09:16;
+
+[PlayVoice]=00:07:00	Voice04/04-SA/04-SA-H05/04-SA-H05-0090	1	mak	00:09:16;
+
+[CreateBG]=00:09:16	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-004	00:12:20;
+
+[PrintText]=00:09:19	Sekai	Well, yeah, pretty much...	00:12:22;
+
+[PlayVoice]=00:09:19	Voice04/04-SA/04-SA-H05/04-SA-H05-0100	0	sek	00:12:22;
+
+[CreateBG]=00:12:20	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-005	00:14:20;
+
+[PrintText]=00:13:01	Makoto	What's the occasion?	00:14:22;
+
+[PlayVoice]=00:13:01	Voice04/04-SA/04-SA-H05/04-SA-H05-0110	1	mak	00:14:22;
+
+[CreateBG]=00:14:20	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-006	00:22:14;
+
+[PrintText]=00:14:23	Sekai	Well... Katsura-san came by just now and asked if Sawanaga, Hikari and the others wanted to have lunch together.	00:22:17;
+
+[PlayVoice]=00:14:23	Voice04/04-SA/04-SA-H05/04-SA-H05-0120	0	sek	00:22:17;
+
+[CreateBG]=00:22:14	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-007	00:25:08;
+
+[PrintText]=00:22:20	Makoto	Oh. Sure, why, not?	00:25:06;
+
+[PlayVoice]=00:22:20	Voice04/04-SA/04-SA-H05/04-SA-H05-0130	1	mak	00:25:06;
+
+[CreateBG]=00:25:08	BGS	Event04/04-SA/04-SA-H05/04-SA-H05-008	00:34:23;
+
+[PrintText]=00:25:15	Sekai	Actually... it seems Hikari and Sawanaga have suddenly gotten really close. They're already eating lunch together.	00:34:07;
+
+[PlayVoice]=00:25:15	Voice04/04-SA/04-SA-H05/04-SA-H05-0140	0	sek	00:34:07;
+
+ ;
+
+[Next]=00:34:23;
+

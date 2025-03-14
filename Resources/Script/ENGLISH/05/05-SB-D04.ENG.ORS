@@ -1,0 +1,320 @@
+[SkipFRAME]=03:53:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	03:53:12;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-001	00:29:15;
+
+[PrintText]=00:00:00	Makoto	Where the heck are we?	00:02:15;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0130	1	mak	00:02:15;
+
+[PrintText]=00:02:07	Hikari	The AV room.	00:03:16;
+
+[PlayVoice]=00:02:07	Voice05/05-SB/05-SB-D04/05-SB-D04-0140	0	hik	00:03:16;
+
+[PrintText]=00:03:01	Makoto	Why are we having lunch in the AV room?! Isn't this place supposed to be off limits?	00:09:04;
+
+[PlayVoice]=00:03:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0150	1	mak	00:09:04;
+
+[PrintText]=00:08:18	Nanami	Huh? Didn't you know? Sawanaga's in the movie club.	00:12:07;
+
+[PlayVoice]=00:08:18	Voice05/05-SB/05-SB-D04/05-SB-D04-0160	0	nan	00:12:07;
+
+[PrintText]=00:12:06	Makoto	The movie club? You mean the club which made that stupid movie for the festival...?	00:18:23;
+
+[PlayVoice]=00:12:06	Voice05/05-SB/05-SB-D04/05-SB-D04-0170	1	mak	00:18:23;
+
+[PrintText]=00:18:17	Taisuke	Don't call it stupid.	00:20:17;
+
+[PlayVoice]=00:18:17	Voice05/05-SB/05-SB-D04/05-SB-D04-0180	1	tai	00:20:17;
+
+[PrintText]=00:21:01	Nanami	Come to think of it, the sheer stupidity of it actually got people talking.	00:24:20;
+
+[PlayVoice]=00:21:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0190	0	nan	00:24:20;
+
+[PrintText]=00:24:18	Taisuke	What was that?! What a thing to say about our awesome masterpiece!	00:29:16;
+
+[PlayVoice]=00:24:18	Voice05/05-SB/05-SB-D04/05-SB-D04-0200	1	tai	00:29:16;
+
+[PrintText]=00:29:14	Hikari	Huh? Nanami, did you forget to get a drink?	00:33:14;
+
+[PlayVoice]=00:29:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0220	0	hik	00:33:14;
+
+[CreateBG]=00:29:15	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-002	00:51:06;
+
+[PrintText]=00:33:19	Nanami	Oh, you're right.	00:35:20;
+
+[PlayVoice]=00:33:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0230	0	nan	00:35:20;
+
+[PrintText]=00:35:08	Makoto	Want some of this tea from my thermos?	00:39:10;
+
+[PlayVoice]=00:35:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0240	1	mak	00:39:10;
+
+[PrintText]=00:38:15	Hikari	Uwah! What's this? You brought a thermos?	00:41:20;
+
+[PlayVoice]=00:38:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0250	0	hik	00:41:20;
+
+[PrintText]=00:41:08	Makoto	Yeah. Just so you know, I bring my own lunch, too.	00:45:18;
+
+[PlayVoice]=00:41:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0260	1	mak	00:45:18;
+
+[PrintText]=00:45:03	Hikari	...Handmade?	00:46:07;
+
+[PlayVoice]=00:45:03	Voice05/05-SB/05-SB-D04/05-SB-D04-0270	0	hik	00:46:07;
+
+[PrintText]=00:46:01	Makoto	You bet.	00:47:08;
+
+[PlayVoice]=00:46:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0290	1	mak	00:47:08;
+
+[PrintText]=00:47:09	Nanami	Handmade by whom? Don't tell me it's...	00:51:06;
+
+[PlayVoice]=00:47:09	Voice05/05-SB/05-SB-D04/05-SB-D04-0300	0	nan	00:51:06;
+
+[PrintText]=00:51:01	Makoto	Me.	00:53:02;
+
+[PlayVoice]=00:51:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0310	1	mak	00:53:02;
+
+[CreateBG]=00:51:06	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-003	01:12:08;
+
+[PrintText]=00:52:10	Hikari	Haah?	00:53:07;
+
+[PlayVoice]=00:52:10	Voice05/05-SB/05-SB-D04/05-SB-D04-0320	0	hik	00:53:07;
+
+[PrintText]=00:53:03	Makoto	My sister was pestering me to make her lunch yesterday, so I made some for myself, too. You got a problem with that?	01:00:09;
+
+[PlayVoice]=00:53:03	Voice05/05-SB/05-SB-D04/05-SB-D04-0330	1	mak	01:00:09;
+
+[PrintText]=00:59:14	Nanami	No, but...	01:01:04;
+
+[PlayVoice]=00:59:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0340	0	nan	01:01:04;
+
+[PrintText]=01:01:02	Hikari	It's kind of surprising to hear that you can cook.	01:03:18;
+
+[PlayVoice]=01:01:02	Voice05/05-SB/05-SB-D04/05-SB-D04-0350	0	hik	01:03:18;
+
+[PrintText]=01:03:00	Makoto	It's not complicated. I just press some rice together, add some seaweed, fry some eggs, and throw in some frozen food.	01:12:08;
+
+[PlayVoice]=01:03:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0360	1	mak	01:12:08;
+
+[CreateBG]=01:12:08	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-004	01:42:09;
+
+[PrintText]=01:12:08	Nanami	Even so, it looks pretty tasty...	01:14:21;
+
+[PlayVoice]=01:12:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0370	0	nan	01:14:21;
+
+[PrintText]=01:14:21	Taisuke	Yeah. You wouldn't think so, but this guy's cooking is actually pretty good. I've had some before, myself...	01:20:08;
+
+[PlayVoice]=01:14:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0380	1	tai	01:20:08;
+
+[PrintText]=01:20:03	Hikari	You keep away from his food!	01:22:08;
+
+[PlayVoice]=01:20:03	Voice05/05-SB/05-SB-D04/05-SB-D04-0390	0	hik	01:22:08;
+
+[PrintText]=01:22:08	Taisuke	Uuh...	01:23:10;
+
+[PlayVoice]=01:22:08	Voice05/05-SB/05-SB-D04/05-SB-D04-0400	1	tai	01:23:10;
+
+[PrintText]=01:23:09	Nanami	A-anyhow, I've forgotten to get a drink, so maybe I'll just go and buy something.	01:27:11;
+
+[PlayVoice]=01:23:09	Voice05/05-SB/05-SB-D04/05-SB-D04-0410	0	nan	01:27:11;
+
+[PrintText]=01:27:14	Hikari	Yeah, that's right. You should do that.	01:30:05;
+
+[PlayVoice]=01:27:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0420	0	hik	01:30:05;
+
+[PrintText]=01:30:04	Taisuke	In that case, maybe I'll have some of that tea, then.	01:34:21;
+
+[PlayVoice]=01:30:04	Voice05/05-SB/05-SB-D04/05-SB-D04-0440	1	tai	01:34:21;
+
+[PrintText]=01:34:21	Hikari	You're going to buy something, too!	01:36:22;
+
+[PlayVoice]=01:34:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0450	0	hik	01:36:22;
+
+[PrintText]=01:36:21	Taisuke	I'm strapped for cash this month, so I don't have that kind of money!	01:40:20;
+
+[PlayVoice]=01:36:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0460	1	tai	01:40:20;
+
+[PrintText]=01:40:21	Hikari	I'll treat you! Here!	01:43:09;
+
+[PlayVoice]=01:40:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0470	0	hik	01:43:09;
+
+[CreateBG]=01:42:09	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-005	01:44:20;
+
+[PrintText]=01:44:02	Makoto	What was all that about...?	01:46:23;
+
+[PlayVoice]=01:44:02	Voice05/05-SB/05-SB-D04/05-SB-D04-0500	1	mak	01:46:23;
+
+[CreateBG]=01:44:20	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-006	01:51:16;
+
+[PrintText]=01:47:00	Sekai	...	01:47:11;
+
+[PlayVoice]=01:47:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0510	0	xxx	01:47:11;
+
+[PrintText]=01:47:10	Makoto	And she went to such lengths to drag us here, too.	01:52:02;
+
+[PlayVoice]=01:47:10	Voice05/05-SB/05-SB-D04/05-SB-D04-0520	1	mak	01:52:02;
+
+[PrintText]=01:51:14	Sekai	Yeah...	01:52:09;
+
+[PlayVoice]=01:51:14	Voice05/05-SB/05-SB-D04/05-SB-D04-0530	0	sek	01:52:09;
+
+[CreateBG]=01:51:16	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-007	02:13:11;
+
+[PrintText]=01:52:21	Makoto	You've gotten skinnier lately, haven't you...? You look kind of strung out.	02:01:04;
+
+[PlayVoice]=01:52:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0540	1	mak	02:01:04;
+
+[PrintText]=02:01:05	Sekai	You think so...?	02:02:17;
+
+[PlayVoice]=02:01:05	Voice05/05-SB/05-SB-D04/05-SB-D04-0550	0	sek	02:02:17;
+
+[PrintText]=02:02:16	Makoto	Yeah.	02:04:06;
+
+[PlayVoice]=02:02:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0560	1	mak	02:04:06;
+
+[PrintText]=02:04:13	Sekai	I don't think I have much of an appetite.	02:07:22;
+
+[PlayVoice]=02:04:13	Voice05/05-SB/05-SB-D04/05-SB-D04-0570	0	sek	02:07:22;
+
+[PrintText]=02:07:16	Makoto	You mean you're not eating?	02:10:14;
+
+[PlayVoice]=02:07:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0580	1	mak	02:10:14;
+
+[PrintText]=02:09:20	Sekai	No, it's not like that. I eat once in a while.	02:12:19;
+
+[PlayVoice]=02:09:20	Voice05/05-SB/05-SB-D04/05-SB-D04-0590	0	sek	02:12:19;
+
+[PrintText]=02:12:16	Makoto	Do you remember how back when we used to eat on the roof, you promised to let me try your handmade lunch?	02:21:16;
+
+[PlayVoice]=02:12:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0600	1	mak	02:21:16;
+
+[CreateBG]=02:13:11	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-008	02:43:16;
+
+[PrintText]=02:21:16	Sekai	Uh-huh.	02:22:07;
+
+[PlayVoice]=02:21:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0610	0	sek	02:22:07;
+
+[PrintText]=02:22:07	Makoto	If we get the chance to eat together like this more often,	02:27:09;
+
+[PlayVoice]=02:22:07	Voice05/05-SB/05-SB-D04/05-SB-D04-0620	1	mak	02:27:09;
+
+[PrintText]=02:27:09	Makoto	why don't we make lunches and trade next time? Kanroji and the others can join in, too.	02:33:18;
+
+[PlayVoice]=02:27:09	Voice05/05-SB/05-SB-D04/05-SB-D04-0621	1	mak	02:33:18;
+
+[PrintText]=02:33:18	Sekai	Yeah...	02:34:20;
+
+[PlayVoice]=02:33:18	Voice05/05-SB/05-SB-D04/05-SB-D04-0630	0	sek	02:34:20;
+
+[PrintText]=02:34:21	Makoto	I was really looking forward to it, you know.	02:39:05;
+
+[PlayVoice]=02:34:21	Voice05/05-SB/05-SB-D04/05-SB-D04-0640	1	mak	02:39:05;
+
+[PrintText]=02:39:05	Sekai	To what?	02:40:02;
+
+[PlayVoice]=02:39:05	Voice05/05-SB/05-SB-D04/05-SB-D04-0650	0	sek	02:40:02;
+
+[PrintText]=02:40:02	Makoto	To eating your handmade sandwiches.	02:43:16;
+
+[PlayVoice]=02:40:02	Voice05/05-SB/05-SB-D04/05-SB-D04-0660	1	mak	02:43:16;
+
+[CreateBG]=02:43:16	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-009	02:58:15;
+
+[PrintText]=02:43:16	Sekai	I see...	02:44:16;
+
+[PlayVoice]=02:43:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0670	0	sek	02:44:16;
+
+[PrintText]=02:44:17	Makoto	...	02:47:12;
+
+[PlayVoice]=02:44:17	Voice05/05-SB/05-SB-D04/05-SB-D04-0680	1	xxx	02:47:12;
+
+[PrintText]=02:47:13	Sekai	Hey, Makoto... I heard all about it.	02:51:00;
+
+[PlayVoice]=02:47:13	Voice05/05-SB/05-SB-D04/05-SB-D04-0690	0	sek	02:51:00;
+
+[PrintText]=02:51:00	Makoto	About what?	02:52:18;
+
+[PlayVoice]=02:51:00	Voice05/05-SB/05-SB-D04/05-SB-D04-0700	1	mak	02:52:18;
+
+[PrintText]=02:52:19	Sekai	About Christmas Eve. You're going to meet up with Katsura-san at a hotel...	02:58:15;
+
+[PlayVoice]=02:52:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0710	0	sek	02:58:15;
+
+[CreateBG]=02:58:15	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-010	03:12:15;
+
+[PrintText]=02:58:15	Makoto	Ah... did Kotonoha tell you that?	03:04:23;
+
+[PlayVoice]=02:58:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0720	1	mak	03:04:23;
+
+[PrintText]=03:04:23	Sekai	Yeah.	03:05:15;
+
+[PlayVoice]=03:04:23	Voice05/05-SB/05-SB-D04/05-SB-D04-0730	0	sek	03:05:15;
+
+[PrintText]=03:05:15	Makoto	Sheesh...	03:08:07;
+
+[PlayVoice]=03:05:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0740	1	mak	03:08:07;
+
+[PrintText]=03:08:07	Sekai	...	03:08:18;
+
+[PlayVoice]=03:08:07	Voice05/05-SB/05-SB-D04/05-SB-D04-0750	0	xxx	03:08:18;
+
+[PrintText]=03:08:19	Makoto	Don't tell anyone, okay? It's embarrassing.	03:12:14;
+
+[PlayVoice]=03:08:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0760	1	mak	03:12:14;
+
+[CreateBG]=03:12:15	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-011	03:32:19;
+
+[PrintText]=03:12:15	Sekai	Okay.	03:13:06;
+
+[PlayVoice]=03:12:15	Voice05/05-SB/05-SB-D04/05-SB-D04-0770	0	sek	03:13:06;
+
+[PrintText]=03:13:06	Makoto	She's been so aggressive lately... always forcing me to go out on dates with her and stuff.	03:21:11;
+
+[PlayVoice]=03:13:06	Voice05/05-SB/05-SB-D04/05-SB-D04-0780	1	mak	03:21:11;
+
+[PrintText]=03:21:11	Sekai	Really?	03:22:16;
+
+[PlayVoice]=03:21:11	Voice05/05-SB/05-SB-D04/05-SB-D04-0790	0	sek	03:22:16;
+
+[PrintText]=03:22:01	Makoto	I complained a little to you once before, didn't I?	03:26:16;
+
+[PlayVoice]=03:22:01	Voice05/05-SB/05-SB-D04/05-SB-D04-0800	1	mak	03:26:16;
+
+[PrintText]=03:26:04	Sekai	Yeah.	03:26:22;
+
+[PlayVoice]=03:26:04	Voice05/05-SB/05-SB-D04/05-SB-D04-0810	0	sek	03:26:22;
+
+[PrintText]=03:26:16	Makoto	Compared to how she was back then, it's like she's a whole different person now.	03:31:22;
+
+[PlayVoice]=03:26:16	Voice05/05-SB/05-SB-D04/05-SB-D04-0820	1	mak	03:31:22;
+
+[PrintText]=03:31:23	Sekai	I see...	03:32:19;
+
+[PlayVoice]=03:31:23	Voice05/05-SB/05-SB-D04/05-SB-D04-0830	0	sek	03:32:19;
+
+[CreateBG]=03:32:19	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-012	03:50:19;
+
+[PrintText]=03:32:19	Makoto	Still... apart from that, nothing's really changed.	03:38:05;
+
+[PlayVoice]=03:32:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0840	1	mak	03:38:05;
+
+[PrintText]=03:38:05	Sekai	...	03:39:19;
+
+[PlayVoice]=03:38:05	Voice05/05-SB/05-SB-D04/05-SB-D04-0850	0	xxx	03:39:19;
+
+[PrintText]=03:39:19	Makoto	Lately, I've finally started to think that maybe this isn't too bad. I'm making a real effort, you know?	03:50:19;
+
+[PlayVoice]=03:39:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0860	1	mak	03:50:19;
+
+[CreateBG]=03:50:19	BGS	Event05/05-SB/05-SB-D04/05-SB-D04-013	03:53:12;
+
+[PrintText]=03:50:19	Sekai	Yeah...	03:52:00;
+
+[PlayVoice]=03:50:19	Voice05/05-SB/05-SB-D04/05-SB-D04-0870	0	sek	03:52:00;
+
+[BlackFade]=03:52:12	OUT	03:53:12;
+
+ ;
+
+[Next]=03:53:12;
+

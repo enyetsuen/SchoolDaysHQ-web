@@ -1,0 +1,112 @@
+[SkipFRAME]=01:24:01;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:24:01;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-001	00:03:03;
+
+[CreateBG]=00:03:03	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-002	00:05:01;
+
+[CreateBG]=00:05:01	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-003	00:07:14;
+
+[PrintText]=00:05:01	Sekai	"How was your lovey-dovey lunch for two?"	00:07:14;
+
+[CreateBG]=00:07:14	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-004	00:10:08;
+
+[PrintText]=00:07:14	Makoto	"It was fun. You should've came."	00:10:08;
+
+[CreateBG]=00:10:08	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-005	00:12:07;
+
+[PrintText]=00:10:08	Sekai	"Maybe next time."	00:12:07;
+
+[CreateBG]=00:12:07	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-006	00:14:20;
+
+[PrintText]=00:12:07	Makoto	"You'd better."	00:16:12;
+
+[CreateBG]=00:14:20	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-007	00:16:12;
+
+[CreateBG]=00:16:12	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-008	00:17:15;
+
+[CreateBG]=00:17:15	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-009	00:19:20;
+
+[PrintText]=00:17:15	Sekai	"You can look forward to it."	00:19:20;
+
+[CreateBG]=00:19:20	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-010	00:22:22;
+
+[PrintText]=00:19:20	Makoto	"Hey, there's something I want to ask you about."	00:22:22;
+
+[CreateBG]=00:22:22	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-011	00:25:04;
+
+[PrintText]=00:22:22	Sekai	"Go ahead, ask me anything."	00:25:04;
+
+[CreateBG]=00:25:04	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-012	00:29:06;
+
+[PrintText]=00:25:04	Makoto	"I asked Kotonoha out to see a movie this weekend."	00:29:06;
+
+[CreateBG]=00:29:06	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-013	00:31:08;
+
+[PrintText]=00:29:06	Sekai	"A date!"	00:31:08;
+
+[CreateBG]=00:31:08	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-014	00:35:16;
+
+[PrintText]=00:31:08	Makoto	"Shut up.\nLike I said, I've invited her,\nbut is there anything I need to pay attention to?"	00:35:16;
+
+[CreateBG]=00:35:16	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-015	00:36:04;
+
+[CreateBG]=00:36:04	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-016	00:38:00;
+
+[PrintText]=00:36:04	Sekai	"Make sure you KISS her!"	00:38:00;
+
+[CreateBG]=00:38:00	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-017	00:40:03;
+
+[PrintText]=00:38:00	Makoto	"You've got to be kidding me."	00:40:03;
+
+[CreateBG]=00:40:03	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-018	00:46:00;
+
+[PrintText]=00:40:03	Sekai	"Don't kiss her if she doesn't want you to."	00:43:01;
+
+[PrintText]=00:43:01	Sekai	"Why not just watch a movie and do other normal date stuff?"	00:46:00;
+
+[CreateBG]=00:46:00	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-019	00:50:02;
+
+[PrintText]=00:46:00	Makoto	"I'm asking you because I don't know what normal stuff is."	00:50:02;
+
+[CreateBG]=00:50:02	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-020	00:54:18;
+
+[PrintText]=00:50:02	Sekai	"That's not something that can be taught."	00:54:18;
+
+[CreateBG]=00:54:18	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-021	00:57:13;
+
+[PrintText]=00:54:18	Makoto	"Come on, please."	00:57:13;
+
+[CreateBG]=00:57:13	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-022	01:05:07;
+
+[CreateBG]=01:05:07	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-023	01:09:10;
+
+[PrintText]=00:57:13	Sekai&Makoto	"Listen! 'I'm having fun being with her!'\nJust go and do stuff which makes you feel that way."\nMakoto: Fun... huh.	01:09:10;
+
+[PlayVoice]=01:05:13	Voice01/01-1S/01-1S-C00/01-1S-C00-0220	1	mak	01:08:12;
+
+[CreateBG]=01:09:10	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-024	01:16:04;
+
+[PrintText]=01:09:10	Sekai	"Oh, and one more thing! So long as Katsura-san has fun, the date is a big success!"	01:14:00;
+
+[PrintText]=01:14:00	Sekai	"That's all the advice you're getting!"	01:16:04;
+
+[CreateBG]=01:16:04	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-025	01:20:01;
+
+[PrintText]=01:16:04	Makoto	"What would make her happy?"	01:20:01;
+
+[CreateBG]=01:20:01	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-026	01:21:11;
+
+[PrintText]=01:20:01	Sekai	"A kiss!"	01:21:11;
+
+[CreateBG]=01:21:11	BGS	Event01/01-1S/01-1S-C00/01-1S-C00-027	01:24:01;
+
+[PrintText]=01:21:11	Makoto	"Get out of here!"	01:24:01;
+
+[BlackFade]=01:23:01	OUT	01:24:01;
+
+ ;
+
+[Next]=01:24:01;
+

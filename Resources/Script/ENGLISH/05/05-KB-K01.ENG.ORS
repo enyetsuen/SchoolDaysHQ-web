@@ -1,0 +1,42 @@
+[SkipFRAME]=00:16:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:16:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	00:16:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-K01/05-KB-K01-001	00:01:17;
+
+[PrintText]=00:00:00	Makoto	Sure.	00:01:15;
+
+[PlayVoice]=00:00:00	Voice05/05-KB/05-KB-K01/05-KB-K01-0030	1	mak	00:01:15;
+
+[PrintText]=00:01:16	Kotonoha	Really?	00:03:06;
+
+[PlayVoice]=00:01:16	Voice05/05-KB/05-KB-K01/05-KB-K01-0040	0	kot	00:03:06;
+
+[CreateBG]=00:01:17	BGS	Event05/05-KB/05-KB-K01/05-KB-K01-002	00:03:06;
+
+[CreateBG]=00:03:06	BGS	Event05/05-KB/05-KB-K01/05-KB-K01-003	00:06:11;
+
+[PrintText]=00:03:06	Makoto	Yeah.	00:04:21;
+
+[PlayVoice]=00:03:06	Voice05/05-KB/05-KB-K01/05-KB-K01-0050	1	mak	00:04:21;
+
+[PrintText]=00:04:20	Kotonoha	Thank goodness...	00:06:10;
+
+[PlayVoice]=00:04:20	Voice05/05-KB/05-KB-K01/05-KB-K01-0060	0	kot	00:06:10;
+
+[PrintText]=00:06:10	Makoto	It'd be nice to be able to enjoy lunch on the roof again, just like back when we first met.	00:14:03;
+
+[PlayVoice]=00:06:10	Voice05/05-KB/05-KB-K01/05-KB-K01-0070	1	mak	00:14:03;
+
+[PlayMovie]=00:06:11	Movie05/05-KB/05-KB-K02/05-KB-K02-005	0	00:16:09;
+
+[PrintText]=00:14:03	Kotonoha	Yes, it would.	00:15:11;
+
+[PlayVoice]=00:14:03	Voice05/05-KB/05-KB-K01/05-KB-K01-0080	0	kot	00:15:11;
+
+ ;
+
+[Next]=00:16:09;
+

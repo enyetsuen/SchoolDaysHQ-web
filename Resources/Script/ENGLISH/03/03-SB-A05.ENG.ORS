@@ -1,0 +1,30 @@
+[SkipFRAME]=00:04:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:04:14;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-A05/SE03-SB-A05-001	00:04:14;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-A05/03-SB-A05-001	00:02:15;
+
+[PrintText]=00:00:00	Makoto	Don't say stuff like that.	00:01:19;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-A05/03-SB-A05-0030	1	mak	00:01:19;
+
+[PrintText]=00:01:19	Sekai	...Sorry.	00:02:14;
+
+[PlayVoice]=00:01:19	Voice03/03-SB/03-SB-A05/03-SB-A05-0040	0	sek	00:02:14;
+
+[CreateBG]=00:02:15	BGS	Event03/03-SB/03-SB-A05/03-SB-A05-002	00:04:14;
+
+[PrintText]=00:02:15	Makoto	It's not like I...	00:03:16;
+
+[PlayVoice]=00:02:15	Voice03/03-SB/03-SB-A05/03-SB-A05-0050	1	mak	00:03:16;
+
+[PrintText]=00:03:16	Sekai	Yeah...	00:04:06;
+
+[PlayVoice]=00:03:16	Voice03/03-SB/03-SB-A05/03-SB-A05-0060	0	sek	00:04:06;
+
+ ;
+
+[Next]=00:04:14;
+

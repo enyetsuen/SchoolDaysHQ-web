@@ -1,0 +1,330 @@
+[SkipFRAME]=03:03:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-001	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-002	00:06:05;
+
+[PrintText]=00:02:06	Sekai	Haah...	00:03:06;
+
+[PlayVoice]=00:02:06	Voice04/04-KA/04-KA-G08/04-KA-G08-0050	0	sek	00:03:06;
+
+[PrintText]=00:03:18	Nanami	You look depressed, Sekai.	00:05:20;
+
+[PlayVoice]=00:03:18	Voice04/04-KA/04-KA-G08/04-KA-G08-0060	0	nan	00:05:20;
+
+[CreateBG]=00:06:05	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-002A	00:10:05;
+
+[PrintText]=00:06:05	Sekai	I just wonder if he's a little angry.	00:08:21;
+
+[PlayVoice]=00:06:05	Voice04/04-KA/04-KA-G08/04-KA-G08-0070	0	sek	00:08:21;
+
+[PrintText]=00:08:22	Nanami	Ahaha... I don't think that's why he's taking the day off.	00:13:02;
+
+[PlayVoice]=00:08:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0080	0	nan	00:13:02;
+
+[CreateBG]=00:10:05	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-002B	00:14:16;
+
+[PrintText]=00:13:02	Sekai	I know, but...	00:14:14;
+
+[PlayVoice]=00:13:02	Voice04/04-KA/04-KA-G08/04-KA-G08-0090	0	sek	00:14:14;
+
+[CreateBG]=00:14:16	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-003	00:34:05;
+
+[PrintText]=00:14:18	Hikari	Uuu...	00:16:15;
+
+[PlayVoice]=00:14:18	Voice04/04-KA/04-KA-G08/04-KA-G08-0100	0	hik	00:16:15;
+
+[PrintText]=00:16:15	Nanami	What? Have you got something on your mind too?	00:19:06;
+
+[PlayVoice]=00:16:15	Voice04/04-KA/04-KA-G08/04-KA-G08-0110	0	nan	00:19:06;
+
+[PrintText]=00:19:05	Hikari	No... I just drank too much at yesterday's party...	00:24:16;
+
+[PlayVoice]=00:19:05	Voice04/04-KA/04-KA-G08/04-KA-G08-0120	0	hik	00:24:16;
+
+[PrintText]=00:24:18	Nanami	When I came in this morning, this place totally smelled like alcohol. I was thinking, 'What are we going to do?'	00:29:02;
+
+[PlayVoice]=00:24:18	Voice04/04-KA/04-KA-G08/04-KA-G08-0130	0	nan	00:29:02;
+
+[PrintText]=00:29:03	Hikari	Uuu... my head hurts.	00:34:05;
+
+[PlayVoice]=00:29:03	Voice04/04-KA/04-KA-G08/04-KA-G08-0140	0	hik	00:34:05;
+
+[CreateBG]=00:34:05	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-004	00:38:13;
+
+[PrintText]=00:34:05	Nanami	Even with Setsuna there, you really let yourself go, didn't you?	00:37:15;
+
+[PlayVoice]=00:34:05	Voice04/04-KA/04-KA-G08/04-KA-G08-0150	0	nan	00:37:15;
+
+[PrintText]=00:37:16	Setsuna	Uh-huh.	00:38:12;
+
+[PlayVoice]=00:37:16	Voice04/04-KA/04-KA-G08/04-KA-G08-0160	0	set	00:38:12;
+
+[CreateBG]=00:38:13	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-005	00:43:04;
+
+[PrintText]=00:38:15	Hikari	You drank a lot too, didn't you, Setsuna?	00:41:19;
+
+[PlayVoice]=00:38:15	Voice04/04-KA/04-KA-G08/04-KA-G08-0170	0	hik	00:41:19;
+
+[PrintText]=00:41:22	Setsuna	...	00:43:04;
+
+[PlayVoice]=00:41:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0180	0	xxx	00:43:04;
+
+[CreateBG]=00:43:04	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-006	00:57:09;
+
+[PrintText]=00:43:04	Nanami	What's wrong?	00:44:07;
+
+[PlayVoice]=00:43:04	Voice04/04-KA/04-KA-G08/04-KA-G08-0200	0	nan	00:44:07;
+
+[PrintText]=00:44:12	Setsuna	Nothing.	00:45:14;
+
+[PlayVoice]=00:44:12	Voice04/04-KA/04-KA-G08/04-KA-G08-0210	0	set	00:45:14;
+
+[PrintText]=00:45:17	Hikari	I get the feeling we took lots of pictures of everyone while they were wasted yesterday...	00:52:00;
+
+[PlayVoice]=00:45:17	Voice04/04-KA/04-KA-G08/04-KA-G08-0220	0	hik	00:52:00;
+
+[PrintText]=00:52:03	Setsuna	Yep, with my digital camera.	00:55:11;
+
+[PlayVoice]=00:52:03	Voice04/04-KA/04-KA-G08/04-KA-G08-0230	0	set	00:55:11;
+
+[PrintText]=00:55:15	Hikari	What kind of photos did you take?	00:57:08;
+
+[PlayVoice]=00:55:15	Voice04/04-KA/04-KA-G08/04-KA-G08-0240	0	hik	00:57:08;
+
+[CreateBG]=00:57:09	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-007	01:04:04;
+
+[PrintText]=00:57:10	Setsuna	There's only one of Hikari.	00:59:06;
+
+[PlayVoice]=00:57:10	Voice04/04-KA/04-KA-G08/04-KA-G08-0250	0	set	00:59:06;
+
+[PrintText]=00:59:08	Hikari	Oh, that's no fun.	01:01:17;
+
+[PlayVoice]=00:59:08	Voice04/04-KA/04-KA-G08/04-KA-G08-0260	0	hik	01:01:17;
+
+[PrintText]=01:01:22	Setsuna	Want to see?	01:02:18;
+
+[PlayVoice]=01:01:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0270	0	set	01:02:18;
+
+[PrintText]=01:03:12	Nanami	Ah...	01:04:03;
+
+[PlayVoice]=01:03:12	Voice04/04-KA/04-KA-G08/04-KA-G08-0290	0	nan	01:04:03;
+
+[CreateBG]=01:04:04	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-008	01:12:12;
+
+[PrintText]=01:04:05	Hikari	Gyaaaah?!	01:06:00;
+
+[PlayVoice]=01:04:05	Voice04/04-KA/04-KA-G08/04-KA-G08-0310	0	hik	01:06:00;
+
+[PrintText]=01:05:20	Nanami	Incredible. You can feel the love.	01:08:15;
+
+[PlayVoice]=01:05:20	Voice04/04-KA/04-KA-G08/04-KA-G08-0320	0	nan	01:08:15;
+
+[PrintText]=01:08:11	Hikari	H-h-hey! Cut it out!	01:11:09;
+
+[PlayVoice]=01:08:11	Voice04/04-KA/04-KA-G08/04-KA-G08-0330	0	hik	01:11:09;
+
+[PrintText]=01:11:11	Setsuna	Shall I print it out?	01:12:17;
+
+[PlayVoice]=01:11:11	Voice04/04-KA/04-KA-G08/04-KA-G08-0340	0	set	01:12:17;
+
+[CreateBG]=01:12:12	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-009	01:21:08;
+
+[PrintText]=01:12:22	Hikari	...Uh-huh.	01:15:10;
+
+[PlayVoice]=01:12:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0350	0	hik	01:15:10;
+
+[PrintText]=01:15:08	Nanami	Make me a copy too.	01:17:03;
+
+[PlayVoice]=01:15:08	Voice04/04-KA/04-KA-G08/04-KA-G08-0360	0	nan	01:17:03;
+
+[PrintText]=01:17:02	Setsuna	Okay.	01:18:01;
+
+[PlayVoice]=01:17:02	Voice04/04-KA/04-KA-G08/04-KA-G08-0370	0	set	01:18:01;
+
+[PrintText]=01:17:21	Hikari	Don't you dare!	01:20:04;
+
+[PlayVoice]=01:17:21	Voice04/04-KA/04-KA-G08/04-KA-G08-0380	0	hik	01:20:04;
+
+[PrintText]=01:20:04	Nanami	What? Don't be stingy.	01:21:15;
+
+[PlayVoice]=01:20:04	Voice04/04-KA/04-KA-G08/04-KA-G08-0390	0	nan	01:21:15;
+
+[CreateBG]=01:21:08	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-001	01:34:02;
+
+[PrintText]=01:21:14	Hikari	T-there's no point in someone who's not in the photo having a copy.	01:25:00;
+
+[PlayVoice]=01:21:14	Voice04/04-KA/04-KA-G08/04-KA-G08-0400	0	hik	01:25:00;
+
+[PrintText]=01:25:05	Nanami	Of course there is. I can use it in the future.	01:28:09;
+
+[PlayVoice]=01:25:05	Voice04/04-KA/04-KA-G08/04-KA-G08-0410	0	nan	01:28:09;
+
+[PrintText]=01:28:17	Hikari	Use it for what?!	01:30:16;
+
+[PlayVoice]=01:28:17	Voice04/04-KA/04-KA-G08/04-KA-G08-0420	0	hik	01:30:16;
+
+[PrintText]=01:30:17	Nanami	Extortion, for example.	01:31:20;
+
+[PlayVoice]=01:30:17	Voice04/04-KA/04-KA-G08/04-KA-G08-0430	0	nan	01:31:20;
+
+[PrintText]=01:32:02	Hikari	Absolutely not!	01:33:23;
+
+[PlayVoice]=01:32:02	Voice04/04-KA/04-KA-G08/04-KA-G08-0440	0	hik	01:33:23;
+
+[PrintText]=01:34:00	Taisuke	Hey, what's all the fuss about?	01:36:20;
+
+[PlayVoice]=01:34:00	Voice04/04-KA/04-KA-G08/04-KA-G08-0450	1	tai	01:36:20;
+
+[CreateBG]=01:34:02	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-011	01:36:15;
+
+[CreateBG]=01:36:15	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-011A	01:42:08;
+
+[PrintText]=01:36:16	Hikari	Wah...! Sawanaga.	01:39:03;
+
+[PlayVoice]=01:36:16	Voice04/04-KA/04-KA-G08/04-KA-G08-0460	0	hik	01:39:03;
+
+[PrintText]=01:39:00	Nanami	Oh, it's okay for people who are in the photo, right? Hey, Sawanaga. About those photos from yesterday...	01:46:03;
+
+[PlayVoice]=01:39:00	Voice04/04-KA/04-KA-G08/04-KA-G08-0470	0	nan	01:46:03;
+
+[CreateBG]=01:42:08	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-011	01:46:20;
+
+[PrintText]=01:46:02	Taisuke	Photos?	01:47:02;
+
+[PlayVoice]=01:46:02	Voice04/04-KA/04-KA-G08/04-KA-G08-0480	1	tai	01:47:02;
+
+[CreateBG]=01:46:20	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-012	01:50:06;
+
+[PrintText]=01:46:20	Hikari	Gyaaah! It's nothing! This is none of your business, Sawanaga!	01:50:13;
+
+[PlayVoice]=01:46:20	Voice04/04-KA/04-KA-G08/04-KA-G08-0490	0	hik	01:50:13;
+
+[PrintText]=01:50:03	Taisuke	What? Come on, don't be mean, tell me.	01:53:16;
+
+[PlayVoice]=01:50:03	Voice04/04-KA/04-KA-G08/04-KA-G08-0510	1	tai	01:53:16;
+
+[CreateBG]=01:50:06	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-013	01:53:14;
+
+[CreateBG]=01:53:14	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-014	01:58:19;
+
+[PrintText]=01:53:15	Setsuna	Photos of the party.	01:55:05;
+
+[PlayVoice]=01:53:15	Voice04/04-KA/04-KA-G08/04-KA-G08-0520	0	set	01:55:05;
+
+[PrintText]=01:55:20	Taisuke	From yesterday? Ahaha... awesome, everyone's dead drunk. Whoa! What are me and Kuroda doing? Man, that's embarrassing...	02:07:17;
+
+[PlayVoice]=01:55:20	Voice04/04-KA/04-KA-G08/04-KA-G08-0530	1	tai	02:07:17;
+
+[PlaySe]=01:56:08	2	SysSe/SE_all/gaya/kyousitu_rouka	03:03:09;
+
+[CreateBG]=01:58:19	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-014A	02:07:14;
+
+[PrintText]=02:07:11	Hikari	...	02:09:03;
+
+[PlayVoice]=02:07:11	Voice04/04-KA/04-KA-G08/04-KA-G08-0540	0	xxx	02:09:03;
+
+[CreateBG]=02:07:14	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-014B	02:15:12;
+
+[PrintText]=02:08:19	Nanami	Hmmmn.	02:10:04;
+
+[PlayVoice]=02:08:19	Voice04/04-KA/04-KA-G08/04-KA-G08-0550	0	nan	02:10:04;
+
+[PrintText]=02:10:06	Hikari	W-what?	02:12:16;
+
+[PlayVoice]=02:10:06	Voice04/04-KA/04-KA-G08/04-KA-G08-0560	0	hik	02:12:16;
+
+[PrintText]=02:12:15	Nanami	Nothing.	02:13:23;
+
+[PlayVoice]=02:12:15	Voice04/04-KA/04-KA-G08/04-KA-G08-0570	0	nan	02:13:23;
+
+[PrintText]=02:14:01	Hikari	Uuu...	02:15:16;
+
+[PlayVoice]=02:14:01	Voice04/04-KA/04-KA-G08/04-KA-G08-0580	0	hik	02:15:16;
+
+[CreateBG]=02:15:12	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-014	02:21:00;
+
+[PrintText]=02:15:17	Taisuke	I get the feeling there were a few more of these...	02:18:15;
+
+[PlayVoice]=02:15:17	Voice04/04-KA/04-KA-G08/04-KA-G08-0590	1	tai	02:18:15;
+
+[PrintText]=02:18:09	Hikari	I think that's all of them.	02:20:23;
+
+[PlayVoice]=02:18:09	Voice04/04-KA/04-KA-G08/04-KA-G08-0600	0	hik	02:20:23;
+
+[CreateBG]=02:21:00	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-015	02:25:06;
+
+[PrintText]=02:21:00	Taisuke	I see. Hey, I don't think there was even one of Kioura in there.	02:25:07;
+
+[PlayVoice]=02:21:00	Voice04/04-KA/04-KA-G08/04-KA-G08-0610	1	tai	02:25:07;
+
+[CreateBG]=02:25:06	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-005	02:29:22;
+
+[PrintText]=02:25:06	Setsuna	...I was the one who took them.	02:27:17;
+
+[PlayVoice]=02:25:06	Voice04/04-KA/04-KA-G08/04-KA-G08-0630	0	set	02:27:17;
+
+[PrintText]=02:27:18	Taisuke	Right. But still...	02:30:02;
+
+[PlayVoice]=02:27:18	Voice04/04-KA/04-KA-G08/04-KA-G08-0640	1	tai	02:30:02;
+
+[CreateBG]=02:29:22	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-012	02:37:11;
+
+[PrintText]=02:29:22	Hikari	Look, if she says there's no more, there's no more!	02:32:17;
+
+[PlayVoice]=02:29:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0650	0	hik	02:32:17;
+
+[PrintText]=02:32:20	Taisuke	Okay, I get it. Don't blow your stack.	02:36:02;
+
+[PlayVoice]=02:32:20	Voice04/04-KA/04-KA-G08/04-KA-G08-0660	1	tai	02:36:02;
+
+[PrintText]=02:35:22	Hikari	Grrrr...	02:37:11;
+
+[PlayVoice]=02:35:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0670	0	hik	02:37:11;
+
+[CreateBG]=02:37:11	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-011	02:45:20;
+
+[PrintText]=02:37:11	Taisuke	Hey, by the way... has anyone heard about Makoto?	02:40:21;
+
+[PlayVoice]=02:37:11	Voice04/04-KA/04-KA-G08/04-KA-G08-0680	1	tai	02:40:21;
+
+[PrintText]=02:40:22	Sekai	No.	02:41:19;
+
+[PlayVoice]=02:40:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0690	0	sek	02:41:19;
+
+[PrintText]=02:41:22	Taisuke	I wonder if he's late... or maybe he's taking today off?	02:45:14;
+
+[PlayVoice]=02:41:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0700	1	tai	02:45:14;
+
+[CreateBG]=02:45:20	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-019	02:50:15;
+
+[PrintText]=02:45:20	Nanami	That's not like Itou.	02:48:07;
+
+[PlayVoice]=02:45:20	Voice04/04-KA/04-KA-G08/04-KA-G08-0710	0	nan	02:48:07;
+
+[PrintText]=02:48:10	Taisuke	Yeah... well, never mind. I'm off to get some food. Why don't you pass those photos around? They'll be a hit for sure.	02:55:04;
+
+[PlayVoice]=02:48:10	Voice04/04-KA/04-KA-G08/04-KA-G08-0720	1	tai	02:55:04;
+
+[CreateBG]=02:50:15	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-020	02:58:09;
+
+[PrintText]=02:55:05	Setsuna	That's the plan.	02:56:20;
+
+[PlayVoice]=02:55:05	Voice04/04-KA/04-KA-G08/04-KA-G08-0730	0	set	02:56:20;
+
+[PrintText]=02:56:22	Taisuke	Haha. Well, see you.	02:58:16;
+
+[PlayVoice]=02:56:22	Voice04/04-KA/04-KA-G08/04-KA-G08-0740	1	tai	02:58:16;
+
+[CreateBG]=02:58:09	BGS	Event04/04-KA/04-KA-G08/04-KA-G08-021	03:03:09;
+
+[PrintText]=03:00:06	Sekai	Makoto...	03:01:08;
+
+[PlayVoice]=03:00:06	Voice04/04-KA/04-KA-G08/04-KA-G08-0760	0	sek	03:01:08;
+
+ ;
+
+[Next]=03:03:09;
+

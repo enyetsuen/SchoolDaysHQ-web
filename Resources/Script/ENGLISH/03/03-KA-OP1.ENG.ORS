@@ -1,0 +1,9 @@
+[SkipFRAME]=02:04:20;
+
+[PlayMovie]=00:00:00	System/OP/SDHQ_SETSUNA	0	02:04:20;
+
+[PlaySe]=00:00:00	1	BGM/Vocal/SDV03	02:04:20;
+
+ ;
+
+[Next]=02:04:20;

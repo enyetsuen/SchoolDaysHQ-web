@@ -1,0 +1,294 @@
+[SkipFRAME]=05:34:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	03:26:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-Z02/03-A1-Z02-001	00:08:03;
+
+[PrintText]=00:00:00	Makoto	Haah... haah...	00:06:23;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0070	1	mak	00:06:23;
+
+[PrintText]=00:06:22	Setsuna	Haah...	00:08:00;
+
+[PlayVoice]=00:06:22	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0080	0	set	00:08:00;
+
+[CreateBG]=00:08:03	BGS	Event03/03-A1/03-A1-Z02/03-A1-Z02-002	00:12:01;
+
+[PrintText]=00:08:09	Setsuna	Thank you.	00:09:12;
+
+[PlayVoice]=00:08:09	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0090	0	set	00:09:12;
+
+[PrintText]=00:09:15	Makoto	Ah...	00:10:15;
+
+[PlayVoice]=00:09:15	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0100	1	mak	00:10:15;
+
+[PrintText]=00:10:23	Setsuna	...	00:11:19;
+
+[PlayVoice]=00:10:23	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0110	0	xxx	00:11:19;
+
+[PlayMovie]=00:12:01	Movie03/03-A1/03-A1-Z02/03-A1-Z02-003	0	01:36:07;
+
+[PrintText]=00:12:10	Makoto	Setsuna... I... I lo-	00:19:04;
+
+[PlayVoice]=00:12:10	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0120	1	mak	00:19:04;
+
+[PrintText]=00:18:18	Setsuna	Itou.	00:19:15;
+
+[PlayVoice]=00:18:18	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0130	0	set	00:19:15;
+
+[PrintText]=00:19:10	Makoto	Yeah?	00:20:16;
+
+[PlayVoice]=00:19:10	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0140	1	mak	00:20:16;
+
+[PrintText]=00:21:02	Setsuna	I'll never forget this moment. I'll treasure it forever.	00:27:11;
+
+[PlayVoice]=00:21:02	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0150	0	set	00:27:11;
+
+[PrintText]=00:27:17	Makoto	Me too.	00:28:13;
+
+[PlayVoice]=00:27:17	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0160	1	mak	00:28:13;
+
+[PrintText]=00:29:08	Setsuna	But you need to forget about it.	00:32:13;
+
+[PlayVoice]=00:29:08	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0170	0	set	00:32:13;
+
+[PrintText]=00:32:16	Makoto	...Huh?	00:33:08;
+
+[PlayVoice]=00:32:16	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0180	1	mak	00:33:08;
+
+[PrintText]=00:33:15	Setsuna	About me, and how I loved you. Everything.	00:40:05;
+
+[PlayVoice]=00:33:15	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0190	0	set	00:40:05;
+
+[PrintText]=00:40:12	Makoto	H-hey! What are you talking about?! To me, you're-	00:46:13;
+
+[PlayVoice]=00:40:12	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0200	1	mak	00:46:13;
+
+[PrintText]=00:45:22	Setsuna	And take good care of Sekai.	00:49:08;
+
+[PlayVoice]=00:45:22	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0210	0	set	00:49:08;
+
+[PrintText]=00:49:01	Makoto	What?!	00:49:23;
+
+[PlayVoice]=00:49:01	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0220	1	mak	00:49:23;
+
+[PrintText]=00:50:10	Setsuna	You and her make a good couple. I've always thought so.	00:56:11;
+
+[PlayVoice]=00:50:10	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0230	0	set	00:56:11;
+
+[PrintText]=00:56:08	Makoto	A good couple...?	00:57:14;
+
+[PlayVoice]=00:56:08	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0240	1	mak	00:57:14;
+
+[PrintText]=00:57:15	Setsuna	That's why I held back my feelings for you.	01:01:21;
+
+[PlayVoice]=00:57:15	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0250	0	set	01:01:21;
+
+[PrintText]=01:02:02	Makoto	...	01:03:06;
+
+[PlayVoice]=01:02:02	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0260	1	xxx	01:03:06;
+
+[PrintText]=01:03:19	Setsuna	Sekai's been waiting for you. She never wanted to give you up to Katsura-san, but she held it all in...	01:11:11;
+
+[PlayVoice]=01:03:19	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0270	0	set	01:15:08;
+
+[PrintText]=01:11:11	Setsuna	and when she couldn't hold it in anymore, she cried.	01:15:08;
+
+[PrintText]=01:15:19	Makoto	...	01:16:23;
+
+[PlayVoice]=01:15:19	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0280	1	xxx	01:16:23;
+
+[PrintText]=01:17:05	Setsuna	But she still loves you, and she's still waiting for you to come for her.	01:27:04;
+
+[PlayVoice]=01:17:05	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0290	0	set	01:27:04;
+
+[PrintText]=01:27:01	Makoto	But...	01:28:08;
+
+[PlayVoice]=01:27:01	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0300	1	mak	01:28:08;
+
+[PrintText]=01:28:19	Setsuna	Promise me that you'll take good care of her.	01:34:08;
+
+[PlayVoice]=01:28:19	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0310	0	set	01:34:08;
+
+[PrintText]=01:33:21	Makoto	I can't do that! I...	01:36:21;
+
+[PlayVoice]=01:33:21	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0320	1	mak	01:36:21;
+
+[CreateBG]=01:36:07	BGS	Event03/03-A1/03-A1-Z02/03-A1-Z02-002	02:17:03;
+
+[PrintText]=01:36:07	Setsuna	Promise me.	01:37:14;
+
+[PlayVoice]=01:36:07	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0330	0	set	01:37:14;
+
+[PrintText]=01:37:16	Makoto	I...	01:39:02;
+
+[PlayVoice]=01:37:16	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0340	1	mak	01:39:02;
+
+[PrintText]=01:39:01	Setsuna	If you do... I'll feel better when I leave.	01:43:05;
+
+[PlayVoice]=01:39:01	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0350	0	set	01:43:05;
+
+[PrintText]=01:43:07	Makoto	...Leave?	01:44:22;
+
+[PlayVoice]=01:43:07	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0360	1	mak	01:44:22;
+
+[PrintText]=01:45:07	Setsuna	I'm transferring.	01:46:16;
+
+[PlayVoice]=01:45:07	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0370	0	set	01:46:16;
+
+[PrintText]=01:46:18	Makoto	Huh?!	01:47:17;
+
+[PlayVoice]=01:46:18	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0380	1	mak	01:47:17;
+
+[PrintText]=01:48:04	Setsuna	So... please.	01:51:12;
+
+[PlayVoice]=01:48:04	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0390	0	set	01:51:12;
+
+[PrintText]=01:51:10	Makoto	Transferring? Where to?	01:54:00;
+
+[PlayVoice]=01:51:10	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0400	1	mak	01:54:00;
+
+[PrintText]=01:54:01	Setsuna	Paris.	01:54:18;
+
+[PlayVoice]=01:54:01	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0410	0	set	01:54:18;
+
+[PrintText]=01:54:22	Makoto	Paris? You mean in France?	01:58:09;
+
+[PlayVoice]=01:54:22	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0420	1	mak	01:58:09;
+
+[PrintText]=01:58:02	Setsuna	Yes, in France.	01:59:05;
+
+[PlayVoice]=01:58:02	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0430	0	set	01:59:05;
+
+[PrintText]=01:59:17	Makoto	W-why all the way over there?	02:02:15;
+
+[PlayVoice]=01:59:17	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0440	1	mak	02:02:15;
+
+[PrintText]=02:02:13	Setsuna	My mother is going over there for work. We're a single-parent family, just like Sekai's. I can't just stay here on my own.	02:14:11;
+
+[PlayVoice]=02:02:13	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0450	0	set	02:14:11;
+
+[PrintText]=02:14:23	Makoto	...	02:16:22;
+
+[PlayVoice]=02:14:23	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0460	1	xxx	02:16:22;
+
+[PlayMovie]=02:17:03	Movie03/03-A1/03-A1-Z02/03-A1-Z02-005	0	03:35:16;
+
+[PrintText]=02:17:10	Setsuna	I won't be able to protect Sekai anymore... so please, protect her in my place.	02:23:00;
+
+[PlayVoice]=02:17:10	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0470	0	set	02:23:00;
+
+[PrintText]=02:23:03	Makoto	But... this is all so sudden...	02:26:10;
+
+[PlayVoice]=02:23:03	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0480	1	mak	02:26:10;
+
+[PrintText]=02:26:06	Setsuna	Please... take care of her.	02:29:15;
+
+[PlayVoice]=02:26:06	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0490	0	set	02:29:15;
+
+[PrintText]=02:31:15	Makoto	...All right.	02:32:19;
+
+[PlayVoice]=02:31:15	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0500	1	mak	02:32:19;
+
+[PrintText]=02:33:05	Setsuna	...Thank you.	02:34:07;
+
+[PlayVoice]=02:33:05	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0510	0	set	02:34:07;
+
+[PrintText]=02:34:14	Makoto	Are you sure about this?	02:39:05;
+
+[PlayVoice]=02:34:14	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0520	1	mak	02:39:05;
+
+[PrintText]=02:39:09	Setsuna	Uh-huh.	02:40:00;
+
+[PlayVoice]=02:39:09	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0530	0	set	02:40:00;
+
+[PrintText]=02:40:16	Makoto	I've only just started to understand you... only just started to fall in-	02:49:19;
+
+[PlayVoice]=02:40:16	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0540	1	mak	02:49:19;
+
+[PrintText]=02:49:10	Setsuna	Stop!	02:50:09;
+
+[PlayVoice]=02:49:10	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0550	0	set	02:50:09;
+
+[PrintText]=02:50:22	Makoto	...Okay.	02:51:14;
+
+[PlayVoice]=02:50:22	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0560	1	mak	02:51:14;
+
+[PrintText]=02:52:02	Setsuna	...	02:52:19;
+
+[PlayVoice]=02:52:02	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0570	0	xxx	02:52:19;
+
+[PrintText]=02:53:08	Makoto	I won't say any more.	02:54:18;
+
+[PlayVoice]=02:53:08	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0580	1	mak	02:54:18;
+
+[PrintText]=02:55:00	Setsuna	Uh-huh.	02:57:00;
+
+[PlayVoice]=02:55:00	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0590	0	set	02:57:00;
+
+[PrintText]=02:57:14	Makoto	I promise I'll protect Sekai.	03:03:13;
+
+[PlayVoice]=02:57:14	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0600	1	mak	03:03:13;
+
+[PrintText]=03:03:19	Setsuna	...Thank you.	03:04:22;
+
+[PlayVoice]=03:03:19	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0610	0	set	03:04:22;
+
+[PrintText]=03:05:18	Makoto	Feel better now?	03:06:21;
+
+[PlayVoice]=03:05:18	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0620	1	mak	03:06:21;
+
+[PrintText]=03:06:23	Setsuna	Uh-huh.	03:07:15;
+
+[PlayVoice]=03:06:23	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0630	0	set	03:07:15;
+
+[PrintText]=03:08:09	Makoto	In that case, shall we go home?	03:12:16;
+
+[PlayVoice]=03:08:09	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0640	1	mak	03:12:16;
+
+[PrintText]=03:12:21	Setsuna	Yeah... but before we do, can I ask for one more thing?	03:20:01;
+
+[PlayVoice]=03:12:21	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0650	0	set	03:20:01;
+
+[PrintText]=03:20:05	Makoto	Anything.	03:21:03;
+
+[PlayVoice]=03:20:05	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0660	1	mak	03:21:03;
+
+[PrintText]=03:21:20	Setsuna	I'll keep it deep within my heart and try not to think about it...	03:26:12;
+
+[PlayVoice]=03:21:20	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0680	0	set	03:26:12;
+
+[PrintText]=03:27:09	Setsuna	So please...	03:29:07;
+
+[PlayVoice]=03:27:09	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0690	0	set	03:29:07;
+
+[PrintText]=03:29:08	Setsuna	...Give me one more thing to remember.	03:33:00;
+
+[PlayVoice]=03:29:08	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0700	0	set	03:33:00;
+
+[EndBGM]=03:29:14	Se03/03-A1/03-A1-Z02/SE03-A1-Z02-001	05:34:09;
+
+[WhiteFade]=03:34:16	OUT	03:35:16;
+
+[PlayMovie]=03:35:16	Movie03/03-A1/03-A1-Z02/03-A1-Z02-006	0	03:41:05;
+
+[WhiteFade]=03:35:16	IN	03:36:04;
+
+[PrintText]=03:36:11	Setsuna	One more precious memory.	03:39:04;
+
+[PlayVoice]=03:36:11	Voice03/03-A1/03-A1-Z02/03-A1-Z02-0720	0	set	03:39:04;
+
+[WhiteFade]=03:40:05	OUT	03:41:05;
+
+[PlayMovie]=03:41:05	Movie03/03-A1/03-A1-Z02/03-A1-Z02-008	0	03:46:10;
+
+[WhiteFade]=03:41:05	IN	03:42:05;
+
+[BlackFade]=03:44:10	OUT	03:46:10;
+
+[EndRoll]=03:46:10	Movie03/03-A1/03-A1-Z02/03-A1-Z02-009	05:34:13;
+
+ ;
+
+[Next]=05:34:13;
+

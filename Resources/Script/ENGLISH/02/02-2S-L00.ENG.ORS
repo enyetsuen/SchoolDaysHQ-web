@@ -1,0 +1,104 @@
+[SkipFRAME]=00:54:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:54:00;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-L00/SE02-2S-L00-001	00:54:00;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-001	00:02:03;
+
+[CreateBG]=00:02:03	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-001B	00:07:20;
+
+[PrintText]=00:02:03	Makoto	Hey, I said, 'Hold on!'	00:04:02;
+
+[PlayVoice]=00:02:03	Voice02/02-2S/02-2S-L00/02-2S-L00-0040	1	mak	00:04:02;
+
+[PrintText]=00:04:00	Sekai	...	00:04:11;
+
+[PlayVoice]=00:04:00	Voice02/02-2S/02-2S-L00/02-2S-L00-0050	0	xxx	00:04:11;
+
+[PrintText]=00:05:01	Makoto	What are you so angry about?	00:06:14;
+
+[PlayVoice]=00:05:01	Voice02/02-2S/02-2S-L00/02-2S-L00-0060	1	mak	00:06:14;
+
+[PrintText]=00:06:15	Sekai	I'm not angry.	00:07:19;
+
+[PlayVoice]=00:06:15	Voice02/02-2S/02-2S-L00/02-2S-L00-0070	0	sek	00:07:19;
+
+[PrintText]=00:07:19	Makoto	You are.	00:09:06;
+
+[PlayVoice]=00:07:19	Voice02/02-2S/02-2S-L00/02-2S-L00-0080	1	mak	00:09:06;
+
+[CreateBG]=00:07:20	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-004	00:09:06;
+
+[CreateBG]=00:09:06	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-003	00:17:19;
+
+[PrintText]=00:09:06	Sekai	If I'm angry, then I'm angry at myself. It's got nothing to do with you.	00:14:11;
+
+[PlayVoice]=00:09:06	Voice02/02-2S/02-2S-L00/02-2S-L00-0090	0	sek	00:14:11;
+
+[PrintText]=00:14:11	Makoto	Of course it does.	00:16:19;
+
+[PlayVoice]=00:14:11	Voice02/02-2S/02-2S-L00/02-2S-L00-0100	1	mak	00:16:19;
+
+[PrintText]=00:16:19	Sekai	...	00:17:18;
+
+[PlayVoice]=00:16:19	Voice02/02-2S/02-2S-L00/02-2S-L00-0110	0	xxx	00:17:18;
+
+[PrintText]=00:17:18	Makoto	You're angry about what happened at lunch, right? I'm sorry I couldn't say it. I'll be sure to tell her tomorrow, okay?	00:25:10;
+
+[PlayVoice]=00:17:18	Voice02/02-2S/02-2S-L00/02-2S-L00-0120	1	mak	00:25:10;
+
+[CreateBG]=00:17:19	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-004	00:25:11;
+
+[CreateBG]=00:25:11	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-006	00:29:12;
+
+[PrintText]=00:25:11	Sekai	You don't have it in you.	00:26:15;
+
+[PlayVoice]=00:25:11	Voice02/02-2S/02-2S-L00/02-2S-L00-0130	0	sek	00:26:15;
+
+[PrintText]=00:26:15	Makoto	I will.	00:27:10;
+
+[PlayVoice]=00:26:15	Voice02/02-2S/02-2S-L00/02-2S-L00-0140	1	mak	00:27:10;
+
+[PrintText]=00:27:11	Sekai	You won't.	00:28:05;
+
+[PlayVoice]=00:27:11	Voice02/02-2S/02-2S-L00/02-2S-L00-0150	0	sek	00:28:05;
+
+[PrintText]=00:28:05	Makoto	I said I will.	00:29:12;
+
+[PlayVoice]=00:28:05	Voice02/02-2S/02-2S-L00/02-2S-L00-0160	1	mak	00:29:12;
+
+[CreateBG]=00:29:12	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-001B	00:32:14;
+
+[PrintText]=00:29:12	Sekai	I'm telling you, you won't.	00:31:18;
+
+[PlayVoice]=00:29:12	Voice02/02-2S/02-2S-L00/02-2S-L00-0170	0	sek	00:31:18;
+
+[CreateBG]=00:32:14	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-008	00:36:07;
+
+[PrintText]=00:32:14	Sekai	...Because you still love her.	00:36:11;
+
+[PlayVoice]=00:32:14	Voice02/02-2S/02-2S-L00/02-2S-L00-0190	0	sek	00:36:11;
+
+[CreateBG]=00:36:07	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-009	00:37:23;
+
+[PrintText]=00:36:16	Makoto	Wha-?!	00:37:04;
+
+[PlayVoice]=00:36:16	Voice02/02-2S/02-2S-L00/02-2S-L00-0200	1	mak	00:37:04;
+
+[CreateBG]=00:37:23	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-003	00:46:18;
+
+[PrintText]=00:37:23	Sekai	And yet, I still can't give up on you, and that makes me angry at myself. It's not your fault. I'm sorry. Goodbye.	00:50:20;
+
+[PlayVoice]=00:37:23	Voice02/02-2S/02-2S-L00/02-2S-L00-0210	0	sek	00:50:20;
+
+[CreateBG]=00:46:18	BGS	Event02/02-2S/02-2S-L00/02-2S-L00-004	00:54:00;
+
+[PrintText]=00:50:20	Makoto	Sekai...	00:53:08;
+
+[PlayVoice]=00:50:20	Voice02/02-2S/02-2S-L00/02-2S-L00-0230	1	mak	00:53:08;
+
+ ;
+
+[Next]=00:54:00;
+

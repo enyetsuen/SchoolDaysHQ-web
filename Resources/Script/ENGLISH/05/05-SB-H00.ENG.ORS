@@ -1,0 +1,46 @@
+[SkipFRAME]=00:21:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:27:17;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-H00/05-SB-H00-001	00:06:17;
+
+[CreateBG]=00:06:17	BGS	Event05/05-SB/05-SB-H00/05-SB-H00-002	00:11:22;
+
+[PrintText]=00:06:17	Nanami	Itou.	00:07:14;
+
+[PlayVoice]=00:06:17	Voice05/05-SB/05-SB-H00/05-SB-H00-0050	0	nan	00:07:14;
+
+[PrintText]=00:07:14	Makoto	Oh, it's you.	00:10:20;
+
+[PlayVoice]=00:07:14	Voice05/05-SB/05-SB-H00/05-SB-H00-0070	1	mak	00:10:20;
+
+[PrintText]=00:10:20	Nanami	How's Sekai?	00:11:22;
+
+[PlayVoice]=00:10:20	Voice05/05-SB/05-SB-H00/05-SB-H00-0080	0	nan	00:11:22;
+
+[CreateBG]=00:11:22	BGS	Event05/05-SB/05-SB-H00/05-SB-H00-003	00:21:17;
+
+[PrintText]=00:11:22	Makoto	She's asleep.	00:14:01;
+
+[PlayVoice]=00:11:22	Voice05/05-SB/05-SB-H00/05-SB-H00-0090	1	mak	00:14:01;
+
+[PrintText]=00:14:02	Nanami	...It's your fault that she's been acting strange, isn't it?	00:18:10;
+
+[PlayVoice]=00:14:02	Voice05/05-SB/05-SB-H00/05-SB-H00-0100	0	nan	00:18:10;
+
+[PrintText]=00:18:11	Makoto	...	00:20:20;
+
+[PlayVoice]=00:18:11	Voice05/05-SB/05-SB-H00/05-SB-H00-0110	1	xxx	00:20:20;
+
+[PrintText]=00:20:20	Nanami	Am I wrong?	00:21:16;
+
+[PlayVoice]=00:20:20	Voice05/05-SB/05-SB-H00/05-SB-H00-0120	0	nan	00:21:16;
+
+[CreateBG]=00:21:17	BGS	Event05/05-SB/05-SB-H00/05-SB-H00-001	00:27:17;
+
+[SetSELECT]=00:21:17	'No'	'Yes'	00:26:17;
+
+ ;
+
+[Next]=00:27:17;
+

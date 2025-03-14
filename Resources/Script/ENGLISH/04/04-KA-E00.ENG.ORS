@@ -1,0 +1,102 @@
+[SkipFRAME]=00:46:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:46:18;
+
+[PlaySe]=00:00:00	2	Se04/04-E0/04-E0-E00/SE04-E0-E00-001	00:46:18;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-001	00:10:05;
+
+[PrintText]=00:00:00	Kotonoha	Ah! Makoto-kun.	00:01:22;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-E00/04-KA-E00-0040	0	kot	00:01:22;
+
+[PrintText]=00:01:22	Makoto	...Ah.	00:02:14;
+
+[PlayVoice]=00:01:22	Voice04/04-KA/04-KA-E00/04-KA-E00-0060	1	mak	00:02:14;
+
+[PrintText]=00:02:21	Kotonoha	You sure are late today.	00:05:15;
+
+[PlayVoice]=00:02:21	Voice04/04-KA/04-KA-E00/04-KA-E00-0090	0	kot	00:05:15;
+
+[PrintText]=00:05:14	Makoto	Yeah.	00:06:09;
+
+[PlayVoice]=00:05:14	Voice04/04-KA/04-KA-E00/04-KA-E00-0100	1	mak	00:06:09;
+
+[PrintText]=00:06:18	Kotonoha	I was getting worried that we'd be late to school.	00:10:09;
+
+[PlayVoice]=00:06:18	Voice04/04-KA/04-KA-E00/04-KA-E00-0110	0	kot	00:10:09;
+
+[CreateBG]=00:10:05	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-002	00:14:20;
+
+[PrintText]=00:10:05	Makoto	You were waiting for me this whole time?	00:12:23;
+
+[PlayVoice]=00:10:05	Voice04/04-KA/04-KA-E00/04-KA-E00-0120	1	mak	00:12:23;
+
+[PrintText]=00:12:21	Kotonoha	Yes.	00:13:14;
+
+[PlayVoice]=00:12:21	Voice04/04-KA/04-KA-E00/04-KA-E00-0130	0	kot	00:13:14;
+
+[PrintText]=00:13:21	Makoto	I see...	00:14:16;
+
+[PlayVoice]=00:13:21	Voice04/04-KA/04-KA-E00/04-KA-E00-0140	1	mak	00:14:16;
+
+[CreateBG]=00:14:20	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-003	00:24:20;
+
+[PrintText]=00:14:22	Kotonoha	Today's cleanup day... but it seems the girls' basketball club is coming around to do all of it, so I've got the day free.	00:24:21;
+
+[PlayVoice]=00:14:22	Voice04/04-KA/04-KA-E00/04-KA-E00-0150	0	kot	00:24:21;
+
+[CreateBG]=00:24:20	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-004	00:26:02;
+
+[PrintText]=00:24:20	Makoto	The girls' basketball club?	00:26:00;
+
+[PlayVoice]=00:24:20	Voice04/04-KA/04-KA-E00/04-KA-E00-0160	1	mak	00:26:00;
+
+[CreateBG]=00:26:02	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-005	00:30:15;
+
+[PrintText]=00:26:06	Kotonoha	It seems they're going to pack up the bed and destroy the evidence.	00:30:14;
+
+[PlayVoice]=00:26:06	Voice04/04-KA/04-KA-E00/04-KA-E00-0170	0	kot	00:30:14;
+
+[CreateBG]=00:30:15	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-006	00:32:22;
+
+[PrintText]=00:30:16	Makoto	Ah...	00:31:16;
+
+[PlayVoice]=00:30:16	Voice04/04-KA/04-KA-E00/04-KA-E00-0180	1	mak	00:31:16;
+
+[PrintText]=00:31:20	Makoto	Right.	00:32:17;
+
+[PlayVoice]=00:31:20	Voice04/04-KA/04-KA-E00/04-KA-E00-0220	1	mak	00:32:17;
+
+[CreateBG]=00:32:22	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-007	00:38:05;
+
+[PrintText]=00:33:04	Kotonoha	Have you got some free time today?	00:36:09;
+
+[PlayVoice]=00:33:04	Voice04/04-KA/04-KA-E00/04-KA-E00-0230	0	kot	00:36:09;
+
+[PrintText]=00:36:15	Makoto	I'm not sure.	00:38:00;
+
+[PlayVoice]=00:36:15	Voice04/04-KA/04-KA-E00/04-KA-E00-0240	1	mak	00:38:00;
+
+[CreateBG]=00:38:05	BGS	Event04/04-KA/04-KA-E00/04-KA-E00-008	00:46:18;
+
+[PlaySe]=00:38:06	1	Se04/04-E0/04-E0-E00/SE04-KA-E00-002	00:46:18;
+
+[PrintText]=00:38:09	Kotonoha	If you do, we could...	00:41:21;
+
+[PlayVoice]=00:38:09	Voice04/04-KA/04-KA-E00/04-KA-E00-0250	0	kot	00:41:21;
+
+[PrintText]=00:41:13	Makoto	It's here. Let's get on.	00:43:16;
+
+[PlayVoice]=00:41:13	Voice04/04-KA/04-KA-E00/04-KA-E00-0270	1	mak	00:43:16;
+
+[PrintText]=00:43:20	Kotonoha	Ah... okay.	00:45:15;
+
+[PlayVoice]=00:43:20	Voice04/04-KA/04-KA-E00/04-KA-E00-0280	0	kot	00:45:15;
+
+[BlackFade]=00:45:21	OUT	00:46:21;
+
+ ;
+
+[Next]=00:46:21;
+

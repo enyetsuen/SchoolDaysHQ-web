@@ -1,0 +1,60 @@
+[SkipFRAME]=00:33:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:33:17;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-J03/SE01-00-J03-001	00:33:17;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-J03/01-00-J03-001	00:02:13;
+
+[PrintText]=00:00:06	Makoto	Was lunch boring for you?	00:02:16;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-J03/01-00-J03-0030	1	mak	00:02:16;
+
+[CreateBG]=00:02:13	BGS	Event01/01-00/01-00-J03/01-00-J03-002	00:03:14;
+
+[PrintText]=00:02:18	Kotonoha	Eh...?	00:03:09;
+
+[PlayVoice]=00:02:18	Voice01/01-00/01-00-J03/01-00-J03-0040	0	kot	00:03:09;
+
+[CreateBG]=00:03:14	BGS	Event01/01-00/01-00-J03/01-00-J03-003	00:16:03;
+
+[PrintText]=00:03:16	Makoto	Ahh... well, you know, I was talking with Sekai the whole time, and we didn't get to say much to each other.	00:10:22;
+
+[PlayVoice]=00:03:16	Voice01/01-00/01-00-J03/01-00-J03-0050	1	mak	00:10:22;
+
+[PrintText]=00:11:02	Kotonoha	N-no, please don't worry about that. It's not like that at all...	00:16:05;
+
+[PlayVoice]=00:11:02	Voice01/01-00/01-00-J03/01-00-J03-0060	0	kot	00:16:05;
+
+[CreateBG]=00:16:03	BGS	Event01/01-00/01-00-J03/01-00-J03-004	00:27:03;
+
+[PrintText]=00:16:03	Makoto	But that's not how you looked.	00:18:20;
+
+[PlayVoice]=00:16:03	Voice01/01-00/01-00-J03/01-00-J03-0070	1	mak	00:18:20;
+
+[PrintText]=00:19:08	Kotonoha	That was because you...	00:22:04;
+
+[PlayVoice]=00:19:08	Voice01/01-00/01-00-J03/01-00-J03-0080	0	kot	00:22:04;
+
+[PrintText]=00:22:04	Makoto	See?	00:23:01;
+
+[PlayVoice]=00:22:04	Voice01/01-00/01-00-J03/01-00-J03-0090	1	mak	00:23:01;
+
+[PrintText]=00:23:00	Kotonoha	I-it's not like that. It's not about the conversation... I, I mean... um...	00:29:10;
+
+[PlayVoice]=00:23:00	Voice01/01-00/01-00-J03/01-00-J03-0100	0	kot	00:29:10;
+
+[CreateBG]=00:27:03	BGS	Event01/01-00/01-00-J03/01-00-J03-005	00:33:17;
+
+[PrintText]=00:30:01	Makoto	Katsura.	00:30:23;
+
+[PlayVoice]=00:30:01	Voice01/01-00/01-00-J03/01-00-J03-0110	1	mak	00:30:23;
+
+[PrintText]=00:31:15	Kotonoha	...	00:33:05;
+
+[PlayVoice]=00:31:15	Voice01/01-00/01-00-J03/01-00-J03-0120	0	xxx	00:33:05;
+
+ ;
+
+[Next]=00:33:17;
+

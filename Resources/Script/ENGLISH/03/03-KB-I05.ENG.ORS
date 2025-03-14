@@ -1,0 +1,76 @@
+[SkipFRAME]=00:44:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	00:44:00;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I05/SE03-KB-I05-001	00:44:00;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I05/03-KB-I05-001	00:05:11;
+
+[PrintText]=00:00:00	Taisuke	What's more... I thought I'd ask Makoto first, so I called him yesterday.	00:05:10;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-I05/03-KB-I05-0030	1	tai	00:05:10;
+
+[PrintText]=00:05:10	Kotonoha	Eh?!	00:06:05;
+
+[PlayVoice]=00:05:10	Voice03/03-KB/03-KB-I05/03-KB-I05-0040	0	kot	00:06:05;
+
+[CreateBG]=00:05:11	BGS	Event03/03-KB/03-KB-I05/03-KB-I05-002	00:06:06;
+
+[PrintText]=00:06:05	Taisuke	That guy's already got another girlfriend... but it seems he's still attached to Saionji.	00:13:22;
+
+[PlayVoice]=00:06:05	Voice03/03-KB/03-KB-I05/03-KB-I05-0050	1	tai	00:13:22;
+
+[CreateBG]=00:06:06	BGS	Event03/03-KB/03-KB-I05/03-KB-I05-003	00:13:23;
+
+[PrintText]=00:13:22	Kotonoha	Attached...?	00:15:14;
+
+[PlayVoice]=00:13:22	Voice03/03-KB/03-KB-I05/03-KB-I05-0060	0	kot	00:15:14;
+
+[CreateBG]=00:13:23	BGS	Event03/03-KB/03-KB-I05/03-KB-I05-004	00:25:01;
+
+[PrintText]=00:15:14	Taisuke	He's confessed to her before.	00:19:10;
+
+[PlayVoice]=00:15:14	Voice03/03-KB/03-KB-I05/03-KB-I05-0070	1	tai	00:19:10;
+
+[PrintText]=00:19:10	Kotonoha	Ehh?!	00:20:08;
+
+[PlayVoice]=00:19:10	Voice03/03-KB/03-KB-I05/03-KB-I05-0080	0	kot	00:20:08;
+
+[PrintText]=00:20:08	Taisuke	Seems like she turned him down, though.	00:22:22;
+
+[PlayVoice]=00:20:08	Voice03/03-KB/03-KB-I05/03-KB-I05-0090	1	tai	00:22:22;
+
+[PrintText]=00:22:22	Kotonoha	I see...	00:25:01;
+
+[PlayVoice]=00:22:22	Voice03/03-KB/03-KB-I05/03-KB-I05-0100	0	kot	00:25:01;
+
+[CreateBG]=00:25:01	BGS	Event03/03-KB/03-KB-I05/03-KB-I05-005	00:31:21;
+
+[PrintText]=00:25:01	Taisuke	That's why it's weird how he's getting irritated about me asking Saionji out.	00:31:01;
+
+[PlayVoice]=00:25:01	Voice03/03-KB/03-KB-I05/03-KB-I05-0110	1	tai	00:31:01;
+
+[PrintText]=00:31:01	Kotonoha	Yes.	00:31:20;
+
+[PlayVoice]=00:31:01	Voice03/03-KB/03-KB-I05/03-KB-I05-0120	0	kot	00:31:20;
+
+[PrintText]=00:31:20	Taisuke	Dragging along something from the past like that... it's an insult to his current girlfriend, don't you think?	00:37:12;
+
+[PlayVoice]=00:31:20	Voice03/03-KB/03-KB-I05/03-KB-I05-0130	1	tai	00:37:12;
+
+[CreateBG]=00:31:21	BGS	Event03/03-KB/03-KB-I05/03-KB-I05-006	00:39:00;
+
+[PrintText]=00:37:12	Kotonoha	Yes, you're right.	00:38:23;
+
+[PlayVoice]=00:37:12	Voice03/03-KB/03-KB-I05/03-KB-I05-0140	0	kot	00:38:23;
+
+[PrintText]=00:38:23	Taisuke	Still, having said that, I don't even know Saionji's cell phone number, so...	00:43:20;
+
+[PlayVoice]=00:38:23	Voice03/03-KB/03-KB-I05/03-KB-I05-0150	1	tai	00:43:20;
+
+[CreateBG]=00:39:00	BGS	Event03/03-KB/03-KB-I05/03-KB-I05-007	00:44:00;
+
+ ;
+
+[Next]=00:44:00;
+

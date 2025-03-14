@@ -1,0 +1,32 @@
+[SkipFRAME]=00:09:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:15:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5H/05-5H-C02/05-5H-C02-001	00:15:07;
+
+[PrintText]=00:00:16	Makoto	That's a bit...	00:02:10;
+
+[PlayVoice]=00:00:16	Voice05/05-5H/05-5H-C02/05-5H-C02-0030	1	mak	00:02:10;
+
+[PrintText]=00:02:20	Taisuke	Why not?	00:04:04;
+
+[PlayVoice]=00:02:20	Voice05/05-5H/05-5H-C02/05-5H-C02-0040	1	tai	00:04:04;
+
+[PrintText]=00:04:14	Makoto	Well...	00:05:09;
+
+[PlayVoice]=00:04:14	Voice05/05-5H/05-5H-C02/05-5H-C02-0050	1	mak	00:05:09;
+
+[PrintText]=00:05:16	Taisuke	Don't tell me that being watched makes you embarrassed?	00:09:00;
+
+[PlayVoice]=00:05:16	Voice05/05-5H/05-5H-C02/05-5H-C02-0060	1	tai	00:09:00;
+
+[SetSELECT]=00:09:07	'I want to do it with Kotonoha'	null	00:14:07;
+
+[PrintText]=00:09:15	Makoto	Y-yeah, kind of...	00:11:15;
+
+[PlayVoice]=00:09:15	Voice05/05-5H/05-5H-C02/05-5H-C02-0070	1	mak	00:11:15;
+
+ ;
+
+[Next]=00:15:07;
+

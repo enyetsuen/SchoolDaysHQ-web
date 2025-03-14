@@ -1,0 +1,178 @@
+[SkipFRAME]=01:55:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	01:55:21;
+
+[CreateBG]=00:00:00	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-002	00:06:00;
+
+[WhiteFade]=00:05:12	OUT	00:06:00;
+
+[CreateBG]=00:06:00	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-003	00:19:03;
+
+[PrintText]=00:06:00	Sekai	You did it! It was a close contest for the girls... my heart was pounding.	00:11:05;
+
+[PlayVoice]=00:06:00	Voice03/03-AS/03-AS-C00/03-AS-C00-0110	0	sek	00:11:05;
+
+[WhiteFade]=00:06:00	IN	00:06:12;
+
+[PrintText]=00:11:05	Setsuna	It's not something to be THAT happy about.	00:14:11;
+
+[PlayVoice]=00:11:05	Voice03/03-AS/03-AS-C00/03-AS-C00-0120	0	set	00:14:11;
+
+[PrintText]=00:14:12	Sekai	Ehh? But weren't you saying how you wanted to be the class rep?	00:19:02;
+
+[PlayVoice]=00:14:12	Voice03/03-AS/03-AS-C00/03-AS-C00-0130	0	sek	00:19:02;
+
+[PrintText]=00:19:02	Setsuna	No.	00:20:03;
+
+[PlayVoice]=00:19:02	Voice03/03-AS/03-AS-C00/03-AS-C00-0140	0	set	00:20:03;
+
+[CreateBG]=00:19:03	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-004	00:31:17;
+
+[PrintText]=00:20:03	Sekai	You were. You said you wanted to be the class rep.	00:23:19;
+
+[PlayVoice]=00:20:03	Voice03/03-AS/03-AS-C00/03-AS-C00-0150	0	sek	00:23:19;
+
+[PrintText]=00:23:19	Setsuna	I didn't say I WANTED to do it, but someone told me it suited me...	00:28:09;
+
+[PlayVoice]=00:23:19	Voice03/03-AS/03-AS-C00/03-AS-C00-0160	0	set	00:28:09;
+
+[PrintText]=00:28:10	Sekai	Who?	00:29:04;
+
+[PlayVoice]=00:28:10	Voice03/03-AS/03-AS-C00/03-AS-C00-0170	0	sek	00:29:04;
+
+[PrintText]=00:29:15	Setsuna	No one in particular...	00:30:13;
+
+[PlayVoice]=00:29:15	Voice03/03-AS/03-AS-C00/03-AS-C00-0180	0	set	00:30:13;
+
+[PrintText]=00:30:18	Sekai	Really?	00:31:12;
+
+[PlayVoice]=00:30:18	Voice03/03-AS/03-AS-C00/03-AS-C00-0190	0	sek	00:31:12;
+
+[CreateBG]=00:31:17	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-005	00:37:03;
+
+[PrintText]=00:31:18	Makoto	Yo.	00:32:10;
+
+[PlayVoice]=00:31:18	Voice03/03-AS/03-AS-C00/03-AS-C00-0210	1	mak	00:32:10;
+
+[PrintText]=00:32:14	Sekai	Ah... I-Itou.	00:35:12;
+
+[PlayVoice]=00:32:14	Voice03/03-AS/03-AS-C00/03-AS-C00-0220	0	sek	00:35:12;
+
+[PrintText]=00:35:12	Makoto	Congratulations on making class rep.	00:37:01;
+
+[PlayVoice]=00:35:12	Voice03/03-AS/03-AS-C00/03-AS-C00-0240	1	mak	00:37:01;
+
+[CreateBG]=00:37:03	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-006	00:39:12;
+
+[PrintText]=00:37:05	Setsuna	Ah... yeah.	00:39:09;
+
+[PlayVoice]=00:37:05	Voice03/03-AS/03-AS-C00/03-AS-C00-0250	0	set	00:39:09;
+
+[CreateBG]=00:39:12	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-005	00:47:01;
+
+[PrintText]=00:39:14	Makoto	I voted for you, just like I promised. Give it your best, okay?	00:43:08;
+
+[PlayVoice]=00:39:14	Voice03/03-AS/03-AS-C00/03-AS-C00-0270	1	mak	00:43:08;
+
+[PrintText]=00:43:14	Setsuna	I will...	00:45:00;
+
+[PlayVoice]=00:43:14	Voice03/03-AS/03-AS-C00/03-AS-C00-0280	0	set	00:45:00;
+
+[PrintText]=00:45:09	Makoto	Haha... see you around.	00:46:22;
+
+[PlayVoice]=00:45:09	Voice03/03-AS/03-AS-C00/03-AS-C00-0290	1	mak	00:46:22;
+
+[CreateBG]=00:47:01	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-008	00:48:13;
+
+[CreateBG]=00:48:13	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-009	00:57:00;
+
+[PrintText]=00:48:13	Sekai	Uwah... it was Itou, wasn't it?	00:51:02;
+
+[PlayVoice]=00:48:13	Voice03/03-AS/03-AS-C00/03-AS-C00-0320	0	sek	00:51:02;
+
+[PrintText]=00:51:07	Setsuna	Mmn...	00:51:21;
+
+[PlayVoice]=00:51:07	Voice03/03-AS/03-AS-C00/03-AS-C00-0330	0	set	00:51:21;
+
+[PrintText]=00:52:03	Sekai	What's this about a promise? Did you two suddenly start becoming close without me noticing?!	00:56:21;
+
+[PlayVoice]=00:52:03	Voice03/03-AS/03-AS-C00/03-AS-C00-0340	0	sek	00:56:21;
+
+[CreateBG]=00:57:00	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-003	01:14:01;
+
+[PrintText]=00:57:04	Setsuna	No. He just said he'd vote for me.	01:02:08;
+
+[PlayVoice]=00:57:04	Voice03/03-AS/03-AS-C00/03-AS-C00-0350	0	set	01:02:08;
+
+[PrintText]=01:02:15	Sekai	Oh. But that sure was a shock, wasn't it? To have him come up and talk to you, I mean.	01:09:13;
+
+[PlayVoice]=01:02:15	Voice03/03-AS/03-AS-C00/03-AS-C00-0360	0	sek	01:09:13;
+
+[PrintText]=01:09:13	Sekai	I was panicking because I thought he'd found out about this morning.	01:13:22;
+
+[PlayVoice]=01:09:13	Voice03/03-AS/03-AS-C00/03-AS-C00-0361	0	sek	01:13:22;
+
+[CreateBG]=01:14:01	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-011	01:34:03;
+
+[PrintText]=01:14:05	Setsuna	What happened this morning?	01:15:23;
+
+[PlayVoice]=01:14:05	Voice03/03-AS/03-AS-C00/03-AS-C00-0370	0	set	01:15:23;
+
+[PrintText]=01:16:02	Sekai	Well, I took a photo.	01:18:21;
+
+[PlayVoice]=01:16:02	Voice03/03-AS/03-AS-C00/03-AS-C00-0380	0	sek	01:18:21;
+
+[PrintText]=01:19:03	Setsuna	A photo?	01:20:02;
+
+[PlayVoice]=01:19:03	Voice03/03-AS/03-AS-C00/03-AS-C00-0390	0	set	01:20:02;
+
+[PrintText]=01:20:08	Sekai	Come on, you know what I mean. That charm you do by taking a photo with your phone.	01:24:15;
+
+[PlayVoice]=01:20:08	Voice03/03-AS/03-AS-C00/03-AS-C00-0400	0	sek	01:24:15;
+
+[PrintText]=01:24:18	Setsuna	The one where your love will come true if you hide it for three weeks?	01:29:07;
+
+[PlayVoice]=01:24:18	Voice03/03-AS/03-AS-C00/03-AS-C00-0410	0	set	01:29:07;
+
+[PrintText]=01:29:07	Sekai	Yep! I just happened to spot him this morning, so I took a photo. It's right under the cherry blossoms... neat, huh?!	01:39:01;
+
+[PlayVoice]=01:29:07	Voice03/03-AS/03-AS-C00/03-AS-C00-0420	0	sek	01:39:01;
+
+[CreateBG]=01:34:03	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-012	01:47:09;
+
+[PrintText]=01:39:02	Setsuna	I thought you weren't supposed to show anyone...?	01:42:22;
+
+[PlayVoice]=01:39:02	Voice03/03-AS/03-AS-C00/03-AS-C00-0430	0	set	01:42:22;
+
+[PrintText]=01:42:21	Sekai	Uh-uh. I thought I'd share it with you. Here, I'll send it to you.	01:48:15;
+
+[PlayVoice]=01:42:21	Voice03/03-AS/03-AS-C00/03-AS-C00-0440	0	sek	01:48:15;
+
+[CreateBG]=01:47:09	BGS	Event03/03-AS/03-AS-C00/03-AS-C00-013	01:52:13;
+
+[PrintText]=01:48:22	Setsuna	Ah... okay.	01:50:18;
+
+[PlayVoice]=01:48:22	Voice03/03-AS/03-AS-C00/03-AS-C00-0450	0	set	01:50:18;
+
+[PrintText]=01:51:00	Sekai	Eheheh...	01:52:01;
+
+[PlayVoice]=01:51:00	Voice03/03-AS/03-AS-C00/03-AS-C00-0460	0	sek	01:52:01;
+
+[WhiteFade]=01:52:01	OUT	01:52:13;
+
+[CreateBG]=01:52:13	BGS	Event03/03-AS/03-AS-C00/03-As-C00-014	01:55:21;
+
+[WhiteFade]=01:52:13	IN	01:53:01;
+
+[PrintText]=01:53:15	Setsuna	Sekai...	01:54:13;
+
+[PlayVoice]=01:53:15	Voice03/03-AS/03-AS-C00/03-AS-C00-0510	0	set	01:54:13;
+
+[BlackFade]=01:54:21	OUT	01:55:21;
+
+ ;
+
+[Next]=01:55:21;
+

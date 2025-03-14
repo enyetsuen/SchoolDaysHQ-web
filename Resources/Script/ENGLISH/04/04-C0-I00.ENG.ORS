@@ -1,0 +1,220 @@
+[SkipFRAME]=02:09:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:16:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-001	00:02:04;
+
+[PrintText]=00:00:07	Kotonoha	Please pardon the intrusion.	00:01:16;
+
+[PlayVoice]=00:00:07	Voice04/04-C0/04-C0-I00/04-C0-I00-0040	0	kot	00:01:16;
+
+[PrintText]=00:01:16	Makoto	...	00:02:10;
+
+[PlayVoice]=00:01:16	Voice04/04-C0/04-C0-I00/04-C0-I00-0050	1	xxx	00:02:10;
+
+[PlayMovie]=00:02:04	Movie04/04-C0/04-C0-I00/04-C0-I00-002	0	00:16:12;
+
+[PrintText]=00:04:12	Kotonoha	You have a lovely place here.	00:06:07;
+
+[PlayVoice]=00:04:12	Voice04/04-C0/04-C0-I00/04-C0-I00-0070	0	kot	00:06:07;
+
+[PrintText]=00:07:16	Makoto	...	00:08:10;
+
+[PlayVoice]=00:07:16	Voice04/04-C0/04-C0-I00/04-C0-I00-0080	1	xxx	00:08:10;
+
+[PrintText]=00:08:11	Kotonoha	Ah... thank you.	00:11:11;
+
+[PlayVoice]=00:08:11	Voice04/04-C0/04-C0-I00/04-C0-I00-0100	0	kot	00:11:11;
+
+[PrintText]=00:11:10	Makoto	Uh-huh.	00:12:02;
+
+[PlayVoice]=00:11:10	Voice04/04-C0/04-C0-I00/04-C0-I00-0110	1	mak	00:12:02;
+
+[PrintText]=00:13:18	Kotonoha	Haah... it's delicious.	00:17:13;
+
+[PlayVoice]=00:13:18	Voice04/04-C0/04-C0-I00/04-C0-I00-0120	0	kot	00:17:13;
+
+[PlayMovie]=00:16:12	Movie04/04-C0/04-C0-I00/04-C0-I00-003	0	00:24:20;
+
+[PrintText]=00:17:15	Makoto	It's just ordinary tea.	00:19:04;
+
+[PlayVoice]=00:17:15	Voice04/04-C0/04-C0-I00/04-C0-I00-0130	1	mak	00:19:04;
+
+[PrintText]=00:20:06	Kotonoha	This... brings back memories.	00:23:11;
+
+[PlayVoice]=00:20:06	Voice04/04-C0/04-C0-I00/04-C0-I00-0140	0	kot	00:23:11;
+
+[PrintText]=00:23:14	Makoto	Of what?	00:24:10;
+
+[PlayVoice]=00:23:14	Voice04/04-C0/04-C0-I00/04-C0-I00-0150	1	mak	00:24:10;
+
+[WhiteFade]=00:24:14	OUT	00:24:20;
+
+[CreateBG]=00:24:20	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-004	00:41:09;
+
+[WhiteFade]=00:24:20	IN	00:25:02;
+
+[PrintText]=00:25:01	Kotonoha	Of when we used to have lunch on the roof... the three of us, eating... laughing... talking...	00:35:20;
+
+[PlayVoice]=00:25:01	Voice04/04-C0/04-C0-I00/04-C0-I00-0160	0	kot	00:35:20;
+
+[PrintText]=00:35:16	Makoto	Those were fun times, weren't they?	00:38:22;
+
+[PlayVoice]=00:35:16	Voice04/04-C0/04-C0-I00/04-C0-I00-0170	1	mak	00:38:22;
+
+[PrintText]=00:39:12	Kotonoha	Yes...	00:40:04;
+
+[PlayVoice]=00:39:12	Voice04/04-C0/04-C0-I00/04-C0-I00-0180	0	kot	00:40:04;
+
+[CreateBG]=00:41:09	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-005	00:49:01;
+
+[PrintText]=00:41:09	Makoto	...Did something happen?	00:42:14;
+
+[PlayVoice]=00:41:09	Voice04/04-C0/04-C0-I00/04-C0-I00-0190	1	mak	00:42:14;
+
+[PrintText]=00:42:23	Kotonoha	Eh...?	00:43:12;
+
+[PlayVoice]=00:42:23	Voice04/04-C0/04-C0-I00/04-C0-I00-0200	0	kot	00:43:12;
+
+[PrintText]=00:44:01	Makoto	You're acting kind of weird today.	00:47:03;
+
+[PlayVoice]=00:44:01	Voice04/04-C0/04-C0-I00/04-C0-I00-0210	1	mak	00:47:03;
+
+[PrintText]=00:47:10	Kotonoha	I am?	00:48:15;
+
+[PlayVoice]=00:47:10	Voice04/04-C0/04-C0-I00/04-C0-I00-0220	0	kot	00:48:15;
+
+[PrintText]=00:48:21	Makoto	It's... like you're thinking really hard about something.	00:52:05;
+
+[PlayVoice]=00:48:21	Voice04/04-C0/04-C0-I00/04-C0-I00-0230	1	mak	00:52:05;
+
+[CreateBG]=00:49:01	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-006	00:53:19;
+
+[PrintText]=00:52:13	Kotonoha	...	00:53:02;
+
+[PlayVoice]=00:52:13	Voice04/04-C0/04-C0-I00/04-C0-I00-0240	0	xxx	00:53:02;
+
+[WhiteFade]=00:53:13	OUT	00:53:19;
+
+[CreateBG]=00:53:19	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-008	01:04:18;
+
+[WhiteFade]=00:53:19	IN	00:54:01;
+
+[PrintText]=00:54:06	Makoto	Oh, you don't have to tell me if you don't want to.	00:57:05;
+
+[PlayVoice]=00:54:06	Voice04/04-C0/04-C0-I00/04-C0-I00-0250	1	mak	00:57:05;
+
+[PrintText]=00:58:06	Kotonoha	It's because... you keep running away.	01:02:11;
+
+[PlayVoice]=00:58:06	Voice04/04-C0/04-C0-I00/04-C0-I00-0260	0	kot	01:02:11;
+
+[PrintText]=01:04:12	Makoto	Running away?	01:05:13;
+
+[PlayVoice]=01:04:12	Voice04/04-C0/04-C0-I00/04-C0-I00-0270	1	mak	01:05:13;
+
+[CreateBG]=01:04:18	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-009	01:08:19;
+
+[PrintText]=01:06:06	Kotonoha	Because I keep denying your requests... you keep running away.	01:10:20;
+
+[PlayVoice]=01:06:06	Voice04/04-C0/04-C0-I00/04-C0-I00-0280	0	kot	01:10:20;
+
+[CreateBG]=01:08:19	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-010	01:10:04;
+
+[CreateBG]=01:10:04	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-011	01:29:05;
+
+[PrintText]=01:11:07	Makoto	...	01:12:07;
+
+[PlayVoice]=01:11:07	Voice04/04-C0/04-C0-I00/04-C0-I00-0290	1	xxx	01:12:07;
+
+[PrintText]=01:12:18	Kotonoha	That's why I've come to take you back.	01:16:19;
+
+[PlayVoice]=01:12:18	Voice04/04-C0/04-C0-I00/04-C0-I00-0300	0	kot	01:16:19;
+
+[PrintText]=01:16:22	Makoto	...	01:18:07;
+
+[PlayVoice]=01:16:22	Voice04/04-C0/04-C0-I00/04-C0-I00-0310	1	xxx	01:18:07;
+
+[PrintText]=01:19:00	Kotonoha	You've... been doing it with Saionji-san, haven't you?	01:23:00;
+
+[PlayVoice]=01:19:00	Voice04/04-C0/04-C0-I00/04-C0-I00-0320	0	kot	01:23:00;
+
+[PrintText]=01:23:09	Makoto	Eh...?!	01:24:05;
+
+[PlayVoice]=01:23:09	Voice04/04-C0/04-C0-I00/04-C0-I00-0330	1	mak	01:24:05;
+
+[PrintText]=01:24:06	Kotonoha	I know all about it... and about how Saionji-san feels, too.	01:27:23;
+
+[PlayVoice]=01:24:06	Voice04/04-C0/04-C0-I00/04-C0-I00-0340	0	kot	01:27:23;
+
+[PrintText]=01:28:02	Makoto	...	01:29:04;
+
+[PlayVoice]=01:28:02	Voice04/04-C0/04-C0-I00/04-C0-I00-0350	1	xxx	01:29:04;
+
+[CreateBG]=01:29:05	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-015	01:41:09;
+
+[PrintText]=01:29:08	Kotonoha	But it's not fair. She's been trying to take you away while I've been afraid.	01:36:02;
+
+[PlayVoice]=01:29:08	Voice04/04-C0/04-C0-I00/04-C0-I00-0360	0	kot	01:36:02;
+
+[PrintText]=01:35:22	Makoto	...	01:37:05;
+
+[PlayVoice]=01:35:22	Voice04/04-C0/04-C0-I00/04-C0-I00-0370	1	xxx	01:37:05;
+
+[PrintText]=01:38:05	Kotonoha	I won't be frightened any longer.	01:41:03;
+
+[PlayVoice]=01:38:05	Voice04/04-C0/04-C0-I00/04-C0-I00-0380	0	kot	01:41:03;
+
+[CreateBG]=01:41:09	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-019	01:57:15;
+
+[PrintText]=01:41:20	Kotonoha	I won't deny you anymore.	01:44:22;
+
+[PlayVoice]=01:41:20	Voice04/04-C0/04-C0-I00/04-C0-I00-0390	0	kot	01:44:22;
+
+[PrintText]=01:45:07	Kotonoha	I'll... do anything that you ask of me.	01:52:01;
+
+[PlayVoice]=01:45:07	Voice04/04-C0/04-C0-I00/04-C0-I00-0400	0	kot	01:52:01;
+
+[PrintText]=01:53:05	Kotonoha	So...	01:54:03;
+
+[PlayVoice]=01:53:05	Voice04/04-C0/04-C0-I00/04-C0-I00-0410	0	kot	01:54:03;
+
+[PrintText]=01:55:02	Kotonoha	I want you to... accept my feelings.	02:00:10;
+
+[PlayVoice]=01:55:02	Voice04/04-C0/04-C0-I00/04-C0-I00-0430	0	kot	02:00:10;
+
+[CreateBG]=01:57:15	BGS	Event04/04-C0/04-C0-I00/04-C0-I00-017	02:16:00;
+
+[PrintText]=02:00:08	Makoto	Kotonoha...	02:01:14;
+
+[PlayVoice]=02:00:08	Voice04/04-C0/04-C0-I00/04-C0-I00-0440	1	mak	02:01:14;
+
+[PrintText]=02:02:07	Kotonoha	Touch me...	02:03:11;
+
+[PlayVoice]=02:02:07	Voice04/04-C0/04-C0-I00/04-C0-I00-0450	0	kot	02:03:11;
+
+[PrintText]=02:04:06	Makoto	Ah...!	02:04:23;
+
+[PlayVoice]=02:04:06	Voice04/04-C0/04-C0-I00/04-C0-I00-0470	1	mak	02:04:23;
+
+[PrintText]=02:05:13	Kotonoha	Mmn...	02:06:05;
+
+[PlayVoice]=02:05:13	Voice04/04-C0/04-C0-I00/04-C0-I00-0480	0	kot	02:06:05;
+
+[PrintText]=02:07:04	Makoto	...	02:09:16;
+
+[PlayVoice]=02:07:04	Voice04/04-C0/04-C0-I00/04-C0-I00-0490	1	xxx	02:09:16;
+
+[PrintText]=02:09:18	Kotonoha	I... can feel your hand.	02:14:01;
+
+[PlayVoice]=02:09:18	Voice04/04-C0/04-C0-I00/04-C0-I00-0500	0	kot	02:14:01;
+
+[SetSELECT]=02:09:22	'Turn her away'	'Accept her feelings'	02:14:22;
+
+[PrintText]=02:14:02	Makoto	Ah...	02:15:07;
+
+[PlayVoice]=02:14:02	Voice04/04-C0/04-C0-I00/04-C0-I00-0510	1	mak	02:15:07;
+
+ ;
+
+[Next]=02:16:00;
+

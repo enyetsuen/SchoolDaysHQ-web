@@ -1,0 +1,222 @@
+[SkipFRAME]=03:25:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	03:25:04;
+
+[CreateBG]=00:00:00	BGS	Event05/05-G0/05-G0-E00/05-G0-E00-001	00:33:22;
+
+[PrintText]=00:00:12	Kotonoha	It's the first time we've taken this route by ourselves, isn't it?	00:05:13;
+
+[PlayVoice]=00:00:12	Voice05/05-G0/05-G0-E00/05-G0-E00-0040	0	kot	00:05:13;
+
+[PrintText]=00:05:13	Makoto	Yeah.	00:08:15;
+
+[PlayVoice]=00:05:13	Voice05/05-G0/05-G0-E00/05-G0-E00-0050	1	mak	00:08:15;
+
+[PrintText]=00:08:15	Kotonoha	Nishi-harami and Haramihama are right next to each other, but they feel surprisingly far apart, don't they?	00:15:02;
+
+[PlayVoice]=00:08:15	Voice05/05-G0/05-G0-E00/05-G0-E00-0060	0	kot	00:15:02;
+
+[PrintText]=00:15:02	Makoto	Well, they are a whole station apart.	00:20:08;
+
+[PlayVoice]=00:15:02	Voice05/05-G0/05-G0-E00/05-G0-E00-0070	1	mak	00:20:08;
+
+[PrintText]=00:20:08	Kotonoha	Yes... perhaps we even passed each other by as children.	00:28:21;
+
+[PlayVoice]=00:20:08	Voice05/05-G0/05-G0-E00/05-G0-E00-0080	0	kot	00:28:21;
+
+[PrintText]=00:28:21	Makoto	Yeah, at festivals and stuff.	00:33:14;
+
+[PlayVoice]=00:28:21	Voice05/05-G0/05-G0-E00/05-G0-E00-0090	1	mak	00:33:14;
+
+[CreateBG]=00:33:22	BGS	Event05/05-G0/05-G0-E00/05-G0-E00-002	00:45:05;
+
+[PrintText]=00:34:03	Kotonoha	I used to spend all my free time studying the arts instead of playing, so I'd always look forward to festivals.	00:43:02;
+
+[PlayVoice]=00:34:03	Voice05/05-G0/05-G0-E00/05-G0-E00-0100	0	kot	00:43:02;
+
+[PrintText]=00:43:02	Makoto	Oh?	00:45:04;
+
+[PlayVoice]=00:43:02	Voice05/05-G0/05-G0-E00/05-G0-E00-0110	1	mak	00:45:04;
+
+[PrintText]=00:45:04	Kotonoha	Yes, I'd be thinking about how I didn't have to go to practice that day.	00:49:14;
+
+[PlayVoice]=00:45:04	Voice05/05-G0/05-G0-E00/05-G0-E00-0120	0	kot	00:49:14;
+
+[CreateBG]=00:45:05	BGS	Event05/05-G0/05-G0-E00/05-G0-E00-004	01:02:06;
+
+[PrintText]=00:49:14	Makoto	What sort of practice?	00:52:12;
+
+[PlayVoice]=00:49:14	Voice05/05-G0/05-G0-E00/05-G0-E00-0130	1	mak	00:52:12;
+
+[PrintText]=00:52:13	Kotonoha	Piano, ballet, dance, calligraphy... all sorts of things.	00:59:16;
+
+[PlayVoice]=00:52:13	Voice05/05-G0/05-G0-E00/05-G0-E00-0140	0	kot	00:59:16;
+
+[PrintText]=00:59:16	Makoto	But you don't practice them anymore?	01:02:05;
+
+[PlayVoice]=00:59:16	Voice05/05-G0/05-G0-E00/05-G0-E00-0150	1	mak	01:02:05;
+
+[PrintText]=01:02:05	Kotonoha	My mother told me to keep them up through junior high, but I made her promise to let me stop if I got into the academy.	01:12:13;
+
+[PlayVoice]=01:02:05	Voice05/05-G0/05-G0-E00/05-G0-E00-0170	0	kot	01:12:13;
+
+[CreateBG]=01:02:06	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-004	01:26:00;
+
+[PrintText]=01:12:13	Makoto	And so you did... kind of feels like a waste, though.	01:17:21;
+
+[PlayVoice]=01:12:13	Voice05/05-G0/05-G0-E00/05-G0-E00-0180	1	mak	01:17:21;
+
+[PrintText]=01:17:21	Kotonoha	That's not true.	01:19:11;
+
+[PlayVoice]=01:17:21	Voice05/05-G0/05-G0-E00/05-G0-E00-0190	0	kot	01:19:11;
+
+[PrintText]=01:19:11	Makoto	Really?	01:21:08;
+
+[PlayVoice]=01:19:11	Voice05/05-G0/05-G0-E00/05-G0-E00-0200	1	mak	01:21:08;
+
+[PrintText]=01:21:08	Kotonoha	Because once I did... I was able to meet you.	01:25:23;
+
+[PlayVoice]=01:21:08	Voice05/05-G0/05-G0-E00/05-G0-E00-0210	0	kot	01:25:23;
+
+[PrintText]=01:25:23	Makoto	Eh...?	01:28:07;
+
+[PlayVoice]=01:25:23	Voice05/05-G0/05-G0-E00/05-G0-E00-0220	1	mak	01:28:07;
+
+[CreateBG]=01:26:00	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-003	01:41:22;
+
+[PrintText]=01:28:08	Kotonoha	Throughout junior high, I'd think of nothing but practice,	01:33:06;
+
+[PlayVoice]=01:28:08	Voice05/05-G0/05-G0-E00/05-G0-E00-0230	0	kot	01:33:06;
+
+[PrintText]=01:33:06	Kotonoha	and even though my friends would invite me out, I was... less than sociable.	01:39:06;
+
+[PlayVoice]=01:33:06	Voice05/05-G0/05-G0-E00/05-G0-E00-0231	0	kot	01:39:06;
+
+[PrintText]=01:39:06	Makoto	Really...	01:41:21;
+
+[PlayVoice]=01:39:06	Voice05/05-G0/05-G0-E00/05-G0-E00-0240	1	mak	01:41:21;
+
+[CreateBG]=01:41:22	BGS	Event05/05-G0/05-G0-E00/05-G0-E00-003	01:56:15;
+
+[PrintText]=01:41:22	Kotonoha	So when Saionji-san invited me out, I might not have accepted. When I think of it like that, I'm glad I stopped.	01:53:09;
+
+[PlayVoice]=01:41:22	Voice05/05-G0/05-G0-E00/05-G0-E00-0250	0	kot	01:53:09;
+
+[PrintText]=01:53:09	Makoto	I see...	01:55:19;
+
+[PlayVoice]=01:53:09	Voice05/05-G0/05-G0-E00/05-G0-E00-0260	1	mak	01:55:19;
+
+[PrintText]=01:55:19	Kotonoha	Yes.	01:56:15;
+
+[PlayVoice]=01:55:19	Voice05/05-G0/05-G0-E00/05-G0-E00-0270	0	kot	01:56:15;
+
+[CreateBG]=01:56:15	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-011	02:05:22;
+
+[PrintText]=01:56:15	Makoto	...I'm sorry.	02:01:20;
+
+[PlayVoice]=01:56:15	Voice05/05-G0/05-G0-E00/05-G0-E00-0280	1	mak	02:01:20;
+
+[PrintText]=02:01:20	Kotonoha	Eh?!	02:02:17;
+
+[PlayVoice]=02:01:20	Voice05/05-G0/05-G0-E00/05-G0-E00-0290	0	kot	02:02:17;
+
+[PrintText]=02:02:17	Makoto	About the way things ended up.	02:05:22;
+
+[PlayVoice]=02:02:17	Voice05/05-G0/05-G0-E00/05-G0-E00-0300	1	mak	02:05:22;
+
+[CreateBG]=02:05:22	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-013	02:25:13;
+
+[PrintText]=02:05:22	Kotonoha	Ended up...? I don't think it's over just yet.	02:11:23;
+
+[PlayVoice]=02:05:22	Voice05/05-G0/05-G0-E00/05-G0-E00-0310	0	kot	02:11:23;
+
+[PrintText]=02:11:23	Makoto	...It is.	02:14:03;
+
+[PlayVoice]=02:11:23	Voice05/05-G0/05-G0-E00/05-G0-E00-0320	1	mak	02:14:03;
+
+[PrintText]=02:14:03	Kotonoha	No, it's not. We're just having a quarrel, aren't we? I'd... like to make up with you.	02:25:13;
+
+[PlayVoice]=02:14:03	Voice05/05-G0/05-G0-E00/05-G0-E00-0330	0	kot	02:25:13;
+
+[CreateBG]=02:25:13	BGS	Event05/05-G0/05-G0-E00/05-G0-E00-004	02:53:15;
+
+[PrintText]=02:25:13	Makoto	...	02:28:06;
+
+[PlayVoice]=02:25:13	Voice05/05-G0/05-G0-E00/05-G0-E00-0340	1	xxx	02:28:06;
+
+[PrintText]=02:28:06	Kotonoha	...It doesn't have to be right away. Even if it's just little by little...	02:33:04;
+
+[PlayVoice]=02:28:06	Voice05/05-G0/05-G0-E00/05-G0-E00-0350	0	kot	02:33:04;
+
+[PrintText]=02:33:04	Makoto	...	02:35:15;
+
+[PlayVoice]=02:33:04	Voice05/05-G0/05-G0-E00/05-G0-E00-0360	1	xxx	02:35:15;
+
+[PrintText]=02:35:14	Kotonoha	I wouldn't mind starting all over again as friends... and giving it one more try...	02:42:11;
+
+[PlayVoice]=02:35:14	Voice05/05-G0/05-G0-E00/05-G0-E00-0370	0	kot	02:42:11;
+
+[PrintText]=02:42:12	Makoto	...	02:45:17;
+
+[PlayVoice]=02:42:12	Voice05/05-G0/05-G0-E00/05-G0-E00-0380	1	xxx	02:45:17;
+
+[PrintText]=02:45:16	Kotonoha	If you don't hate me, that is... even if it's just as acquaintances...	02:53:14;
+
+[PlayVoice]=02:45:16	Voice05/05-G0/05-G0-E00/05-G0-E00-0390	0	kot	02:53:14;
+
+[PrintText]=02:53:14	Makoto	...Okay.	02:56:12;
+
+[PlayVoice]=02:53:14	Voice05/05-G0/05-G0-E00/05-G0-E00-0400	1	mak	02:56:12;
+
+[CreateBG]=02:53:15	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-019	02:59:17;
+
+[PrintText]=02:56:12	Kotonoha	Eh?!	02:57:07;
+
+[PlayVoice]=02:56:12	Voice05/05-G0/05-G0-E00/05-G0-E00-0410	0	kot	02:57:07;
+
+[PrintText]=02:57:07	Makoto	I don't hate you.	02:59:17;
+
+[PlayVoice]=02:57:07	Voice05/05-G0/05-G0-E00/05-G0-E00-0420	1	mak	02:59:17;
+
+[CreateBG]=02:59:17	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-020	03:01:08;
+
+[PrintText]=02:59:17	Kotonoha	Makoto-kun.	03:01:08;
+
+[PlayVoice]=02:59:17	Voice05/05-G0/05-G0-E00/05-G0-E00-0430	0	kot	03:01:08;
+
+[CreateBG]=03:01:08	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-023	03:11:02;
+
+[PrintText]=03:01:08	Makoto	I never did, to begin with... I just got angry and said some awful things.	03:09:18;
+
+[PlayVoice]=03:01:08	Voice05/05-G0/05-G0-E00/05-G0-E00-0440	1	mak	03:09:18;
+
+[PrintText]=03:09:18	Kotonoha	T-that's all right!	03:11:01;
+
+[PlayVoice]=03:09:18	Voice05/05-G0/05-G0-E00/05-G0-E00-0450	0	kot	03:11:01;
+
+[CreateBG]=03:11:02	BGS	Event05/05-G0/05-G0-E00/05-G0-E00-004	03:18:11;
+
+[PrintText]=03:11:02	Makoto	Friends, huh?	03:15:05;
+
+[PlayVoice]=03:11:02	Voice05/05-G0/05-G0-E00/05-G0-E00-0460	1	mak	03:15:05;
+
+[PrintText]=03:15:05	Kotonoha	Yes...	03:16:00;
+
+[PlayVoice]=03:15:05	Voice05/05-G0/05-G0-E00/05-G0-E00-0470	0	kot	03:16:00;
+
+[PrintText]=03:16:00	Makoto	...Shall we start from there and give it another try?	03:22:22;
+
+[PlayVoice]=03:16:00	Voice05/05-G0/05-G0-E00/05-G0-E00-0480	1	mak	03:22:22;
+
+[CreateBG]=03:18:11	BGS	Event05/05-KB/05-KB-E00/05-KB-E00-025	03:25:04;
+
+[PrintText]=03:22:22	Kotonoha	Yes!	03:23:13;
+
+[PlayVoice]=03:22:22	Voice05/05-G0/05-G0-E00/05-G0-E00-0490	0	kot	03:23:13;
+
+[BlackFade]=03:24:05	OUT	03:25:04;
+
+ ;
+
+[Next]=03:25:04;
+

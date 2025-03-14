@@ -1,0 +1,74 @@
+[SkipFRAME]=04:04:11;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A2/05-A2-F00/05-A2-F00-001	00:03:18;
+
+[PrintText]=00:00:00	Screen	One year later	00:03:18;
+
+[BlackFade]=00:00:00	IN	00:00:12;
+
+[BlackFade]=00:02:18	OUT	00:03:18;
+
+[PlayBgm]=00:03:18	BGM/SD_BGM/sdbgm19	01:17:00;
+
+[PlayMovie]=00:03:18	Movie05/05-A2/05-A2-F00/05-A2-F00-002_003	0	00:45:21;
+
+[BlackFade]=00:03:18	IN	00:04:18;
+
+[PrintText]=00:05:12	Makoto	It's been... several months since that day.	00:08:21;
+
+[PlayVoice]=00:05:12	Voice05/05-A2/05-A2-F00/05-A2-F00-0050	1	xxx	00:08:21;
+
+[PrintText]=00:09:18	Makoto	I graduated without going to university, started helping out at Mom's hospital and ended up becoming a nurse.	00:16:20;
+
+[PlayVoice]=00:09:18	Voice05/05-A2/05-A2-F00/05-A2-F00-0060	1	xxx	00:16:20;
+
+[PrintText]=00:19:05	Makoto	From that day onward... Sekai and I drifted apart.	00:23:19;
+
+[PlayVoice]=00:19:05	Voice05/05-A2/05-A2-F00/05-A2-F00-0070	1	xxx	00:23:19;
+
+[PrintText]=00:25:10	Makoto	We, who were once so close...	00:28:01;
+
+[PlayVoice]=00:25:10	Voice05/05-A2/05-A2-F00/05-A2-F00-0080	1	xxx	00:28:01;
+
+[PrintText]=00:29:23	Makoto	Each time we met... each time we saw each other, we'd be reminded of how Kotonoha looked in her last moments...	00:40:05;
+
+[PlayVoice]=00:29:23	Voice05/05-A2/05-A2-F00/05-A2-F00-0090	1	xxx	00:40:05;
+
+[PrintText]=00:41:19	Makoto	It became too much for us, and so, we broke up...	00:44:20;
+
+[PlayVoice]=00:41:19	Voice05/05-A2/05-A2-F00/05-A2-F00-0100	1	xxx	00:44:20;
+
+[CreateBG]=00:45:21	BGS	Event05/05-A2/05-A2-F00/05-A2-F00-004	00:56:14;
+
+[PrintText]=00:46:15	Makoto	Ah...	00:48:14;
+
+[PlayVoice]=00:46:15	Voice05/05-A2/05-A2-F00/05-A2-F00-0110	1	mak	00:48:14;
+
+[PrintText]=00:49:17	Makoto	Flowers... was Sekai here, too...?	00:55:22;
+
+[PlayVoice]=00:49:17	Voice05/05-A2/05-A2-F00/05-A2-F00-0130	1	mak	00:55:22;
+
+[CreateBG]=00:56:14	BGS	Event05/05-A2/05-A2-F00/05-A2-F00-005	01:17:00;
+
+[PrintText]=00:57:09	Makoto	And so, like this... we remember each other only during the anniversary of Kotonoha's death.	01:04:20;
+
+[PlayVoice]=00:57:09	Voice05/05-A2/05-A2-F00/05-A2-F00-0140	1	xxx	01:04:20;
+
+[PrintText]=01:06:02	Makoto	...Just as predicted by her final words.	01:10:20;
+
+[PlayVoice]=01:06:02	Voice05/05-A2/05-A2-F00/05-A2-F00-0150	1	xxx	01:10:20;
+
+[PrintText]=01:12:09	Makoto	Forever...	01:13:09;
+
+[PlayVoice]=01:12:09	Voice05/05-A2/05-A2-F00/05-A2-F00-0160	1	xxx	01:13:09;
+
+[BlackFade]=01:14:00	OUT	01:17:00;
+
+[EndRoll]=01:17:00	Movie05/05-A2/05-A2-F00/05-A2-F00-006	04:04:11;
+
+[EndBGM]=01:17:00	BGM/Vocal/SDV10	04:04:08;
+
+ ;
+
+[Next]=04:04:11;
+

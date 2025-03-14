@@ -1,0 +1,82 @@
+[SkipFRAME]=00:29:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:29:22;
+
+[PlaySe]=00:00:00	1	Se01/01-1S/01-1S-A00/SE01-1S-A00-001	00:29:22;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1S/01-1S-A00/01-1S-A00-001	00:02:12;
+
+[PrintText]=00:00:00	Sekai	I hear you two made up.	00:01:22;
+
+[PlayVoice]=00:00:00	Voice01/01-1S/01-1S-A00/01-1S-A00-0040	0	sek	00:01:22;
+
+[PrintText]=00:01:23	Makoto	Eh?! O-oh, yeah.	00:04:04;
+
+[PlayVoice]=00:01:23	Voice01/01-1S/01-1S-A00/01-1S-A00-0050	1	mak	00:04:04;
+
+[CreateBG]=00:02:12	BGS	Event01/01-1S/01-1S-A00/01-1S-A00-002	00:08:17;
+
+[PrintText]=00:04:04	Sekai	That's good to hear.	00:05:09;
+
+[PlayVoice]=00:04:04	Voice01/01-1S/01-1S-A00/01-1S-A00-0060	0	sek	00:05:09;
+
+[PrintText]=00:05:10	Makoto	Well, Kotonoha was...	00:09:01;
+
+[PlayVoice]=00:05:10	Voice01/01-1S/01-1S-A00/01-1S-A00-0070	1	mak	00:09:01;
+
+[CreateBG]=00:08:17	BGS	Event01/01-1S/01-1S-A00/01-1S-A00-003	00:16:02;
+
+[PrintText]=00:08:17	Sekai	Ah, 'Kotonoha'. You're already on first-name terms. How indecent!	00:13:16;
+
+[PlayVoice]=00:08:17	Voice01/01-1S/01-1S-A00/01-1S-A00-0080	0	sek	00:13:16;
+
+[PrintText]=00:13:12	Makoto	It's not like that.	00:15:01;
+
+[PlayVoice]=00:13:12	Voice01/01-1S/01-1S-A00/01-1S-A00-0090	1	mak	00:15:01;
+
+[PrintText]=00:14:20	Sekai	Nyufufu...	00:16:00;
+
+[PlayVoice]=00:14:20	Voice01/01-1S/01-1S-A00/01-1S-A00-0100	0	sek	00:16:00;
+
+[CreateBG]=00:16:02	BGS	Event01/01-1S/01-1S-A00/01-1S-A00-004	00:19:20;
+
+[PrintText]=00:16:04	Makoto	Anyhow, more importantly...	00:17:14;
+
+[PlayVoice]=00:16:04	Voice01/01-1S/01-1S-A00/01-1S-A00-0110	1	mak	00:17:14;
+
+[PrintText]=00:17:14	Sekai	Hmn?	00:18:04;
+
+[PlayVoice]=00:17:14	Voice01/01-1S/01-1S-A00/01-1S-A00-0120	0	sek	00:18:04;
+
+[PrintText]=00:18:04	Makoto	Come and have lunch with us today.	00:19:21;
+
+[PlayVoice]=00:18:04	Voice01/01-1S/01-1S-A00/01-1S-A00-0130	1	mak	00:19:21;
+
+[CreateBG]=00:19:20	BGS	Event01/01-1S/01-1S-A00/01-1S-A00-005A	00:29:22;
+
+[PrintText]=00:19:20	Sekai	Eh?	00:20:08;
+
+[PlayVoice]=00:19:20	Voice01/01-1S/01-1S-A00/01-1S-A00-0140	0	sek	00:20:08;
+
+[PrintText]=00:20:13	Makoto	Kotonoha asked me to bring you along, too.	00:23:16;
+
+[PlayVoice]=00:20:13	Voice01/01-1S/01-1S-A00/01-1S-A00-0150	1	mak	00:23:16;
+
+[PrintText]=00:23:20	Sekai	Hmm... what should I do?	00:26:07;
+
+[PlayVoice]=00:23:20	Voice01/01-1S/01-1S-A00/01-1S-A00-0160	0	sek	00:26:07;
+
+[PrintText]=00:26:09	Makoto	Please.	00:27:15;
+
+[PlayVoice]=00:26:09	Voice01/01-1S/01-1S-A00/01-1S-A00-0170	1	mak	00:27:15;
+
+[PrintText]=00:27:16	Sekai	I'll think about it.	00:28:17;
+
+[PlayVoice]=00:27:16	Voice01/01-1S/01-1S-A00/01-1S-A00-0180	0	sek	00:28:17;
+
+[BlackFade]=00:28:22	OUT	00:29:22;
+
+ ;
+
+[Next]=00:29:22;
+

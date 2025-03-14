@@ -1,0 +1,86 @@
+[SkipFRAME]=00:39:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm03	00:39:22;
+
+[PlaySe]=00:00:00	1	Se01/01-00/01-00-I00/SE01-00-I00-001	00:39:22;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/school/chime	00:17:09;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-I00/01-00-I00-001	00:01:08;
+
+[PrintText]=00:00:06	Makoto	Right.	00:00:23;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-I00/01-00-I00-0050	1	mak	00:00:23;
+
+[CreateBG]=00:01:08	BGS	Event01/01-00/01-00-I00/01-00-I00-002	00:04:10;
+
+[PrintText]=00:01:12	Sekai	You're really fired up, aren't you?	00:03:20;
+
+[PlayVoice]=00:01:12	Voice01/01-00/01-00-I00/01-00-I00-0060	0	sek	00:03:20;
+
+[PrintText]=00:03:13	Makoto	Yeah.	00:04:06;
+
+[PlayVoice]=00:03:13	Voice01/01-00/01-00-I00/01-00-I00-0070	1	mak	00:04:06;
+
+[CreateBG]=00:04:10	BGS	Event01/01-00/01-00-I00/01-00-I00-003	00:15:16;
+
+[PrintText]=00:04:17	Makoto	There's no point in worrying about it. I'm just going to ask Katsura straight out.	00:08:10;
+
+[PlayVoice]=00:04:17	Voice01/01-00/01-00-I00/01-00-I00-0090	1	mak	00:08:10;
+
+[PrintText]=00:08:10	Sekai	What's wrong with Katsura-san?	00:10:18;
+
+[PlayVoice]=00:08:10	Voice01/01-00/01-00-I00/01-00-I00-0100	0	sek	00:10:18;
+
+[PrintText]=00:10:18	Makoto	She seemed kind of down, like there was something she wanted to say. I'm concerned.	00:15:16;
+
+[PlayVoice]=00:10:18	Voice01/01-00/01-00-I00/01-00-I00-0110	1	mak	00:15:16;
+
+[CreateBG]=00:15:16	BGS	Event01/01-00/01-00-I00/01-00-I00-004	00:22:03;
+
+[PrintText]=00:15:16	Sekai	Maybe she was dissatisfied with yesterday's date.	00:18:20;
+
+[PlayVoice]=00:15:16	Voice01/01-00/01-00-I00/01-00-I00-0120	0	sek	00:18:20;
+
+[PrintText]=00:18:05	Makoto	Geh... y-you really think so?	00:21:00;
+
+[PlayVoice]=00:18:05	Voice01/01-00/01-00-I00/01-00-I00-0130	1	mak	00:21:00;
+
+[PrintText]=00:20:17	Sekai	Just kidding. I got an e-mail from her yesterday, and she was overjoyed.	00:26:09;
+
+[PlayVoice]=00:20:17	Voice01/01-00/01-00-I00/01-00-I00-0140	0	sek	00:26:09;
+
+[CreateBG]=00:22:03	BGS	Event01/01-00/01-00-I00/01-00-I00-005	00:30:18;
+
+[PrintText]=00:26:17	Makoto	R-really?	00:28:14;
+
+[PlayVoice]=00:26:17	Voice01/01-00/01-00-I00/01-00-I00-0150	1	mak	00:28:14;
+
+[PrintText]=00:28:09	Sekai	Yeah, so give it your best.	00:30:19;
+
+[PlayVoice]=00:28:09	Voice01/01-00/01-00-I00/01-00-I00-0160	0	sek	00:30:19;
+
+[CreateBG]=00:30:18	BGS	Event01/01-00/01-00-I00/01-00-I00-006	00:33:11;
+
+[PrintText]=00:30:18	Makoto	Right. I'm off to do my best!	00:32:10;
+
+[PlayVoice]=00:30:18	Voice01/01-00/01-00-I00/01-00-I00-0170	1	mak	00:32:10;
+
+[CreateBG]=00:33:11	BGS	Event01/01-00/01-00-I00/01-00-I00-007	00:36:15;
+
+[PrintText]=00:33:15	Hikari	Sekai! Let's stop by Pure Burger on the way home.	00:36:13;
+
+[PlayVoice]=00:33:15	Voice01/01-00/01-00-I00/01-00-I00-0200	0	hik	00:36:13;
+
+[CreateBG]=00:36:15	BGS	Event01/01-00/01-00-I00/01-00-I00-008	00:39:22;
+
+[PrintText]=00:36:18	Sekai	Ah... okay.	00:38:15;
+
+[PlayVoice]=00:36:18	Voice01/01-00/01-00-I00/01-00-I00-0210	0	sek	00:38:15;
+
+[BlackFade]=00:38:22	OUT	00:39:22;
+
+ ;
+
+[Next]=00:39:22;
+

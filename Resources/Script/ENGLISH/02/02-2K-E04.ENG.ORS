@@ -1,0 +1,116 @@
+[SkipFRAME]=00:57:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:57:10;
+
+[PlaySe]=00:00:00	2	Se02/02-2K/02-2K-E04/SE02-2K-E04-001	00:43:11;
+
+[PlaySe]=00:00:00	3	SysSe/SE_all/school/chime	00:18:10;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-001	00:10:01;
+
+[CreateBG]=00:10:01	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-002	00:11:13;
+
+[PrintText]=00:10:12	Makoto	Nnn...	00:11:13;
+
+[PlayVoice]=00:10:12	Voice02/02-2K/02-2K-E04/02-2K-E04-0040	1	mak	00:11:13;
+
+[CreateBG]=00:11:13	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-003	00:15:23;
+
+[PrintText]=00:11:13	Sekai	Makoto.	00:12:10;
+
+[PlayVoice]=00:11:13	Voice02/02-2K/02-2K-E04/02-2K-E04-0060	0	sek	00:12:10;
+
+[PrintText]=00:12:10	Makoto	Hmm?	00:13:05;
+
+[PlayVoice]=00:12:10	Voice02/02-2K/02-2K-E04/02-2K-E04-0070	1	mak	00:13:05;
+
+[PrintText]=00:13:05	Sekai	Are you having lunch with Katsura-san on the roof again today?	00:15:22;
+
+[PlayVoice]=00:13:05	Voice02/02-2K/02-2K-E04/02-2K-E04-0080	0	sek	00:15:22;
+
+[CreateBG]=00:15:23	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-004	00:22:09;
+
+[PrintText]=00:15:23	Makoto	Yeah. You want to come too?	00:18:23;
+
+[PlayVoice]=00:15:23	Voice02/02-2K/02-2K-E04/02-2K-E04-0090	1	mak	00:18:23;
+
+[PrintText]=00:18:23	Sekai	Ahaha... I'll pass.	00:21:12;
+
+[PlayVoice]=00:18:23	Voice02/02-2K/02-2K-E04/02-2K-E04-0100	0	sek	00:21:12;
+
+[PrintText]=00:21:13	Makoto	Really?	00:22:09;
+
+[PlayVoice]=00:21:13	Voice02/02-2K/02-2K-E04/02-2K-E04-0110	1	mak	00:22:09;
+
+[CreateBG]=00:22:09	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-005	00:24:11;
+
+[PrintText]=00:22:09	Sekai	Are you and Katsura-san getting along?	00:24:10;
+
+[PlayVoice]=00:22:09	Voice02/02-2K/02-2K-E04/02-2K-E04-0120	0	sek	00:24:10;
+
+[CreateBG]=00:24:11	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-006	00:29:04;
+
+[PrintText]=00:24:11	Makoto	Y... yeah, we are.	00:27:16;
+
+[PlayVoice]=00:24:11	Voice02/02-2K/02-2K-E04/02-2K-E04-0130	1	mak	00:27:16;
+
+[PrintText]=00:27:16	Sekai	I see, I see.	00:29:03;
+
+[PlayVoice]=00:27:16	Voice02/02-2K/02-2K-E04/02-2K-E04-0140	0	sek	00:29:03;
+
+[CreateBG]=00:29:04	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-005	00:39:17;
+
+[PrintText]=00:29:04	Makoto	What's with you? Sheesh.	00:31:01;
+
+[PlayVoice]=00:29:04	Voice02/02-2K/02-2K-E04/02-2K-E04-0150	1	mak	00:31:01;
+
+[PrintText]=00:31:01	Sekai	Ahaha... I was worried that you might have tried to make a move on her and gotten on her bad side.	00:39:17;
+
+[PlayVoice]=00:31:01	Voice02/02-2K/02-2K-E04/02-2K-E04-0160	0	sek	00:39:17;
+
+[CreateBG]=00:39:17	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-007B	00:40:15;
+
+[PrintText]=00:39:18	Makoto	!	00:40:15;
+
+[PlayVoice]=00:39:18	Voice02/02-2K/02-2K-E04/02-2K-E04-0170	1	mak	00:40:15;
+
+[CreateBG]=00:40:15	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-005	00:43:05;
+
+[PrintText]=00:40:15	Sekai	Just kidding. You'd never...	00:43:16;
+
+[PlayVoice]=00:40:15	Voice02/02-2K/02-2K-E04/02-2K-E04-0180	0	sek	00:43:16;
+
+[CreateBG]=00:43:05	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-008	00:44:18;
+
+[PrintText]=00:43:05	Makoto	Shut up!	00:44:12;
+
+[PlayVoice]=00:43:05	Voice02/02-2K/02-2K-E04/02-2K-E04-0190	1	mak	00:44:12;
+
+[CreateBG]=00:44:18	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-009	00:46:19;
+
+[PrintText]=00:44:18	Sekai	M... Makoto?	00:46:13;
+
+[PlayVoice]=00:44:18	Voice02/02-2K/02-2K-E04/02-2K-E04-0200	0	sek	00:46:13;
+
+[CreateBG]=00:46:19	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-004	00:48:20;
+
+[PrintText]=00:47:01	Makoto	Ah...	00:47:20;
+
+[PlayVoice]=00:47:01	Voice02/02-2K/02-2K-E04/02-2K-E04-0210	1	mak	00:47:20;
+
+[CreateBG]=00:48:20	BGS	Event02/02-2K/02-2K-E04/02-2K-E04-011	00:57:10;
+
+[PlaySe]=00:49:01	1	Voice02/02-2K/02-2K-E04/02-2K-E04-0220	00:51:13;
+
+[PlaySe]=00:51:14	2	Voice02/02-2K/02-2K-E04/02-2K-E04-0220A	00:53:23;
+
+[PrintText]=00:53:23	Sekai	L... let's go outside for a minute.	00:56:05;
+
+[PlayVoice]=00:53:23	Voice02/02-2K/02-2K-E04/02-2K-E04-0230	0	sek	00:56:05;
+
+[BlackFade]=00:56:10	OUT	00:57:10;
+
+ ;
+
+[Next]=00:57:10;
+

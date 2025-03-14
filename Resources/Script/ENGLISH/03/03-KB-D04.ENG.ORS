@@ -1,0 +1,74 @@
+[SkipFRAME]=00:35:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm12	00:41:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-D04/03-KB-D04-001	00:09:20;
+
+[PrintText]=00:00:00	Taisuke	So, I mean, I want to invite her to the school festival...	00:03:12;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-D04/03-KB-D04-0030	1	tai	00:03:12;
+
+[PrintText]=00:03:12	Makoto	A girl from outside the school?	00:05:01;
+
+[PlayVoice]=00:03:12	Voice03/03-KB/03-KB-D04/03-KB-D04-0040	1	mak	00:05:01;
+
+[PrintText]=00:05:01	Taisuke	No, she's from our school.	00:07:00;
+
+[PlayVoice]=00:05:01	Voice03/03-KB/03-KB-D04/03-KB-D04-0050	1	tai	00:07:00;
+
+[PrintText]=00:07:00	Makoto	In our class?	00:08:09;
+
+[PlayVoice]=00:07:00	Voice03/03-KB/03-KB-D04/03-KB-D04-0060	1	mak	00:08:09;
+
+[PrintText]=00:08:09	Taisuke	...Yeah.	00:09:19;
+
+[PlayVoice]=00:08:09	Voice03/03-KB/03-KB-D04/03-KB-D04-0070	1	tai	00:09:19;
+
+[PrintText]=00:09:19	Makoto	Who is it? Go on, tell me.	00:12:03;
+
+[PlayVoice]=00:09:19	Voice03/03-KB/03-KB-D04/03-KB-D04-0080	1	mak	00:12:03;
+
+[CreateBG]=00:09:20	BGS	Event03/03-KB/03-KB-D04/03-KB-D04-002	00:18:10;
+
+[PrintText]=00:12:03	Taisuke	Mmn...	00:13:12;
+
+[PlayVoice]=00:12:03	Voice03/03-KB/03-KB-D04/03-KB-D04-0090	1	tai	00:13:12;
+
+[PrintText]=00:13:13	Makoto	Come on.	00:14:04;
+
+[PlayVoice]=00:13:13	Voice03/03-KB/03-KB-D04/03-KB-D04-0100	1	mak	00:14:04;
+
+[PrintText]=00:14:03	Taisuke	...It's Saionji.	00:18:10;
+
+[PlayVoice]=00:14:03	Voice03/03-KB/03-KB-D04/03-KB-D04-0110	1	tai	00:18:10;
+
+[CreateBG]=00:18:10	BGS	Event03/03-KB/03-KB-D04/03-KB-D04-003	00:34:18;
+
+[PrintText]=00:18:10	Makoto	Eh?!	00:19:01;
+
+[PlayVoice]=00:18:10	Voice03/03-KB/03-KB-D04/03-KB-D04-0120	1	mak	00:19:01;
+
+[PrintText]=00:19:01	Taisuke	I heard that you and her were going out, so... I didn't think I could invite her.	00:26:06;
+
+[PlayVoice]=00:19:01	Voice03/03-KB/03-KB-D04/03-KB-D04-0130	1	tai	00:26:06;
+
+[PrintText]=00:26:06	Makoto	Uh-huh.	00:27:09;
+
+[PlayVoice]=00:26:06	Voice03/03-KB/03-KB-D04/03-KB-D04-0140	1	mak	00:27:09;
+
+[PrintText]=00:27:09	Taisuke	But it seems you're not actually going out with her. Instead, I hear there's another girl you're seeing...	00:34:18;
+
+[PlayVoice]=00:27:09	Voice03/03-KB/03-KB-D04/03-KB-D04-0150	1	tai	00:34:18;
+
+[PrintText]=00:34:17	Makoto	Eh...?	00:35:09;
+
+[PlayVoice]=00:34:17	Voice03/03-KB/03-KB-D04/03-KB-D04-0160	1	mak	00:35:09;
+
+[CreateBG]=00:34:18	BGS	Event03/03-KB/03-KB-D04/03-KB-D04-004	00:41:10;
+
+[SetSELECT]=00:35:09	'Who told you that?'	'That's not true!'	00:40:10;
+
+ ;
+
+[Next]=00:41:10;
+

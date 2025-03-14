@@ -1,0 +1,584 @@
+[SkipFRAME]=06:55:12;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/okujou	01:09:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-001	00:02:23;
+
+[PrintText]=00:00:00	Kotonoha	I'm sorry to call you out at lunchtime.	00:02:01;
+
+[PlayVoice]=00:00:00	Voice05/05-KF/05-KF-J00/05-KF-J00-0030	0	kot	00:02:01;
+
+[PrintText]=00:02:01	Sekai	That's okay.	00:02:22;
+
+[PlayVoice]=00:02:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0040	0	sek	00:02:22;
+
+[CreateBG]=00:02:23	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-003	00:21:10;
+
+[PrintText]=00:02:23	Kotonoha	There's something I wanted to talk to you about.	00:05:09;
+
+[PlayVoice]=00:02:23	Voice05/05-KF/05-KF-J00/05-KF-J00-0050	0	kot	00:05:09;
+
+[PrintText]=00:05:09	Sekai	Sure.	00:06:01;
+
+[PlayVoice]=00:05:09	Voice05/05-KF/05-KF-J00/05-KF-J00-0060	0	sek	00:06:01;
+
+[PrintText]=00:06:01	Kotonoha	You and Makoto-kun are close friends, aren't you?	00:09:15;
+
+[PlayVoice]=00:06:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0070	0	kot	00:09:15;
+
+[PrintText]=00:09:15	Sekai	Y-yeah...	00:11:03;
+
+[PlayVoice]=00:09:15	Voice05/05-KF/05-KF-J00/05-KF-J00-0080	0	sek	00:11:03;
+
+[PrintText]=00:11:02	Kotonoha	And you sit next to each other in class, right? So you see him all the time.	00:19:05;
+
+[PlayVoice]=00:11:02	Voice05/05-KF/05-KF-J00/05-KF-J00-0090	0	kot	00:19:05;
+
+[PrintText]=00:19:06	Sekai	Yeah... I guess.	00:21:10;
+
+[PlayVoice]=00:19:06	Voice05/05-KF/05-KF-J00/05-KF-J00-0100	0	sek	00:21:10;
+
+[CreateBG]=00:21:10	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-004	00:33:01;
+
+[PrintText]=00:21:10	Kotonoha	That's why you're the only one who can answer my question.	00:24:14;
+
+[PlayVoice]=00:21:10	Voice05/05-KF/05-KF-J00/05-KF-J00-0110	0	kot	00:24:14;
+
+[PrintText]=00:24:14	Sekai	Right...	00:25:13;
+
+[PlayVoice]=00:24:14	Voice05/05-KF/05-KF-J00/05-KF-J00-0120	0	sek	00:25:13;
+
+[PrintText]=00:25:13	Kotonoha	Yesterday, Makoto-kun said he wanted to break up.	00:31:22;
+
+[PlayVoice]=00:25:13	Voice05/05-KF/05-KF-J00/05-KF-J00-0130	0	kot	00:31:22;
+
+[PrintText]=00:31:22	Sekai	...	00:32:23;
+
+[PlayVoice]=00:31:22	Voice05/05-KF/05-KF-J00/05-KF-J00-0140	0	xxx	00:32:23;
+
+[PrintText]=00:33:00	Kotonoha	Of course, he was just joking. It's not as though I took it seriously!	00:37:11;
+
+[PlayVoice]=00:33:00	Voice05/05-KF/05-KF-J00/05-KF-J00-0150	0	kot	00:37:11;
+
+[CreateBG]=00:33:01	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-005	00:53:10;
+
+[PrintText]=00:37:11	Sekai	I see.	00:38:14;
+
+[PlayVoice]=00:37:11	Voice05/05-KF/05-KF-J00/05-KF-J00-0160	0	sek	00:38:14;
+
+[PrintText]=00:38:14	Kotonoha	But... since yesterday, he's been acting strange. It's concerning.	00:44:12;
+
+[PlayVoice]=00:38:14	Voice05/05-KF/05-KF-J00/05-KF-J00-0170	0	kot	00:44:12;
+
+[PrintText]=00:44:12	Sekai	Uh-huh...	00:45:06;
+
+[PlayVoice]=00:44:12	Voice05/05-KF/05-KF-J00/05-KF-J00-0180	0	sek	00:45:06;
+
+[PrintText]=00:45:06	Kotonoha	I... I was wondering if there was someone trying to seduce him.	00:53:08;
+
+[PlayVoice]=00:45:06	Voice05/05-KF/05-KF-J00/05-KF-J00-0190	0	kot	00:53:08;
+
+[PrintText]=00:53:08	Sekai	Seduce him?	00:55:00;
+
+[PlayVoice]=00:53:08	Voice05/05-KF/05-KF-J00/05-KF-J00-0200	0	sek	00:55:00;
+
+[CreateBG]=00:53:10	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-004	01:08:01;
+
+[PrintText]=00:55:01	Kotonoha	Yes. Even in my class, he's been marked by several people.	01:00:06;
+
+[PlayVoice]=00:55:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0210	0	kot	01:00:06;
+
+[PrintText]=01:00:07	Sekai	Marked?	01:02:06;
+
+[PlayVoice]=01:00:07	Voice05/05-KF/05-KF-J00/05-KF-J00-0220	0	sek	01:02:06;
+
+[PrintText]=01:02:06	Kotonoha	There are two or three girls who say they like him.	01:06:18;
+
+[PlayVoice]=01:02:06	Voice05/05-KF/05-KF-J00/05-KF-J00-0230	0	kot	01:06:18;
+
+[PrintText]=01:06:18	Sekai	Huh.	01:08:00;
+
+[PlayVoice]=01:06:18	Voice05/05-KF/05-KF-J00/05-KF-J00-0240	0	sek	01:08:00;
+
+[PrintText]=01:08:00	Kotonoha	There might be even more in the other classes. Are there any in your class?	01:14:08;
+
+[PlayVoice]=01:08:00	Voice05/05-KF/05-KF-J00/05-KF-J00-0250	0	kot	01:14:08;
+
+[CreateBG]=01:08:01	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-007	01:29:00;
+
+[PlaySe]=01:09:05	2	SysSe/SE_all/gaya/okujou	02:18:10;
+
+[PrintText]=01:14:08	Sekai	I'm not sure...	01:16:01;
+
+[PlayVoice]=01:14:08	Voice05/05-KF/05-KF-J00/05-KF-J00-0260	0	sek	01:16:01;
+
+[PrintText]=01:16:01	Kotonoha	I was thinking that maybe one of those girls was trying to seduce him.	01:20:23;
+
+[PlayVoice]=01:16:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0270	0	kot	01:20:23;
+
+[PrintText]=01:20:22	Sekai	I see.	01:22:00;
+
+[PlayVoice]=01:20:22	Voice05/05-KF/05-KF-J00/05-KF-J00-0280	0	sek	01:22:00;
+
+[PrintText]=01:22:00	Kotonoha	I can't afford to lose to them, so I spent all of yesterday thinking as hard as I could...	01:28:07;
+
+[PlayVoice]=01:22:00	Voice05/05-KF/05-KF-J00/05-KF-J00-0290	0	kot	01:28:07;
+
+[PrintText]=01:28:07	Sekai	Uh-huh.	01:29:00;
+
+[PlayVoice]=01:28:07	Voice05/05-KF/05-KF-J00/05-KF-J00-0300	0	sek	01:29:00;
+
+[CreateBG]=01:29:00	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-008	01:34:07;
+
+[PrintText]=01:29:00	Kotonoha	And so... I've decided to invite him out on Christmas Eve.	01:33:08;
+
+[PlayVoice]=01:29:00	Voice05/05-KF/05-KF-J00/05-KF-J00-0310	0	kot	01:33:08;
+
+[PrintText]=01:33:07	Sekai	Christmas Eve?	01:34:06;
+
+[PlayVoice]=01:33:07	Voice05/05-KF/05-KF-J00/05-KF-J00-0320	0	sek	01:34:06;
+
+[PrintText]=01:34:06	Kotonoha	Well, it's a special night, isn't it?	01:39:00;
+
+[PlayVoice]=01:34:06	Voice05/05-KF/05-KF-J00/05-KF-J00-0330	0	kot	01:39:00;
+
+[CreateBG]=01:34:07	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-007	01:47:05;
+
+[PrintText]=01:38:23	Sekai	Yeah, I guess...	01:40:15;
+
+[PlayVoice]=01:38:23	Voice05/05-KF/05-KF-J00/05-KF-J00-0340	0	sek	01:40:15;
+
+[PrintText]=01:40:15	Kotonoha	I'm going to try inviting him to go out with me that day.	01:46:00;
+
+[PlayVoice]=01:40:15	Voice05/05-KF/05-KF-J00/05-KF-J00-0350	0	kot	01:46:00;
+
+[PrintText]=01:46:00	Sekai	I wonder if he'll go...?	01:47:05;
+
+[PlayVoice]=01:46:00	Voice05/05-KF/05-KF-J00/05-KF-J00-0360	0	sek	01:47:05;
+
+[CreateBG]=01:47:04	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-010	01:52:19;
+
+[PrintText]=01:47:05	Kotonoha	I'd like to think that he will. That's why I've even booked a hotel.	01:52:19;
+
+[PlayVoice]=01:47:05	Voice05/05-KF/05-KF-J00/05-KF-J00-0370	0	kot	01:52:19;
+
+[CreateBG]=01:52:19	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-011	02:11:11;
+
+[PrintText]=01:52:19	Sekai	A hotel?!	01:53:23;
+
+[PlayVoice]=01:52:19	Voice05/05-KF/05-KF-J00/05-KF-J00-0380	0	sek	01:53:23;
+
+[PrintText]=01:53:22	Kotonoha	Yes.	01:54:15;
+
+[PlayVoice]=01:53:22	Voice05/05-KF/05-KF-J00/05-KF-J00-0390	0	kot	01:54:15;
+
+[PrintText]=01:54:14	Sekai	B-but... are there any hotels which still have rooms available?	02:00:12;
+
+[PlayVoice]=01:54:14	Voice05/05-KF/05-KF-J00/05-KF-J00-0400	0	sek	02:00:12;
+
+[PrintText]=02:00:12	Kotonoha	I'll use my father's connections. He has some influence with the one at Sakakino Hills.	02:05:08;
+
+[PlayVoice]=02:00:12	Voice05/05-KF/05-KF-J00/05-KF-J00-0410	0	kot	02:05:08;
+
+[PrintText]=02:05:08	Sekai	I see...	02:06:23;
+
+[PlayVoice]=02:05:08	Voice05/05-KF/05-KF-J00/05-KF-J00-0420	0	sek	02:06:23;
+
+[PrintText]=02:06:22	Kotonoha	So, I've decided to just wait at the hotel.	02:11:11;
+
+[PlayVoice]=02:06:22	Voice05/05-KF/05-KF-J00/05-KF-J00-0430	0	kot	02:11:11;
+
+[CreateBG]=02:11:11	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-010	02:17:02;
+
+[PrintText]=02:11:11	Sekai	For Makoto?	02:12:15;
+
+[PlayVoice]=02:11:11	Voice05/05-KF/05-KF-J00/05-KF-J00-0440	0	sek	02:12:15;
+
+[PrintText]=02:12:15	Kotonoha	Yes.	02:13:06;
+
+[PlayVoice]=02:12:15	Voice05/05-KF/05-KF-J00/05-KF-J00-0450	0	kot	02:13:06;
+
+[PrintText]=02:13:07	Sekai	He may not come, you know.	02:15:12;
+
+[PlayVoice]=02:13:07	Voice05/05-KF/05-KF-J00/05-KF-J00-0460	0	sek	02:15:12;
+
+[PrintText]=02:15:12	Kotonoha	Do you think so?	02:17:01;
+
+[PlayVoice]=02:15:12	Voice05/05-KF/05-KF-J00/05-KF-J00-0470	0	kot	02:17:01;
+
+[PrintText]=02:17:01	Sekai	...	02:17:22;
+
+[PlayVoice]=02:17:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0480	0	xxx	02:17:22;
+
+[CreateBG]=02:17:02	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-001	02:32:05;
+
+[PrintText]=02:17:21	Kotonoha	A small part of me feels the same way.	02:22:05;
+
+[PlayVoice]=02:17:21	Voice05/05-KF/05-KF-J00/05-KF-J00-0490	0	kot	02:22:05;
+
+[PlaySe]=02:18:10	1	SysSe/SE_all/gaya/okujou	03:27:15;
+
+[PrintText]=02:22:05	Kotonoha	Just maybe... Makoto-kun is already in love with someone else... and before I know it, I'll be left all alone.	02:31:10;
+
+[PlayVoice]=02:22:05	Voice05/05-KF/05-KF-J00/05-KF-J00-0491	0	kot	02:31:10;
+
+[PrintText]=02:31:10	Sekai	...	02:32:05;
+
+[PlayVoice]=02:31:10	Voice05/05-KF/05-KF-J00/05-KF-J00-0500	0	xxx	02:32:05;
+
+[CreateBG]=02:32:05	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-014	02:44:06;
+
+[PrintText]=02:32:05	Kotonoha	It's always been like that. I never had any friends before. I was always the one being bullied... always the one on my own.	02:43:11;
+
+[PlayVoice]=02:32:05	Voice05/05-KF/05-KF-J00/05-KF-J00-0510	0	kot	02:43:11;
+
+[PrintText]=02:43:11	Sekai	...	02:44:05;
+
+[PlayVoice]=02:43:11	Voice05/05-KF/05-KF-J00/05-KF-J00-0520	0	xxx	02:44:05;
+
+[PrintText]=02:44:05	Kotonoha	But then I met Makoto-kun, and for the first time...	02:48:20;
+
+[PlayVoice]=02:44:05	Voice05/05-KF/05-KF-J00/05-KF-J00-0530	0	kot	02:48:20;
+
+[CreateBG]=02:44:06	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-015	03:11:19;
+
+[PrintText]=02:48:20	Kotonoha	He's taught me just how wonderful it is not to be alone.	02:58:17;
+
+[PlayVoice]=02:48:20	Voice05/05-KF/05-KF-J00/05-KF-J00-0531	0	kot	02:58:17;
+
+[PrintText]=02:58:17	Sekai	Alone...	02:59:23;
+
+[PlayVoice]=02:58:17	Voice05/05-KF/05-KF-J00/05-KF-J00-0540	0	sek	02:59:23;
+
+[PrintText]=02:59:23	Kotonoha	When I'm with him... I don't just feel excited. I get this warm, happy feeling...	03:11:18;
+
+[PlayVoice]=02:59:23	Voice05/05-KF/05-KF-J00/05-KF-J00-0550	0	kot	03:11:18;
+
+[PrintText]=03:11:18	Sekai	Uh-huh...	03:12:15;
+
+[PlayVoice]=03:11:18	Voice05/05-KF/05-KF-J00/05-KF-J00-0560	0	sek	03:12:15;
+
+[CreateBG]=03:11:19	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-016	03:37:05;
+
+[PrintText]=03:12:15	Kotonoha	If Makoto-kun didn't like me anymore, I'd go back to that sense of loneliness again... no, something even worse.	03:24:09;
+
+[PlayVoice]=03:12:15	Voice05/05-KF/05-KF-J00/05-KF-J00-0570	0	kot	03:24:09;
+
+[PrintText]=03:24:09	Sekai	Worse?	03:25:11;
+
+[PlayVoice]=03:24:09	Voice05/05-KF/05-KF-J00/05-KF-J00-0580	0	sek	03:25:11;
+
+[PrintText]=03:25:11	Kotonoha	Now that I know how much fun being with someone can be, I'm sure it would be even more painful to go back to being alone.	03:36:09;
+
+[PlayVoice]=03:25:11	Voice05/05-KF/05-KF-J00/05-KF-J00-0590	0	kot	03:36:09;
+
+[PlaySe]=03:27:15	2	SysSe/SE_all/gaya/okujou	04:36:20;
+
+[PrintText]=03:36:09	Sekai	Yeah...	03:37:04;
+
+[PlayVoice]=03:36:09	Voice05/05-KF/05-KF-J00/05-KF-J00-0600	0	sek	03:37:04;
+
+[PrintText]=03:37:04	Kotonoha	It would be so painful... I'm sure I would just die.	03:41:14;
+
+[PlayVoice]=03:37:04	Voice05/05-KF/05-KF-J00/05-KF-J00-0610	0	kot	03:41:14;
+
+[CreateBG]=03:37:05	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-017	03:55:04;
+
+[PrintText]=03:41:14	Sekai	Eh...?	03:42:19;
+
+[PlayVoice]=03:41:14	Voice05/05-KF/05-KF-J00/05-KF-J00-0620	0	sek	03:42:19;
+
+[PrintText]=03:42:20	Kotonoha	Makoto-kun is as important to me as my own life.	03:48:06;
+
+[PlayVoice]=03:42:20	Voice05/05-KF/05-KF-J00/05-KF-J00-0630	0	kot	03:48:06;
+
+[PrintText]=03:48:07	Sekai	...	03:49:10;
+
+[PlayVoice]=03:48:07	Voice05/05-KF/05-KF-J00/05-KF-J00-0640	0	xxx	03:49:10;
+
+[PrintText]=03:49:10	Kotonoha	If he didn't like me anymore... then there'd be no point in continuing to live.	03:55:06;
+
+[PlayVoice]=03:49:10	Voice05/05-KF/05-KF-J00/05-KF-J00-0650	0	kot	03:55:06;
+
+[CreateBG]=03:55:04	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-018	04:00:23;
+
+[PrintText]=03:55:05	Sekai	That's not true.	03:57:03;
+
+[PlayVoice]=03:55:05	Voice05/05-KF/05-KF-J00/05-KF-J00-0660	0	sek	03:57:03;
+
+[PrintText]=03:57:04	Kotonoha	No, I believe it is.	04:00:01;
+
+[PlayVoice]=03:57:04	Voice05/05-KF/05-KF-J00/05-KF-J00-0670	0	kot	04:00:01;
+
+[PrintText]=04:00:01	Sekai	...	04:00:22;
+
+[PlayVoice]=04:00:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0680	0	xxx	04:00:22;
+
+[PrintText]=04:00:22	Kotonoha	I'm going to wait at the hotel and send him a message. I'll tell him that if he doesn't come, I'm going to die.	04:07:18;
+
+[PlayVoice]=04:00:22	Voice05/05-KF/05-KF-J00/05-KF-J00-0690	0	kot	04:07:18;
+
+[CreateBG]=04:00:23	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-019	04:07:18;
+
+[CreateBG]=04:07:18	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-020	04:09:07;
+
+[PrintText]=04:07:18	Sekai	Don't!	04:09:06;
+
+[PlayVoice]=04:07:18	Voice05/05-KF/05-KF-J00/05-KF-J00-0700	0	sek	04:09:06;
+
+[PrintText]=04:09:06	Kotonoha	Huh...? C-can't I?	04:12:09;
+
+[PlayVoice]=04:09:06	Voice05/05-KF/05-KF-J00/05-KF-J00-0710	0	kot	04:12:09;
+
+[CreateBG]=04:09:07	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-021	04:17:08;
+
+[PrintText]=04:12:09	Sekai	You mustn't!	04:13:11;
+
+[PlayVoice]=04:12:09	Voice05/05-KF/05-KF-J00/05-KF-J00-0720	0	sek	04:13:11;
+
+[PrintText]=04:13:11	Kotonoha	But... if I do, Makoto-kun will...	04:17:10;
+
+[PlayVoice]=04:13:11	Voice05/05-KF/05-KF-J00/05-KF-J00-0730	0	kot	04:17:10;
+
+[CreateBG]=04:17:08	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-022	04:21:12;
+
+[PrintText]=04:17:10	Sekai	He'll come. If you tell him that, he'll come for sure!	04:21:12;
+
+[PlayVoice]=04:17:10	Voice05/05-KF/05-KF-J00/05-KF-J00-0740	0	sek	04:21:12;
+
+[CreateBG]=04:21:12	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-023	04:26:02;
+
+[PrintText]=04:21:12	Kotonoha	He would, wouldn't he?	04:22:19;
+
+[PlayVoice]=04:21:12	Voice05/05-KF/05-KF-J00/05-KF-J00-0750	0	kot	04:22:19;
+
+[PrintText]=04:22:19	Sekai	So please... don't!	04:25:11;
+
+[PlayVoice]=04:22:19	Voice05/05-KF/05-KF-J00/05-KF-J00-0760	0	sek	04:25:11;
+
+[PrintText]=04:25:11	Kotonoha	Huh...?	04:26:02;
+
+[PlayVoice]=04:25:11	Voice05/05-KF/05-KF-J00/05-KF-J00-0770	0	kot	04:26:02;
+
+[CreateBG]=04:26:02	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-001	04:33:17;
+
+[PrintText]=04:26:03	Sekai	Katsura-san... you really are naive. You won't understand unless I tell you, will you?	04:32:03;
+
+[PlayVoice]=04:26:03	Voice05/05-KF/05-KF-J00/05-KF-J00-0780	0	sek	04:32:03;
+
+[PrintText]=04:32:03	Kotonoha	Understand what?	04:33:16;
+
+[PlayVoice]=04:32:03	Voice05/05-KF/05-KF-J00/05-KF-J00-0790	0	kot	04:33:16;
+
+[PrintText]=04:33:16	Sekai	The reason Makoto said he wanted to break up is because he's going out with someone else.	04:38:20;
+
+[PlayVoice]=04:33:16	Voice05/05-KF/05-KF-J00/05-KF-J00-0800	0	sek	04:38:20;
+
+[CreateBG]=04:33:17	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-025	04:38:17;
+
+[PlaySe]=04:36:20	1	SysSe/SE_all/gaya/okujou	05:46:01;
+
+[CreateBG]=04:38:17	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-026	04:42:23;
+
+[PrintText]=04:38:20	Kotonoha	That's... not true.	04:42:01;
+
+[PlayVoice]=04:38:20	Voice05/05-KF/05-KF-J00/05-KF-J00-0810	0	kot	04:42:01;
+
+[PrintText]=04:42:01	Sekai	No... it's true...	04:44:17;
+
+[PlayVoice]=04:42:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0820	0	sek	04:44:17;
+
+[CreateBG]=04:42:23	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-027	04:46:05;
+
+[PrintText]=04:44:17	Kotonoha	...Saionji-san?	04:46:07;
+
+[PlayVoice]=04:44:17	Voice05/05-KF/05-KF-J00/05-KF-J00-0830	0	kot	04:46:07;
+
+[CreateBG]=04:46:05	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-028	04:51:18;
+
+[PrintText]=04:46:06	Sekai	Because... the person he's going out with... is me...	04:51:20;
+
+[PlayVoice]=04:46:06	Voice05/05-KF/05-KF-J00/05-KF-J00-0840	0	sek	04:51:20;
+
+[CreateBG]=04:51:18	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-029	05:07:21;
+
+[PrintText]=04:51:20	Kotonoha	Eh...?	04:52:19;
+
+[PlayVoice]=04:51:20	Voice05/05-KF/05-KF-J00/05-KF-J00-0850	0	kot	04:52:19;
+
+[PrintText]=04:52:19	Sekai	...I'm sorry.	04:54:00;
+
+[PlayVoice]=04:52:19	Voice05/05-KF/05-KF-J00/05-KF-J00-0860	0	sek	04:54:00;
+
+[PrintText]=04:53:23	Kotonoha	Oh, come on... what are you talking about? You're the one who introduced him to me. You can't possibly be...	05:04:04;
+
+[PlayVoice]=04:53:23	Voice05/05-KF/05-KF-J00/05-KF-J00-0870	0	kot	05:04:04;
+
+[PrintText]=05:04:04	Sekai	All this time... I've been in love with him...	05:07:22;
+
+[PlayVoice]=05:04:04	Voice05/05-KF/05-KF-J00/05-KF-J00-0880	0	sek	05:07:22;
+
+[CreateBG]=05:07:21	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-030	05:23:01;
+
+[PrintText]=05:07:22	Kotonoha	Ah...	05:09:12;
+
+[PlayVoice]=05:07:22	Voice05/05-KF/05-KF-J00/05-KF-J00-0890	0	kot	05:09:12;
+
+[PrintText]=05:09:13	Sekai	But he was in love with you... so I told him I'd help him go out with you, and we ended up becoming close friends...	05:21:04;
+
+[PlayVoice]=05:09:13	Voice05/05-KF/05-KF-J00/05-KF-J00-0900	0	sek	05:21:04;
+
+[PrintText]=05:21:03	Kotonoha	Saionji-san...	05:23:00;
+
+[PlayVoice]=05:21:03	Voice05/05-KF/05-KF-J00/05-KF-J00-0910	0	kot	05:23:00;
+
+[CreateBG]=05:23:01	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-031	05:41:13;
+
+[PrintText]=05:23:01	Sekai	But... I couldn't change the way I felt. My feelings just grew stronger and stronger, until I couldn't hold back anymore.	05:34:06;
+
+[PlayVoice]=05:23:01	Voice05/05-KF/05-KF-J00/05-KF-J00-0920	0	sek	05:34:06;
+
+[PrintText]=05:34:05	Kotonoha	B-but... you and Sawanaga-san are...!	05:38:04;
+
+[PlayVoice]=05:34:05	Voice05/05-KF/05-KF-J00/05-KF-J00-0930	0	kot	05:38:04;
+
+[PrintText]=05:38:04	Sekai	I broke up with Sawanaga.	05:41:13;
+
+[PlayVoice]=05:38:04	Voice05/05-KF/05-KF-J00/05-KF-J00-0940	0	sek	05:41:13;
+
+[CreateBG]=05:41:13	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-032	05:51:22;
+
+[PrintText]=05:41:13	Kotonoha	Why?! Sawanaga-san was really in love with you, you know!	05:47:13;
+
+[PlayVoice]=05:41:13	Voice05/05-KF/05-KF-J00/05-KF-J00-0950	0	kot	05:47:13;
+
+[PlaySe]=05:46:01	2	SysSe/SE_all/gaya/okujou	06:55:06;
+
+[PrintText]=05:47:13	Kotonoha	He looked so happy when he was preparing a Christmas present for you...	05:51:22;
+
+[PlayVoice]=05:47:13	Voice05/05-KF/05-KF-J00/05-KF-J00-0951	0	kot	05:51:22;
+
+[CreateBG]=05:51:22	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-033	05:55:00;
+
+[PrintText]=05:51:22	Sekai	But... I love Makoto!	05:54:22;
+
+[PlayVoice]=05:51:22	Voice05/05-KF/05-KF-J00/05-KF-J00-0960	0	sek	05:54:22;
+
+[PrintText]=05:54:21	Kotonoha	...	05:56:15;
+
+[PlayVoice]=05:54:21	Voice05/05-KF/05-KF-J00/05-KF-J00-0970	0	xxx	05:56:15;
+
+[CreateBG]=05:55:00	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-001	06:05:23;
+
+[PrintText]=05:56:14	Sekai	...I'm sorry, but I can't stop now.	06:01:13;
+
+[PlayVoice]=05:56:14	Voice05/05-KF/05-KF-J00/05-KF-J00-0980	0	sek	06:01:13;
+
+[PrintText]=06:01:14	Kotonoha	What about Makoto-kun?	06:03:00;
+
+[PlayVoice]=06:01:14	Voice05/05-KF/05-KF-J00/05-KF-J00-0990	0	kot	06:03:00;
+
+[PrintText]=06:02:23	Sekai	He said he loved me.	06:05:22;
+
+[PlayVoice]=06:02:23	Voice05/05-KF/05-KF-J00/05-KF-J00-1000	0	sek	06:05:22;
+
+[CreateBG]=06:05:23	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-031	06:26:12;
+
+[PrintText]=06:05:23	Kotonoha	Then... were you the one who seduced Makoto-kun?	06:15:16;
+
+[PlayVoice]=06:05:23	Voice05/05-KF/05-KF-J00/05-KF-J00-1010	0	kot	06:15:16;
+
+[PrintText]=06:15:16	Sekai	...	06:16:19;
+
+[PlayVoice]=06:15:16	Voice05/05-KF/05-KF-J00/05-KF-J00-1020	0	xxx	06:16:19;
+
+[PrintText]=06:16:20	Kotonoha	...I see.	06:18:08;
+
+[PlayVoice]=06:16:20	Voice05/05-KF/05-KF-J00/05-KF-J00-1030	0	kot	06:18:08;
+
+[PrintText]=06:18:08	Sekai	I'm sorry.	06:19:18;
+
+[PlayVoice]=06:18:08	Voice05/05-KF/05-KF-J00/05-KF-J00-1040	0	sek	06:19:18;
+
+[PrintText]=06:19:18	Kotonoha	Please don't apologize.	06:21:06;
+
+[PlayVoice]=06:19:18	Voice05/05-KF/05-KF-J00/05-KF-J00-1050	0	kot	06:21:06;
+
+[PrintText]=06:21:06	Sekai	...	06:22:08;
+
+[PlayVoice]=06:21:06	Voice05/05-KF/05-KF-J00/05-KF-J00-1060	0	xxx	06:22:08;
+
+[PrintText]=06:22:08	Kotonoha	I haven't given up on him.	06:26:12;
+
+[PlayVoice]=06:22:08	Voice05/05-KF/05-KF-J00/05-KF-J00-1070	0	kot	06:26:12;
+
+[CreateBG]=06:26:12	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-008	06:31:16;
+
+[PrintText]=06:26:12	Sekai	Eh...?	06:27:12;
+
+[PlayVoice]=06:26:12	Voice05/05-KF/05-KF-J00/05-KF-J00-1080	0	sek	06:27:12;
+
+[PrintText]=06:27:12	Kotonoha	I'm going to send him that message.	06:29:10;
+
+[PlayVoice]=06:27:12	Voice05/05-KF/05-KF-J00/05-KF-J00-1090	0	kot	06:29:10;
+
+[PrintText]=06:29:10	Sekai	You mean...?	06:30:18;
+
+[PlayVoice]=06:29:10	Voice05/05-KF/05-KF-J00/05-KF-J00-1100	0	sek	06:30:18;
+
+[PrintText]=06:30:18	Kotonoha	Yes.	06:31:16;
+
+[PlayVoice]=06:30:18	Voice05/05-KF/05-KF-J00/05-KF-J00-1110	0	kot	06:31:16;
+
+[CreateBG]=06:31:16	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-037	06:36:16;
+
+[PrintText]=06:31:16	Sekai	You can't.	06:33:03;
+
+[PlayVoice]=06:31:16	Voice05/05-KF/05-KF-J00/05-KF-J00-1120	0	sek	06:33:03;
+
+[PrintText]=06:33:03	Kotonoha	I'm not going to hand him over, either.	06:35:05;
+
+[PlayVoice]=06:33:03	Voice05/05-KF/05-KF-J00/05-KF-J00-1130	0	kot	06:35:05;
+
+[PrintText]=06:35:06	Sekai	Stop it.	06:36:16;
+
+[PlayVoice]=06:35:06	Voice05/05-KF/05-KF-J00/05-KF-J00-1140	0	sek	06:36:16;
+
+[CreateBG]=06:36:16	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-038	06:40:05;
+
+[PrintText]=06:36:16	Kotonoha	No.	06:37:14;
+
+[PlayVoice]=06:36:16	Voice05/05-KF/05-KF-J00/05-KF-J00-1150	0	kot	06:37:14;
+
+[PrintText]=06:37:15	Sekai	Just stop it...	06:39:04;
+
+[PlayVoice]=06:37:15	Voice05/05-KF/05-KF-J00/05-KF-J00-1160	0	sek	06:39:04;
+
+[PrintText]=06:39:03	Kotonoha	I won't.	06:40:04;
+
+[PlayVoice]=06:39:03	Voice05/05-KF/05-KF-J00/05-KF-J00-1170	0	kot	06:40:04;
+
+[PrintText]=06:40:03	Sekai	Katsura-san...	06:41:15;
+
+[PlayVoice]=06:40:03	Voice05/05-KF/05-KF-J00/05-KF-J00-1180	0	sek	06:41:15;
+
+[CreateBG]=06:40:05	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-039	06:45:13;
+
+[PrintText]=06:41:15	Kotonoha	Let's have Makoto-kun decide. The one he chooses to spend Christmas Eve with... will be the girlfriend he wants.	06:51:08;
+
+[PlayVoice]=06:41:15	Voice05/05-KF/05-KF-J00/05-KF-J00-1190	0	kot	06:51:08;
+
+[CreateBG]=06:45:13	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-008	06:51:07;
+
+[CreateBG]=06:51:07	BGS	Event05/05-KF/05-KF-J00/05-KF-J00-014	06:55:12;
+
+[PrintText]=06:51:09	Sekai	The girlfriend... he wants.	06:55:11;
+
+[PlayVoice]=06:51:09	Voice05/05-KF/05-KF-J00/05-KF-J00-1200	0	sek	06:55:11;
+
+[PlaySe]=06:55:06	1	SysSe/SE_all/gaya/okujou	06:55:12;
+
+ ;
+
+[Next]=06:55:12;
+

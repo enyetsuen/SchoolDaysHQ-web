@@ -1,0 +1,94 @@
+[SkipFRAME]=00:54:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	00:54:23;
+
+[PlaySe]=00:00:00	1	Se03/03-SB/03-SB-H04/SE03-SB-H04-001	00:54:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-001	00:01:16;
+
+[PrintText]=00:00:00	Makoto	What about you?	00:01:00;
+
+[PlayVoice]=00:00:00	Voice03/03-SB/03-SB-H04/03-SB-H04-0030	1	mak	00:01:00;
+
+[PrintText]=00:01:00	Kotonoha	Eh?	00:01:15;
+
+[PlayVoice]=00:01:00	Voice03/03-SB/03-SB-H04/03-SB-H04-0040	0	kot	00:01:15;
+
+[PrintText]=00:01:15	Makoto	Is there anywhere that you'd like to go?	00:04:18;
+
+[PlayVoice]=00:01:15	Voice03/03-SB/03-SB-H04/03-SB-H04-0050	1	mak	00:04:18;
+
+[CreateBG]=00:01:16	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-002	00:08:01;
+
+[PrintText]=00:04:18	Kotonoha	M-me?	00:07:11;
+
+[PlayVoice]=00:04:18	Voice03/03-SB/03-SB-H04/03-SB-H04-0060	0	kot	00:07:11;
+
+[PrintText]=00:07:11	Makoto	Uh-huh.	00:08:02;
+
+[PlayVoice]=00:07:11	Voice03/03-SB/03-SB-H04/03-SB-H04-0070	1	mak	00:08:02;
+
+[CreateBG]=00:08:00	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-003	00:13:08;
+
+[PrintText]=00:08:01	Kotonoha	I... yes, the fortune teller over there.	00:13:06;
+
+[PlayVoice]=00:08:01	Voice03/03-SB/03-SB-H04/03-SB-H04-0080	0	kot	00:13:06;
+
+[PrintText]=00:13:06	Makoto	Ah, that one in the classroom ahead of us.	00:15:20;
+
+[PlayVoice]=00:13:06	Voice03/03-SB/03-SB-H04/03-SB-H04-0090	1	mak	00:15:20;
+
+[CreateBG]=00:13:07	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-004	00:19:10;
+
+[PrintText]=00:15:20	Kotonoha	Yes.	00:16:17;
+
+[PlayVoice]=00:15:20	Voice03/03-SB/03-SB-H04/03-SB-H04-0100	0	kot	00:16:17;
+
+[PrintText]=00:16:17	Makoto	Do you like fortune telling and stuff?	00:19:10;
+
+[PlayVoice]=00:16:17	Voice03/03-SB/03-SB-H04/03-SB-H04-0110	1	mak	00:19:10;
+
+[CreateBG]=00:19:10	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-005	00:23:15;
+
+[PrintText]=00:19:10	Kotonoha	Not all that much... but as much as anyone else.	00:23:16;
+
+[PlayVoice]=00:19:10	Voice03/03-SB/03-SB-H04/03-SB-H04-0120	0	kot	00:23:16;
+
+[CreateBG]=00:23:15	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-006	00:25:15;
+
+[PrintText]=00:23:16	Makoto	What sort of fortune telling do you usually do?	00:25:15;
+
+[PlayVoice]=00:23:16	Voice03/03-SB/03-SB-H04/03-SB-H04-0130	1	mak	00:25:15;
+
+[CreateBG]=00:25:15	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-006B	00:36:22;
+
+[PrintText]=00:25:15	Kotonoha	'Do'...? Well, I usually ask for Grebel or Choushinri Shugosei... just the usual stuff.	00:36:06;
+
+[PlayVoice]=00:25:15	Voice03/03-SB/03-SB-H04/03-SB-H04-0140	0	kot	00:36:06;
+
+[PrintText]=00:36:06	Makoto	I-I'm not sure if I understand, but that's supposed to be 'normal'?	00:40:20;
+
+[PlayVoice]=00:36:06	Voice03/03-SB/03-SB-H04/03-SB-H04-0150	1	mak	00:40:20;
+
+[CreateBG]=00:36:22	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-006C	00:44:18;
+
+[PrintText]=00:40:20	Kotonoha	It's only normal for a girl to have her fortune told, you know.	00:44:20;
+
+[PlayVoice]=00:40:20	Voice03/03-SB/03-SB-H04/03-SB-H04-0160	0	kot	00:44:20;
+
+[CreateBG]=00:44:18	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-007	00:49:23;
+
+[PrintText]=00:44:20	Makoto	Well, I guess you could be right. Girls do like fortune telling, after all... so shall we have our fortunes told?	00:53:07;
+
+[PlayVoice]=00:44:20	Voice03/03-SB/03-SB-H04/03-SB-H04-0170	1	mak	00:53:07;
+
+[CreateBG]=00:49:23	BGS	Event03/03-SB/03-SB-H04/03-SB-H04-008	00:54:23;
+
+[PrintText]=00:53:07	Kotonoha	Yes.	00:54:02;
+
+[PlayVoice]=00:53:07	Voice03/03-SB/03-SB-H04/03-SB-H04-0180	0	kot	00:54:02;
+
+ ;
+
+[Next]=00:54:23;
+

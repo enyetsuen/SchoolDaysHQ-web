@@ -1,0 +1,142 @@
+[SkipFRAME]=01:33:15;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:33:13;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-001A	00:01:02;
+
+[CreateBG]=00:01:02	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-001B	00:02:08;
+
+[PrintText]=00:01:04	Sekai	Morning.	00:02:09;
+
+[PlayVoice]=00:01:04	Voice05/05-KB/05-KB-B01/05-KB-B01-0030	0	sek	00:02:09;
+
+[CreateBG]=00:02:08	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-002	00:05:06;
+
+[PrintText]=00:02:09	Nanami	Morning!	00:03:10;
+
+[PlayVoice]=00:02:09	Voice05/05-KB/05-KB-B01/05-KB-B01-0050	0	nan	00:03:10;
+
+[PrintText]=00:03:10	Hikari	Morning, Sekai.	00:05:06;
+
+[PlayVoice]=00:03:10	Voice05/05-KB/05-KB-B01/05-KB-B01-0060	0	hik	00:05:06;
+
+[CreateBG]=00:05:06	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-003	00:37:01;
+
+[PrintText]=00:05:06	Sekai	Eheheh... nice day today, isn't it?	00:08:04;
+
+[PlayVoice]=00:05:06	Voice05/05-KB/05-KB-B01/05-KB-B01-0070	0	sek	00:08:04;
+
+[PrintText]=00:08:04	Nanami	Is it really just the weather that's making you so cheerful?	00:11:06;
+
+[PlayVoice]=00:08:04	Voice05/05-KB/05-KB-B01/05-KB-B01-0080	0	nan	00:11:06;
+
+[PrintText]=00:11:06	Sekai	Eh...? What do you mean?	00:13:22;
+
+[PlayVoice]=00:11:06	Voice05/05-KB/05-KB-B01/05-KB-B01-0090	0	sek	00:13:22;
+
+[PrintText]=00:13:22	Nanami	Things are going well with Itou, aren't they?	00:16:13;
+
+[PlayVoice]=00:13:22	Voice05/05-KB/05-KB-B01/05-KB-B01-0100	0	nan	00:16:13;
+
+[PrintText]=00:16:13	Sekai	I still don't know... it feels like we're getting back to the way we were before,	00:24:06;
+
+[PlayVoice]=00:16:13	Voice05/05-KB/05-KB-B01/05-KB-B01-0110	0	sek	00:24:06;
+
+[PrintText]=00:24:06	Sekai	but we're still a long way away from eating lunch together like we used to...	00:30:00;
+
+[PlayVoice]=00:24:06	Voice05/05-KB/05-KB-B01/05-KB-B01-0111	0	sek	00:30:00;
+
+[PrintText]=00:30:00	Hikari	Well, you just leave the enemies on the outside to us.	00:33:22;
+
+[PlayVoice]=00:30:00	Voice05/05-KB/05-KB-B01/05-KB-B01-0120	0	hik	00:33:22;
+
+[PrintText]=00:33:22	Sekai	Enemies?	00:34:23;
+
+[PlayVoice]=00:33:22	Voice05/05-KB/05-KB-B01/05-KB-B01-0130	0	sek	00:34:23;
+
+[PrintText]=00:34:23	Nanami	Ahaha, never mind.	00:37:03;
+
+[PlayVoice]=00:34:23	Voice05/05-KB/05-KB-B01/05-KB-B01-0140	0	nan	00:37:03;
+
+[PrintText]=00:36:23	Makoto	Hey! Kanroji!	00:39:02;
+
+[PlayVoice]=00:36:23	Voice05/05-KB/05-KB-B01/05-KB-B01-0150	1	mak	00:39:02;
+
+[CreateBG]=00:37:01	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-004	00:53:11;
+
+[PrintText]=00:38:17	Nanami	Hey, Itou. That was quick.	00:41:04;
+
+[PlayVoice]=00:38:17	Voice05/05-KB/05-KB-B01/05-KB-B01-0160	0	nan	00:41:04;
+
+[PrintText]=00:40:16	Makoto	Quick, nothing. Yamamoto said he didn't know what you were talking about.	00:46:19;
+
+[PlayVoice]=00:40:16	Voice05/05-KB/05-KB-B01/05-KB-B01-0170	1	mak	00:46:19;
+
+[PrintText]=00:46:18	Nanami	Huh? That's strange.	00:49:09;
+
+[PlayVoice]=00:46:18	Voice05/05-KB/05-KB-B01/05-KB-B01-0180	0	nan	00:49:09;
+
+[PrintText]=00:49:09	Makoto	Stop screwing around with me. I looked like a real idiot, you know.	00:53:16;
+
+[PlayVoice]=00:49:09	Voice05/05-KB/05-KB-B01/05-KB-B01-0190	1	mak	00:53:16;
+
+[CreateBG]=00:53:11	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-005	01:23:03;
+
+[PrintText]=00:53:16	Nanami	Oh, calm down. Here, I'll give you a few meal tickets.	00:57:05;
+
+[PlayVoice]=00:53:16	Voice05/05-KB/05-KB-B01/05-KB-B01-0200	0	nan	00:57:05;
+
+[PrintText]=00:57:06	Makoto	Eh...?! Okay, but are you sure?	01:03:00;
+
+[PlayVoice]=00:57:06	Voice05/05-KB/05-KB-B01/05-KB-B01-0210	1	mak	01:03:00;
+
+[PrintText]=01:03:00	Nanami	Take them. It's my way of apologizing.	01:04:21;
+
+[PlayVoice]=01:03:00	Voice05/05-KB/05-KB-B01/05-KB-B01-0220	0	nan	01:04:21;
+
+[PrintText]=01:04:21	Makoto	Somehow, I get the feeling that I'm being bought off... but thanks.	01:10:22;
+
+[PlayVoice]=01:04:21	Voice05/05-KB/05-KB-B01/05-KB-B01-0230	1	mak	01:10:22;
+
+[PrintText]=01:10:22	Nanami	Don't mention it. I'll give you one for spaghetti and one for meal set A.	01:15:07;
+
+[PlayVoice]=01:10:22	Voice05/05-KB/05-KB-B01/05-KB-B01-0240	0	nan	01:15:07;
+
+[PrintText]=01:15:07	Makoto	That's too much. One's fine.	01:19:00;
+
+[PlayVoice]=01:15:07	Voice05/05-KB/05-KB-B01/05-KB-B01-0250	1	mak	01:19:00;
+
+[PrintText]=01:19:01	Nanami	Don't worry about it. I'm giving you two, so go and eat with Sekai or something.	01:23:02;
+
+[PlayVoice]=01:19:01	Voice05/05-KB/05-KB-B01/05-KB-B01-0260	0	nan	01:23:02;
+
+[CreateBG]=01:23:03	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-006	01:24:06;
+
+[PrintText]=01:23:05	Sekai	Me?	01:24:04;
+
+[PlayVoice]=01:23:05	Voice05/05-KB/05-KB-B01/05-KB-B01-0270	0	sek	01:24:04;
+
+[PrintText]=01:24:02	Hikari	Yeah, that's right. You should go too, Sekai.	01:26:18;
+
+[PlayVoice]=01:24:02	Voice05/05-KB/05-KB-B01/05-KB-B01-0280	0	hik	01:26:18;
+
+[CreateBG]=01:24:06	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-007	01:26:16;
+
+[CreateBG]=01:26:16	BGS	Event05/05-KB/05-KB-B01/05-KB-B01-008	01:33:13;
+
+[PrintText]=01:26:18	Makoto	What do you say?	01:28:12;
+
+[PlayVoice]=01:26:18	Voice05/05-KB/05-KB-B01/05-KB-B01-0290	1	mak	01:28:12;
+
+[PrintText]=01:28:15	Sekai	Nanami's treat, huh...? Maybe I will, then.	01:32:05;
+
+[PlayVoice]=01:28:15	Voice05/05-KB/05-KB-B01/05-KB-B01-0300	0	sek	01:32:05;
+
+[PrintText]=01:32:03	Makoto	I thought so.	01:33:15;
+
+[PlayVoice]=01:32:03	Voice05/05-KB/05-KB-B01/05-KB-B01-0310	1	mak	01:33:15;
+
+ ;
+
+[Next]=01:33:15;
+

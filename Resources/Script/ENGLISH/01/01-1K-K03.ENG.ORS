@@ -1,0 +1,128 @@
+[SkipFRAME]=01:05:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	01:05:09;
+
+[PlaySe]=00:00:00	1	Voice01/01-1K/01-1K-K00/01-1K-K00-0091	00:16:04;
+
+[CreateBG]=00:00:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-001	00:01:00;
+
+[PrintText]=00:00:00	Makoto	"No!"	00:01:00;
+
+[CreateBG]=00:01:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-001B	00:02:00;
+
+[PrintText]=00:01:00	Sekai	"Yes, you have!"	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-001C	00:03:08;
+
+[PrintText]=00:02:00	Makoto	"No, I haven't!!"	00:03:08;
+
+[CreateBG]=00:03:08	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-002	00:04:12;
+
+[CreateBG]=00:04:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003	00:05:12;
+
+[CreateBG]=00:05:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003A	00:06:04;
+
+[CreateBG]=00:06:04	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003B	00:08:00;
+
+[PrintText]=00:06:04	Sekai	"I'll bet you tried to force yourself on her and do something perverted, and now she hates you."	00:09:12;
+
+[CreateBG]=00:08:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003C	00:09:12;
+
+[CreateBG]=00:09:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003D	00:11:00;
+
+[PrintText]=00:09:12	Makoto	"Can I ask you something?"	00:11:00;
+
+[CreateBG]=00:11:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003E	00:13:03;
+
+[PrintText]=00:11:00	Sekai	"What?"	00:13:03;
+
+[CreateBG]=00:13:03	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003F	00:15:12;
+
+[PrintText]=00:13:03	Makoto	"How far can I go before it's 'perverted'?\n...I mean, what would make her hate me?"	00:15:12;
+
+[CreateBG]=00:15:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003G	00:16:19;
+
+[PrintText]=00:15:12	Sekai	"So you did it after all!"	00:16:19;
+
+[PlaySe]=00:16:18	2	Voice01/01-1K/01-1K-K00/01-1K-K00-0100	00:25:05;
+
+[CreateBG]=00:16:19	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-003H	00:18:00;
+
+[PrintText]=00:16:19	Makoto	"It was just her hand!"	00:18:00;
+
+[CreateBG]=00:18:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-004	00:19:14;
+
+[CreateBG]=00:19:14	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005	00:21:04;
+
+[PrintText]=00:19:14	Sekai	"You held her hand?"	00:22:22;
+
+[CreateBG]=00:21:04	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005B	00:22:22;
+
+[CreateBG]=00:22:22	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005C	00:26:10;
+
+[PrintText]=00:22:22	Makoto	"The first time didn't really work out, and the second time, she slapped me."	00:26:10;
+
+[PlaySe]=00:25:15	1	Voice01/01-1K/01-1K-K00/01-1K-K00-0110	01:05:09;
+
+[CreateBG]=00:26:10	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005D	00:27:22;
+
+[PrintText]=00:26:10	Sekai	"Slapped!"	00:27:22;
+
+[CreateBG]=00:27:22	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005E	00:29:22;
+
+[PrintText]=00:27:22	Makoto	"Yeah."	00:29:22;
+
+[CreateBG]=00:29:22	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005F	00:31:22;
+
+[PrintText]=00:29:22	Makoto	"Is even just holding hands enough to disgust someone?"	00:31:22;
+
+[CreateBG]=00:31:22	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005G	00:35:00;
+
+[PrintText]=00:31:22	Sekai	"Sure, in some cases. You've got to consider the time, place, people around you and stuff like that!"	00:35:00;
+
+[CreateBG]=00:35:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005H	00:38:00;
+
+[PrintText]=00:35:00	Makoto	"I wonder if she hates me...?"	00:38:00;
+
+[CreateBG]=00:38:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-005I	00:39:12;
+
+[PrintText]=00:38:00	Sekai	"That's not what I mean!"	00:39:12;
+
+[CreateBG]=00:39:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-006	00:40:23;
+
+[CreateBG]=00:40:23	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-007	00:42:09;
+
+[PrintText]=00:40:23	Sekai	"I'm sure she was just surprised!"	00:42:09;
+
+[CreateBG]=00:42:09	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-007B	00:44:23;
+
+[PrintText]=00:42:09	Makoto	"Isn't that kind of an overreaction?"	00:44:23;
+
+[CreateBG]=00:44:23	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-007C	00:49:12;
+
+[PrintText]=00:44:23	Sekai	"I don't think Katsura-san has\never held hands with a boy before.\nOther than at a folk dance..."	00:49:12;
+
+[CreateBG]=00:49:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-007D	00:51:12;
+
+[PrintText]=00:49:12	Makoto	"Really?!"	00:51:12;
+
+[CreateBG]=00:51:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-007E	00:53:12;
+
+[PrintText]=00:51:12	Sekai	"So like I said, she was probably just surprised!"	00:53:12;
+
+[CreateBG]=00:53:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-008	00:56:00;
+
+[CreateBG]=00:56:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-009	00:59:00;
+
+[PrintText]=00:56:00	Sekai	"Have some confidence!\nKatsura-san loves you!"	00:59:00;
+
+[CreateBG]=00:59:00	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-010	01:01:12;
+
+[CreateBG]=01:01:12	BGS	Event01/01-1K/01-1K-K03/01-1K-K03-012	01:05:09;
+
+[BlackFade]=01:04:09	OUT	01:05:09;
+
+ ;
+
+[Next]=01:05:09;
+

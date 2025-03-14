@@ -1,0 +1,48 @@
+[SkipFRAME]=00:28:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:28:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-I02/04-KA-I02-001	00:06:11;
+
+[PrintText]=00:00:16	Makoto	She thinks I'm your boyfriend.	00:02:23;
+
+[PlayVoice]=00:00:16	Voice04/04-KA/04-KA-I02/04-KA-I02-0030	1	mak	00:02:23;
+
+[PrintText]=00:03:06	Kotonoha	You are.	00:04:11;
+
+[PlayVoice]=00:03:06	Voice04/04-KA/04-KA-I02/04-KA-I02-0040	0	kot	00:04:11;
+
+[PrintText]=00:04:14	Makoto	No, I...	00:06:13;
+
+[PlayVoice]=00:04:14	Voice04/04-KA/04-KA-I02/04-KA-I02-0050	1	mak	00:06:13;
+
+[CreateBG]=00:06:11	BGS	Event04/04-KA/04-KA-I02/04-KA-I02-002	00:15:12;
+
+[PrintText]=00:06:23	Kotonoha	We haven't split up... I've always loved you...	00:15:14;
+
+[PlayVoice]=00:06:23	Voice04/04-KA/04-KA-I02/04-KA-I02-0060	0	kot	00:15:14;
+
+[CreateBG]=00:15:12	BGS	Event04/04-KA/04-KA-I01/04-KA-I01-011	00:25:01;
+
+[PrintText]=00:15:13	Makoto	...Let's talk about this later.	00:20:08;
+
+[PlayVoice]=00:15:13	Voice04/04-KA/04-KA-I02/04-KA-I02-0080	1	mak	00:20:08;
+
+[PrintText]=00:20:09	Kotonoha	Eh...?	00:21:10;
+
+[PlayVoice]=00:20:09	Voice04/04-KA/04-KA-I02/04-KA-I02-0090	0	kot	00:21:10;
+
+[PrintText]=00:21:13	Makoto	You won't be able to go downstairs if you cry, right?	00:25:00;
+
+[PlayVoice]=00:21:13	Voice04/04-KA/04-KA-I02/04-KA-I02-0100	1	mak	00:25:00;
+
+[CreateBG]=00:25:01	BGS	Event04/04-KA/04-KA-I02/04-KA-I02-004	00:28:00;
+
+[PrintText]=00:25:03	Kotonoha	Yes...	00:26:18;
+
+[PlayVoice]=00:25:03	Voice04/04-KA/04-KA-I02/04-KA-I02-0110	0	kot	00:26:18;
+
+ ;
+
+[Next]=00:28:00;
+

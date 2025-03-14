@@ -1,0 +1,32 @@
+[SkipFRAME]=00:17:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:17:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5H/05-5H-C04/05-5H-C04-001	00:03:03;
+
+[PrintText]=00:00:14	Makoto	Actually, I want to do it with Kotonoha.	00:02:14;
+
+[PlayVoice]=00:00:14	Voice05/05-5H/05-5H-C04/05-5H-C04-0030	1	mak	00:02:14;
+
+[CreateBG]=00:03:03	BGS	Event05/05-5H/05-5H-C04/05-5H-C04-002	00:17:22;
+
+[PrintText]=00:03:03	Taisuke	Give her a break. We've been doing it non-stop until just now, so she's all worn out.	00:07:10;
+
+[PlayVoice]=00:03:03	Voice05/05-5H/05-5H-C04/05-5H-C04-0040	1	tai	00:07:10;
+
+[PrintText]=00:07:23	Makoto	Uuh... I guess you're right.	00:11:10;
+
+[PlayVoice]=00:07:23	Voice05/05-5H/05-5H-C04/05-5H-C04-0050	1	mak	00:11:10;
+
+[PrintText]=00:11:22	Taisuke	What? Is there some reason you don't want to do it?	00:14:15;
+
+[PlayVoice]=00:11:22	Voice05/05-5H/05-5H-C04/05-5H-C04-0060	1	tai	00:14:15;
+
+[PrintText]=00:14:20	Makoto	Well... I mean...	00:17:11;
+
+[PlayVoice]=00:14:20	Voice05/05-5H/05-5H-C04/05-5H-C04-0070	1	mak	00:17:11;
+
+ ;
+
+[Next]=00:17:22;
+

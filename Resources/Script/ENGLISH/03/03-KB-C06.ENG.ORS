@@ -1,0 +1,112 @@
+[SkipFRAME]=00:56:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:56:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-001	00:05:02;
+
+[PrintText]=00:00:00	Makoto	Haah... I can't find her.	00:05:01;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-C06/03-KB-C06-0030	1	mak	00:05:01;
+
+[PrintText]=00:05:01	Makoto	And after I went and announced, 'I'm going to go with Sekai today!' to Taisuke, too...	00:11:16;
+
+[PlayVoice]=00:05:01	Voice03/03-KB/03-KB-C06/03-KB-C06-0040	1	mak	00:11:16;
+
+[CreateBG]=00:05:02	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-002	00:15:04;
+
+[PrintText]=00:11:16	Makoto	Talk about embarrassing...	00:15:04;
+
+[PlayVoice]=00:11:16	Voice03/03-KB/03-KB-C06/03-KB-C06-0050	1	mak	00:15:04;
+
+[CreateBG]=00:15:04	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-003	00:19:09;
+
+[PrintText]=00:15:04	Makoto	Actually, he'd probably be happy to hear it...	00:18:11;
+
+[PlayVoice]=00:15:04	Voice03/03-KB/03-KB-C06/03-KB-C06-0060	1	mak	00:18:11;
+
+[PrintText]=00:18:11	Setsuna	Itou.	00:19:08;
+
+[PlayVoice]=00:18:11	Voice03/03-KB/03-KB-C06/03-KB-C06-0070	0	set	00:19:08;
+
+[PrintText]=00:19:08	Makoto	Have you seen Sekai?	00:22:02;
+
+[PlayVoice]=00:19:08	Voice03/03-KB/03-KB-C06/03-KB-C06-0090	1	mak	00:22:02;
+
+[CreateBG]=00:19:09	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-004	00:22:03;
+
+[PrintText]=00:22:02	Setsuna	Isn't she with you?	00:23:16;
+
+[PlayVoice]=00:22:02	Voice03/03-KB/03-KB-C06/03-KB-C06-0100	0	set	00:23:16;
+
+[CreateBG]=00:22:03	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-005	00:29:02;
+
+[PrintText]=00:23:16	Makoto	No.	00:24:12;
+
+[PlayVoice]=00:23:16	Voice03/03-KB/03-KB-C06/03-KB-C06-0110	1	mak	00:24:12;
+
+[PrintText]=00:24:12	Setsuna	I thought you two were going together. She did invite you, didn't she?	00:29:02;
+
+[PlayVoice]=00:24:12	Voice03/03-KB/03-KB-C06/03-KB-C06-0120	0	set	00:29:02;
+
+[CreateBG]=00:29:02	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-006	00:30:18;
+
+[PrintText]=00:29:02	Makoto	No, she didn't.	00:30:17;
+
+[PlayVoice]=00:29:02	Voice03/03-KB/03-KB-C06/03-KB-C06-0130	1	mak	00:30:17;
+
+[PrintText]=00:30:17	Setsuna	...	00:31:08;
+
+[PlayVoice]=00:30:17	Voice03/03-KB/03-KB-C06/03-KB-C06-0140	0	xxx	00:31:08;
+
+[CreateBG]=00:30:18	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-007	00:33:08;
+
+[PrintText]=00:31:08	Makoto	W-what?	00:33:08;
+
+[PlayVoice]=00:31:08	Voice03/03-KB/03-KB-C06/03-KB-C06-0150	1	mak	00:33:08;
+
+[PrintText]=00:33:07	Setsuna	The grounds.	00:34:06;
+
+[PlayVoice]=00:33:07	Voice03/03-KB/03-KB-C06/03-KB-C06-0160	0	set	00:34:06;
+
+[CreateBG]=00:33:08	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-008	00:34:22;
+
+[PrintText]=00:34:07	Makoto	Eh?	00:34:21;
+
+[PlayVoice]=00:34:07	Voice03/03-KB/03-KB-C06/03-KB-C06-0170	1	mak	00:34:21;
+
+[PrintText]=00:34:21	Setsuna	The festival's almost over, right? The final event is a folk dance on the grounds.	00:40:15;
+
+[PlayVoice]=00:34:21	Voice03/03-KB/03-KB-C06/03-KB-C06-0180	0	set	00:40:15;
+
+[CreateBG]=00:34:22	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-009	00:48:02;
+
+[PrintText]=00:40:15	Makoto	O-oh, yeah, right.	00:43:20;
+
+[PlayVoice]=00:40:15	Voice03/03-KB/03-KB-C06/03-KB-C06-0190	1	mak	00:43:20;
+
+[PrintText]=00:43:20	Setsuna	I think that's where Sekai will go.	00:46:22;
+
+[PlayVoice]=00:43:20	Voice03/03-KB/03-KB-C06/03-KB-C06-0200	0	set	00:46:22;
+
+[PrintText]=00:46:22	Makoto	Really?	00:48:02;
+
+[PlayVoice]=00:46:22	Voice03/03-KB/03-KB-C06/03-KB-C06-0210	1	mak	00:48:02;
+
+[PrintText]=00:48:01	Setsuna	If she's not going, then I'll drag her there.	00:51:14;
+
+[PlayVoice]=00:48:01	Voice03/03-KB/03-KB-C06/03-KB-C06-0220	0	set	00:51:14;
+
+[CreateBG]=00:48:02	BGS	Event03/03-KB/03-KB-C06/03-KB-C06-010	00:56:06;
+
+[PrintText]=00:51:14	Makoto	I... I see... okay, I'm counting on you.	00:55:14;
+
+[PlayVoice]=00:51:14	Voice03/03-KB/03-KB-C06/03-KB-C06-0230	1	mak	00:55:14;
+
+[PrintText]=00:55:14	Setsuna	Uh-huh.	00:56:06;
+
+[PlayVoice]=00:55:14	Voice03/03-KB/03-KB-C06/03-KB-C06-0240	0	set	00:56:06;
+
+ ;
+
+[Next]=00:56:06;
+

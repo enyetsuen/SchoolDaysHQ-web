@@ -1,0 +1,108 @@
+[SkipFRAME]=00:52:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:52:08;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-J09/SE03-SA-J09-001	00:52:08;
+
+[PlayMovie]=00:00:00	Movie03/03-SA/03-SA-J09/03-SA-J09-001	0	00:10:03;
+
+[PrintText]=00:00:00	Otome	The truth is... I ran into Itou before I got here.	00:05:12;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-J09/03-SA-J09-0040	0	oto	00:05:12;
+
+[PrintText]=00:05:13	Kotonoha	Eh?!	00:06:08;
+
+[PlayVoice]=00:05:13	Voice03/03-SA/03-SA-J09/03-SA-J09-0050	0	kot	00:06:08;
+
+[PrintText]=00:06:08	Otome	I asked him if he had any plans for today.	00:10:05;
+
+[PlayVoice]=00:06:08	Voice03/03-SA/03-SA-J09/03-SA-J09-0060	0	oto	00:10:05;
+
+[CreateBG]=00:10:00	BGS	Event03/03-SA/03-SA-J09/03-SA-J09-002	00:11:06;
+
+[PrintText]=00:10:05	Kotonoha	...	00:11:05;
+
+[PlayVoice]=00:10:05	Voice03/03-SA/03-SA-J09/03-SA-J09-0070	0	xxx	00:11:05;
+
+[CreateBG]=00:11:06	BGS	Event03/03-SA/03-SA-J09/03-SA-J09-003	00:14:02;
+
+[PrintText]=00:11:13	Otome	Have you made plans with anyone after this?	00:13:21;
+
+[PlayVoice]=00:11:13	Voice03/03-SA/03-SA-J09/03-SA-J09-0090	0	oto	00:13:21;
+
+[CreateBG]=00:14:02	BGS	Event03/03-SA/03-SA-J09/03-SA-J09-004	00:28:12;
+
+[PrintText]=00:14:03	Otome	His story and yours are a little different.	00:18:09;
+
+[PlayVoice]=00:14:03	Voice03/03-SA/03-SA-J09/03-SA-J09-0120	0	oto	00:18:09;
+
+[PrintText]=00:18:09	Kumi	A little different?	00:20:12;
+
+[PlayVoice]=00:18:09	Voice03/03-SA/03-SA-J09/03-SA-J09-0130	0	kum	00:20:12;
+
+[PrintText]=00:20:12	Otome	He said that he hadn't made plans with Katsura.	00:23:00;
+
+[PlayVoice]=00:20:12	Voice03/03-SA/03-SA-J09/03-SA-J09-0140	0	oto	00:23:00;
+
+[PrintText]=00:23:00	Minami	Ahaha... that's not just 'a little'.	00:25:23;
+
+[PlayVoice]=00:23:00	Voice03/03-SA/03-SA-J09/03-SA-J09-0150	0	min	00:25:23;
+
+[PrintText]=00:25:22	Otome	Oh, really? Ahaha...	00:28:12;
+
+[PlayVoice]=00:25:22	Voice03/03-SA/03-SA-J09/03-SA-J09-0160	0	oto	00:28:12;
+
+[CreateBG]=00:28:12	BGS	Event03/03-SA/03-SA-J09/03-SA-J09-005	00:34:22;
+
+[PrintText]=00:28:12	Kotonoha	...	00:31:08;
+
+[PlayVoice]=00:28:12	Voice03/03-SA/03-SA-J09/03-SA-J09-0170	0	xxx	00:31:08;
+
+[PrintText]=00:31:08	Kumi	Looks like it's a confirmed lie.	00:33:11;
+
+[PlayVoice]=00:31:08	Voice03/03-SA/03-SA-J09/03-SA-J09-0180	0	kum	00:33:11;
+
+[PrintText]=00:33:10	Kotonoha	...It's not a lie.	00:34:23;
+
+[PlayVoice]=00:33:10	Voice03/03-SA/03-SA-J09/03-SA-J09-0190	0	kot	00:34:23;
+
+[PlayMovie]=00:34:22	Movie03/03-SA/03-SA-J09/03-SA-J09-006	0	00:41:12;
+
+[PrintText]=00:34:22	Minami	Huh?	00:35:19;
+
+[PlayVoice]=00:34:22	Voice03/03-SA/03-SA-J09/03-SA-J09-0200	0	min	00:35:19;
+
+[PrintText]=00:35:18	Kotonoha	He'll come.	00:36:17;
+
+[PlayVoice]=00:35:18	Voice03/03-SA/03-SA-J09/03-SA-J09-0210	0	kot	00:36:17;
+
+[PrintText]=00:36:17	Natsumi	What are you talking about?	00:38:09;
+
+[PlayVoice]=00:36:17	Voice03/03-SA/03-SA-J09/03-SA-J09-0220	0	nat	00:38:09;
+
+[PrintText]=00:38:09	Kotonoha	Makoto-kun... will definitely come!	00:41:12;
+
+[PlayVoice]=00:38:09	Voice03/03-SA/03-SA-J09/03-SA-J09-0230	0	kot	00:41:12;
+
+[CreateBG]=00:41:12	BGS	Event03/03-SA/03-SA-J09/03-SA-J09-005	00:46:03;
+
+[PrintText]=00:41:12	Kumi	You idiot, there's no way he will! Give it up already!	00:46:04;
+
+[PlayVoice]=00:41:12	Voice03/03-SA/03-SA-J09/03-SA-J09-0240	0	kum	00:46:04;
+
+[CreateBG]=00:46:03	BGS	Event03/03-SA/03-SA-J09/03-SA-J09-008	00:50:01;
+
+[PrintText]=00:46:03	Otome	Come on, this is starting to make us look like bullies.	00:50:01;
+
+[PlayVoice]=00:46:03	Voice03/03-SA/03-SA-J09/03-SA-J09-0250	0	oto	00:50:01;
+
+[CreateBG]=00:50:01	BGS	Event03/03-SA/03-SA-J09/03-SA-J09-009	00:52:08;
+
+[PrintText]=00:50:01	Kotonoha	...	00:52:08;
+
+[PlayVoice]=00:50:01	Voice03/03-SA/03-SA-J09/03-SA-J09-0260	0	xxx	00:52:08;
+
+ ;
+
+[Next]=00:52:08;
+

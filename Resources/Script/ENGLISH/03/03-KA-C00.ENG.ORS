@@ -1,0 +1,160 @@
+[SkipFRAME]=01:28:13;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:34:13;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-C00/SE03-KA-C00-001	01:34:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-002	00:16:09;
+
+[PrintText]=00:02:04	Makoto	Hmn?	00:02:21;
+
+[PlayVoice]=00:02:04	Voice03/03-KA/03-KA-C00/03-KA-C00-0050	1	mak	00:02:21;
+
+[PrintText]=00:03:22	Makoto	After what happened... Sekai stopped coming to school.	00:07:14;
+
+[PlayVoice]=00:03:22	Voice03/03-KA/03-KA-C00/03-KA-C00-0070	1	xxx	00:07:14;
+
+[PrintText]=00:08:00	Makoto	More than once, I thought about calling her... but I had no idea what to say...	00:13:22;
+
+[PlayVoice]=00:08:00	Voice03/03-KA/03-KA-C00/03-KA-C00-0080	1	xxx	00:13:22;
+
+[PrintText]=00:14:09	Makoto	And so, I did nothing.	00:15:23;
+
+[PlayVoice]=00:14:09	Voice03/03-KA/03-KA-C00/03-KA-C00-0090	1	xxx	00:15:23;
+
+[CreateBG]=00:16:09	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-003	00:39:17;
+
+[PrintText]=00:16:09	Taisuke	Ah, Makoto.	00:18:05;
+
+[PlayVoice]=00:16:09	Voice03/03-KA/03-KA-C00/03-KA-C00-0100	1	tai	00:18:05;
+
+[PrintText]=00:17:12	Makoto	Hey, what's up?	00:19:15;
+
+[PlayVoice]=00:17:12	Voice03/03-KA/03-KA-C00/03-KA-C00-0110	1	mak	00:19:15;
+
+[PrintText]=00:19:13	Taisuke	About the preparations for the school festival again...	00:22:08;
+
+[PlayVoice]=00:19:13	Voice03/03-KA/03-KA-C00/03-KA-C00-0120	1	tai	00:22:08;
+
+[PrintText]=00:22:05	Makoto	We're doing a refreshment booth, right? With black tea and cake and stuff.	00:25:17;
+
+[PlayVoice]=00:22:05	Voice03/03-KA/03-KA-C00/03-KA-C00-0130	1	mak	00:25:17;
+
+[PrintText]=00:25:01	Taisuke	Yeah, well... it's just that...	00:27:20;
+
+[PlayVoice]=00:25:01	Voice03/03-KA/03-KA-C00/03-KA-C00-0140	1	tai	00:27:20;
+
+[PrintText]=00:27:14	Makoto	Has something been changed?	00:29:04;
+
+[PlayVoice]=00:27:14	Voice03/03-KA/03-KA-C00/03-KA-C00-0150	1	mak	00:29:04;
+
+[PrintText]=00:29:05	Taisuke	No, nothing's been changed.	00:31:02;
+
+[PlayVoice]=00:29:05	Voice03/03-KA/03-KA-C00/03-KA-C00-0160	1	tai	00:31:02;
+
+[PrintText]=00:31:05	Makoto	Then why are you hesitating?	00:33:05;
+
+[PlayVoice]=00:31:05	Voice03/03-KA/03-KA-C00/03-KA-C00-0170	1	mak	00:33:05;
+
+[PrintText]=00:33:01	Taisuke	Tanaka from the implementation committee is...	00:36:02;
+
+[PlayVoice]=00:33:01	Voice03/03-KA/03-KA-C00/03-KA-C00-0180	1	tai	00:36:02;
+
+[PrintText]=00:35:05	Makoto	What about Tanaka?	00:36:20;
+
+[PlayVoice]=00:35:05	Voice03/03-KA/03-KA-C00/03-KA-C00-0190	1	mak	00:36:20;
+
+[PrintText]=00:37:02	Taisuke	Well... he died!	00:40:01;
+
+[PlayVoice]=00:37:02	Voice03/03-KA/03-KA-C00/03-KA-C00-0200	1	tai	00:40:01;
+
+[CreateBG]=00:39:17	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-004A	00:40:20;
+
+[PrintText]=00:40:04	Makoto	What?!	00:41:01;
+
+[PlayVoice]=00:40:04	Voice03/03-KA/03-KA-C00/03-KA-C00-0210	1	mak	00:41:01;
+
+[CreateBG]=00:40:20	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-005	00:42:19;
+
+[PrintText]=00:40:20	Hikari	Don't just kill him off like that!	00:43:07;
+
+[PlayVoice]=00:40:20	Voice03/03-KA/03-KA-C00/03-KA-C00-0220	0	hik	00:43:07;
+
+[CreateBG]=00:42:19	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-006	00:49:06;
+
+[PlaySe]=00:42:21	2	SysSe/SE_all/action/naguru2	00:43:04;
+
+[PlayVoice]=00:43:02	Voice03/03-KA/03-KA-C00/03-KA-C00-0230			00:43:23;
+
+[PrintText]=00:43:23	Makoto	Kuroda. Has something happened to Tanaka?	00:48:00;
+
+[PlayVoice]=00:43:23	Voice03/03-KA/03-KA-C00/03-KA-C00-0240	1	mak	00:48:00;
+
+[PrintText]=00:47:22	Hikari	Mmn... he just called. It seems he's broken a bone.	00:53:08;
+
+[PlayVoice]=00:47:22	Voice03/03-KA/03-KA-C00/03-KA-C00-0250	0	hik	00:53:08;
+
+[CreateBG]=00:49:06	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-007	00:53:03;
+
+[CreateBG]=00:53:03	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-008	01:02:16;
+
+[PrintText]=00:53:03	Makoto	Ehh?! But the judo club's counting on him! He's built like a heavy tank!	00:59:03;
+
+[PlayVoice]=00:53:03	Voice03/03-KA/03-KA-C00/03-KA-C00-0260	1	mak	00:59:03;
+
+[PrintText]=00:59:00	Hikari	Well, he went along with the judo club on their retreat.	01:02:18;
+
+[PlayVoice]=00:59:00	Voice03/03-KA/03-KA-C00/03-KA-C00-0270	0	hik	01:02:18;
+
+[CreateBG]=01:02:16	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-009	01:06:16;
+
+[PrintText]=01:02:16	Makoto	Yeah. He's a first-year, but he's already a regular. Pretty incredible, huh?	01:06:15;
+
+[PlayVoice]=01:02:16	Voice03/03-KA/03-KA-C00/03-KA-C00-0280	1	mak	01:06:15;
+
+[CreateBG]=01:06:16	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-010	01:17:10;
+
+[PrintText]=01:06:16	Hikari	And so, he broke his right foot while he was in a training match.	01:09:16;
+
+[PlayVoice]=01:06:16	Voice03/03-KA/03-KA-C00/03-KA-C00-0290	0	hik	01:13:14;
+
+[PrintText]=01:09:16	Hikari	It's pretty serious. They say he'll be hospitalized for two weeks.	01:13:14;
+
+[PrintText]=01:13:11	Makoto	Haah... sounds like a disaster.	01:17:09;
+
+[PlayVoice]=01:13:11	Voice03/03-KA/03-KA-C00/03-KA-C00-0300	1	mak	01:17:09;
+
+[CreateBG]=01:17:10	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-011	01:24:15;
+
+[PrintText]=01:17:10	Hikari	That's exactly when the school festival is on, right?	01:19:23;
+
+[PlayVoice]=01:17:10	Voice03/03-KA/03-KA-C00/03-KA-C00-0310	0	hik	01:24:13;
+
+[PrintText]=01:19:23	Hikari	So when they had to hold a meeting to decide his replacement, the boys all refused and there was a big fuss.	01:24:13;
+
+[CreateBG]=01:24:15	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-012	01:26:19;
+
+[PrintText]=01:24:15	Makoto	Hahaha... sounds rough.	01:27:03;
+
+[PlayVoice]=01:24:15	Voice03/03-KA/03-KA-C00/03-KA-C00-0320	1	mak	01:27:03;
+
+[CreateBG]=01:26:19	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-005	01:27:22;
+
+[PrintText]=01:26:19	Hikari	This is no laughing matter!	01:28:07;
+
+[PlayVoice]=01:26:19	Voice03/03-KA/03-KA-C00/03-KA-C00-0330	0	hik	01:28:07;
+
+[CreateBG]=01:27:22	BGS	Event03/03-KA/03-KA-C00/03-KA-C00-014	01:34:13;
+
+[PrintText]=01:27:22	Makoto	Uuh!	01:28:13;
+
+[PlayVoice]=01:27:22	Voice03/03-KA/03-KA-C00/03-KA-C00-0340	1	mak	01:28:13;
+
+[SetSELECT]=01:28:13	'Who's our female rep again?'	'Shall I do it?'	01:33:13;
+
+ ;
+
+[Next]=01:34:13;
+

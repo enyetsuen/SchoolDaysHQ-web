@@ -1,0 +1,88 @@
+[SkipFRAME]=00:34:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:34:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-001	00:06:07;
+
+[PrintText]=00:00:05	Makoto	...	00:01:16;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0030	1	xxx	00:01:16;
+
+[PrintText]=00:01:17	Sekai	I know.	00:02:17;
+
+[PlayVoice]=00:01:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0040	0	sek	00:02:17;
+
+[PrintText]=00:02:17	Makoto	Eh?!	00:03:08;
+
+[PlayVoice]=00:02:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0050	1	mak	00:03:08;
+
+[PrintText]=00:03:09	Sekai	Leave it to me. I've got a great plan.	00:06:10;
+
+[PlayVoice]=00:03:09	Voice04/04-SA/04-SA-H03/04-SA-H03-0060	0	sek	00:06:10;
+
+[CreateBG]=00:06:07	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-002	00:07:20;
+
+[PrintText]=00:06:13	Makoto	A great plan?	00:07:21;
+
+[PlayVoice]=00:06:13	Voice04/04-SA/04-SA-H03/04-SA-H03-0070	1	mak	00:07:21;
+
+[CreateBG]=00:07:20	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-003	00:14:15;
+
+[PrintText]=00:07:22	Sekai	You'll just have to wait and see.	00:11:04;
+
+[PlayVoice]=00:07:22	Voice04/04-SA/04-SA-H03/04-SA-H03-0080	0	sek	00:11:04;
+
+[PrintText]=00:11:04	Makoto	So, it's a secret.	00:12:20;
+
+[PlayVoice]=00:11:04	Voice04/04-SA/04-SA-H03/04-SA-H03-0090	1	mak	00:12:20;
+
+[PrintText]=00:12:17	Sekai	Yep, a secret.	00:14:15;
+
+[PlayVoice]=00:12:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0100	0	sek	00:14:15;
+
+[CreateBG]=00:14:15	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004	00:17:17;
+
+[PrintText]=00:15:07	Sekai	Well, I'll be off, then.	00:16:17;
+
+[PlayVoice]=00:15:07	Voice04/04-SA/04-SA-H03/04-SA-H03-0120	0	sek	00:16:17;
+
+[PrintText]=00:16:17	Makoto	Ah... hey, Sekai.	00:19:15;
+
+[PlayVoice]=00:16:17	Voice04/04-SA/04-SA-H03/04-SA-H03-0130	1	mak	00:19:15;
+
+[CreateBG]=00:17:17	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004B	00:19:14;
+
+[CreateBG]=00:19:14	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004C	00:26:02;
+
+[PrintText]=00:19:15	Sekai	Hmn?	00:20:05;
+
+[PlayVoice]=00:19:15	Voice04/04-SA/04-SA-H03/04-SA-H03-0140	0	sek	00:20:05;
+
+[PrintText]=00:20:05	Makoto	Think you'll be able to start coming to school tomorrow?	00:23:14;
+
+[PlayVoice]=00:20:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0150	1	mak	00:23:14;
+
+[PrintText]=00:24:05	Sekai	Well, given what's happening with Hikari, I can't very well take the day off.	00:28:05;
+
+[PlayVoice]=00:24:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0160	0	sek	00:28:05;
+
+[CreateBG]=00:26:02	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-004D	00:29:01;
+
+[PrintText]=00:28:05	Makoto	I see...	00:29:04;
+
+[PlayVoice]=00:28:05	Voice04/04-SA/04-SA-H03/04-SA-H03-0170	1	mak	00:29:04;
+
+[CreateBG]=00:29:01	BGS	Event04/04-SA/04-SA-H03/04-SA-H03-005	00:34:00;
+
+[PrintText]=00:29:12	Sekai	Well, see you later.	00:30:20;
+
+[PlayVoice]=00:29:12	Voice04/04-SA/04-SA-H03/04-SA-H03-0180	0	sek	00:30:20;
+
+[PrintText]=00:30:20	Makoto	Yeah, see you later.	00:32:19;
+
+[PlayVoice]=00:30:20	Voice04/04-SA/04-SA-H03/04-SA-H03-0190	1	mak	00:32:19;
+
+ ;
+
+[Next]=00:34:00;
+

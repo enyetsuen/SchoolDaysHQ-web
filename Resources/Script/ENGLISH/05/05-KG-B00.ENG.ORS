@@ -1,0 +1,166 @@
+[SkipFRAME]=01:30:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	01:30:11;
+
+[PlaySe]=00:00:00	1	Se00/00-00/00-00-A00/SE00-00-A00-005	00:04:14;
+
+[PlayMovie]=00:00:00	Movie05/05-KG/05-KG-B00/05-KG-B00-001	0	00:04:14;
+
+[PlaySe]=00:04:14	2	SysSe/SE_all/station_train/train_in	01:30:11;
+
+[PlayMovie]=00:04:14	Movie05/05-KG/05-KG-B00/05-KG-B00-002	0	00:09:05;
+
+[PrintText]=00:04:15	Kotonoha	Good morning!	00:06:01;
+
+[PlayVoice]=00:04:15	Voice05/05-KG/05-KG-B00/05-KG-B00-0040	0	kot	00:06:01;
+
+[PrintText]=00:05:17	Makoto	...Morning.	00:07:17;
+
+[PlayVoice]=00:05:17	Voice05/05-KG/05-KG-B00/05-KG-B00-0050	1	mak	00:07:17;
+
+[PrintText]=00:07:06	Kotonoha	It's a lovely day today, isn't it?	00:09:06;
+
+[PlayVoice]=00:07:06	Voice05/05-KG/05-KG-B00/05-KG-B00-0060	0	kot	00:09:06;
+
+[PrintText]=00:08:15	Makoto	Huh...? Yeah.	00:11:19;
+
+[PlayVoice]=00:08:15	Voice05/05-KG/05-KG-B00/05-KG-B00-0070	1	mak	00:11:19;
+
+[CreateBG]=00:09:05	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-002	00:11:10;
+
+[CreateBG]=00:11:10	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-004	00:19:00;
+
+[PrintText]=00:11:11	Kotonoha	Still, it's a little depressing to have such nice weather on a Monday, isn't it? It just makes you want to go out and play!	00:18:21;
+
+[PlayVoice]=00:11:11	Voice05/05-KG/05-KG-B00/05-KG-B00-0080	0	kot	00:18:21;
+
+[PrintText]=00:18:07	Makoto	Yeah, I guess.	00:21:20;
+
+[PlayVoice]=00:18:07	Voice05/05-KG/05-KG-B00/05-KG-B00-0090	1	mak	00:21:20;
+
+[PlayMovie]=00:19:00	Movie05/05-KG/05-KG-B00/05-KG-B00-005	0	00:22:19;
+
+[PrintText]=00:21:03	Kotonoha	Ufufu...	00:22:08;
+
+[PlayVoice]=00:21:03	Voice05/05-KG/05-KG-B00/05-KG-B00-0100	0	kot	00:22:08;
+
+[PrintText]=00:22:05	Makoto	H-hey, listen, Kotonoha...	00:27:12;
+
+[PlayVoice]=00:22:05	Voice05/05-KG/05-KG-B00/05-KG-B00-0110	1	mak	00:27:12;
+
+[CreateBG]=00:22:19	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-006	00:29:10;
+
+[PrintText]=00:27:00	Kotonoha	Yes?	00:27:16;
+
+[PlayVoice]=00:27:00	Voice05/05-KG/05-KG-B00/05-KG-B00-0120	0	kot	00:27:16;
+
+[PrintText]=00:27:20	Makoto	Is something the matter?	00:29:23;
+
+[PlayVoice]=00:27:20	Voice05/05-KG/05-KG-B00/05-KG-B00-0130	1	mak	00:29:23;
+
+[PlayMovie]=00:29:10	Movie05/05-KG/05-KG-B00/05-KG-B00-007	0	00:37:04;
+
+[PrintText]=00:29:10	Kotonoha	Eh? Why do you ask?	00:31:18;
+
+[PlayVoice]=00:29:10	Voice05/05-KG/05-KG-B00/05-KG-B00-0140	0	kot	00:31:18;
+
+[PrintText]=00:31:04	Makoto	It's just that you don't seem your usual self.	00:35:23;
+
+[PlayVoice]=00:31:04	Voice05/05-KG/05-KG-B00/05-KG-B00-0150	1	mak	00:35:23;
+
+[PrintText]=00:35:11	Kotonoha	Really?	00:36:16;
+
+[PlayVoice]=00:35:11	Voice05/05-KG/05-KG-B00/05-KG-B00-0160	0	kot	00:36:16;
+
+[PrintText]=00:36:12	Makoto	Yeah.	00:38:10;
+
+[PlayVoice]=00:36:12	Voice05/05-KG/05-KG-B00/05-KG-B00-0170	1	mak	00:38:10;
+
+[CreateBG]=00:37:04	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-004	00:55:01;
+
+[PrintText]=00:38:04	Kotonoha	If I seem different... then I think it's probably because I've decided to be honest to myself.	00:45:10;
+
+[PlayVoice]=00:38:04	Voice05/05-KG/05-KG-B00/05-KG-B00-0180	0	kot	00:45:10;
+
+[PrintText]=00:45:03	Makoto	Huh?	00:46:22;
+
+[PlayVoice]=00:45:03	Voice05/05-KG/05-KG-B00/05-KG-B00-0190	1	mak	00:46:22;
+
+[PrintText]=00:46:09	Kotonoha	During the weekend, when we met on the platform. It was only for a moment, but before we parted... you were honest with me.	00:54:15;
+
+[PlayVoice]=00:46:09	Voice05/05-KG/05-KG-B00/05-KG-B00-0200	0	kot	00:54:15;
+
+[PrintText]=00:54:12	Makoto	Ah...	00:57:03;
+
+[PlayVoice]=00:54:12	Voice05/05-KG/05-KG-B00/05-KG-B00-0210	1	mak	00:57:03;
+
+[CreateBG]=00:55:01	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-002	00:56:22;
+
+[PlayMovie]=00:56:22	Movie05/05-KG/05-KG-B00/05-KG-B00-011	0	01:03:22;
+
+[PrintText]=00:57:00	Kotonoha	Even after all the pain we've caused each other, I realized that we could still be happy if we were true to our feelings.	01:07:11;
+
+[PlayVoice]=00:57:00	Voice05/05-KG/05-KG-B00/05-KG-B00-0220	0	kot	01:07:11;
+
+[CreateBG]=01:03:22	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-006	01:16:07;
+
+[PrintText]=01:07:09	Makoto	Yeah...	01:08:23;
+
+[PlayVoice]=01:07:09	Voice05/05-KG/05-KG-B00/05-KG-B00-0230	1	mak	01:08:23;
+
+[PrintText]=01:09:02	Kotonoha	That's why I've decided to be honest with myself.	01:12:19;
+
+[PlayVoice]=01:09:02	Voice05/05-KG/05-KG-B00/05-KG-B00-0240	0	kot	01:12:19;
+
+[PrintText]=01:12:19	Makoto	I see...	01:14:16;
+
+[PlayVoice]=01:12:19	Voice05/05-KG/05-KG-B00/05-KG-B00-0250	1	mak	01:14:16;
+
+[PrintText]=01:15:00	Kotonoha	That's why...	01:15:19;
+
+[PlayVoice]=01:15:00	Voice05/05-KG/05-KG-B00/05-KG-B00-0260	0	kot	01:15:19;
+
+[PrintText]=01:15:19	Makoto	Eh?	01:17:21;
+
+[PlayVoice]=01:15:19	Voice05/05-KG/05-KG-B00/05-KG-B00-0280	1	mak	01:17:21;
+
+[PlaySe]=01:15:23	1	SysSe/SE_all/h/nuno2	01:17:00;
+
+[CreateBG]=01:16:07	BGS	System/Screen/Black	01:17:09;
+
+[CreateBG]=01:17:09	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-014	01:19:22;
+
+[PrintText]=01:17:11	Kotonoha	...I can now do things like this.	01:20:00;
+
+[PlayVoice]=01:17:11	Voice05/05-KG/05-KG-B00/05-KG-B00-0290	0	kot	01:20:00;
+
+[PrintText]=01:19:09	Makoto	Hey... that's going a bit too far.	01:23:06;
+
+[PlayVoice]=01:19:09	Voice05/05-KG/05-KG-B00/05-KG-B00-0300	1	mak	01:23:06;
+
+[CreateBG]=01:19:22	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-015	01:25:13;
+
+[PrintText]=01:22:16	Kotonoha	Really?	01:23:21;
+
+[PlayVoice]=01:22:16	Voice05/05-KG/05-KG-B00/05-KG-B00-0310	0	kot	01:23:21;
+
+[PrintText]=01:23:15	Makoto	Uuh...	01:25:22;
+
+[PlayVoice]=01:23:15	Voice05/05-KG/05-KG-B00/05-KG-B00-0320	1	mak	01:25:22;
+
+[PlayMovie]=01:25:13	Movie05/05-KG/05-KG-B00/05-KG-B00-016	0	01:28:00;
+
+[PrintText]=01:25:14	Kotonoha	Ufufu...	01:26:20;
+
+[PlayVoice]=01:25:14	Voice05/05-KG/05-KG-B00/05-KG-B00-0330	0	kot	01:26:20;
+
+[PlaySe]=01:28:00	1	Voice05/05-KG/05-KG-B00/05-KG-B00-0350	01:28:22;
+
+[CreateBG]=01:28:00	BGS	Event05/05-KG/05-KG-B00/05-KG-B00-017	01:30:11;
+
+[BlackFade]=01:29:11	OUT	01:30:11;
+
+ ;
+
+[Next]=01:30:11;
+

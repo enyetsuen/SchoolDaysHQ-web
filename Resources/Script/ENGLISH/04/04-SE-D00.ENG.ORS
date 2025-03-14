@@ -1,0 +1,542 @@
+[SkipFRAME]=04:39:08;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	04:32:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-001	00:02:23;
+
+[PrintText]=00:00:00	Makoto	Morning.	00:00:20;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-D00/04-SE-D00-0040	1	mak	00:00:20;
+
+[PrintText]=00:00:20	Taisuke	Morning... fwah.	00:03:18;
+
+[PlayVoice]=00:00:20	Voice04/04-SE/04-SE-D00/04-SE-D00-0050	1	tai	00:03:18;
+
+[CreateBG]=00:02:23	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-002	00:14:04;
+
+[PrintText]=00:03:18	Makoto	You didn't get enough sleep either, huh?	00:06:04;
+
+[PlayVoice]=00:03:18	Voice04/04-SE/04-SE-D00/04-SE-D00-0060	1	mak	00:06:04;
+
+[PrintText]=00:06:04	Taisuke	Well, we did talk until dawn...	00:08:20;
+
+[PlayVoice]=00:06:04	Voice04/04-SE/04-SE-D00/04-SE-D00-0070	1	tai	00:08:20;
+
+[PrintText]=00:08:20	Makoto	Seems like we'll be able to sleep well during today's classes...	00:11:12;
+
+[PlayVoice]=00:08:20	Voice04/04-SE/04-SE-D00/04-SE-D00-0080	1	mak	00:11:12;
+
+[PrintText]=00:11:12	Taisuke	Yeah... fwapffh...	00:14:03;
+
+[PlayVoice]=00:11:12	Voice04/04-SE/04-SE-D00/04-SE-D00-0090	1	tai	00:14:03;
+
+[CreateBG]=00:14:04	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-003	00:15:07;
+
+[PrintText]=00:14:04	Sekai	Morning.	00:15:06;
+
+[PlayVoice]=00:14:04	Voice04/04-SE/04-SE-D00/04-SE-D00-0100	0	sek	00:15:06;
+
+[PrintText]=00:15:06	Makoto	Ah... morning.	00:17:06;
+
+[PlayVoice]=00:15:06	Voice04/04-SE/04-SE-D00/04-SE-D00-0110	1	mak	00:17:06;
+
+[CreateBG]=00:15:07	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-004	00:17:07;
+
+[PrintText]=00:17:06	Sekai	It's another nice day today, isn't it? Even if it is a little cold.	00:21:08;
+
+[PlayVoice]=00:17:06	Voice04/04-SE/04-SE-D00/04-SE-D00-0120	0	sek	00:21:08;
+
+[CreateBG]=00:17:07	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-005	00:22:06;
+
+[PrintText]=00:21:08	Makoto	Y-yeah. It sure is.	00:24:22;
+
+[PlayVoice]=00:21:08	Voice04/04-SE/04-SE-D00/04-SE-D00-0130	1	mak	00:24:22;
+
+[CreateBG]=00:22:06	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-006	00:24:22;
+
+[CreateBG]=00:24:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-007	00:29:10;
+
+[PrintText]=00:24:22	Sekai	You'll have lunch with me today... won't you?	00:29:16;
+
+[PlayVoice]=00:24:22	Voice04/04-SE/04-SE-D00/04-SE-D00-0140	0	sek	00:29:16;
+
+[CreateBG]=00:29:10	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-008	00:30:11;
+
+[PrintText]=00:29:16	Makoto	Sure.	00:30:08;
+
+[PlayVoice]=00:29:16	Voice04/04-SE/04-SE-D00/04-SE-D00-0150	1	mak	00:30:08;
+
+[PrintText]=00:30:07	Sekai	Did you buy some bread or something to bring today?	00:33:06;
+
+[PlayVoice]=00:30:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0160	0	sek	00:33:06;
+
+[CreateBG]=00:30:11	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-009	00:33:07;
+
+[PrintText]=00:33:06	Makoto	No, I overslept, so I was just thinking of buying something from the cafeteria.	00:37:17;
+
+[PlayVoice]=00:33:06	Voice04/04-SE/04-SE-D00/04-SE-D00-0170	1	mak	00:37:17;
+
+[CreateBG]=00:33:07	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-009B	00:37:18;
+
+[PrintText]=00:37:17	Sekai	Why don't we eat in the classroom, then?	00:39:20;
+
+[PlayVoice]=00:37:17	Voice04/04-SE/04-SE-D00/04-SE-D00-0180	0	sek	00:39:20;
+
+[CreateBG]=00:37:18	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-010	00:43:09;
+
+[PrintText]=00:39:19	Makoto	Okay.	00:40:14;
+
+[PlayVoice]=00:39:19	Voice04/04-SE/04-SE-D00/04-SE-D00-0190	1	mak	00:40:14;
+
+[PrintText]=00:40:13	Sekai	After all, now we can meet without being worried about being seen...	00:43:09;
+
+[PlayVoice]=00:40:13	Voice04/04-SE/04-SE-D00/04-SE-D00-0200	0	sek	00:43:09;
+
+[CreateBG]=00:43:09	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-011	00:46:18;
+
+[PrintText]=00:43:09	Makoto	Ah... yeah, that's true.	00:46:17;
+
+[PlayVoice]=00:43:09	Voice04/04-SE/04-SE-D00/04-SE-D00-0210	1	mak	00:46:17;
+
+[PrintText]=00:46:17	Sekai	Uh-huh...	00:47:17;
+
+[PlayVoice]=00:46:17	Voice04/04-SE/04-SE-D00/04-SE-D00-0220	0	sek	00:47:17;
+
+[CreateBG]=00:46:18	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-009	00:47:17;
+
+[CreateBG]=00:47:17	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-013	00:53:10;
+
+[PrintText]=00:47:17	Taisuke	What are you getting all excited about? Is everything feeling new and thrilling now that you've started going out? Huh?	00:53:09;
+
+[PlayVoice]=00:47:17	Voice04/04-SE/04-SE-D00/04-SE-D00-0230	1	tai	00:53:09;
+
+[PrintText]=00:53:09	Makoto	S-shut up.	00:54:21;
+
+[PlayVoice]=00:53:09	Voice04/04-SE/04-SE-D00/04-SE-D00-0240	1	mak	00:54:21;
+
+[CreateBG]=00:53:10	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-014	00:54:22;
+
+[CreateBG]=00:54:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-015	00:56:00;
+
+[PrintText]=00:54:22	Sekai	Is it?	00:56:00;
+
+[PlayVoice]=00:54:22	Voice04/04-SE/04-SE-D00/04-SE-D00-0250	0	sek	00:56:00;
+
+[PrintText]=00:55:23	Makoto	N-no... hey, come on.	00:58:15;
+
+[PlayVoice]=00:55:23	Voice04/04-SE/04-SE-D00/04-SE-D00-0260	1	mak	00:58:15;
+
+[CreateBG]=00:56:00	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-016	00:58:15;
+
+[CreateBG]=00:58:15	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-017	01:01:08;
+
+[PrintText]=00:58:15	Sekai	Oh, so it doesn't...?	01:01:06;
+
+[PlayVoice]=00:58:15	Voice04/04-SE/04-SE-D00/04-SE-D00-0270	0	sek	01:01:06;
+
+[PrintText]=01:01:07	Makoto	Uh... no, it does feel exciting, but...	01:06:21;
+
+[PlayVoice]=01:01:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0280	1	mak	01:06:21;
+
+[CreateBG]=01:01:08	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-018	01:06:21;
+
+[CreateBG]=01:06:21	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-019	01:08:03;
+
+[PrintText]=01:06:21	Sekai	Makoto...	01:08:02;
+
+[PlayVoice]=01:06:21	Voice04/04-SE/04-SE-D00/04-SE-D00-0290	0	sek	01:08:02;
+
+[PrintText]=01:08:01	Hikari	What are you getting all sappy about so early in the morning?!	01:11:21;
+
+[PlayVoice]=01:08:01	Voice04/04-SE/04-SE-D00/04-SE-D00-0300	0	hik	01:11:21;
+
+[CreateBG]=01:08:03	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-020	01:11:22;
+
+[CreateBG]=01:11:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-021	01:13:08;
+
+[PrintText]=01:11:22	Makoto	Shut up!	01:13:07;
+
+[PlayVoice]=01:11:22	Voice04/04-SE/04-SE-D00/04-SE-D00-0310	1	mak	01:13:07;
+
+[PrintText]=01:13:07	Nanami	Well, given how much of a show you're putting on... morning.	01:17:16;
+
+[PlayVoice]=01:13:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0320	0	nan	01:17:16;
+
+[CreateBG]=01:13:08	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-022	01:19:00;
+
+[PrintText]=01:17:16	Sekai	Morning, Nanami.	01:19:00;
+
+[PlayVoice]=01:17:16	Voice04/04-SE/04-SE-D00/04-SE-D00-0330	0	sek	01:19:00;
+
+[CreateBG]=01:19:00	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-023	01:20:11;
+
+[PrintText]=01:19:01	Makoto	Kuh...	01:20:10;
+
+[PlayVoice]=01:19:01	Voice04/04-SE/04-SE-D00/04-SE-D00-0340	1	mak	01:20:10;
+
+[CreateBG]=01:20:11	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-024	01:25:11;
+
+[PrintText]=01:20:17	Setsuna	He loves her more than anyone... morning.	01:25:17;
+
+[PlayVoice]=01:20:17	Voice04/04-SE/04-SE-D00/04-SE-D00-0350	0	set	01:25:17;
+
+[PrintText]=01:25:10	Makoto	Cut it out with those terrible greetings!	01:28:19;
+
+[PlayVoice]=01:25:10	Voice04/04-SE/04-SE-D00/04-SE-D00-0360	1	mak	01:28:19;
+
+[CreateBG]=01:25:11	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-025	01:28:15;
+
+[CreateBG]=01:28:15	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-026	01:29:16;
+
+[PrintText]=01:28:19	Setsuna	Pft!	01:29:13;
+
+[PlayVoice]=01:28:19	Voice04/04-SE/04-SE-D00/04-SE-D00-0370	0	set	01:29:13;
+
+[PrintText]=01:29:13	Nanami	Aww, calm down. Why not tell big sis all about it?	01:33:16;
+
+[PlayVoice]=01:29:13	Voice04/04-SE/04-SE-D00/04-SE-D00-0380	0	nan	01:33:16;
+
+[CreateBG]=01:29:16	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-029	01:33:16;
+
+[CreateBG]=01:33:16	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-030	01:34:22;
+
+[PrintText]=01:33:16	Makoto	About what?	01:34:21;
+
+[PlayVoice]=01:33:16	Voice04/04-SE/04-SE-D00/04-SE-D00-0390	1	mak	01:34:21;
+
+[PrintText]=01:34:21	Nanami	About you and Sekai, of course.	01:37:07;
+
+[PlayVoice]=01:34:21	Voice04/04-SE/04-SE-D00/04-SE-D00-0400	0	nan	01:37:07;
+
+[CreateBG]=01:34:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-029	01:37:08;
+
+[PrintText]=01:37:07	Makoto	Whatever.	01:38:06;
+
+[PlayVoice]=01:37:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0410	1	mak	01:38:06;
+
+[CreateBG]=01:37:08	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-030	01:38:07;
+
+[CreateBG]=01:38:07	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-031	01:43:05;
+
+[PrintText]=01:38:07	Nanami	Oh, what's this? Just look at what your husband's saying, Sekai-san.	01:43:05;
+
+[PlayVoice]=01:38:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0420	0	nan	01:43:05;
+
+[PrintText]=01:43:04	Sekai	H-husband...?	01:45:14;
+
+[PlayVoice]=01:43:04	Voice04/04-SE/04-SE-D00/04-SE-D00-0430	0	sek	01:45:14;
+
+[CreateBG]=01:43:05	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-032	01:45:14;
+
+[PrintText]=01:45:13	Hikari	Ugah! I don't want to see Sekai acting all bashful like this!	01:50:01;
+
+[PlayVoice]=01:45:13	Voice04/04-SE/04-SE-D00/04-SE-D00-0440	0	hik	01:50:01;
+
+[CreateBG]=01:45:14	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-033	01:50:01;
+
+[CreateBG]=01:50:01	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-034	01:51:15;
+
+[PrintText]=01:50:01	Nanami	Don't mind Hikari. Now, then, get set to start answering my questions!	01:55:18;
+
+[PlayVoice]=01:50:01	Voice04/04-SE/04-SE-D00/04-SE-D00-0460	0	nan	01:55:18;
+
+[CreateBG]=01:51:15	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-035	01:55:18;
+
+[CreateBG]=01:55:18	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-036	01:57:22;
+
+[PrintText]=01:55:18	Makoto	And just who are you supposed to be?	01:57:21;
+
+[PlayVoice]=01:55:18	Voice04/04-SE/04-SE-D00/04-SE-D00-0470	1	mak	01:57:21;
+
+[CreateBG]=01:57:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-037	02:00:09;
+
+[PrintText]=01:57:22	Setsuna	Homeroom's about to start.	02:00:08;
+
+[PlayVoice]=01:57:22	Voice04/04-SE/04-SE-D00/04-SE-D00-0480	0	set	02:00:08;
+
+[PrintText]=02:00:07	Nanami	Tsk. Buy us some time with your class rep privileges.	02:04:02;
+
+[PlayVoice]=02:00:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0490	0	nan	02:04:02;
+
+[CreateBG]=02:00:09	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-038	02:03:18;
+
+[CreateBG]=02:03:18	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-039	02:05:00;
+
+[PrintText]=02:04:02	Setsuna	No can do.	02:04:21;
+
+[PlayVoice]=02:04:02	Voice04/04-SE/04-SE-D00/04-SE-D00-0500	0	set	02:04:21;
+
+[PrintText]=02:04:21	Nanami	I guess it can't be helped. We'll pick up again at lunchtime!	02:07:22;
+
+[PlayVoice]=02:04:21	Voice04/04-SE/04-SE-D00/04-SE-D00-0510	0	nan	02:07:22;
+
+[CreateBG]=02:05:00	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-040	02:07:22;
+
+[PrintText]=02:07:21	Makoto	I told you, no.	02:09:22;
+
+[PlayVoice]=02:07:21	Voice04/04-SE/04-SE-D00/04-SE-D00-0520	1	mak	02:09:22;
+
+[CreateBG]=02:07:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-041	02:09:23;
+
+[PrintText]=02:09:22	Nanami	Why not?! Scrooge.	02:11:10;
+
+[PlayVoice]=02:09:22	Voice04/04-SE/04-SE-D00/04-SE-D00-0530	0	nan	02:11:10;
+
+[CreateBG]=02:09:23	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-042	02:11:10;
+
+[CreateBG]=02:11:10	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-043	02:13:10;
+
+[PrintText]=02:11:10	Makoto	Because I'm having lunch with Sekai.	02:13:09;
+
+[PlayVoice]=02:11:10	Voice04/04-SE/04-SE-D00/04-SE-D00-0540	1	mak	02:13:09;
+
+[PrintText]=02:13:09	Nanami	And here comes his boasting...	02:15:09;
+
+[PlayVoice]=02:13:09	Voice04/04-SE/04-SE-D00/04-SE-D00-0550	0	nan	02:15:09;
+
+[CreateBG]=02:13:10	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-044	02:15:01;
+
+[CreateBG]=02:15:01	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-045	02:16:04;
+
+[PrintText]=02:15:09	Makoto	Hmph.	02:16:01;
+
+[PlayVoice]=02:15:09	Voice04/04-SE/04-SE-D00/04-SE-D00-0560	1	mak	02:16:01;
+
+[PrintText]=02:16:01	Nanami	Fine, I'll just ask Sekai afterwards. You don't mind, right, Sekai?	02:21:00;
+
+[PlayVoice]=02:16:01	Voice04/04-SE/04-SE-D00/04-SE-D00-0570	0	nan	02:21:00;
+
+[CreateBG]=02:16:04	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-046	02:21:01;
+
+[PrintText]=02:21:00	Sekai	Ah... yeah.	02:22:23;
+
+[PlayVoice]=02:21:00	Voice04/04-SE/04-SE-D00/04-SE-D00-0580	0	sek	02:22:23;
+
+[CreateBG]=02:21:01	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-047	02:23:00;
+
+[PrintText]=02:22:23	Makoto	Not that I'm crazy about that idea either...	02:25:20;
+
+[PlayVoice]=02:22:23	Voice04/04-SE/04-SE-D00/04-SE-D00-0590	1	mak	02:25:20;
+
+[CreateBG]=02:23:00	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-048	02:25:21;
+
+[PrintText]=02:25:20	Nanami	You'd better keep that in mind! Hmph!	02:27:14;
+
+[PlayVoice]=02:25:20	Voice04/04-SE/04-SE-D00/04-SE-D00-0600	0	nan	02:27:14;
+
+[CreateBG]=02:25:21	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-049	02:27:15;
+
+[CreateBG]=02:27:15	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-050	02:29:13;
+
+[PrintText]=02:27:23	Makoto	...	02:28:16;
+
+[PlayVoice]=02:27:23	Voice04/04-SE/04-SE-D00/04-SE-D00-0610	1	xxx	02:28:16;
+
+[BlackFade]=02:29:00	OUT	02:29:13;
+
+[CreateBG]=02:29:13	BGS	System/Screen/Black	02:30:03;
+
+[CreateBG]=02:30:03	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-051	02:31:10;
+
+[BlackFade]=02:30:03	IN	02:30:16;
+
+[CreateBG]=02:31:10	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-052	02:44:18;
+
+[PlayVoice]=02:31:10	Voice04/04-SE/04-SE-D00/04-SE-D00-0650	1	suu	02:38:03;
+
+[PrintText]=02:31:10	Teacher	Here you can see we have six disks, but to make things easier, we'll start from two.	02:38:06;
+
+[PlayVoice]=02:38:06	Voice04/04-SE/04-SE-D00/04-SE-D00-0651	1	suu	02:44:14;
+
+[PrintText]=02:38:06	Teacher	Let's try using our handout to solve the problem. How about... Kiyoura.	02:44:18;
+
+[CreateBG]=02:44:18	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-053	02:57:10;
+
+[PlayVoice]=02:44:18	Voice04/04-SE/04-SE-D00/04-SE-D00-0660	0	set	02:57:10;
+
+[PrintText]=02:44:18	Setsuna	With two disks, it takes three moves. With three disks, it takes seven. Four is fifteen, and five is...	02:57:10;
+
+[CreateBG]=02:57:10	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-054	03:01:00;
+
+[PlayVoice]=02:57:10	Voice04/04-SE/04-SE-D00/04-SE-D00-0670	1	suu	03:01:00;
+
+[PrintText]=02:57:10	Teacher	This is where it gets a little difficult.	03:01:02;
+
+[PrintText]=03:01:02	Setsuna	Um... five is thirty-one. Six is...	03:06:18;
+
+[CreateBG]=03:01:00	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-055	03:06:18;
+
+[PlayVoice]=03:01:02	Voice04/04-SE/04-SE-D00/04-SE-D00-0680	0	set	03:06:18;
+
+[CreateBG]=03:06:18	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-056	03:08:14;
+
+[CreateBG]=03:08:14	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-057	03:12:01;
+
+[PrintText]=03:09:09	Sekai	...	03:10:16;
+
+[PlayVoice]=03:09:09	Voice04/04-SE/04-SE-D00/04-SE-D00-0710	0	xxx	03:10:16;
+
+[PlaySe]=03:10:18	1	SysSe/SE_all/school/chime	03:29:04;
+
+[BlackFade]=03:11:12	OUT	03:12:01;
+
+[CreateBG]=03:12:01	BGS	System/Screen/Black	03:12:14;
+
+[CreateBG]=03:12:14	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-058	03:20:08;
+
+[BlackFade]=03:12:14	IN	03:13:04;
+
+[CreateBG]=03:20:08	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-059	03:22:20;
+
+[PrintText]=03:20:08	Makoto	Well, shall we go?	03:21:12;
+
+[PlayVoice]=03:20:08	Voice04/04-SE/04-SE-D00/04-SE-D00-0750	1	mak	03:21:12;
+
+[PrintText]=03:21:12	Sekai	Uh-huh.	03:22:10;
+
+[PlayVoice]=03:21:12	Voice04/04-SE/04-SE-D00/04-SE-D00-0760	0	sek	03:22:10;
+
+[CreateBG]=03:22:20	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-060	03:26:00;
+
+[PrintText]=03:24:08	Hikari	Ahh... is Sekai really going to go out with Itou after all?	03:29:13;
+
+[PlayVoice]=03:24:08	Voice04/04-SE/04-SE-D00/04-SE-D00-0780	0	hik	03:29:13;
+
+[CreateBG]=03:26:00	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-061	03:29:13;
+
+[CreateBG]=03:29:13	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-062	03:36:01;
+
+[PrintText]=03:29:13	Setsuna	That's what you say, but really, you're relieved.	03:32:07;
+
+[PlayVoice]=03:29:13	Voice04/04-SE/04-SE-D00/04-SE-D00-0790	0	set	03:32:07;
+
+[PrintText]=03:32:07	Nanami	Yeah. Deep down inside, you're thinking, 'Good for her.'	03:36:00;
+
+[PlayVoice]=03:32:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0800	0	nan	03:36:00;
+
+[CreateBG]=03:36:01	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-063	03:38:18;
+
+[PrintText]=03:36:01	Hikari	W-what are you talking about?!	03:38:18;
+
+[PlayVoice]=03:36:01	Voice04/04-SE/04-SE-D00/04-SE-D00-0810	0	hik	03:38:18;
+
+[CreateBG]=03:38:18	BGS	Event05/05-KI/05-KI-H02/05-KI-H02-010	03:41:04;
+
+[PrintText]=03:40:22	Kotonoha	...	03:42:11;
+
+[PlayVoice]=03:40:22	Voice04/04-SE/04-SE-D00/04-SE-D00-0860	0	xxx	03:42:11;
+
+[CreateBG]=03:41:04	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-064	03:42:11;
+
+[CreateBG]=03:42:11	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-065	03:43:22;
+
+[PrintText]=03:42:11	Minami	Eh?! You mean you went to Aqua Square?	03:46:20;
+
+[PlayVoice]=03:42:11	Voice04/04-SE/04-SE-D00/04-SE-D00-0890	0	min	03:46:20;
+
+[CreateBG]=03:43:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-066	03:46:21;
+
+[PrintText]=03:46:20	Otome	Fufu... yep.	03:48:20;
+
+[PlayVoice]=03:46:20	Voice04/04-SE/04-SE-D00/04-SE-D00-0900	0	oto	03:48:20;
+
+[CreateBG]=03:46:21	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-067	03:48:20;
+
+[CreateBG]=03:48:20	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-068	03:52:11;
+
+[PrintText]=03:48:20	Kumi	That sounds great, Otome-chan.	03:50:23;
+
+[PlayVoice]=03:48:20	Voice04/04-SE/04-SE-D00/04-SE-D00-0910	0	kum	03:50:23;
+
+[PrintText]=03:50:23	Natsumi	Who did you go with?	03:52:10;
+
+[PlayVoice]=03:50:23	Voice04/04-SE/04-SE-D00/04-SE-D00-0920	0	nat	03:52:10;
+
+[PrintText]=03:52:10	Otome	Uh... well...	03:55:13;
+
+[PlayVoice]=03:52:10	Voice04/04-SE/04-SE-D00/04-SE-D00-0930	0	oto	03:55:13;
+
+[CreateBG]=03:52:11	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-069	03:55:13;
+
+[CreateBG]=03:55:13	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-070	03:57:21;
+
+[PrintText]=03:55:13	Kumi	Was it your boyfriend?!	03:57:21;
+
+[PlayVoice]=03:55:13	Voice04/04-SE/04-SE-D00/04-SE-D00-0940	0	kum	03:57:21;
+
+[CreateBG]=03:57:21	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-071	03:58:22;
+
+[PrintText]=03:57:21	Otome	Eh?!	03:58:22;
+
+[PlayVoice]=03:57:21	Voice04/04-SE/04-SE-D00/04-SE-D00-0950	0	oto	03:58:22;
+
+[PrintText]=03:58:21	Natsumi	Doesn't seem like it, judging by that reaction. Besides, she doesn't even have one.	04:03:23;
+
+[PlayVoice]=03:58:21	Voice04/04-SE/04-SE-D00/04-SE-D00-0960	0	nat	04:03:23;
+
+[CreateBG]=03:58:22	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-072	04:03:23;
+
+[CreateBG]=04:03:23	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-073	04:07:19;
+
+[PrintText]=04:03:23	Otome	I-I... might. You never know.	04:07:18;
+
+[PlayVoice]=04:03:23	Voice04/04-SE/04-SE-D00/04-SE-D00-0970	0	oto	04:07:18;
+
+[PrintText]=04:07:18	Natsumi	Go on, tell us, then. Who did you go with?	04:10:07;
+
+[PlayVoice]=04:07:18	Voice04/04-SE/04-SE-D00/04-SE-D00-0980	0	nat	04:10:07;
+
+[CreateBG]=04:07:19	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-074	04:10:07;
+
+[CreateBG]=04:10:07	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-075	04:16:17;
+
+[PrintText]=04:10:07	Otome	Uuh... my female cousin and my little sister.	04:15:13;
+
+[PlayVoice]=04:10:07	Voice04/04-SE/04-SE-D00/04-SE-D00-0990	0	oto	04:15:13;
+
+[PrintText]=04:15:13	Natsumi	See?	04:16:17;
+
+[PlayVoice]=04:15:13	Voice04/04-SE/04-SE-D00/04-SE-D00-1000	0	nat	04:16:17;
+
+[PrintText]=04:16:16	Minami	Still, I'm envious! They've got all sorts of pools there, right?	04:21:08;
+
+[PlayVoice]=04:16:16	Voice04/04-SE/04-SE-D00/04-SE-D00-1010	0	min	04:21:08;
+
+[CreateBG]=04:16:17	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-076	04:21:08;
+
+[CreateBG]=04:21:08	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-077	04:25:10;
+
+[PrintText]=04:21:08	Otome	Yeah, yeah! The water slide was awesome.	04:25:10;
+
+[PlayVoice]=04:21:08	Voice04/04-SE/04-SE-D00/04-SE-D00-1020	0	oto	04:25:10;
+
+[PrintText]=04:25:09	Kumi	Uwah... that sounds nice.	04:28:16;
+
+[PlayVoice]=04:25:09	Voice04/04-SE/04-SE-D00/04-SE-D00-1030	0	kum	04:28:16;
+
+[CreateBG]=04:25:10	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-078	04:33:02;
+
+[PrintText]=04:28:17	Natsumi	Otome, are you eating at the cafeteria today?	04:30:13;
+
+[PlayVoice]=04:28:17	Voice04/04-SE/04-SE-D00/04-SE-D00-1040	0	nat	04:30:13;
+
+[PrintText]=04:30:14	Otome	Yeah. Shall we go?	04:32:02;
+
+[PlayVoice]=04:30:14	Voice04/04-SE/04-SE-D00/04-SE-D00-1050	0	oto	04:32:02;
+
+[PrintText]=04:32:02	Minami	Yeah, let's go.	04:33:02;
+
+[PlayVoice]=04:32:02	Voice04/04-SE/04-SE-D00/04-SE-D00-1060	0	min	04:33:02;
+
+[CreateBG]=04:33:02	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-079	04:35:03;
+
+[CreateBG]=04:35:03	BGS	Event04/04-SE/04-SE-D00/04-SE-D00-080	04:39:08;
+
+[PrintText]=04:35:04	Kotonoha	Haah...	04:35:23;
+
+[PlayVoice]=04:35:04	Voice04/04-SE/04-SE-D00/04-SE-D00-1080	0	kot	04:35:23;
+
+ ;
+
+[Next]=04:39:08;
+

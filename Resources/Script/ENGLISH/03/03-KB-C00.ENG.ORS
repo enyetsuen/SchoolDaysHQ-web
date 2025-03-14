@@ -1,0 +1,402 @@
+[SkipFRAME]=03:57:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	03:57:02;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-C00/SE03-KB-C00-001	01:39:10;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-C00/03-KB-C00-001	0	00:03:00;
+
+[PrintText]=00:00:00	Kotonoha	Here... I go...	00:05:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-C00/03-KB-C00-0040	0	kot	00:05:11;
+
+[CreateBG]=00:01:12	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-002	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-003	00:05:12;
+
+[CreateBG]=00:05:12	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-004	00:07:08;
+
+[PrintText]=00:05:12	Taisuke	Uwah!	00:06:05;
+
+[PlayVoice]=00:05:12	Voice03/03-KB/03-KB-C00/03-KB-C00-0070	1	tai	00:06:05;
+
+[PrintText]=00:06:05	Sekai	Kyah!	00:07:07;
+
+[PlayVoice]=00:06:05	Voice03/03-KB/03-KB-C00/03-KB-C00-0090	0	sek	00:07:07;
+
+[CreateBG]=00:07:08	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-005	00:11:22;
+
+[PrintText]=00:07:08	Taisuke	Ah! S-sorry!	00:09:12;
+
+[PlayVoice]=00:07:08	Voice03/03-KB/03-KB-C00/03-KB-C00-0110	1	tai	00:09:12;
+
+[PrintText]=00:09:12	Kotonoha	Uuu...	00:11:21;
+
+[PlayVoice]=00:09:12	Voice03/03-KB/03-KB-C00/03-KB-C00-0120	0	kot	00:11:21;
+
+[PrintText]=00:11:21	Taisuke	Are you okay?	00:13:01;
+
+[PlayVoice]=00:11:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0140	1	tai	00:13:01;
+
+[CreateBG]=00:11:22	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-006	00:13:02;
+
+[PrintText]=00:13:01	Kotonoha	Y-yes, I think so...	00:16:03;
+
+[PlayVoice]=00:13:01	Voice03/03-KB/03-KB-C00/03-KB-C00-0150	0	kot	00:16:03;
+
+[CreateBG]=00:13:02	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-007	00:16:04;
+
+[PrintText]=00:16:03	Taisuke	I'm really sorry. You're not hurt, are you?	00:18:10;
+
+[PlayVoice]=00:16:03	Voice03/03-KB/03-KB-C00/03-KB-C00-0160	1	tai	00:18:10;
+
+[CreateBG]=00:16:04	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-005	00:23:12;
+
+[PrintText]=00:18:10	Kotonoha	N-no...	00:19:22;
+
+[PlayVoice]=00:18:10	Voice03/03-KB/03-KB-C00/03-KB-C00-0170	0	kot	00:19:22;
+
+[PrintText]=00:19:22	Taisuke	Thank God.	00:20:23;
+
+[PlayVoice]=00:19:22	Voice03/03-KB/03-KB-C00/03-KB-C00-0180	1	tai	00:20:23;
+
+[PrintText]=00:20:23	Kotonoha	Well, then, please excuse me.	00:23:12;
+
+[PlayVoice]=00:20:23	Voice03/03-KB/03-KB-C00/03-KB-C00-0190	0	kot	00:23:12;
+
+[CreateBG]=00:23:12	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-009	00:25:12;
+
+[PrintText]=00:23:12	Taisuke	W-wait a second.	00:25:12;
+
+[PlayVoice]=00:23:12	Voice03/03-KB/03-KB-C00/03-KB-C00-0200	1	tai	00:25:12;
+
+[CreateBG]=00:25:12	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-010	00:29:22;
+
+[PrintText]=00:25:12	Kotonoha	Yes?	00:26:07;
+
+[PlayVoice]=00:25:12	Voice03/03-KB/03-KB-C00/03-KB-C00-0210	0	kot	00:26:07;
+
+[PrintText]=00:26:07	Taisuke	Are you taking that chair back to your class?	00:28:12;
+
+[PlayVoice]=00:26:07	Voice03/03-KB/03-KB-C00/03-KB-C00-0220	1	tai	00:28:12;
+
+[PrintText]=00:28:12	Kotonoha	Y-yes.	00:29:21;
+
+[PlayVoice]=00:28:12	Voice03/03-KB/03-KB-C00/03-KB-C00-0230	0	kot	00:29:21;
+
+[PrintText]=00:29:21	Taisuke	I'll help you.	00:30:20;
+
+[PlayVoice]=00:29:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0250	1	tai	00:30:20;
+
+[CreateBG]=00:29:22	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-011	00:30:21;
+
+[PrintText]=00:30:20	Kotonoha	U-um... really, it's okay.	00:34:05;
+
+[PlayVoice]=00:30:20	Voice03/03-KB/03-KB-C00/03-KB-C00-0260	0	kot	00:34:05;
+
+[CreateBG]=00:30:21	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-007	00:35:06;
+
+[PrintText]=00:34:04	Taisuke	Don't worry about it.	00:35:06;
+
+[PlayVoice]=00:34:04	Voice03/03-KB/03-KB-C00/03-KB-C00-0270	1	tai	00:35:06;
+
+[CreateBG]=00:35:06	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-014	00:40:02;
+
+[PrintText]=00:35:06	Kotonoha	T... thank you.	00:40:01;
+
+[PlayVoice]=00:35:06	Voice03/03-KB/03-KB-C00/03-KB-C00-0290	0	kot	00:40:01;
+
+[PrintText]=00:40:01	Taisuke	Um...	00:41:12;
+
+[PlayVoice]=00:40:01	Voice03/03-KB/03-KB-C00/03-KB-C00-0310	1	tai	00:41:12;
+
+[CreateBG]=00:40:02	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-015	00:47:21;
+
+[PrintText]=00:41:11	Kotonoha	Ah, my name is Katsura. I'm from class 4.	00:44:20;
+
+[PlayVoice]=00:41:11	Voice03/03-KB/03-KB-C00/03-KB-C00-0320	0	kot	00:44:20;
+
+[PrintText]=00:44:20	Taisuke	I'm Sawanaga from class 3.	00:46:11;
+
+[PlayVoice]=00:44:20	Voice03/03-KB/03-KB-C00/03-KB-C00-0330	1	tai	00:46:11;
+
+[PrintText]=00:46:11	Kotonoha	I know.	00:47:20;
+
+[PlayVoice]=00:46:11	Voice03/03-KB/03-KB-C00/03-KB-C00-0340	0	kot	00:47:20;
+
+[PrintText]=00:47:20	Taisuke	Really?	00:48:15;
+
+[PlayVoice]=00:47:20	Voice03/03-KB/03-KB-C00/03-KB-C00-0350	1	tai	00:48:15;
+
+[CreateBG]=00:47:21	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-016	01:23:08;
+
+[PrintText]=00:48:15	Kotonoha	Yes. Makoto-kun often talks about...	00:51:20;
+
+[PlayVoice]=00:48:15	Voice03/03-KB/03-KB-C00/03-KB-C00-0360	0	kot	00:51:20;
+
+[PrintText]=00:51:21	Taisuke	Makoto?	00:52:22;
+
+[PlayVoice]=00:51:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0370	1	tai	00:52:22;
+
+[PrintText]=00:52:21	Kotonoha	O-oh, it's nothing.	00:55:23;
+
+[PlayVoice]=00:52:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0380	0	kot	00:55:23;
+
+[PrintText]=00:55:23	Taisuke	You know Makoto?	00:57:17;
+
+[PlayVoice]=00:55:23	Voice03/03-KB/03-KB-C00/03-KB-C00-0390	1	tai	00:57:17;
+
+[PrintText]=00:57:17	Kotonoha	No, um... Saionji-san and Makoto-kun are... um... I mean...	01:06:05;
+
+[PlayVoice]=00:57:17	Voice03/03-KB/03-KB-C00/03-KB-C00-0400	0	kot	01:06:05;
+
+[PrintText]=01:06:05	Taisuke	Oh, you're with those two.	01:09:08;
+
+[PlayVoice]=01:06:05	Voice03/03-KB/03-KB-C00/03-KB-C00-0410	1	tai	01:09:08;
+
+[PrintText]=01:09:08	Kotonoha	Ah... yes, that's right.	01:12:10;
+
+[PlayVoice]=01:09:08	Voice03/03-KB/03-KB-C00/03-KB-C00-0420	0	kot	01:12:10;
+
+[PrintText]=01:12:10	Taisuke	They sure get along well, don't they?	01:14:14;
+
+[PlayVoice]=01:12:10	Voice03/03-KB/03-KB-C00/03-KB-C00-0430	1	tai	01:14:14;
+
+[PrintText]=01:14:14	Kotonoha	Yes, they do.	01:15:20;
+
+[PlayVoice]=01:14:14	Voice03/03-KB/03-KB-C00/03-KB-C00-0440	0	kot	01:15:20;
+
+[PrintText]=01:15:21	Taisuke	We used to have a lot of fun together before second semester, but now that he's going out with Saionji...	01:23:08;
+
+[PlayVoice]=01:15:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0450	1	tai	01:23:08;
+
+[CreateBG]=01:23:08	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-017	01:32:20;
+
+[PrintText]=01:23:08	Kotonoha	They're not going out.	01:25:01;
+
+[PlayVoice]=01:23:08	Voice03/03-KB/03-KB-C00/03-KB-C00-0460	0	kot	01:25:01;
+
+[PrintText]=01:25:01	Taisuke	Eh?! Really?	01:27:07;
+
+[PlayVoice]=01:25:01	Voice03/03-KB/03-KB-C00/03-KB-C00-0470	1	tai	01:27:07;
+
+[PrintText]=01:27:07	Kotonoha	Ah... well...	01:29:03;
+
+[PlayVoice]=01:27:07	Voice03/03-KB/03-KB-C00/03-KB-C00-0480	0	kot	01:29:03;
+
+[PrintText]=01:29:03	Taisuke	Did you hear that from them?	01:30:20;
+
+[PlayVoice]=01:29:03	Voice03/03-KB/03-KB-C00/03-KB-C00-0490	1	tai	01:30:20;
+
+[PrintText]=01:30:19	Kotonoha	Well... yes.	01:32:20;
+
+[PlayVoice]=01:30:19	Voice03/03-KB/03-KB-C00/03-KB-C00-0500	0	kot	01:32:20;
+
+[PrintText]=01:32:19	Taisuke	I don't know what's keeping them, then...	01:35:11;
+
+[PlayVoice]=01:32:19	Voice03/03-KB/03-KB-C00/03-KB-C00-0510	1	tai	01:35:11;
+
+[CreateBG]=01:32:20	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-018	02:04:05;
+
+[PrintText]=01:35:11	Taisuke	you know, Kioura and the other girls were saying that they were going out, so I totally thought that they were.	01:43:11;
+
+[PlayVoice]=01:35:11	Voice03/03-KB/03-KB-C00/03-KB-C00-0511	1	tai	01:43:11;
+
+[PlaySe]=01:38:22	2	Se03/03-KB/03-KB-C00/SE03-KB-C00-001	03:18:08;
+
+[PrintText]=01:43:11	Kotonoha	Fufu... is that because they're always eating lunch together?	01:47:19;
+
+[PlayVoice]=01:43:11	Voice03/03-KB/03-KB-C00/03-KB-C00-0520	0	kot	01:47:19;
+
+[PrintText]=01:47:20	Taisuke	Well, they're eating together by themselves, right?	01:51:07;
+
+[PlayVoice]=01:47:20	Voice03/03-KB/03-KB-C00/03-KB-C00-0530	1	tai	01:51:07;
+
+[PrintText]=01:51:07	Kotonoha	Well, Mako... Itou-kun already has a girlfriend.	01:56:00;
+
+[PlayVoice]=01:51:07	Voice03/03-KB/03-KB-C00/03-KB-C00-0540	0	kot	01:56:00;
+
+[PrintText]=01:56:01	Taisuke	Eh?! Seriously? And it's not Saionji?	02:00:01;
+
+[PlayVoice]=01:56:01	Voice03/03-KB/03-KB-C00/03-KB-C00-0550	1	tai	02:00:01;
+
+[PrintText]=02:00:01	Kotonoha	Yes.	02:00:18;
+
+[PlayVoice]=02:00:01	Voice03/03-KB/03-KB-C00/03-KB-C00-0560	0	kot	02:00:18;
+
+[PrintText]=02:00:18	Taisuke	I see... I had no idea.	02:04:05;
+
+[PlayVoice]=02:00:18	Voice03/03-KB/03-KB-C00/03-KB-C00-0570	1	tai	02:04:05;
+
+[CreateBG]=02:04:05	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-019	02:24:09;
+
+[PrintText]=02:04:05	Kotonoha	They've... had a little fight, but... they're still going out.	02:11:08;
+
+[PlayVoice]=02:04:05	Voice03/03-KB/03-KB-C00/03-KB-C00-0580	0	kot	02:11:08;
+
+[PrintText]=02:11:07	Taisuke	Well, I guess you can't go out without a couple of fights, right?	02:14:16;
+
+[PlayVoice]=02:11:07	Voice03/03-KB/03-KB-C00/03-KB-C00-0590	1	tai	02:14:16;
+
+[PrintText]=02:14:16	Kotonoha	Y-yes, that's right!	02:16:12;
+
+[PlayVoice]=02:14:16	Voice03/03-KB/03-KB-C00/03-KB-C00-0600	0	kot	02:16:12;
+
+[PrintText]=02:16:12	Taisuke	Yeah, even if they did fight, all she has to do is ask him to spend the festival with her, and they'll have made up.	02:22:08;
+
+[PlayVoice]=02:16:12	Voice03/03-KB/03-KB-C00/03-KB-C00-0610	1	tai	02:22:08;
+
+[PrintText]=02:22:23	Kotonoha	Fufu...	02:24:09;
+
+[PlayVoice]=02:22:23	Voice03/03-KB/03-KB-C00/03-KB-C00-0620	0	kot	02:24:09;
+
+[CreateBG]=02:24:09	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-020	02:51:22;
+
+[PrintText]=02:24:09	Taisuke	U-um, listen... I was just curious...	02:30:22;
+
+[PlayVoice]=02:24:09	Voice03/03-KB/03-KB-C00/03-KB-C00-0640	1	tai	02:30:22;
+
+[PrintText]=02:30:22	Kotonoha	Yes?	02:31:18;
+
+[PlayVoice]=02:30:22	Voice03/03-KB/03-KB-C00/03-KB-C00-0650	0	kot	02:31:18;
+
+[PrintText]=02:31:18	Taisuke	Well... you know how it's the school festival tomorrow?	02:36:05;
+
+[PlayVoice]=02:31:18	Voice03/03-KB/03-KB-C00/03-KB-C00-0660	1	tai	02:36:05;
+
+[PrintText]=02:36:05	Kotonoha	Yes.	02:36:22;
+
+[PlayVoice]=02:36:05	Voice03/03-KB/03-KB-C00/03-KB-C00-0670	0	kot	02:36:22;
+
+[PrintText]=02:36:22	Taisuke	Would you... like to come and take a walk around with me?	02:41:00;
+
+[PlayVoice]=02:36:22	Voice03/03-KB/03-KB-C00/03-KB-C00-0680	1	tai	02:41:00;
+
+[PrintText]=02:41:00	Kotonoha	Eh...?!	02:41:21;
+
+[PlayVoice]=02:41:00	Voice03/03-KB/03-KB-C00/03-KB-C00-0690	0	kot	02:41:21;
+
+[PrintText]=02:41:21	Taisuke	No?	02:43:04;
+
+[PlayVoice]=02:41:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0700	1	tai	02:43:04;
+
+[PrintText]=02:43:04	Kotonoha	...I'm sorry. I've already made plans...	02:47:20;
+
+[PlayVoice]=02:43:04	Voice03/03-KB/03-KB-C00/03-KB-C00-0710	0	kot	02:47:20;
+
+[PrintText]=02:47:20	Taisuke	O-oh, right. That's a shame.	02:51:21;
+
+[PlayVoice]=02:47:20	Voice03/03-KB/03-KB-C00/03-KB-C00-0720	1	tai	02:51:21;
+
+[PrintText]=02:51:21	Kotonoha	Ah... Sawanaga-san, you're in class 3, right?	02:55:18;
+
+[PlayVoice]=02:51:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0740	0	kot	02:55:18;
+
+[CreateBG]=02:51:22	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-021	02:59:21;
+
+[PrintText]=02:55:18	Taisuke	Eh...? Yeah.	02:57:15;
+
+[PlayVoice]=02:55:18	Voice03/03-KB/03-KB-C00/03-KB-C00-0750	1	tai	02:57:15;
+
+[PrintText]=02:57:15	Kotonoha	Why don't you invite Saionji-san?	03:00:16;
+
+[PlayVoice]=02:57:15	Voice03/03-KB/03-KB-C00/03-KB-C00-0760	0	kot	03:00:16;
+
+[CreateBG]=02:59:21	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-022	03:02:04;
+
+[PrintText]=03:00:16	Taisuke	Saionji?	03:02:04;
+
+[PlayVoice]=03:00:16	Voice03/03-KB/03-KB-C00/03-KB-C00-0770	1	tai	03:02:04;
+
+[CreateBG]=03:02:04	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-021	03:08:07;
+
+[PrintText]=03:02:04	Kotonoha	Yes. Shall I ask her for you?	03:06:00;
+
+[PlayVoice]=03:02:04	Voice03/03-KB/03-KB-C00/03-KB-C00-0780	0	kot	03:06:00;
+
+[PrintText]=03:06:00	Taisuke	H-hold on a just a second.	03:08:07;
+
+[PlayVoice]=03:06:00	Voice03/03-KB/03-KB-C00/03-KB-C00-0790	1	tai	03:08:07;
+
+[CreateBG]=03:08:07	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-024	03:27:21;
+
+[PrintText]=03:08:07	Kotonoha	Don't you want to go with her?	03:10:17;
+
+[PlayVoice]=03:08:07	Voice03/03-KB/03-KB-C00/03-KB-C00-0800	0	kot	03:10:17;
+
+[PrintText]=03:10:17	Taisuke	Well, it's not that... but Saionji and Makoto are...	03:14:15;
+
+[PlayVoice]=03:10:17	Voice03/03-KB/03-KB-C00/03-KB-C00-0810	1	tai	03:14:15;
+
+[PrintText]=03:14:16	Kotonoha	It'll be okay.	03:16:05;
+
+[PlayVoice]=03:14:16	Voice03/03-KB/03-KB-C00/03-KB-C00-0820	0	kot	03:16:05;
+
+[PrintText]=03:16:05	Taisuke	You... really think so?	03:19:06;
+
+[PlayVoice]=03:16:05	Voice03/03-KB/03-KB-C00/03-KB-C00-0830	1	tai	03:19:06;
+
+[PlaySe]=03:18:00	1	Se03/03-KB/03-KB-C00/SE03-KB-C00-001	03:57:02;
+
+[PrintText]=03:19:05	Kotonoha	Yes. If she agrees... would you like to accompany us?	03:25:20;
+
+[PlayVoice]=03:19:05	Voice03/03-KB/03-KB-C00/03-KB-C00-0840	0	kot	03:25:20;
+
+[PrintText]=03:25:20	Taisuke	Accompany you...?	03:27:21;
+
+[PlayVoice]=03:25:20	Voice03/03-KB/03-KB-C00/03-KB-C00-0850	1	tai	03:27:21;
+
+[CreateBG]=03:27:21	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-025	03:41:22;
+
+[PrintText]=03:27:21	Kotonoha	I'll be inviting someone too... so that we can make up.	03:33:00;
+
+[PlayVoice]=03:27:21	Voice03/03-KB/03-KB-C00/03-KB-C00-0860	0	kot	03:33:00;
+
+[PrintText]=03:33:01	Taisuke	I see... so you've had a fight with your boyfriend too.	03:36:11;
+
+[PlayVoice]=03:33:01	Voice03/03-KB/03-KB-C00/03-KB-C00-0870	1	tai	03:36:11;
+
+[PrintText]=03:36:11	Kotonoha	We just had a little misunderstanding... but it's really nothing.	03:41:21;
+
+[PlayVoice]=03:36:11	Voice03/03-KB/03-KB-C00/03-KB-C00-0880	0	kot	03:41:21;
+
+[CreateBG]=03:41:22	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-026	03:43:17;
+
+[PrintText]=03:41:22	Taisuke	Hmmn.	03:43:03;
+
+[PlayVoice]=03:41:22	Voice03/03-KB/03-KB-C00/03-KB-C00-0890	1	tai	03:43:03;
+
+[PrintText]=03:43:03	Kotonoha	Ah.	03:43:17;
+
+[PlayVoice]=03:43:03	Voice03/03-KB/03-KB-C00/03-KB-C00-0900	0	kot	03:43:17;
+
+[CreateBG]=03:43:17	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-027	03:48:07;
+
+[PrintText]=03:43:17	Kotonoha	Here we are. Thank you very much.	03:46:14;
+
+[PlayVoice]=03:43:17	Voice03/03-KB/03-KB-C00/03-KB-C00-0920	0	kot	03:46:14;
+
+[PrintText]=03:46:15	Taisuke	It's nothing...	03:48:06;
+
+[PlayVoice]=03:46:15	Voice03/03-KB/03-KB-C00/03-KB-C00-0930	1	tai	03:48:06;
+
+[PrintText]=03:48:06	Kotonoha	Well, please give it your best shot.	03:50:17;
+
+[PlayVoice]=03:48:06	Voice03/03-KB/03-KB-C00/03-KB-C00-0940	0	kot	03:50:17;
+
+[CreateBG]=03:48:07	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-028	03:52:02;
+
+[PrintText]=03:50:17	Taisuke	Y-yeah.	03:52:01;
+
+[PlayVoice]=03:50:17	Voice03/03-KB/03-KB-C00/03-KB-C00-0950	1	tai	03:52:01;
+
+[PrintText]=03:52:01	Taisuke	Saionji... huh.	03:54:15;
+
+[PlayVoice]=03:52:01	Voice03/03-KB/03-KB-C00/03-KB-C00-0970	1	tai	03:54:15;
+
+[CreateBG]=03:52:02	BGS	Event03/03-KB/03-KB-C00/03-KB-C00-029	03:57:02;
+
+ ;
+
+[Next]=03:57:02;
+

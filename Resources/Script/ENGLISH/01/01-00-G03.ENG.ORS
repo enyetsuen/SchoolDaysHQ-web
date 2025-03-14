@@ -1,0 +1,26 @@
+[SkipFRAME]=00:14:21;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:21;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-G03/01-00-G03-001	00:08:23;
+
+[PrintText]=00:00:06	Makoto	Hmm... no, I should just forget about it.	00:06:03;
+
+[PlayVoice]=00:00:06	Voice01/01-00/01-00-G03/01-00-G03-0030	1	xxx	00:06:03;
+
+[PrintText]=00:06:16	Makoto	There's no point in thinking too hard about it.	00:08:15;
+
+[PlayVoice]=00:06:16	Voice01/01-00/01-00-G03/01-00-G03-0040	1	xxx	00:08:15;
+
+[CreateBG]=00:08:23	BGS	Event01/01-00/01-00-G03/01-00-G03-002	00:14:21;
+
+[PrintText]=00:09:16	Makoto	I'll catch her and ask her after class, before she goes to her student rep meeting.	00:13:00;
+
+[PlayVoice]=00:09:16	Voice01/01-00/01-00-G03/01-00-G03-0050	1	xxx	00:13:00;
+
+[BlackFade]=00:13:21	OUT	00:14:21;
+
+ ;
+
+[Next]=00:14:21;
+

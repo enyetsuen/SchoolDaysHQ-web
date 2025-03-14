@@ -1,0 +1,24 @@
+[SkipFRAME]=00:13:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:13:18;
+
+[CreateBG]=00:00:00	BGS	Event01/01-00/01-00-N06/01-00-N06-001	00:09:21;
+
+[PrintText]=00:00:13	Makoto	I'll try talking with her tomorrow.	00:02:01;
+
+[PlayVoice]=00:00:13	Voice01/01-00/01-00-N06/01-00-N06-0030	1	mak	00:02:01;
+
+[PrintText]=00:02:21	Makoto	She might have changed her mind by then... I get the feeling she'll be willing to listen to what I have to say.	00:09:12;
+
+[PlayVoice]=00:02:21	Voice01/01-00/01-00-N06/01-00-N06-0040	1	mak	00:09:12;
+
+[CreateBG]=00:09:21	BGS	Event01/01-00/01-00-N06/01-00-N06-002	00:13:18;
+
+[PrintText]=00:11:04	Makoto	I should just sleep for today...	00:12:23;
+
+[PlayVoice]=00:11:04	Voice01/01-00/01-00-N06/01-00-N06-0050	1	mak	00:12:23;
+
+ ;
+
+[Next]=00:13:18;
+

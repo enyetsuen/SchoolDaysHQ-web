@@ -1,0 +1,90 @@
+[SkipFRAME]=01:00:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	01:00:14;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-K02/SE03-BK-K02-001	01:00:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-K02/03-Bk-K02-001	00:11:10;
+
+[PrintText]=00:00:00	Makoto	I... love you.	00:07:16;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-K02/03-BK-K02-0030	1	mak	00:07:16;
+
+[PrintText]=00:08:00	Kotonoha	I love you too.	00:11:03;
+
+[PlayVoice]=00:08:00	Voice03/03-BK/03-BK-K02/03-BK-K02-0040	0	kot	00:11:03;
+
+[PlayMovie]=00:11:10	Movie02/02-2K/02-2K-Q03/02-2K-Q03-032	0	00:15:12;
+
+[PlayVoice]=00:12:19	Voice03/03-BK/03-BK-K02/03-BK-K02-0050			00:16:06;
+
+[PlayMovie]=00:15:12	Movie02/02-2K/02-2K-Q03/02-2K-Q03-032	0	00:16:12;
+
+[CreateBG]=00:16:12	BGS	Event03/03-BK/03-BK-K02/03-BK-K02-004	00:25:07;
+
+[PrintText]=00:16:18	Makoto	Kotonoha... are you sure?	00:20:15;
+
+[PlayVoice]=00:16:18	Voice03/03-BK/03-BK-K02/03-BK-K02-0070	1	mak	00:20:15;
+
+[PrintText]=00:21:00	Kotonoha	...Yes.	00:21:18;
+
+[PlayVoice]=00:21:00	Voice03/03-BK/03-BK-K02/03-BK-K02-0080	0	kot	00:21:18;
+
+[PrintText]=00:22:00	Makoto	You don't want to stop?	00:23:02;
+
+[PlayVoice]=00:22:00	Voice03/03-BK/03-BK-K02/03-BK-K02-0090	1	mak	00:23:02;
+
+[PrintText]=00:23:09	Kotonoha	No, I don't.	00:25:03;
+
+[PlayVoice]=00:23:09	Voice03/03-BK/03-BK-K02/03-BK-K02-0100	0	kot	00:25:03;
+
+[CreateBG]=00:25:07	BGS	Event03/03-BK/03-BK-K02/03-BK-K02-005	00:46:02;
+
+[PrintText]=00:25:10	Makoto	But you used to have trouble even holding my hand.	00:30:05;
+
+[PlayVoice]=00:25:10	Voice03/03-BK/03-BK-K02/03-BK-K02-0110	1	mak	00:30:05;
+
+[PrintText]=00:30:06	Kotonoha	Even now, that makes me feel nervous.	00:35:00;
+
+[PlayVoice]=00:30:06	Voice03/03-BK/03-BK-K02/03-BK-K02-0120	0	kot	00:35:00;
+
+[PrintText]=00:35:02	Makoto	And what we're doing now?	00:37:23;
+
+[PlayVoice]=00:35:02	Voice03/03-BK/03-BK-K02/03-BK-K02-0130	1	mak	00:37:23;
+
+[PrintText]=00:38:03	Kotonoha	It makes me feel even more nervous.	00:41:15;
+
+[PlayVoice]=00:38:03	Voice03/03-BK/03-BK-K02/03-BK-K02-0140	0	kot	00:41:15;
+
+[PrintText]=00:41:21	Makoto	You're right. Your heart is thumping so loudly.	00:45:22;
+
+[PlayVoice]=00:41:21	Voice03/03-BK/03-BK-K02/03-BK-K02-0150	1	mak	00:45:22;
+
+[CreateBG]=00:46:02	BGS	Event03/03-BK/03-BK-K02/03-BK-K02-006	00:53:03;
+
+[PrintText]=00:46:03	Kotonoha	That's because... I'm feeling excited.	00:51:01;
+
+[PlayVoice]=00:46:03	Voice03/03-BK/03-BK-K02/03-BK-K02-0160	0	kot	00:51:01;
+
+[PrintText]=00:51:07	Makoto	About what I'm going to do to you?	00:53:00;
+
+[PlayVoice]=00:51:07	Voice03/03-BK/03-BK-K02/03-BK-K02-0170	1	mak	00:53:00;
+
+[CreateBG]=00:53:03	BGS	Event03/03-BK/03-BK-K02/03-BK-K02-007	00:55:17;
+
+[PrintText]=00:53:14	Kotonoha	...I couldn't say.	00:55:13;
+
+[PlayVoice]=00:53:14	Voice03/03-BK/03-BK-K02/03-BK-K02-0180	0	kot	00:55:13;
+
+[CreateBG]=00:55:17	BGS	Event03/03-BK/03-BK-K02/03-BK-K02-008	01:00:14;
+
+[PrintText]=00:55:20	Makoto	Kotonoha...	00:57:05;
+
+[PlayVoice]=00:55:20	Voice03/03-BK/03-BK-K02/03-BK-K02-0190	1	mak	00:57:05;
+
+[BlackFade]=00:57:14	OUT	01:00:14;
+
+ ;
+
+[Next]=01:00:14;
+

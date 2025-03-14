@@ -1,0 +1,18 @@
+[SkipFRAME]=00:05:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:05:00;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-H01/05-SB-H01-001	00:05:00;
+
+[PrintText]=00:00:00	Makoto	...You're right.	00:02:06;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-H01/05-SB-H01-0030	1	mak	00:02:06;
+
+[PrintText]=00:02:06	Nanami	I knew it.	00:03:09;
+
+[PlayVoice]=00:02:06	Voice05/05-SB/05-SB-H01/05-SB-H01-0040	0	nan	00:03:09;
+
+ ;
+
+[Next]=00:05:00;
+

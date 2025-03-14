@@ -1,0 +1,326 @@
+[SkipFRAME]=03:39:23;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	03:36:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-001	00:03:16;
+
+[CreateBG]=00:03:16	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-002	00:08:21;
+
+[PrintText]=00:03:16	Setsuna	Phew... hmn?	00:06:03;
+
+[PlayVoice]=00:03:16	Voice03/03-KB/03-KB-F00/03-KB-F00-0040	0	set	00:06:03;
+
+[PrintText]=00:06:03	Setsuna	Sekai.	00:07:02;
+
+[PlayVoice]=00:06:03	Voice03/03-KB/03-KB-F00/03-KB-F00-0060	0	set	00:07:02;
+
+[PrintText]=00:07:01	Sekai	...	00:07:21;
+
+[PlayVoice]=00:07:01	Voice03/03-KB/03-KB-F00/03-KB-F00-0070	0	xxx	00:07:21;
+
+[PrintText]=00:07:21	Setsuna	Sekai.	00:08:20;
+
+[PlayVoice]=00:07:21	Voice03/03-KB/03-KB-F00/03-KB-F00-0080	0	set	00:08:20;
+
+[CreateBG]=00:08:21	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-003	00:11:13;
+
+[PrintText]=00:08:21	Sekai	Eh?! Ah, huh? Yeah.	00:11:13;
+
+[PlayVoice]=00:08:21	Voice03/03-KB/03-KB-F00/03-KB-F00-0090	0	sek	00:11:13;
+
+[CreateBG]=00:11:13	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-004	00:19:13;
+
+[PrintText]=00:11:13	Setsuna	I'm almost done over here. How about you?	00:15:19;
+
+[PlayVoice]=00:11:13	Voice03/03-KB/03-KB-F00/03-KB-F00-0100	0	set	00:15:19;
+
+[PrintText]=00:15:19	Sekai	Ah, I've just got... a little more to do.	00:19:13;
+
+[PlayVoice]=00:15:19	Voice03/03-KB/03-KB-F00/03-KB-F00-0110	0	sek	00:19:13;
+
+[CreateBG]=00:19:13	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-005	00:31:16;
+
+[PrintText]=00:19:13	Setsuna	Well, I guess you were pretty much done anyway when class was finished.	00:23:13;
+
+[PlayVoice]=00:19:13	Voice03/03-KB/03-KB-F00/03-KB-F00-0120	0	set	00:23:13;
+
+[PrintText]=00:23:12	Sekai	Y-yeah, that's right.	00:26:08;
+
+[PlayVoice]=00:23:12	Voice03/03-KB/03-KB-F00/03-KB-F00-0130	0	sek	00:26:08;
+
+[PrintText]=00:26:09	Setsuna	But it doesn't look like you've made much progress since then, does it?	00:30:08;
+
+[PlayVoice]=00:26:09	Voice03/03-KB/03-KB-F00/03-KB-F00-0140	0	set	00:30:08;
+
+[PrintText]=00:30:08	Sekai	Uuu...	00:31:16;
+
+[PlayVoice]=00:30:08	Voice03/03-KB/03-KB-F00/03-KB-F00-0150	0	sek	00:31:16;
+
+[PrintText]=00:31:15	Setsuna	Is there something worrying you about tomorrow?	00:35:02;
+
+[PlayVoice]=00:31:15	Voice03/03-KB/03-KB-F00/03-KB-F00-0160	0	set	00:35:02;
+
+[CreateBG]=00:31:16	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-004	00:38:08;
+
+[PrintText]=00:35:02	Sekai	No, not at all. Everything's okay.	00:38:07;
+
+[PlayVoice]=00:35:02	Voice03/03-KB/03-KB-F00/03-KB-F00-0170	0	sek	00:38:07;
+
+[PrintText]=00:38:07	Setsuna	I hope so.	00:39:23;
+
+[PlayVoice]=00:38:07	Voice03/03-KB/03-KB-F00/03-KB-F00-0180	0	set	00:39:23;
+
+[CreateBG]=00:38:08	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-002	00:40:19;
+
+[PrintText]=00:39:23	Sekai	Uh-huh.	00:40:18;
+
+[PlayVoice]=00:39:23	Voice03/03-KB/03-KB-F00/03-KB-F00-0190	0	sek	00:40:18;
+
+[PrintText]=00:40:18	Setsuna	...	00:43:20;
+
+[PlayVoice]=00:40:18	Voice03/03-KB/03-KB-F00/03-KB-F00-0210	0	xxx	00:43:20;
+
+[CreateBG]=00:40:19	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-008	00:55:03;
+
+[PrintText]=00:43:20	Sekai	U-um, listen.	00:45:20;
+
+[PlayVoice]=00:43:20	Voice03/03-KB/03-KB-F00/03-KB-F00-0220	0	sek	00:45:20;
+
+[PrintText]=00:45:20	Setsuna	What?	00:46:15;
+
+[PlayVoice]=00:45:20	Voice03/03-KB/03-KB-F00/03-KB-F00-0230	0	set	00:46:15;
+
+[PrintText]=00:46:15	Sekai	Nanami's really worked up about the festival, isn't she?	00:50:09;
+
+[PlayVoice]=00:46:15	Voice03/03-KB/03-KB-F00/03-KB-F00-0240	0	sek	00:50:09;
+
+[PrintText]=00:50:09	Setsuna	That's what you call 'worked up'...?	00:54:00;
+
+[PlayVoice]=00:50:09	Voice03/03-KB/03-KB-F00/03-KB-F00-0250	0	set	00:54:00;
+
+[PrintText]=00:54:00	Sekai	Isn't it?	00:55:03;
+
+[PlayVoice]=00:54:00	Voice03/03-KB/03-KB-F00/03-KB-F00-0260	0	sek	00:55:03;
+
+[PrintText]=00:55:02	Setsuna	She's glowing.	00:56:10;
+
+[PlayVoice]=00:55:02	Voice03/03-KB/03-KB-F00/03-KB-F00-0270	0	set	00:56:10;
+
+[CreateBG]=00:55:03	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-009	01:14:22;
+
+[PrintText]=00:56:10	Sekai	Glow... oh, right. She did mention that she was going with her boyfriend, didn't she?	01:03:03;
+
+[PlayVoice]=00:56:10	Voice03/03-KB/03-KB-F00/03-KB-F00-0280	0	sek	01:03:03;
+
+[PrintText]=01:03:03	Setsuna	Given how little fun there is to be had at our school, the festival's pretty much the main event for couples.	01:08:09;
+
+[PlayVoice]=01:03:03	Voice03/03-KB/03-KB-F00/03-KB-F00-0290	0	set	01:08:09;
+
+[PrintText]=01:09:02	Sekai	I see...	01:10:08;
+
+[PlayVoice]=01:09:02	Voice03/03-KB/03-KB-F00/03-KB-F00-0300	0	sek	01:10:08;
+
+[PrintText]=01:10:09	Setsuna	Do you know the stories and traditions behind the Sakakino Academy school festival?	01:14:22;
+
+[PlayVoice]=01:10:09	Voice03/03-KB/03-KB-F00/03-KB-F00-0310	0	set	01:14:22;
+
+[CreateBG]=01:14:22	BGS	Event02/02-2K/02-2K-Q03/02-2K-Q03-001	01:24:18;
+
+[PrintText]=01:15:21	Sekai	What are they?	01:16:23;
+
+[PlayVoice]=01:15:21	Voice03/03-KB/03-KB-F00/03-KB-F00-0320	0	sek	01:16:23;
+
+[PrintText]=01:16:22	Setsuna	You know how each class prepares its own display?	01:20:11;
+
+[PlayVoice]=01:16:22	Voice03/03-KB/03-KB-F00/03-KB-F00-0330	0	set	01:20:11;
+
+[PrintText]=01:20:11	Sekai	Uh-huh.	01:21:05;
+
+[PlayVoice]=01:20:11	Voice03/03-KB/03-KB-F00/03-KB-F00-0340	0	sek	01:21:05;
+
+[PrintText]=01:21:05	Setsuna	The first of the traditions is to go around and see them together.	01:23:16;
+
+[PlayVoice]=01:21:05	Voice03/03-KB/03-KB-F00/03-KB-F00-0350	0	set	01:23:16;
+
+[PrintText]=01:23:17	Sekai	Really?	01:24:18;
+
+[PlayVoice]=01:23:17	Voice03/03-KB/03-KB-F00/03-KB-F00-0360	0	sek	01:24:18;
+
+[PrintText]=01:24:17	Setsuna	It seems going around the school festival together is the same as a confession of love.	01:29:01;
+
+[PlayVoice]=01:24:17	Voice03/03-KB/03-KB-F00/03-KB-F00-0370	0	set	01:29:01;
+
+[CreateBG]=01:24:18	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-009	01:40:14;
+
+[PrintText]=01:29:19	Sekai	I see. Yeah, that could be right.	01:33:23;
+
+[PlayVoice]=01:29:19	Voice03/03-KB/03-KB-F00/03-KB-F00-0380	0	sek	01:33:23;
+
+[PrintText]=01:33:23	Setsuna	There's also the legendary break room that's said to exist in several of the class displays every year.	01:40:13;
+
+[PlayVoice]=01:33:23	Voice03/03-KB/03-KB-F00/03-KB-F00-0390	0	set	01:40:13;
+
+[PrintText]=01:40:13	Sekai	Break room?	01:41:13;
+
+[PlayVoice]=01:40:13	Voice03/03-KB/03-KB-F00/03-KB-F00-0400	0	sek	01:41:13;
+
+[CreateBG]=01:40:14	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-012	01:41:14;
+
+[PrintText]=01:41:13	Setsuna	There's a gap in the display. A space where couples can sneak in and be alone together to 'take a break'.	01:50:03;
+
+[PlayVoice]=01:41:13	Voice03/03-KB/03-KB-F00/03-KB-F00-0410	0	set	01:50:03;
+
+[CreateBG]=01:41:14	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-013	01:50:03;
+
+[PrintText]=01:50:02	Sekai	'Take a break'...?	01:52:04;
+
+[PlayVoice]=01:50:02	Voice03/03-KB/03-KB-F00/03-KB-F00-0420	0	sek	01:52:04;
+
+[CreateBG]=01:50:03	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-014	01:52:05;
+
+[CreateBG]=01:52:05	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-015	02:05:02;
+
+[PrintText]=01:52:05	Setsuna	The teachers keep an eye out for them every year, but they always pop up in a few places...	01:58:11;
+
+[PlayVoice]=01:52:05	Voice03/03-KB/03-KB-F00/03-KB-F00-0430	0	set	01:58:11;
+
+[PrintText]=01:58:11	Setsuna	a gap in the corridors with a bed and condoms scattered everywhere.	02:03:23;
+
+[PlayVoice]=01:58:11	Voice03/03-KB/03-KB-F00/03-KB-F00-0431	0	set	02:03:23;
+
+[PrintText]=02:03:23	Sekai	Uwah.	02:05:02;
+
+[PlayVoice]=02:03:23	Voice03/03-KB/03-KB-F00/03-KB-F00-0440	0	sek	02:05:02;
+
+[PrintText]=02:05:01	Setsuna	It's a tradition... a story passed down among the girls.	02:09:18;
+
+[PlayVoice]=02:05:01	Voice03/03-KB/03-KB-F00/03-KB-F00-0450	0	set	02:09:18;
+
+[CreateBG]=02:05:02	BGS	Event02/02-2K/02-2K-Q03/02-2K-Q03-001	02:18:11;
+
+[PrintText]=02:09:18	Sekai	The girls?	02:10:16;
+
+[PlayVoice]=02:09:18	Voice03/03-KB/03-KB-F00/03-KB-F00-0460	0	sek	02:10:16;
+
+[PrintText]=02:10:16	Setsuna	Yeah. It's always a girl who takes the initiative and leads the boy to the break room.	02:17:10;
+
+[PlayVoice]=02:10:16	Voice03/03-KB/03-KB-F00/03-KB-F00-0470	0	set	02:17:10;
+
+[PrintText]=02:17:11	Sekai	Wow.	02:18:10;
+
+[PlayVoice]=02:17:11	Voice03/03-KB/03-KB-F00/03-KB-F00-0480	0	sek	02:18:10;
+
+[PrintText]=02:18:10	Setsuna	So when you want to invite someone, you grip your right hand like this... and hold it out in front of you.	02:26:00;
+
+[PlayVoice]=02:18:10	Voice03/03-KB/03-KB-F00/03-KB-F00-0490	0	set	02:26:00;
+
+[CreateBG]=02:18:11	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-017	02:40:12;
+
+[PrintText]=02:26:00	Sekai	Like a punch?	02:26:23;
+
+[PlayVoice]=02:26:00	Voice03/03-KB/03-KB-F00/03-KB-F00-0500	0	sek	02:26:23;
+
+[PrintText]=02:26:23	Setsuna	No. There's a condom in your hand, and if the boy accepts, he takes it.	02:35:20;
+
+[PlayVoice]=02:26:23	Voice03/03-KB/03-KB-F00/03-KB-F00-0510	0	set	02:35:20;
+
+[PrintText]=02:35:20	Sekai	Uwaaah! That's indecent! Totally indecent!	02:40:11;
+
+[PlayVoice]=02:35:20	Voice03/03-KB/03-KB-F00/03-KB-F00-0520	0	sek	02:40:11;
+
+[PrintText]=02:40:11	Setsuna	The girls' basketball club is doing it this year. Nanami was saying how they were really busy setting up the break room.	02:47:09;
+
+[PlayVoice]=02:40:11	Voice03/03-KB/03-KB-F00/03-KB-F00-0530	0	set	02:47:09;
+
+[CreateBG]=02:40:12	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-012	03:01:17;
+
+[PrintText]=02:47:08	Sekai	I see... the girls' basketball club, huh... I had no idea.	02:55:06;
+
+[PlayVoice]=02:47:08	Voice03/03-KB/03-KB-F00/03-KB-F00-0540	0	sek	02:55:06;
+
+[PrintText]=02:55:07	Setsuna	That's because you haven't been hanging out with us lately.	02:58:11;
+
+[PlayVoice]=02:55:07	Voice03/03-KB/03-KB-F00/03-KB-F00-0550	0	set	02:58:11;
+
+[PrintText]=02:58:11	Sekai	Uuu... sorry.	03:01:17;
+
+[PlayVoice]=02:58:11	Voice03/03-KB/03-KB-F00/03-KB-F00-0560	0	sek	03:01:17;
+
+[CreateBG]=03:01:17	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-019	03:10:13;
+
+[PrintText]=03:01:17	Setsuna	...Are you going to invite him?	03:03:11;
+
+[PlayVoice]=03:01:17	Voice03/03-KB/03-KB-F00/03-KB-F00-0570	0	set	03:03:11;
+
+[PrintText]=03:03:10	Sekai	Eh?!	03:04:01;
+
+[PlayVoice]=03:03:10	Voice03/03-KB/03-KB-F00/03-KB-F00-0580	0	sek	03:04:01;
+
+[PrintText]=03:04:01	Setsuna	You're going to see the festival together, right?	03:06:20;
+
+[PlayVoice]=03:04:01	Voice03/03-KB/03-KB-F00/03-KB-F00-0590	0	set	03:10:13;
+
+[PrintText]=03:06:20	Setsuna	If you're going to use the break room, then I could ask Nanami where it is.	03:10:13;
+
+[CreateBG]=03:10:13	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-020	03:17:08;
+
+[PrintText]=03:11:19	Sekai	T-the break room?	03:14:08;
+
+[PlayVoice]=03:11:19	Voice03/03-KB/03-KB-F00/03-KB-F00-0600	0	sek	03:14:08;
+
+[PrintText]=03:14:08	Setsuna	...I see.	03:15:08;
+
+[PlayVoice]=03:14:08	Voice03/03-KB/03-KB-F00/03-KB-F00-0620	0	set	03:15:08;
+
+[PrintText]=03:15:08	Sekai	W-what?	03:17:07;
+
+[PlayVoice]=03:15:08	Voice03/03-KB/03-KB-F00/03-KB-F00-0630	0	sek	03:17:07;
+
+[PrintText]=03:17:07	Setsuna	You haven't done it with Itou yet.	03:20:17;
+
+[PlayVoice]=03:17:07	Voice03/03-KB/03-KB-F00/03-KB-F00-0640	0	set	03:20:17;
+
+[CreateBG]=03:17:08	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-021	03:24:05;
+
+[PrintText]=03:20:17	Sekai	O-o-o-of course I haven't!	03:24:05;
+
+[PlayVoice]=03:20:17	Voice03/03-KB/03-KB-F00/03-KB-F00-0650	0	sek	03:24:05;
+
+[CreateBG]=03:24:05	BGS	Event03/03-KB/03-KB-F00/03-KB-F00-022	03:39:23;
+
+[PrintText]=03:24:05	Setsuna	Haah.	03:25:06;
+
+[PlayVoice]=03:24:05	Voice03/03-KB/03-KB-F00/03-KB-F00-0660	0	set	03:25:06;
+
+[PrintText]=03:25:06	Sekai	After all... we haven't even... promised to go around together.	03:30:16;
+
+[PlayVoice]=03:25:06	Voice03/03-KB/03-KB-F00/03-KB-F00-0670	0	sek	03:30:16;
+
+[PrintText]=03:30:16	Setsuna	Uwah.	03:31:17;
+
+[PlayVoice]=03:30:16	Voice03/03-KB/03-KB-F00/03-KB-F00-0680	0	set	03:31:17;
+
+[PrintText]=03:31:17	Sekai	I mean... it's hopeless.	03:34:12;
+
+[PlayVoice]=03:31:17	Voice03/03-KB/03-KB-F00/03-KB-F00-0690	0	sek	03:34:12;
+
+[PrintText]=03:34:12	Setsuna	Why?	03:35:13;
+
+[PlayVoice]=03:34:12	Voice03/03-KB/03-KB-F00/03-KB-F00-0700	0	set	03:35:13;
+
+[PrintText]=03:35:14	Sekai	...	03:36:03;
+
+[PlayVoice]=03:35:14	Voice03/03-KB/03-KB-F00/03-KB-F00-0710	0	xxx	03:36:03;
+
+[PrintText]=03:36:03	Setsuna	Why don't you try calling him now?	03:38:05;
+
+[PlayVoice]=03:36:03	Voice03/03-KB/03-KB-F00/03-KB-F00-0720	0	set	03:38:05;
+
+[PrintText]=03:38:06	Sekai	E... ehh?!	03:39:22;
+
+[PlayVoice]=03:38:06	Voice03/03-KB/03-KB-F00/03-KB-F00-0730	0	sek	03:39:22;
+
+ ;
+
+[Next]=03:39:23;
+

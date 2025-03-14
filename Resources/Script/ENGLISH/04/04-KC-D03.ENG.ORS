@@ -1,0 +1,162 @@
+[SkipFRAME]=01:52:02;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/station_train/train_in	01:52:02;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-002	00:07:12;
+
+[PrintText]=00:03:00	Makoto	...	00:03:16;
+
+[PlayVoice]=00:03:00	Voice04/04-KB/04-KB-D03/04-KB-D03-0040	1	xxx	00:03:16;
+
+[PrintText]=00:03:16	Kotonoha	...	00:04:11;
+
+[PlayVoice]=00:03:16	Voice04/04-KB/04-KB-D03/04-KB-D03-0050	0	xxx	00:04:11;
+
+[PrintText]=00:04:11	Kotonoha	Um...	00:08:14;
+
+[PlayVoice]=00:04:11	Voice04/04-KB/04-KB-D03/04-KB-D03-0070	0	kot	00:08:14;
+
+[CreateBG]=00:07:12	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-003	00:14:12;
+
+[PrintText]=00:08:14	Makoto	...	00:09:09;
+
+[PlayVoice]=00:08:14	Voice04/04-KB/04-KB-D03/04-KB-D03-0080	1	xxx	00:09:09;
+
+[PrintText]=00:09:09	Kotonoha	You know... yesterday, I heard something from a friend.	00:14:11;
+
+[PlayVoice]=00:09:09	Voice04/04-KB/04-KB-D03/04-KB-D03-0090	0	kot	00:14:11;
+
+[PrintText]=00:14:11	Makoto	A friend?	00:15:13;
+
+[PlayVoice]=00:14:11	Voice04/04-KB/04-KB-D03/04-KB-D03-0100	1	mak	00:15:13;
+
+[CreateBG]=00:14:12	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-004	00:15:14;
+
+[PrintText]=00:15:13	Kotonoha	Yes. Well, according to my friend,	00:20:05;
+
+[PlayVoice]=00:15:13	Voice04/04-KB/04-KB-D03/04-KB-D03-0120	0	kot	00:20:05;
+
+[CreateBG]=00:15:14	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-005	00:37:00;
+
+[PrintText]=00:20:06	Kotonoha	Saionji-san is already going out with someone. Probably someone like Sawanaga-san, who was with her at the pool.	00:28:07;
+
+[PlayVoice]=00:20:06	Voice04/04-KB/04-KB-D03/04-KB-D03-0121	0	kot	00:28:07;
+
+[PrintText]=00:28:06	Makoto	No way. If it was Taisuke, I'd know for sure.	00:33:16;
+
+[PlayVoice]=00:28:06	Voice04/04-KB/04-KB-D03/04-KB-D03-0130	1	mak	00:33:16;
+
+[PrintText]=00:33:16	Kotonoha	T-then it must be someone else. She... and that mystery boyfriend of hers are apparently quite the hot couple, you know.	00:46:13;
+
+[PlayVoice]=00:33:16	Voice04/04-KB/04-KB-D03/04-KB-D03-0140	0	kot	00:46:13;
+
+[CreateBG]=00:37:00	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-006	00:47:17;
+
+[PrintText]=00:46:12	Makoto	...	00:47:16;
+
+[PlayVoice]=00:46:12	Voice04/04-KB/04-KB-D03/04-KB-D03-0150	1	xxx	00:47:16;
+
+[CreateBG]=00:47:17	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-007	00:55:11;
+
+[PrintText]=00:47:17	Kotonoha	Rumor has it that they even k... kissed in Sakakino-cho... or so I hear.	00:55:11;
+
+[PlayVoice]=00:47:17	Voice04/04-KB/04-KB-D03/04-KB-D03-0160	0	kot	00:55:11;
+
+[PrintText]=00:55:10	Makoto	Sekai isn't like that. I know that better than anyone.	00:59:14;
+
+[PlayVoice]=00:55:10	Voice04/04-KB/04-KB-D03/04-KB-D03-0170	1	mak	00:59:14;
+
+[CreateBG]=00:55:11	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-008	01:01:09;
+
+[PrintText]=00:59:14	Kotonoha	Than anyone...?	01:00:18;
+
+[PlayVoice]=00:59:14	Voice04/04-KB/04-KB-D03/04-KB-D03-0180	0	kot	01:00:18;
+
+[PrintText]=01:00:18	Makoto	Ah...	01:01:09;
+
+[PlayVoice]=01:00:18	Voice04/04-KB/04-KB-D03/04-KB-D03-0190	1	mak	01:01:09;
+
+[CreateBG]=01:01:09	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-009	01:12:04;
+
+[PrintText]=01:01:09	Kotonoha	M-maybe they mistook her for someone else...	01:04:10;
+
+[PlayVoice]=01:01:09	Voice04/04-KB/04-KB-D03/04-KB-D03-0200	0	kot	01:04:10;
+
+[PrintText]=01:04:10	Makoto	Yeah, probably.	01:05:20;
+
+[PlayVoice]=01:04:10	Voice04/04-KB/04-KB-D03/04-KB-D03-0210	1	mak	01:05:20;
+
+[PrintText]=01:05:19	Kotonoha	B-but... you see, that means...	01:10:17;
+
+[PlayVoice]=01:05:19	Voice04/04-KB/04-KB-D03/04-KB-D03-0220	0	kot	01:10:17;
+
+[PrintText]=01:10:17	Makoto	...	01:12:03;
+
+[PlayVoice]=01:10:17	Voice04/04-KB/04-KB-D03/04-KB-D03-0240	1	xxx	01:12:03;
+
+[CreateBG]=01:12:04	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-010	01:21:14;
+
+[PrintText]=01:12:04	Kotonoha	Saionji-san has her hands full going out with all sorts of boys.	01:17:03;
+
+[PlayVoice]=01:12:04	Voice04/04-KB/04-KB-D03/04-KB-D03-0250	0	kot	01:17:03;
+
+[PrintText]=01:17:03	Kotonoha	Even supposing that you liked her, she wouldn't...	01:22:11;
+
+[PlayVoice]=01:17:03	Voice04/04-KB/04-KB-D03/04-KB-D03-0251	0	kot	01:22:11;
+
+[CreateBG]=01:21:14	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-011	01:23:08;
+
+[PrintText]=01:21:14	Makoto	Cut it out!	01:23:08;
+
+[PlayVoice]=01:21:14	Voice04/04-KB/04-KB-D03/04-KB-D03-0260	1	mak	01:23:08;
+
+[CreateBG]=01:23:08	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-012	01:24:12;
+
+[PrintText]=01:23:08	Kotonoha	Ah...	01:24:12;
+
+[PlayVoice]=01:23:08	Voice04/04-KB/04-KB-D03/04-KB-D03-0270	0	kot	01:24:12;
+
+[CreateBG]=01:24:12	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-013	01:26:11;
+
+[PrintText]=01:24:12	Makoto	...	01:26:10;
+
+[PlayVoice]=01:24:12	Voice04/04-KB/04-KB-D03/04-KB-D03-0290	1	xxx	01:26:10;
+
+[CreateBG]=01:26:11	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-014	01:32:00;
+
+[PlayVoice]=01:26:11	Voice04/04-KB/04-KB-D03/04-KB-D03-0310	1	ana	01:31:00;
+
+[CreateBG]=01:32:00	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-015	01:34:00;
+
+[PlayMovie]=01:34:00	Movie00/00-00/00-00-A00/00-00-A00-010	0	01:36:00;
+
+[CreateBG]=01:36:00	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-017	01:39:06;
+
+[PrintText]=01:36:00	Makoto	!	01:36:23;
+
+[PlayVoice]=01:36:00	Voice04/04-KB/04-KB-D03/04-KB-D03-0330	1	mak	01:36:23;
+
+[PrintText]=01:37:00	Kotonoha	...!	01:38:06;
+
+[PlayVoice]=01:37:00	Voice04/04-KB/04-KB-D03/04-KB-D03-0350	0	kot	01:38:06;
+
+[CreateBG]=01:39:06	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-018	01:48:18;
+
+[PrintText]=01:39:06	Kotonoha	Uuh... kuh... uuh...	01:48:17;
+
+[PlayVoice]=01:39:06	Voice04/04-KB/04-KB-D03/04-KB-D03-0370	0	kot	01:48:17;
+
+[CreateBG]=01:48:18	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-019	01:50:12;
+
+[CreateBG]=01:50:12	BGS	Event04/04-KB/04-KB-D03/04-KB-D03-020	01:52:02;
+
+[PrintText]=01:50:12	Otome	Katsura...?	01:51:17;
+
+[PlayVoice]=01:50:12	Voice04/04-KB/04-KB-D03/04-KB-D03-0390	0	oto	01:51:17;
+
+ ;
+
+[Next]=01:52:02;
+

@@ -1,0 +1,90 @@
+[SkipFRAME]=00:36:22;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:36:22;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-001	00:01:03;
+
+[PrintText]=00:00:04	Makoto	...	00:01:05;
+
+[PlayVoice]=00:00:04	Voice04/04-SA/04-SA-F03/04-SA-F03-0030	1	xxx	00:01:05;
+
+[CreateBG]=00:01:03	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-002	00:05:09;
+
+[PrintText]=00:01:13	Sekai	...Is that no good?	00:03:01;
+
+[PlayVoice]=00:01:13	Voice04/04-SA/04-SA-F03/04-SA-F03-0040	0	sek	00:03:01;
+
+[PrintText]=00:03:01	Makoto	Eh?	00:03:15;
+
+[PlayVoice]=00:03:01	Voice04/04-SA/04-SA-F03/04-SA-F03-0050	1	mak	00:03:15;
+
+[PrintText]=00:03:16	Sekai	Don't you want to have fun with your friends?	00:05:11;
+
+[PlayVoice]=00:03:16	Voice04/04-SA/04-SA-F03/04-SA-F03-0060	0	sek	00:05:11;
+
+[CreateBG]=00:05:09	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-003	00:13:07;
+
+[PrintText]=00:05:14	Makoto	It's not that. I was just spacing out for a second.	00:08:13;
+
+[PlayVoice]=00:05:14	Voice04/04-SA/04-SA-F03/04-SA-F03-0070	1	mak	00:08:13;
+
+[PrintText]=00:08:14	Sekai	Will you bring a friend and come along, then?	00:11:06;
+
+[PlayVoice]=00:08:14	Voice04/04-SA/04-SA-F03/04-SA-F03-0080	0	sek	00:11:06;
+
+[PrintText]=00:11:07	Makoto	Is anyone other than Taisuke coming?	00:13:10;
+
+[PlayVoice]=00:11:07	Voice04/04-SA/04-SA-F03/04-SA-F03-0090	1	mak	00:13:10;
+
+[CreateBG]=00:13:07	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-004	00:19:02;
+
+[PrintText]=00:13:11	Sekai	Eh...?	00:14:00;
+
+[PlayVoice]=00:13:11	Voice04/04-SA/04-SA-F03/04-SA-F03-0100	0	sek	00:14:00;
+
+[PrintText]=00:14:00	Makoto	I've got to make sure I can run away in advance if they're a jerk, or they're scary or something.	00:19:03;
+
+[PlayVoice]=00:14:00	Voice04/04-SA/04-SA-F03/04-SA-F03-0110	1	mak	00:19:03;
+
+[CreateBG]=00:19:02	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-005	00:23:15;
+
+[PrintText]=00:19:07	Sekai	I'm thinking of taking Hikari.	00:21:03;
+
+[PlayVoice]=00:19:07	Voice04/04-SA/04-SA-F03/04-SA-F03-0120	0	sek	00:21:03;
+
+[PrintText]=00:21:03	Makoto	I see.	00:21:23;
+
+[PlayVoice]=00:21:03	Voice04/04-SA/04-SA-F03/04-SA-F03-0130	1	mak	00:21:23;
+
+[PrintText]=00:21:23	Sekai	Not a fan of Hikari?	00:23:15;
+
+[PlayVoice]=00:21:23	Voice04/04-SA/04-SA-F03/04-SA-F03-0140	0	sek	00:23:15;
+
+[CreateBG]=00:23:15	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-006	00:25:03;
+
+[PrintText]=00:23:19	Makoto	I wouldn't say that...	00:25:03;
+
+[PlayVoice]=00:23:19	Voice04/04-SA/04-SA-F03/04-SA-F03-0150	1	mak	00:25:03;
+
+[CreateBG]=00:25:03	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-007	00:28:15;
+
+[PrintText]=00:25:12	Sekai	You two don't get along well, do you...?	00:28:18;
+
+[PlayVoice]=00:25:12	Voice04/04-SA/04-SA-F03/04-SA-F03-0160	0	sek	00:28:18;
+
+[CreateBG]=00:28:15	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-008	00:33:14;
+
+[PrintText]=00:28:18	Makoto	That's not true. It's just that Kuroda is always looking for a chance to deliver comebacks to everyone else.	00:33:17;
+
+[PlayVoice]=00:28:18	Voice04/04-SA/04-SA-F03/04-SA-F03-0170	1	mak	00:33:17;
+
+[CreateBG]=00:33:14	BGS	Event04/04-SA/04-SA-F03/04-SA-F03-009	00:36:22;
+
+[PrintText]=00:33:18	Sekai	Ahahah... yeah, maybe.	00:36:07;
+
+[PlayVoice]=00:33:18	Voice04/04-SA/04-SA-F03/04-SA-F03-0180	0	sek	00:36:07;
+
+ ;
+
+[Next]=00:36:22;
+

@@ -1,0 +1,204 @@
+[SkipFRAME]=02:29:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm01	01:09:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-001A	00:01:18;
+
+[PrintText]=00:00:00	Kotonoha	Uwah!	00:01:17;
+
+[PlayVoice]=00:00:00	Voice04/04-KC/04-KC-B00/04-KC-B00-0050	0	kot	00:01:17;
+
+[PrintText]=00:01:17	Taisuke	Awesome! It's huge!	00:04:06;
+
+[PlayVoice]=00:01:17	Voice04/04-KC/04-KC-B00/04-KC-B00-0060	1	tai	00:04:06;
+
+[CreateBG]=00:01:18	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-001B	00:04:07;
+
+[PrintText]=00:04:06	Kotonoha	There are all sorts of different pools!	00:06:17;
+
+[PlayVoice]=00:04:06	Voice04/04-KC/04-KC-B00/04-KC-B00-0070	0	kot	00:06:17;
+
+[CreateBG]=00:04:07	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-001C	00:24:08;
+
+[PrintText]=00:06:17	Taisuke	Yeah... one with running water, and a water slide... okay, let's start with the kids pool!	00:15:13;
+
+[PlayVoice]=00:06:17	Voice04/04-KC/04-KC-B00/04-KC-B00-0080	1	tai	00:15:13;
+
+[PrintText]=00:15:13	Kotonoha	You mustn't disturb the children while they're playing, Sawanaga-san.	00:20:09;
+
+[PlayVoice]=00:15:13	Voice04/04-KC/04-KC-B00/04-KC-B00-0090	0	kot	00:20:09;
+
+[PrintText]=00:20:10	Taisuke	O-oh, right. Ahaha.	00:24:07;
+
+[PlayVoice]=00:20:10	Voice04/04-KC/04-KC-B00/04-KC-B00-0100	1	tai	00:24:07;
+
+[PrintText]=00:24:07	Makoto	...They sure seem to be getting along.	00:26:16;
+
+[PlayVoice]=00:24:07	Voice04/04-KC/04-KC-B00/04-KC-B00-0110	1	mak	00:26:16;
+
+[CreateBG]=00:24:08	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-002	00:26:17;
+
+[PrintText]=00:26:16	Sekai	It seems they got to know each other when Sawanaga happened to help her out at the festival.	00:34:01;
+
+[PlayVoice]=00:26:16	Voice04/04-KC/04-KC-B00/04-KC-B00-0120	0	sek	00:34:01;
+
+[CreateBG]=00:26:17	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-003	00:31:12;
+
+[CreateBG]=00:31:12	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-004	00:39:05;
+
+[PrintText]=00:34:01	Makoto	I see... but still, Sekai...	00:39:04;
+
+[PlayVoice]=00:34:01	Voice04/04-KC/04-KC-B00/04-KC-B00-0130	1	mak	00:39:04;
+
+[PrintText]=00:39:04	Sekai	What?	00:40:00;
+
+[PlayVoice]=00:39:04	Voice04/04-KC/04-KC-B00/04-KC-B00-0140	0	sek	00:40:00;
+
+[CreateBG]=00:39:05	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-005	00:43:11;
+
+[PrintText]=00:40:00	Makoto	Listen, cheer up.	00:43:11;
+
+[PlayVoice]=00:40:00	Voice04/04-KC/04-KC-B00/04-KC-B00-0150	1	mak	00:43:11;
+
+[CreateBG]=00:43:11	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-006	00:50:09;
+
+[PrintText]=00:43:11	Sekai	I'm fine.	00:44:17;
+
+[PlayVoice]=00:43:11	Voice04/04-KC/04-KC-B00/04-KC-B00-0160	0	sek	00:44:17;
+
+[PrintText]=00:44:17	Makoto	Like hell you are. I can tell you're looking down.	00:48:18;
+
+[PlayVoice]=00:44:17	Voice04/04-KC/04-KC-B00/04-KC-B00-0170	1	mak	00:48:18;
+
+[PrintText]=00:48:19	Sekai	That's not true...	00:50:09;
+
+[PlayVoice]=00:48:19	Voice04/04-KC/04-KC-B00/04-KC-B00-0180	0	sek	00:50:09;
+
+[PrintText]=00:50:08	Taisuke	Hey, Makoto! Saionji! Let's go!	00:53:13;
+
+[PlayVoice]=00:50:08	Voice04/04-KC/04-KC-B00/04-KC-B00-0190	1	tai	00:53:13;
+
+[CreateBG]=00:50:09	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-007	00:55:23;
+
+[PrintText]=00:53:13	Makoto	Mmn... yeah.	00:55:22;
+
+[PlayVoice]=00:53:13	Voice04/04-KC/04-KC-B00/04-KC-B00-0200	1	mak	00:55:22;
+
+[PrintText]=00:55:22	Sekai	...	00:56:23;
+
+[PlayVoice]=00:55:22	Voice04/04-KC/04-KC-B00/04-KC-B00-0210	0	xxx	00:56:23;
+
+[CreateBG]=00:55:23	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-005	00:56:23;
+
+[CreateBG]=00:56:23	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-009	01:03:02;
+
+[PrintText]=00:56:23	Makoto	Sorry! Sekai isn't feeling well, so I'm going to look after her for a while.	01:03:01;
+
+[PlayVoice]=00:56:23	Voice04/04-KC/04-KC-B00/04-KC-B00-0220	1	mak	01:03:01;
+
+[PrintText]=01:03:01	Taisuke	Oh? Really?	01:04:21;
+
+[PlayVoice]=01:03:01	Voice04/04-KC/04-KC-B00/04-KC-B00-0230	1	tai	01:04:21;
+
+[CreateBG]=01:03:02	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-010	01:08:15;
+
+[PrintText]=01:04:21	Kotonoha	Well, we'll leave her to you, then!	01:08:15;
+
+[PlayVoice]=01:04:21	Voice04/04-KC/04-KC-B00/04-KC-B00-0240	0	kot	01:08:15;
+
+[CreateBG]=01:08:15	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-011	01:09:15;
+
+[PrintText]=01:08:21	Makoto	Yeah.	01:09:14;
+
+[PlayVoice]=01:08:21	Voice04/04-KC/04-KC-B00/04-KC-B00-0250	1	mak	01:09:14;
+
+[PrintText]=01:09:14	Sekai	...	01:10:06;
+
+[PlayVoice]=01:09:14	Voice04/04-KC/04-KC-B00/04-KC-B00-0290	0	xxx	01:10:06;
+
+[CreateBG]=01:09:15	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-012	01:12:18;
+
+[PrintText]=01:10:06	Makoto	It's Kioura, isn't it?	01:12:01;
+
+[PlayVoice]=01:10:06	Voice04/04-KC/04-KC-B00/04-KC-B00-0300	1	mak	01:12:01;
+
+[PlayBgm]=01:11:19	BGM/SD_BGM/sdbgm28	02:35:19;
+
+[PrintText]=01:12:01	Sekai	...Yeah.	01:12:18;
+
+[PlayVoice]=01:12:01	Voice04/04-KC/04-KC-B00/04-KC-B00-0310	0	sek	01:12:18;
+
+[CreateBG]=01:12:18	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-013	01:48:08;
+
+[PrintText]=01:12:18	Makoto	Not long after the festival... Kioura Setsuna moved to a different school.	01:18:21;
+
+[PlayVoice]=01:12:18	Voice04/04-KC/04-KC-B00/04-KC-B00-0350	1	xxx	01:18:21;
+
+[PrintText]=01:18:22	Makoto	I only found out about it after the festival had ended...	01:24:12;
+
+[PlayVoice]=01:18:22	Voice04/04-KC/04-KC-B00/04-KC-B00-0360	1	xxx	01:24:12;
+
+[PrintText]=01:24:12	Makoto	'It's going to feel lonely. We'd only just gotten to know each other, too,' she chuckled...	01:30:20;
+
+[PlayVoice]=01:24:12	Voice04/04-KC/04-KC-B00/04-KC-B00-0370	1	xxx	01:30:20;
+
+[PrintText]=01:30:20	Makoto	'Give Sekai your support. She's going to be depressed once I'm gone.'	01:36:13;
+
+[PlayVoice]=01:30:20	Voice04/04-KC/04-KC-B00/04-KC-B00-0380	1	xxx	01:36:13;
+
+[PrintText]=01:36:12	Makoto	That was what she had told me.	01:38:01;
+
+[PlayVoice]=01:36:12	Voice04/04-KC/04-KC-B00/04-KC-B00-0390	1	xxx	01:38:01;
+
+[PrintText]=01:38:00	Makoto	Thinking back on it now, when she found out Kioura was leaving, it was as if Sekai wilted right before my eyes...	01:45:23;
+
+[PlayVoice]=01:38:00	Voice04/04-KC/04-KC-B00/04-KC-B00-0400	1	xxx	01:45:23;
+
+[PrintText]=01:45:23	Makoto	She started to come to school less and less.	01:48:09;
+
+[PlayVoice]=01:45:23	Voice04/04-KC/04-KC-B00/04-KC-B00-0410	1	xxx	01:48:09;
+
+[CreateBG]=01:48:08	BGS	Event04/04-KC/04-KC-B00/04-KC-B00-012	02:35:12;
+
+[PrintText]=01:48:09	Makoto	It sure was sudden... Kioura changing schools like that.	01:54:02;
+
+[PlayVoice]=01:48:09	Voice04/04-KC/04-KC-B00/04-KC-B00-0430	1	mak	01:54:02;
+
+[PrintText]=01:54:02	Sekai	...We'd talked about it beforehand.	01:57:00;
+
+[PlayVoice]=01:54:02	Voice04/04-KC/04-KC-B00/04-KC-B00-0440	0	sek	01:57:00;
+
+[PrintText]=01:57:00	Makoto	Really?	01:58:07;
+
+[PlayVoice]=01:57:00	Voice04/04-KC/04-KC-B00/04-KC-B00-0450	1	mak	01:58:07;
+
+[PrintText]=01:58:06	Sekai	Our mothers were colleagues and rivals... it was always said that one of them would go to the branch office in Paris.	02:07:17;
+
+[PlayVoice]=01:58:06	Voice04/04-KC/04-KC-B00/04-KC-B00-0460	0	sek	02:07:17;
+
+[PrintText]=02:07:16	Makoto	You two were childhood friends, weren't you?	02:11:12;
+
+[PlayVoice]=02:07:16	Voice04/04-KC/04-KC-B00/04-KC-B00-0470	1	mak	02:11:12;
+
+[PrintText]=02:11:12	Sekai	We've been together ever since we were born... I thought we'd never have to part...	02:19:15;
+
+[PlayVoice]=02:11:12	Voice04/04-KC/04-KC-B00/04-KC-B00-0480	0	sek	02:19:15;
+
+[PrintText]=02:19:16	Makoto	I see...	02:20:17;
+
+[PlayVoice]=02:19:16	Voice04/04-KC/04-KC-B00/04-KC-B00-0490	1	mak	02:20:17;
+
+[PrintText]=02:20:17	Sekai	I thought I'd prepared myself... but once it happened, I just didn't know what to do with myself anymore...	02:28:21;
+
+[PlayVoice]=02:20:17	Voice04/04-KC/04-KC-B00/04-KC-B00-0500	0	sek	02:28:21;
+
+[PrintText]=02:28:21	Makoto	Yeah...	02:29:12;
+
+[PlayVoice]=02:28:21	Voice04/04-KC/04-KC-B00/04-KC-B00-0510	1	mak	02:29:12;
+
+[SetSELECT]=02:29:12	'I'm here for you'	'Hang in there'	02:34:12;
+
+ ;
+
+[Next]=02:35:19;
+

@@ -1,0 +1,186 @@
+[SkipFRAME]=01:39:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	01:39:19;
+
+[PlaySe]=00:00:00	2	Se03/03-KB/03-KB-B01/SE03-KB-B01-001	01:39:19;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-001	00:02:09;
+
+[PrintText]=00:02:08	Taisuke	Makoto!	00:03:16;
+
+[PlayVoice]=00:02:08	Voice03/03-KB/03-KB-B01/03-KB-B01-0070	1	tai	00:03:16;
+
+[CreateBG]=00:02:09	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-002	00:03:16;
+
+[PlayVoice]=00:03:15	Voice03/03-KB/03-KB-B01/03-KB-B01-0080			00:04:06;
+
+[CreateBG]=00:03:16	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-003	00:06:03;
+
+[PrintText]=00:04:07	Makoto	What is it?	00:06:03;
+
+[PlayVoice]=00:04:07	Voice03/03-KB/03-KB-B01/03-KB-B01-0090	1	mak	00:06:03;
+
+[CreateBG]=00:06:03	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-004	00:10:10;
+
+[PrintText]=00:06:03	Taisuke	They want the paper for the menu to be blue after all. Can you go and grab some for us?	00:10:09;
+
+[PlayVoice]=00:06:03	Voice03/03-KB/03-KB-B01/03-KB-B01-0100	1	tai	00:10:09;
+
+[PrintText]=00:10:09	Makoto	Ahh... okay.	00:13:02;
+
+[PlayVoice]=00:10:09	Voice03/03-KB/03-KB-B01/03-KB-B01-0110	1	mak	00:13:02;
+
+[CreateBG]=00:10:10	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-005	00:11:15;
+
+[CreateBG]=00:11:15	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-006	00:13:02;
+
+[CreateBG]=00:13:02	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-007	00:17:02;
+
+[PrintText]=00:13:02	Hikari	Come on, Sekai. Stop staring at your darling and start sewing!	00:17:01;
+
+[PlayVoice]=00:13:02	Voice03/03-KB/03-KB-B01/03-KB-B01-0130	0	hik	00:17:01;
+
+[PrintText]=00:17:01	Sekai	I-I'm not staring! And what do you mean by 'darling'?!	00:21:15;
+
+[PlayVoice]=00:17:01	Voice03/03-KB/03-KB-B01/03-KB-B01-0140	0	sek	00:21:15;
+
+[CreateBG]=00:17:02	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-008	00:21:16;
+
+[PrintText]=00:21:15	Nanami	Is something wrong?	00:22:20;
+
+[PlayVoice]=00:21:15	Voice03/03-KB/03-KB-B01/03-KB-B01-0160	0	nan	00:22:20;
+
+[CreateBG]=00:21:16	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-009	00:22:19;
+
+[CreateBG]=00:22:19	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-010	00:27:15;
+
+[PrintText]=00:22:19	Hikari	Well, Sekai was...	00:25:03;
+
+[PlayVoice]=00:22:19	Voice03/03-KB/03-KB-B01/03-KB-B01-0170	0	hik	00:25:03;
+
+[PrintText]=00:25:04	Sekai	Idiot!	00:26:05;
+
+[PlayVoice]=00:25:04	Voice03/03-KB/03-KB-B01/03-KB-B01-0180	0	sek	00:26:05;
+
+[PrintText]=00:26:05	Hikari	What?!	00:27:15;
+
+[PlayVoice]=00:26:05	Voice03/03-KB/03-KB-B01/03-KB-B01-0190	0	hik	00:27:15;
+
+[PrintText]=00:27:14	Nanami	Oh! It's really coming together, isn't it?	00:29:14;
+
+[PlayVoice]=00:27:14	Voice03/03-KB/03-KB-B01/03-KB-B01-0200	0	nan	00:29:14;
+
+[CreateBG]=00:27:15	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-011	00:36:18;
+
+[PrintText]=00:29:14	Sekai	Mmn... just the skirt for now.	00:32:13;
+
+[PlayVoice]=00:29:14	Voice03/03-KB/03-KB-B01/03-KB-B01-0210	0	sek	00:32:13;
+
+[PrintText]=00:32:13	Nanami	Still, we already have the blouses, so you're almost done, right?	00:36:17;
+
+[PlayVoice]=00:32:13	Voice03/03-KB/03-KB-B01/03-KB-B01-0220	0	nan	00:36:17;
+
+[CreateBG]=00:36:18	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-012	00:40:06;
+
+[PrintText]=00:36:18	Sekai	I think we could finish it by tomorrow somehow... probably.	00:40:06;
+
+[PlayVoice]=00:36:18	Voice03/03-KB/03-KB-B01/03-KB-B01-0230	0	sek	00:40:06;
+
+[CreateBG]=00:40:06	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-013	00:50:06;
+
+[PrintText]=00:40:06	Hikari	Anyone who doesn't finish in time for tomorrow gets no free time.	00:44:03;
+
+[PlayVoice]=00:40:06	Voice03/03-KB/03-KB-B01/03-KB-B01-0240	0	hik	00:44:03;
+
+[PrintText]=00:44:04	Nanami	Eh?!	00:45:05;
+
+[PlayVoice]=00:44:04	Voice03/03-KB/03-KB-B01/03-KB-B01-0250	0	nan	00:45:05;
+
+[PrintText]=00:45:04	Hikari	And Nanami, if you go off to make out with your boyfriend instead of finishing your work for tomorrow, you're dead.	00:50:05;
+
+[PlayVoice]=00:45:04	Voice03/03-KB/03-KB-B01/03-KB-B01-0260	0	hik	00:50:05;
+
+[PrintText]=00:50:05	Nanami	B-but I've got to help with the girls' basketball club too...	00:54:01;
+
+[PlayVoice]=00:50:05	Voice03/03-KB/03-KB-B01/03-KB-B01-0270	0	nan	00:54:01;
+
+[CreateBG]=00:50:06	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-014	00:54:01;
+
+[CreateBG]=00:54:01	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-015	01:06:19;
+
+[PrintText]=00:54:01	Hikari	Don't be so soft. Girls' basketball is in the afternoon, so I know you can make it after finishing your morning shift.	01:00:09;
+
+[PlayVoice]=00:54:01	Voice03/03-KB/03-KB-B01/03-KB-B01-0280	0	hik	01:00:09;
+
+[PrintText]=01:00:09	Nanami	Eek...	01:02:02;
+
+[PlayVoice]=01:00:09	Voice03/03-KB/03-KB-B01/03-KB-B01-0290	0	nan	01:02:02;
+
+[PrintText]=01:02:02	Hikari	And the same goes for you, Sekai. No making out with your darling if you don't finish in time.	01:06:19;
+
+[PlayVoice]=01:02:02	Voice03/03-KB/03-KB-B01/03-KB-B01-0300	0	hik	01:06:19;
+
+[CreateBG]=01:06:19	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-008	01:09:15;
+
+[PrintText]=01:06:19	Sekai	I told you, he's not my 'darling'.	01:09:15;
+
+[PlayVoice]=01:06:19	Voice03/03-KB/03-KB-B01/03-KB-B01-0310	0	sek	01:09:15;
+
+[PrintText]=01:09:14	Hikari	A likely story!	01:10:23;
+
+[PlayVoice]=01:09:14	Voice03/03-KB/03-KB-B01/03-KB-B01-0320	0	hik	01:10:23;
+
+[CreateBG]=01:09:15	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-017	01:10:12;
+
+[CreateBG]=01:10:12	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-018	01:11:13;
+
+[PrintText]=01:10:23	Setsuna	Sawanaga. The long tables are in the shed after all.	01:15:14;
+
+[PlayVoice]=01:10:23	Voice03/03-KB/03-KB-B01/03-KB-B01-0340	0	set	01:15:14;
+
+[CreateBG]=01:11:13	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-019	01:15:14;
+
+[CreateBG]=01:15:14	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-020	01:26:03;
+
+[PrintText]=01:15:14	Taisuke	Eh?! I went just now, and there were none.	01:18:21;
+
+[PlayVoice]=01:15:14	Voice03/03-KB/03-KB-B01/03-KB-B01-0350	1	tai	01:18:21;
+
+[PrintText]=01:18:21	Setsuna	I bet you didn't look properly. They were in the back on the left.	01:23:03;
+
+[PlayVoice]=01:18:21	Voice03/03-KB/03-KB-B01/03-KB-B01-0360	0	set	01:23:03;
+
+[PrintText]=01:23:03	Taisuke	If you found them, then you might as well have carried them back.	01:26:03;
+
+[PlayVoice]=01:23:03	Voice03/03-KB/03-KB-B01/03-KB-B01-0370	1	tai	01:26:03;
+
+[CreateBG]=01:26:03	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-021	01:30:15;
+
+[PrintText]=01:26:03	Nanami	You can't make a girl carry something heavy like that. Come on, off you go.	01:29:07;
+
+[PlayVoice]=01:26:03	Voice03/03-KB/03-KB-B01/03-KB-B01-0380	0	nan	01:29:07;
+
+[PrintText]=01:29:07	Taisuke	But...	01:30:15;
+
+[PlayVoice]=01:29:07	Voice03/03-KB/03-KB-B01/03-KB-B01-0390	1	tai	01:30:15;
+
+[CreateBG]=01:30:15	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-022	01:34:19;
+
+[PrintText]=01:30:15	Nanami	Just go! Run!	01:33:00;
+
+[PlayVoice]=01:30:15	Voice03/03-KB/03-KB-B01/03-KB-B01-0400	0	nan	01:33:00;
+
+[PrintText]=01:33:00	Taisuke	O-okay, fine!	01:34:19;
+
+[PlayVoice]=01:33:00	Voice03/03-KB/03-KB-B01/03-KB-B01-0410	1	tai	01:34:19;
+
+[PlaySe]=01:34:19	1	SysSe/SE_all/footsteps/asioto_out_run	01:38:13;
+
+[CreateBG]=01:34:19	BGS	Event03/03-KB/03-KB-B01/03-KB-B01-023	01:39:19;
+
+[BlackFade]=01:38:19	OUT	01:39:19;
+
+ ;
+
+[Next]=01:39:19;
+

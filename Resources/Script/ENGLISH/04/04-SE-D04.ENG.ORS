@@ -1,0 +1,88 @@
+[SkipFRAME]=00:41:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:41:12;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-001	00:01:06;
+
+[CreateBG]=00:01:06	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-001B	00:02:02;
+
+[PrintText]=00:01:06	Makoto	"In that case..."\nAh...	00:02:02;
+
+[PlayVoice]=00:01:06	Voice04/04-SE/04-SE-D04/04-SE-D04-0050	1	mak	00:03:05;
+
+[CreateBG]=00:02:02	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-002	00:03:05;
+
+[CreateBG]=00:03:05	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-003	00:04:00;
+
+[PrintText]=00:03:05	Makoto	Well, never mind...	00:05:01;
+
+[PlayVoice]=00:03:05	Voice04/04-SE/04-SE-D04/04-SE-D04-0060	1	xxx	00:05:01;
+
+[CreateBG]=00:04:00	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-004	00:05:01;
+
+[CreateBG]=00:05:01	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-005	00:06:18;
+
+[PrintText]=00:05:01	Sekai	"In that case, what?"	00:06:18;
+
+[CreateBG]=00:06:18	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-006	00:09:00;
+
+[CreateBG]=00:09:00	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-007	00:10:17;
+
+[PrintText]=00:09:00	Sekai	"Could it be...\nthat I was so angry that I made you angry too?"	00:10:17;
+
+[CreateBG]=00:10:17	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-006	00:12:23;
+
+[CreateBG]=00:12:23	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-009A	00:14:21;
+
+[PrintText]=00:12:23	Sekai	"Hey... I was just teasing.\nDon't get mad, okay?"	00:14:21;
+
+[CreateBG]=00:14:21	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-009B	00:15:20;
+
+[PrintText]=00:14:21	Makoto	"Really?"	00:15:20;
+
+[CreateBG]=00:15:20	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010	00:17:12;
+
+[CreateBG]=00:17:12	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010B	00:19:11;
+
+[PrintText]=00:17:12	Sekai&Makoto	Sekai: "I'm not really angry."\nMakoto: "Are you sure?"	00:19:11;
+
+[CreateBG]=00:19:11	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010C	00:21:03;
+
+[CreateBG]=00:21:03	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010D	00:23:03;
+
+[PrintText]=00:21:03	Sekai	"I was just thinking about after class."	00:23:03;
+
+[CreateBG]=00:23:03	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010E	00:24:13;
+
+[PrintText]=00:23:03	Makoto	"After class?"	00:24:13;
+
+[CreateBG]=00:24:13	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010F	00:27:02;
+
+[PrintText]=00:24:13	Sekai	"I was thinking we could go to Pure Burger together."	00:27:02;
+
+[CreateBG]=00:27:02	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010G	00:28:16;
+
+[PrintText]=00:27:02	Makoto	"Sounds good."	00:28:16;
+
+[CreateBG]=00:28:16	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010H	00:30:17;
+
+[PrintText]=00:28:16	Sekai	"Want to go?"	00:30:17;
+
+[CreateBG]=00:30:17	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010I	00:32:00;
+
+[PrintText]=00:30:17	Makoto	"Yes."	00:32:00;
+
+[CreateBG]=00:32:00	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-010J	00:34:12;
+
+[PrintText]=00:32:00	Sekai	"Then it's settled!\nEheheh..."	00:34:11;
+
+[CreateBG]=00:34:12	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-011	00:36:12;
+
+[CreateBG]=00:36:12	BGS	Event04/04-SE/04-SE-D04/04-SE-D04-012	00:41:12;
+
+[PlayVoice]=00:37:01	Voice04/04-SE/04-SE-D04/04-SE-D04-0260			00:38:02;
+
+ ;
+
+[Next]=00:41:12;
+

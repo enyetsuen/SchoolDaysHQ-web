@@ -1,0 +1,30 @@
+[SkipFRAME]=00:18:06;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:18:06;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-M00/03-KA-M00-001	00:10:05;
+
+[PrintText]=00:00:00	Makoto	I'm beginning to forget her...	00:01:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-M00/03-KA-M00-0030	1	xxx	00:01:11;
+
+[PrintText]=00:02:15	Makoto	That's how I felt.	00:04:03;
+
+[PlayVoice]=00:02:15	Voice03/03-KA/03-KA-M00/03-KA-M00-0040	1	xxx	00:04:03;
+
+[PrintText]=00:05:12	Makoto	Was I always as cold-hearted as this...?	00:09:14;
+
+[PlayVoice]=00:05:12	Voice03/03-KA/03-KA-M00/03-KA-M00-0050	1	xxx	00:09:14;
+
+[CreateBG]=00:10:05	BGS	Event03/03-KA/03-KA-M00/03-KA-M00-002	00:18:06;
+
+[PrintText]=00:10:21	Makoto	Even thinking about it casually was enough to make me feel depressed.	00:16:06;
+
+[PlayVoice]=00:10:21	Voice03/03-KA/03-KA-M00/03-KA-M00-0060	1	xxx	00:16:06;
+
+[BlackFade]=00:17:06	OUT	00:18:06;
+
+ ;
+
+[Next]=00:18:06;
+

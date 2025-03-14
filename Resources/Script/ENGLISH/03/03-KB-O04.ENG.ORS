@@ -1,0 +1,102 @@
+[SkipFRAME]=01:20:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	01:20:01;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-O04/03-KB-O04-001	00:27:22;
+
+[PrintText]=00:00:00	Kotonoha	It's all right... after all, you've known her for much longer than me...	00:06:20;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-O04/03-KB-O04-0030	0	kot	00:06:20;
+
+[PrintText]=00:06:20	Makoto	That's...	00:08:08;
+
+[PlayVoice]=00:06:20	Voice03/03-KB/03-KB-O04/03-KB-O04-0040	1	mak	00:08:08;
+
+[PrintText]=00:08:07	Kotonoha	And she's so much more beautiful... and cute... and cheerful... and you seem to enjoy being with her more...	00:25:01;
+
+[PlayVoice]=00:08:07	Voice03/03-KB/03-KB-O04/03-KB-O04-0050	0	kot	00:25:01;
+
+[PrintText]=00:25:02	Makoto	Kotonoha, that's not true.	00:27:22;
+
+[PlayVoice]=00:25:02	Voice03/03-KB/03-KB-O04/03-KB-O04-0060	1	mak	00:27:22;
+
+[PrintText]=00:27:21	Kotonoha	But... at least... for now...	00:34:04;
+
+[PlayVoice]=00:27:21	Voice03/03-KB/03-KB-O04/03-KB-O04-0070	0	kot	00:34:04;
+
+[PlayMovie]=00:27:22	Movie03/03-KB/03-KB-O04/03-KB-O04-002	0	00:48:19;
+
+[PrintText]=00:34:04	Makoto	Listen to me!	00:36:01;
+
+[PlayVoice]=00:34:04	Voice03/03-KB/03-KB-O04/03-KB-O04-0080	1	mak	00:36:01;
+
+[PrintText]=00:36:01	Kotonoha	...	00:37:05;
+
+[PlayVoice]=00:36:01	Voice03/03-KB/03-KB-O04/03-KB-O04-0090	0	xxx	00:37:05;
+
+[PrintText]=00:37:05	Makoto	It's true that I once confessed to Sekai.	00:41:18;
+
+[PlayVoice]=00:37:05	Voice03/03-KB/03-KB-O04/03-KB-O04-0100	1	mak	00:41:18;
+
+[PrintText]=00:41:18	Kotonoha	So, you did...	00:43:02;
+
+[PlayVoice]=00:41:18	Voice03/03-KB/03-KB-O04/03-KB-O04-0110	0	kot	00:43:02;
+
+[PrintText]=00:43:02	Makoto	But she turned me down... and that wasn't the reason I started going out with you, either.	00:50:14;
+
+[PlayVoice]=00:43:02	Voice03/03-KB/03-KB-O04/03-KB-O04-0120	1	mak	00:50:14;
+
+[CreateBG]=00:48:19	BGS	Event03/03-KB/03-KB-O04/03-KB-O04-001	01:03:06;
+
+[PrintText]=00:50:14	Kotonoha	...	00:51:01;
+
+[PlayVoice]=00:50:14	Voice03/03-KB/03-KB-O04/03-KB-O04-0130	0	xxx	00:51:01;
+
+[PrintText]=00:51:02	Makoto	Sekai found out that I liked you, and then she said she'd help me... and that's how...	01:03:05;
+
+[PlayVoice]=00:51:02	Voice03/03-KB/03-KB-O04/03-KB-O04-0140	1	mak	01:03:05;
+
+[PrintText]=01:03:05	Kotonoha	Makoto-kun...	01:05:05;
+
+[PlayVoice]=01:03:05	Voice03/03-KB/03-KB-O04/03-KB-O04-0150	0	kot	01:05:05;
+
+[PlayMovie]=01:03:06	Movie03/03-KB/03-KB-N04/03-KB-N04-001	0	01:17:13;
+
+[PrintText]=01:05:05	Makoto	I love you... I've always loved you...	01:08:20;
+
+[PlayVoice]=01:05:05	Voice03/03-KB/03-KB-O04/03-KB-O04-0160	1	mak	01:08:20;
+
+[PrintText]=01:08:20	Kotonoha	Uh-huh...	01:09:11;
+
+[PlayVoice]=01:08:20	Voice03/03-KB/03-KB-O04/03-KB-O04-0170	0	kot	01:09:11;
+
+[PrintText]=01:09:11	Makoto	Is that so hard to believe...?	01:10:22;
+
+[PlayVoice]=01:09:11	Voice03/03-KB/03-KB-O04/03-KB-O04-0180	1	mak	01:10:22;
+
+[PrintText]=01:10:22	Kotonoha	...	01:12:06;
+
+[PlayVoice]=01:10:22	Voice03/03-KB/03-KB-O04/03-KB-O04-0190	0	xxx	01:12:06;
+
+[PrintText]=01:12:06	Makoto	I love you so much.	01:16:12;
+
+[PlayVoice]=01:12:06	Voice03/03-KB/03-KB-O04/03-KB-O04-0210	1	mak	01:16:12;
+
+[PrintText]=01:16:13	Kotonoha	Yes!	01:17:13;
+
+[PlayVoice]=01:16:13	Voice03/03-KB/03-KB-O04/03-KB-O04-0220	0	kot	01:17:13;
+
+[PlayMovie]=01:17:13	Movie03/03-KB/03-KB-N00/03-KB-N00-005	0	01:20:02;
+
+[PrintText]=01:17:13	Makoto	Kotonoha!	01:18:19;
+
+[PlayVoice]=01:17:13	Voice03/03-KB/03-KB-O04/03-KB-O04-0230	1	mak	01:18:19;
+
+[PrintText]=01:18:19	Kotonoha	Ah...	01:20:01;
+
+[PlayVoice]=01:18:19	Voice03/03-KB/03-KB-O04/03-KB-O04-0240	0	kot	01:20:01;
+
+ ;
+
+[Next]=01:20:02;
+

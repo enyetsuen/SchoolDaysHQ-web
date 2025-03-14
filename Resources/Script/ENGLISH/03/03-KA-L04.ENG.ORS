@@ -1,0 +1,62 @@
+[SkipFRAME]=00:36:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:36:11;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-L04/03-KA-L04-001	00:03:23;
+
+[PrintText]=00:00:06	Makoto	The committee...	00:01:13;
+
+[PlayVoice]=00:00:06	Voice03/03-KA/03-KA-L04/03-KA-L04-0030	1	xxx	00:01:13;
+
+[PrintText]=00:02:03	Makoto	I've begun to enjoy preparing for the school festival.	00:05:11;
+
+[PlayVoice]=00:02:03	Voice03/03-KA/03-KA-L04/03-KA-L04-0040	1	xxx	00:05:11;
+
+[CreateBG]=00:03:23	BGS	Event03/03-KA/03-KA-L04/03-KA-L04-002	00:05:20;
+
+[BlackFade]=00:05:14	OUT	00:05:20;
+
+[CreateBG]=00:05:20	BGS	Event03/03-KA/03-KA-L04/03-KA-L04-003	00:10:22;
+
+[BlackFade]=00:05:20	IN	00:06:02;
+
+[PrintText]=00:06:03	Makoto	Kioura, who had always struck me as a quiet and awkward person, was surprisingly helpful,	00:13:02;
+
+[PlayVoice]=00:06:03	Voice03/03-KA/03-KA-L04/03-KA-L04-0050	1	xxx	00:13:02;
+
+[BlackFade]=00:10:16	OUT	00:10:22;
+
+[CreateBG]=00:10:22	BGS	Event03/03-KA/03-KA-L04/03-KA-L04-004	00:13:10;
+
+[BlackFade]=00:10:22	IN	00:11:04;
+
+[BlackFade]=00:13:04	OUT	00:13:10;
+
+[CreateBG]=00:13:10	BGS	Event03/03-KA/03-KA-L04/03-KA-L04-005	00:19:17;
+
+[BlackFade]=00:13:10	IN	00:13:16;
+
+[PrintText]=00:13:16	Makoto	and unmotivated though I was, she skillfully manipulated me into doing my proper job as a committee member.	00:19:13;
+
+[PlayVoice]=00:13:16	Voice03/03-KA/03-KA-L04/03-KA-L04-0051	1	xxx	00:19:13;
+
+[BlackFade]=00:19:11	OUT	00:19:17;
+
+[CreateBG]=00:19:17	BGS	Event03/03-KA/03-KA-L04/03-KA-L04-006	00:36:11;
+
+[BlackFade]=00:19:17	IN	00:19:23;
+
+[PrintText]=00:20:12	Makoto	But despite everything, the truth was, the work didn't really bother me.	00:26:00;
+
+[PlayVoice]=00:20:12	Voice03/03-KA/03-KA-L04/03-KA-L04-0060	1	xxx	00:26:00;
+
+[PrintText]=00:27:07	Makoto	It was beginning to become apparent to me... that I was starting to look forward to the festival.	00:34:22;
+
+[PlayVoice]=00:27:07	Voice03/03-KA/03-KA-L04/03-KA-L04-0070	1	xxx	00:34:22;
+
+[BlackFade]=00:35:11	OUT	00:36:11;
+
+ ;
+
+[Next]=00:36:11;
+

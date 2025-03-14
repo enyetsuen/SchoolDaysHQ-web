@@ -1,0 +1,256 @@
+[SkipFRAME]=03:14:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:37:20;
+
+[CreateBG]=00:00:00	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-001	00:02:07;
+
+[PrintText]=00:00:00	Makoto	Ah...	00:04:03;
+
+[PlayVoice]=00:00:00	Voice05/05-A2/05-A2-D00/05-A2-D00-0040	1	mak	00:04:03;
+
+[CreateBG]=00:02:07	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-002	00:04:06;
+
+[CreateBG]=00:04:06	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-003	00:07:20;
+
+[PrintText]=00:04:08	Kotonoha	Makoto-kun... welcome home.	00:07:17;
+
+[PlayVoice]=00:04:08	Voice05/05-A2/05-A2-D00/05-A2-D00-0060	0	kot	00:07:17;
+
+[CreateBG]=00:07:20	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-004	00:29:20;
+
+[PrintText]=00:07:22	Makoto	Why are you...?	00:10:03;
+
+[PlayVoice]=00:07:22	Voice05/05-A2/05-A2-D00/05-A2-D00-0070	1	mak	00:10:03;
+
+[PrintText]=00:10:06	Kotonoha	Eheheh... your mother said it was all right for me to wait inside.	00:15:17;
+
+[PlayVoice]=00:10:06	Voice05/05-A2/05-A2-D00/05-A2-D00-0080	0	kot	00:15:17;
+
+[PrintText]=00:15:21	Makoto	Mom...	00:18:13;
+
+[PlayVoice]=00:15:21	Voice05/05-A2/05-A2-D00/05-A2-D00-0090	1	mak	00:18:13;
+
+[PrintText]=00:18:21	Kotonoha	She and I have come to get along quite well, you know.	00:23:11;
+
+[PlayVoice]=00:18:21	Voice05/05-A2/05-A2-D00/05-A2-D00-0100	0	kot	00:23:11;
+
+[PrintText]=00:23:12	Kotonoha	She said that I'd make a good wife, too, so...	00:29:17;
+
+[PlayVoice]=00:23:12	Voice05/05-A2/05-A2-D00/05-A2-D00-0101	0	kot	00:29:17;
+
+[CreateBG]=00:29:20	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-005	00:43:06;
+
+[PrintText]=00:30:00	Makoto	Kotonoha.	00:32:10;
+
+[PlayVoice]=00:30:00	Voice05/05-A2/05-A2-D00/05-A2-D00-0110	1	mak	00:32:10;
+
+[PrintText]=00:32:11	Kotonoha	Yes?	00:33:05;
+
+[PlayVoice]=00:32:11	Voice05/05-A2/05-A2-D00/05-A2-D00-0120	0	kot	00:33:05;
+
+[PrintText]=00:33:14	Makoto	I told you at school...	00:36:12;
+
+[PlayVoice]=00:33:14	Voice05/05-A2/05-A2-D00/05-A2-D00-0130	1	mak	00:36:12;
+
+[PrintText]=00:36:18	Kotonoha	...	00:38:07;
+
+[PlayVoice]=00:36:18	Voice05/05-A2/05-A2-D00/05-A2-D00-0140	0	xxx	00:38:07;
+
+[PrintText]=00:38:08	Makoto	I'm in love with Sekai.	00:43:02;
+
+[PlayVoice]=00:38:08	Voice05/05-A2/05-A2-D00/05-A2-D00-0150	1	mak	00:43:02;
+
+[CreateBG]=00:43:06	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-006	00:45:07;
+
+[PrintText]=00:43:07	Kotonoha	But...! Saionji-san is...	00:45:15;
+
+[PlayVoice]=00:43:07	Voice05/05-A2/05-A2-D00/05-A2-D00-0160	0	kot	00:45:15;
+
+[CreateBG]=00:45:07	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-006B	00:54:11;
+
+[PrintText]=00:45:21	Kotonoha	Sai... onji... san...	00:49:02;
+
+[PlayVoice]=00:45:21	Voice05/05-A2/05-A2-D00/05-A2-D00-0180	0	kot	00:49:02;
+
+[PrintText]=00:49:04	Makoto	Sekai... forgave me... as weak and quick to waver as I've always been...	00:59:11;
+
+[PlayVoice]=00:49:04	Voice05/05-A2/05-A2-D00/05-A2-D00-0190	1	mak	00:59:11;
+
+[CreateBG]=00:54:11	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-006	01:10:09;
+
+[PrintText]=00:59:13	Kotonoha	I-I also...	01:02:08;
+
+[PlayVoice]=00:59:13	Voice05/05-A2/05-A2-D00/05-A2-D00-0200	0	kot	01:02:08;
+
+[PrintText]=01:02:17	Makoto	I... love Sekai, so...	01:08:13;
+
+[PlayVoice]=01:02:17	Voice05/05-A2/05-A2-D00/05-A2-D00-0210	1	mak	01:08:13;
+
+[PrintText]=01:08:18	Kotonoha	...	01:10:07;
+
+[PlayVoice]=01:08:18	Voice05/05-A2/05-A2-D00/05-A2-D00-0220	0	xxx	01:10:07;
+
+[CreateBG]=01:10:09	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-007	01:15:11;
+
+[PrintText]=01:10:12	Sekai	Katsura-san...	01:12:18;
+
+[PlayVoice]=01:10:12	Voice05/05-A2/05-A2-D00/05-A2-D00-0230	0	sek	01:12:18;
+
+[PrintText]=01:12:23	Kotonoha	I... just can't give you up!	01:17:20;
+
+[PlayVoice]=01:12:23	Voice05/05-A2/05-A2-D00/05-A2-D00-0240	0	kot	01:17:20;
+
+[CreateBG]=01:15:11	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-004	01:17:17;
+
+[CreateBG]=01:17:17	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-008	01:20:18;
+
+[PrintText]=01:17:17	Makoto	Kotonoha...	01:20:11;
+
+[PlayVoice]=01:17:17	Voice05/05-A2/05-A2-D00/05-A2-D00-0250	1	mak	01:20:11;
+
+[CreateBG]=01:20:18	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-009	01:24:11;
+
+[PrintText]=01:20:21	Kotonoha	I... love you, Makoto-kun.	01:24:14;
+
+[PlayVoice]=01:20:21	Voice05/05-A2/05-A2-D00/05-A2-D00-0260	0	kot	01:24:14;
+
+[CreateBG]=01:24:11	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-010	01:26:20;
+
+[PrintText]=01:24:11	Makoto	...	01:26:15;
+
+[PlayVoice]=01:24:11	Voice05/05-A2/05-A2-D00/05-A2-D00-0270	1	xxx	01:26:15;
+
+[CreateBG]=01:26:20	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-011	01:37:14;
+
+[PrintText]=01:26:22	Kotonoha	I can't live without you.	01:30:05;
+
+[PlayVoice]=01:26:22	Voice05/05-A2/05-A2-D00/05-A2-D00-0280	0	kot	01:30:05;
+
+[PrintText]=01:29:19	Makoto	...	01:32:13;
+
+[PlayVoice]=01:29:19	Voice05/05-A2/05-A2-D00/05-A2-D00-0290	1	xxx	01:32:13;
+
+[PrintText]=01:32:17	Kotonoha	For you, I would do anything... no matter what.	01:37:18;
+
+[PlayVoice]=01:32:17	Voice05/05-A2/05-A2-D00/05-A2-D00-0300	0	kot	01:37:18;
+
+[CreateBG]=01:37:14	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-012	01:41:09;
+
+[PrintText]=01:37:14	Makoto	...	01:41:02;
+
+[PlayVoice]=01:37:14	Voice05/05-A2/05-A2-D00/05-A2-D00-0310	1	xxx	01:41:02;
+
+[CreateBG]=01:41:09	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-013	01:46:03;
+
+[PrintText]=01:41:12	Kotonoha	Is that... still not enough?	01:46:05;
+
+[PlayVoice]=01:41:12	Voice05/05-A2/05-A2-D00/05-A2-D00-0320	0	kot	01:46:05;
+
+[CreateBG]=01:46:03	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-014	01:48:05;
+
+[PrintText]=01:46:03	Makoto	...	01:48:04;
+
+[PlayVoice]=01:46:03	Voice05/05-A2/05-A2-D00/05-A2-D00-0330	1	xxx	01:48:04;
+
+[CreateBG]=01:48:05	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-015	01:53:00;
+
+[PrintText]=01:48:06	Kotonoha	Go out with me... please...	01:52:00;
+
+[PlayVoice]=01:48:06	Voice05/05-A2/05-A2-D00/05-A2-D00-0340	0	kot	01:52:00;
+
+[PrintText]=01:52:00	Makoto	...I'm sorry.	01:54:12;
+
+[PlayVoice]=01:52:00	Voice05/05-A2/05-A2-D00/05-A2-D00-0350	1	mak	01:54:12;
+
+[PlayMovie]=01:53:00	Movie05/05-A2/05-A2-D00/05-A2-D00-016	0	01:58:15;
+
+[CreateBG]=01:58:15	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-017	02:00:05;
+
+[PrintText]=01:58:18	Kotonoha	Makoto-kun...	02:00:04;
+
+[PlayVoice]=01:58:18	Voice05/05-A2/05-A2-D00/05-A2-D00-0360	0	kot	02:00:04;
+
+[PlayMovie]=02:00:05	Movie05/05-A2/05-A2-D00/05-A2-D00-018	0	02:09:07;
+
+[PrintText]=02:01:20	Makoto	I know I've done something wrong to you, but...	02:07:18;
+
+[PlayVoice]=02:01:20	Voice05/05-A2/05-A2-D00/05-A2-D00-0370	1	mak	02:07:18;
+
+[PrintText]=02:06:03	Kotonoha	Ahh...	02:08:20;
+
+[PlayVoice]=02:06:03	Voice05/05-A2/05-A2-D00/05-A2-D00-0390	0	kot	02:08:20;
+
+[CreateBG]=02:09:07	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-019	02:37:17;
+
+[PrintText]=02:09:07	Sekai	I'm sorry... Katsura-san.	02:12:14;
+
+[PlayVoice]=02:09:07	Voice05/05-A2/05-A2-D00/05-A2-D00-0400	0	sek	02:12:14;
+
+[PrintText]=02:12:23	Kotonoha	Saionji-san...	02:14:16;
+
+[PlayVoice]=02:12:23	Voice05/05-A2/05-A2-D00/05-A2-D00-0410	0	kot	02:14:16;
+
+[PrintText]=02:15:03	Sekai	I love Makoto... and that's why I won't hesitate anymore.	02:24:03;
+
+[PlayVoice]=02:15:03	Voice05/05-A2/05-A2-D00/05-A2-D00-0420	0	sek	02:24:03;
+
+[PrintText]=02:24:02	Kotonoha	I... can't go on living without him... and yet, you're still going to take him away from me?	02:36:03;
+
+[PlayVoice]=02:24:02	Voice05/05-A2/05-A2-D00/05-A2-D00-0430	0	kot	02:36:03;
+
+[PrintText]=02:36:08	Sekai	...Uh-huh.	02:37:13;
+
+[PlayVoice]=02:36:08	Voice05/05-A2/05-A2-D00/05-A2-D00-0440	0	sek	02:37:13;
+
+[CreateBG]=02:37:17	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-020	02:47:12;
+
+[PrintText]=02:37:18	Kotonoha	...	02:42:01;
+
+[PlayVoice]=02:37:18	Voice05/05-A2/05-A2-D00/05-A2-D00-0450	0	xxx	02:42:01;
+
+[PrintText]=02:42:09	Kotonoha	I don't think the two of you can be happy together.	02:46:11;
+
+[PlayVoice]=02:42:09	Voice05/05-A2/05-A2-D00/05-A2-D00-0460	0	kot	02:46:11;
+
+[PrintText]=02:45:14	Makoto	Kotonoha!	02:48:04;
+
+[PlayVoice]=02:45:14	Voice05/05-A2/05-A2-D00/05-A2-D00-0470	1	mak	02:48:04;
+
+[PlayBgm]=02:46:03	BGM/SD_BGM/sdbgm23	03:14:19;
+
+[CreateBG]=02:47:12	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-021	03:09:14;
+
+[PrintText]=02:48:13	Kotonoha	I... won't let you.	02:52:23;
+
+[PlayVoice]=02:48:13	Voice05/05-A2/05-A2-D00/05-A2-D00-0480	0	kot	02:52:23;
+
+[PrintText]=02:53:14	Makoto	What are you...?	02:56:05;
+
+[PlayVoice]=02:53:14	Voice05/05-A2/05-A2-D00/05-A2-D00-0490	1	mak	02:56:05;
+
+[PrintText]=02:56:18	Kotonoha	Because I'll always love you, Makoto-kun.	03:03:02;
+
+[PlayVoice]=02:56:18	Voice05/05-A2/05-A2-D00/05-A2-D00-0500	0	kot	03:03:02;
+
+[PrintText]=03:03:09	Sekai	Katsura... san...	03:05:12;
+
+[PlayVoice]=03:03:09	Voice05/05-A2/05-A2-D00/05-A2-D00-0510	0	sek	03:05:12;
+
+[PrintText]=03:05:09	Makoto	...	03:07:22;
+
+[PlayVoice]=03:05:09	Voice05/05-A2/05-A2-D00/05-A2-D00-0520	1	xxx	03:07:22;
+
+[PrintText]=03:08:02	Kotonoha	Forever...	03:09:11;
+
+[PlayVoice]=03:08:02	Voice05/05-A2/05-A2-D00/05-A2-D00-0530	0	kot	03:09:11;
+
+[CreateBG]=03:09:14	BGS	Event05/05-A2/05-A2-D00/05-A2-D00-022	03:14:19;
+
+[PrintText]=03:09:17	Makoto	...Let's go.	03:13:21;
+
+[PlayVoice]=03:09:17	Voice05/05-A2/05-A2-D00/05-A2-D00-0540	1	mak	03:13:21;
+
+ ;
+
+[Next]=03:14:19;
+

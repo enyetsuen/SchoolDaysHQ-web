@@ -1,0 +1,72 @@
+[SkipFRAME]=00:36:22;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:36:22;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-001	00:03:16;
+
+[PrintText]=00:00:00	Makoto	She's not my girlfriend.	00:01:10;
+
+[PlayVoice]=00:00:00	Voice05/05-KA/05-KA-A02/05-KA-A02-0030	1	mak	00:01:10;
+
+[PrintText]=00:01:13	Makoto's Mother	Eh...?! But...	00:03:16;
+
+[PlayVoice]=00:01:13	Voice05/05-KA/05-KA-A02/05-KA-A02-0040	0	mkm	00:03:16;
+
+[CreateBG]=00:03:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-002	00:14:16;
+
+[PrintText]=00:03:16	Makoto	It's not like that.	00:04:16;
+
+[PlayVoice]=00:03:16	Voice05/05-KA/05-KA-A02/05-KA-A02-0050	1	mak	00:04:16;
+
+[PrintText]=00:04:17	Makoto's Mother	...	00:05:12;
+
+[PlayVoice]=00:04:17	Voice05/05-KA/05-KA-A02/05-KA-A02-0060	0	xxx	00:05:12;
+
+[PrintText]=00:05:12	Makoto	The truth is... there's this other girl I like, but... somehow, this is how it ended up.	00:13:07;
+
+[PlayVoice]=00:05:12	Voice05/05-KA/05-KA-A02/05-KA-A02-0070	1	mak	00:13:07;
+
+[PrintText]=00:13:08	Makoto's Mother	I see...	00:14:13;
+
+[PlayVoice]=00:13:08	Voice05/05-KA/05-KA-A02/05-KA-A02-0080	0	mkm	00:14:13;
+
+[CreateBG]=00:14:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-003	00:22:16;
+
+[PrintText]=00:14:16	Makoto	Yeah.	00:15:11;
+
+[PlayVoice]=00:14:16	Voice05/05-KA/05-KA-A02/05-KA-A02-0090	1	mak	00:15:11;
+
+[PrintText]=00:15:12	Makoto's Mother	Well, I don't know the details... but you should think hard about it and come up with your own answer.	00:21:14;
+
+[PlayVoice]=00:15:12	Voice05/05-KA/05-KA-A02/05-KA-A02-0100	0	mkm	00:21:14;
+
+[PrintText]=00:21:14	Makoto	I know.	00:22:15;
+
+[PlayVoice]=00:21:14	Voice05/05-KA/05-KA-A02/05-KA-A02-0110	1	mak	00:22:15;
+
+[CreateBG]=00:22:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-004	00:34:16;
+
+[PrintText]=00:22:16	Makoto's Mother	Aww... and I would have loved to have that girl call me 'Mom', too.	00:29:21;
+
+[PlayVoice]=00:22:16	Voice05/05-KA/05-KA-A02/05-KA-A02-0120	0	mkm	00:29:21;
+
+[PrintText]=00:29:20	Makoto	Mom...	00:30:23;
+
+[PlayVoice]=00:29:20	Voice05/05-KA/05-KA-A02/05-KA-A02-0130	1	mak	00:30:23;
+
+[PrintText]=00:31:00	Makoto's Mother	Ahahah, I won't say anything more. Give it your best.	00:34:15;
+
+[PlayVoice]=00:31:00	Voice05/05-KA/05-KA-A02/05-KA-A02-0140	0	mkm	00:34:15;
+
+[PrintText]=00:34:15	Makoto	...Yeah.	00:35:08;
+
+[PlayVoice]=00:34:15	Voice05/05-KA/05-KA-A02/05-KA-A02-0150	1	mak	00:35:08;
+
+[CreateBG]=00:34:16	BGS	Event05/05-KA/05-KA-A02/05-KA-A02-005	00:36:22;
+
+[BlackFade]=00:35:22	OUT	00:36:22;
+
+ ;
+
+[Next]=00:36:22;
+

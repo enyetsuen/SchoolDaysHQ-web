@@ -1,0 +1,44 @@
+[SkipFRAME]=02:43:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:32:15;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-E02/04-KB-E02-001	00:02:06;
+
+[CreateBG]=00:02:06	BGS	Event04/04-KB/04-KB-E02/04-KB-E02-002	00:05:06;
+
+[PlayMovie]=00:05:06	Movie04/04-KB/04-KB-E02/04-KB-E02-003	0	00:10:18;
+
+[CreateBG]=00:10:18	BGS	Event04/04-KB/04-KB-E02/04-KB-E02-005	00:13:07;
+
+[CreateBG]=00:13:07	BGS	Event04/04-KB/04-KB-E02/04-KB-E02-006	00:18:04;
+
+[PrintText]=00:15:03	Sekai	...	00:16:17;
+
+[PlayVoice]=00:15:03	Voice04/04-KB/04-KB-E02/04-KB-E02-0040	0	xxx	00:16:17;
+
+[CreateBG]=00:18:04	BGS	Event04/04-KB/04-KB-E02/04-KB-E02-007	00:21:23;
+
+[PrintText]=00:18:04	Makoto	Sorry about the weird questions today. Good night.	00:21:22;
+
+[CreateBG]=00:21:23	BGS	Event04/04-KB/04-KB-E02/04-KB-E02-008	00:40:06;
+
+[PrintText]=00:25:01	Sekai	I can't forget about you...	00:26:18;
+
+[PlayVoice]=00:25:01	Voice04/04-KB/04-KB-E02/04-KB-E02-0080	0	sek	00:26:18;
+
+[PrintText]=00:27:12	Sekai	Don't say... that you've gotten over me...	00:31:19;
+
+[PlayVoice]=00:27:12	Voice04/04-KB/04-KB-E02/04-KB-E02-0090	0	sek	00:31:19;
+
+[PrintText]=00:32:14	Sekai	Uuh... kuh... hic... sniff...!	00:37:21;
+
+[PlayVoice]=00:32:14	Voice04/04-KB/04-KB-E02/04-KB-E02-0100	0	sek	00:37:21;
+
+[EndBGM]=00:32:15	BGM/Vocal/SDV04	02:43:08;
+
+[EndRoll]=00:40:06	Movie04/04-KB/04-KB-E02/04-KB-E02-008	02:43:10;
+
+ ;
+
+[Next]=02:43:10;
+

@@ -1,0 +1,28 @@
+[SkipFRAME]=00:22:00;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:29:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-B02/04-SE-B02-001	00:29:00;
+
+[PrintText]=00:00:00	Makoto	She isn't calling me...	00:03:07;
+
+[PlayVoice]=00:00:00	Voice04/04-SE/04-SE-B02/04-SE-B02-0040	1	mak	00:03:07;
+
+[PrintText]=00:03:23	Makoto	Haah... that Sekai... I wonder if she went to sleep?	00:09:11;
+
+[PlayVoice]=00:03:23	Voice04/04-SE/04-SE-B02/04-SE-B02-0050	1	mak	00:09:11;
+
+[PrintText]=00:10:04	Makoto	I guess she'd be tired after that conversation with Kotonoha...	00:14:15;
+
+[PlayVoice]=00:10:04	Voice04/04-SE/04-SE-B02/04-SE-B02-0060	1	mak	00:14:15;
+
+[PrintText]=00:16:20	Makoto	Ahh... I've got nothing to do...	00:20:12;
+
+[PlayVoice]=00:16:20	Voice04/04-SE/04-SE-B02/04-SE-B02-0070	1	mak	00:20:12;
+
+[SetSELECT]=00:22:00	'Call Sekai'	'Call Katou'	00:27:00;
+
+ ;
+
+[Next]=00:29:00;
+

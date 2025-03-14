@@ -1,0 +1,160 @@
+[SkipFRAME]=02:27:16;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:27:16;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KA/04-KA-A00/04-KA-A00-001	00:23:06;
+
+[PrintText]=00:00:00	Nanami	Haah... ahh... ahh...	00:03:16;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-A00/04-KA-A00-0040	0	nan	00:03:16;
+
+[PrintText]=00:03:16	Nanami	Ahh... affh... nn... nn...!	00:07:21;
+
+[PlayVoice]=00:03:16	Voice04/04-KA/04-KA-A00/04-KA-A00-0060	0	nan	00:07:21;
+
+[PrintText]=00:08:05	Natsuki	Hyah! Don't you think she sounds totally indecent?	00:11:08;
+
+[PlayVoice]=00:08:05	Voice04/04-KA/04-KA-A00/04-KA-A00-0080	0	bue	00:11:08;
+
+[PrintText]=00:11:11	Roka	She's from class 3, right? Who's her boyfriend?	00:16:16;
+
+[PlayVoice]=00:11:11	Voice04/04-KA/04-KA-A00/04-KA-A00-0090	0	rok	00:16:16;
+
+[PrintText]=00:16:16	Ruka	Kasannoin-senpai from third year. Here he is.	00:20:21;
+
+[PlayVoice]=00:16:16	Voice04/04-KA/04-KA-A00/04-KA-A00-0100	0	buc	00:20:21;
+
+[PrintText]=00:20:22	Mugi	What? You secretly taped them?!	00:23:09;
+
+[PlayVoice]=00:20:22	Voice04/04-KA/04-KA-A00/04-KA-A00-0110	0	bud	00:23:09;
+
+[PlayMovie]=00:23:06	Movie04/04-KA/04-KA-A00/04-KA-A00-002	0	02:13:11;
+
+[PrintText]=00:23:09	Natsuki	Yep! Those of us without boyfriends have got to get SOME perks, right?	00:29:07;
+
+[PlayVoice]=00:23:09	Voice04/04-KA/04-KA-A00/04-KA-A00-0120	0	bue	00:29:07;
+
+[PrintText]=00:29:08	Mugi	'Perks'? ...You totally sound like an old man.	00:33:10;
+
+[PlayVoice]=00:29:08	Voice04/04-KA/04-KA-A00/04-KA-A00-0130	0	bud	00:33:10;
+
+[PrintText]=00:33:11	Natsuki	Well, jokes aside, Ashikaga-senpai from third year asked me to take it.	00:40:11;
+
+[PlayVoice]=00:33:11	Voice04/04-KA/04-KA-A00/04-KA-A00-0140	0	bue	00:40:11;
+
+[PrintText]=00:40:11	Mugi	She does seem like the type...	00:42:09;
+
+[PlayVoice]=00:40:11	Voice04/04-KA/04-KA-A00/04-KA-A00-0150	0	bud	00:42:09;
+
+[PrintText]=00:42:09	Roka	Still... so this is how you have sex, huh... it's kind of... moving...	00:51:20;
+
+[PlayVoice]=00:42:09	Voice04/04-KA/04-KA-A00/04-KA-A00-0160	0	rok	00:51:20;
+
+[PrintText]=00:51:21	Ruka	Roka, are you a virgin?	00:54:18;
+
+[PlayVoice]=00:51:21	Voice04/04-KA/04-KA-A00/04-KA-A00-0170	0	buc	00:54:18;
+
+[PrintText]=00:54:11	Roka	Shut up!	00:55:13;
+
+[PlayVoice]=00:54:11	Voice04/04-KA/04-KA-A00/04-KA-A00-0180	0	rok	00:55:13;
+
+[PrintText]=00:55:21	Mugi	This... is way more raw than an adult video, huh?	01:01:13;
+
+[PlayVoice]=00:55:21	Voice04/04-KA/04-KA-A00/04-KA-A00-0190	0	bud	01:01:13;
+
+[PrintText]=01:01:13	Natsuki	Well, it's not acting, after all.	01:04:02;
+
+[PlayVoice]=01:01:13	Voice04/04-KA/04-KA-A00/04-KA-A00-0200	0	bue	01:04:02;
+
+[PrintText]=01:04:03	Ruka	I'll bet she's putting in some acting for her boyfriend's benefit.	01:07:17;
+
+[PlayVoice]=01:04:03	Voice04/04-KA/04-KA-A00/04-KA-A00-0210	0	buc	01:07:17;
+
+[PrintText]=01:07:17	Roka	W-whoa, people do that?	01:11:18;
+
+[PlayVoice]=01:07:17	Voice04/04-KA/04-KA-A00/04-KA-A00-0220	0	rok	01:11:18;
+
+[PrintText]=01:11:18	Ruka	Of course. They want to look cute, right?	01:15:02;
+
+[PlayVoice]=01:11:18	Voice04/04-KA/04-KA-A00/04-KA-A00-0230	0	buc	01:15:02;
+
+[PrintText]=01:15:03	Roka	I see...	01:16:10;
+
+[PlayVoice]=01:15:03	Voice04/04-KA/04-KA-A00/04-KA-A00-0240	0	rok	01:16:10;
+
+[PrintText]=01:16:17	Mugi	Man, it must be nice for those with boyfriends. All we did was get exhausted from the construction. Nothing fun like this.	01:25:00;
+
+[PlayVoice]=01:16:17	Voice04/04-KA/04-KA-A00/04-KA-A00-0250	0	bud	01:25:00;
+
+[PrintText]=01:25:00	Natsuki	Yeah... that's what the girls who helped out said too.	01:29:03;
+
+[PlayVoice]=01:25:00	Voice04/04-KA/04-KA-A00/04-KA-A00-0260	0	bue	01:29:03;
+
+[PrintText]=01:29:03	Roka	But it's tradition, so there's no helping it, right?	01:32:20;
+
+[PlayVoice]=01:29:03	Voice04/04-KA/04-KA-A00/04-KA-A00-0270	0	rok	01:32:20;
+
+[PrintText]=01:32:21	Mugi	You think...?	01:34:11;
+
+[PlayVoice]=01:32:21	Voice04/04-KA/04-KA-A00/04-KA-A00-0280	0	bud	01:34:11;
+
+[PrintText]=01:34:11	Ruka	Hey, why don't we all watch this together?	01:37:15;
+
+[PlayVoice]=01:34:11	Voice04/04-KA/04-KA-A00/04-KA-A00-0290	0	buc	01:37:15;
+
+[PrintText]=01:37:15	Natsuki	Watch what?	01:38:16;
+
+[PlayVoice]=01:37:15	Voice04/04-KA/04-KA-A00/04-KA-A00-0300	0	bue	01:38:16;
+
+[PrintText]=01:38:16	Ruka	This.	01:39:11;
+
+[PlayVoice]=01:38:16	Voice04/04-KA/04-KA-A00/04-KA-A00-0310	0	buc	01:39:11;
+
+[PrintText]=01:39:11	Mugi	That's dangerous. Secretly taping them was bad enough.	01:43:08;
+
+[PlayVoice]=01:39:11	Voice04/04-KA/04-KA-A00/04-KA-A00-0320	0	bud	01:43:08;
+
+[PrintText]=01:43:08	Ruka	In that case... why don't we have a screening with only the girls who helped and the girls in the movies?	01:49:16;
+
+[PlayVoice]=01:43:08	Voice04/04-KA/04-KA-A00/04-KA-A00-0330	0	buc	01:49:16;
+
+[PrintText]=01:49:16	Natsuki	That kind of sounds like fun.	01:51:19;
+
+[PlayVoice]=01:49:16	Voice04/04-KA/04-KA-A00/04-KA-A00-0340	0	bue	01:51:19;
+
+[PrintText]=01:51:20	Roka	I... think I might like to see that too.	01:54:17;
+
+[PlayVoice]=01:51:20	Voice04/04-KA/04-KA-A00/04-KA-A00-0350	0	rok	01:54:17;
+
+[PrintText]=01:54:16	Ruka	Okay, let's borrow the AV room while the teacher's gone and have ourselves a film festival.	02:00:11;
+
+[PlayVoice]=01:54:16	Voice04/04-KA/04-KA-A00/04-KA-A00-0360	0	buc	02:00:11;
+
+[PrintText]=02:00:11	Natsuki	Just like the real thing!	02:02:08;
+
+[PlayVoice]=02:00:11	Voice04/04-KA/04-KA-A00/04-KA-A00-0370	0	bue	02:02:08;
+
+[PrintText]=02:02:08	Mugi	Don't say I didn't warn you.	02:04:05;
+
+[PlayVoice]=02:02:08	Voice04/04-KA/04-KA-A00/04-KA-A00-0380	0	bud	02:04:05;
+
+[PrintText]=02:04:05	Ruka	The seniors'll be involved, so you should come along. Oh, and we've got to invite the girl who lent us the space, too.	02:13:13;
+
+[PlayVoice]=02:04:05	Voice04/04-KA/04-KA-A00/04-KA-A00-0390	0	buc	02:13:13;
+
+[CreateBG]=02:13:11	BGS	Event04/04-KA/04-KA-A00/04-KA-A00-003	02:27:16;
+
+[PrintText]=02:13:13	Natsuki	This sounds like it's going to be fun.	02:16:03;
+
+[PlayVoice]=02:13:13	Voice04/04-KA/04-KA-A00/04-KA-A00-0400	0	bue	02:16:03;
+
+[PrintText]=02:15:22	Roka	Yep!	02:16:18;
+
+[PlayVoice]=02:15:22	Voice04/04-KA/04-KA-A00/04-KA-A00-0410	0	rok	02:16:18;
+
+[PlaySe]=02:16:22	0	Voice04/04-KA/04-KA-A00/04-KA-A00-0460	02:27:13;
+
+ ;
+
+[Next]=02:27:16;
+

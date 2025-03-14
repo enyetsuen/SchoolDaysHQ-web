@@ -1,0 +1,28 @@
+[SkipFRAME]=00:13:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:13:04;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D02/04-SE-D02-001	00:01:01;
+
+[CreateBG]=00:01:01	BGS	Event04/04-SE/04-SE-D02/04-SE-D02-001C	00:03:13;
+
+[PrintText]=00:01:01	Sekai	Sekai: "You can't just buy me off like that."\nMakoto: "In that case, let me treat you to something."	00:03:13;
+
+[CreateBG]=00:03:13	BGS	Event04/04-SE/04-SE-D02/04-SE-D02-001D	00:06:01;
+
+[PrintText]=00:03:13	Makoto	"See? You ARE mad. How does Pure Burger sound?"	00:06:01;
+
+[CreateBG]=00:06:01	BGS	Event04/04-SE/04-SE-D02/04-SE-D02-001E	00:09:04;
+
+[PrintText]=00:06:01	Sekai	"I'll forgive you...\nif you make it a set meal with a lychee shake."	00:10:15;
+
+[CreateBG]=00:09:04	BGS	Event04/04-SE/04-SE-D02/04-SE-D02-001F	00:10:15;
+
+[CreateBG]=00:10:15	BGS	Event04/04-SE/04-SE-D02/04-SE-D02-001G	00:13:04;
+
+[PlayVoice]=00:10:15	Voice04/04-SE/04-SE-D02/04-SE-D02-0080			00:12:18;
+
+ ;
+
+[Next]=00:13:04;
+

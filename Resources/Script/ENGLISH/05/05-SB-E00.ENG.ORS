@@ -1,0 +1,96 @@
+[SkipFRAME]=01:02:07;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-001	00:28:11;
+
+[PrintText]=00:00:00	Hikari	Haah... that sure is a nice CD. Maybe I'll go and buy the first-press edition.	00:06:03;
+
+[PlayVoice]=00:00:00	Voice05/05-SB/05-SB-E00/05-SB-E00-0040	0	hik	00:06:03;
+
+[PrintText]=00:06:03	Sekai	First-press or not, the music's still the same.	00:09:04;
+
+[PlayVoice]=00:06:03	Voice05/05-SB/05-SB-E00/05-SB-E00-0050	0	sek	00:09:04;
+
+[PrintText]=00:09:04	Hikari	Yeah, but the liner notes and stuff are different.	00:12:16;
+
+[PlayVoice]=00:09:04	Voice05/05-SB/05-SB-E00/05-SB-E00-0060	0	hik	00:12:16;
+
+[PrintText]=00:12:16	Sekai	Is that how it is?	00:14:04;
+
+[PlayVoice]=00:12:16	Voice05/05-SB/05-SB-E00/05-SB-E00-0070	0	sek	00:14:04;
+
+[PrintText]=00:14:04	Hikari	Yeah!	00:14:21;
+
+[PlayVoice]=00:14:04	Voice05/05-SB/05-SB-E00/05-SB-E00-0080	0	hik	00:14:21;
+
+[PrintText]=00:14:22	Sekai	Hmn.	00:16:06;
+
+[PlayVoice]=00:14:22	Voice05/05-SB/05-SB-E00/05-SB-E00-0090	0	sek	00:16:06;
+
+[PrintText]=00:16:05	Hikari	Are you sure you didn't want to stop by Pure Burger?	00:18:21;
+
+[PlayVoice]=00:16:05	Voice05/05-SB/05-SB-E00/05-SB-E00-0100	0	hik	00:18:21;
+
+[PrintText]=00:18:21	Sekai	Why do you ask?	00:19:18;
+
+[PlayVoice]=00:18:21	Voice05/05-SB/05-SB-E00/05-SB-E00-0110	0	sek	00:19:18;
+
+[PrintText]=00:19:18	Hikari	Well, you haven't been there at all, recently. I thought you should get to know how great the lychee shake is, too.	00:26:17;
+
+[PlayVoice]=00:19:18	Voice05/05-SB/05-SB-E00/05-SB-E00-0120	0	hik	00:26:17;
+
+[PrintText]=00:26:17	Sekai	That's just... ah!	00:29:01;
+
+[PlayVoice]=00:26:17	Voice05/05-SB/05-SB-E00/05-SB-E00-0130	0	sek	00:29:01;
+
+[CreateBG]=00:28:11	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-002	00:30:02;
+
+[PlayBgm]=00:29:01	BGM/SD_BGM/sdbgm19	01:02:07;
+
+[PlayMovie]=00:30:02	Movie05/05-SB/05-SB-E00/05-SB-E00-003_005	0	00:35:23;
+
+[CreateBG]=00:35:23	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-006	00:37:08;
+
+[PrintText]=00:36:02	Hikari	What's wrong?	00:37:06;
+
+[PlayVoice]=00:36:02	Voice05/05-SB/05-SB-E00/05-SB-E00-0160	0	hik	00:37:06;
+
+[PrintText]=00:37:06	Sekai	It's nothing.	00:38:05;
+
+[PlayVoice]=00:37:06	Voice05/05-SB/05-SB-E00/05-SB-E00-0170	0	sek	00:38:05;
+
+[CreateBG]=00:37:08	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-007	00:38:07;
+
+[PlayMovie]=00:38:07	Movie05/05-SB/05-SB-E00/05-SB-E00-008_010	0	00:44:07;
+
+[CreateBG]=00:44:07	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-011	00:58:16;
+
+[PrintText]=00:44:09	Sekai	H-hey, listen! I think I'll go and try that shake, after all.	00:49:01;
+
+[PlayVoice]=00:44:09	Voice05/05-SB/05-SB-E00/05-SB-E00-0200	0	sek	00:49:01;
+
+[PrintText]=00:49:01	Hikari	Really?	00:50:00;
+
+[PlayVoice]=00:49:01	Voice05/05-SB/05-SB-E00/05-SB-E00-0210	0	hik	00:50:00;
+
+[PrintText]=00:50:00	Sekai	Yeah. So come on, let's go back.	00:52:07;
+
+[PlayVoice]=00:50:00	Voice05/05-SB/05-SB-E00/05-SB-E00-0220	0	sek	00:52:07;
+
+[PrintText]=00:52:07	Hikari	Eh? Why don't we just go to the Pure Burger in front of Motehara-sakashita station? It's on the way.	00:58:15;
+
+[PlayVoice]=00:52:07	Voice05/05-SB/05-SB-E00/05-SB-E00-0230	0	hik	00:58:15;
+
+[CreateBG]=00:58:16	BGS	Event05/05-SB/05-SB-E00/05-SB-E00-012	01:02:07;
+
+[PrintText]=00:58:16	Sekai	It's fine, let's just go back.	01:00:22;
+
+[PlayVoice]=00:58:16	Voice05/05-SB/05-SB-E00/05-SB-E00-0240	0	sek	01:00:22;
+
+[PrintText]=01:00:22	Hikari	Okay.	01:02:01;
+
+[PlayVoice]=01:00:22	Voice05/05-SB/05-SB-E00/05-SB-E00-0250	0	hik	01:02:01;
+
+ ;
+
+[Next]=01:02:07;
+

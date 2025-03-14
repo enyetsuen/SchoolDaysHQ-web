@@ -1,0 +1,46 @@
+[SkipFRAME]=00:25:02;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm08	00:25:02;
+
+[PlayMovie]=00:00:00	Movie05/05-5O/05-5O-D09/05-5O-D09-001	0	00:14:18;
+
+[PrintText]=00:00:01	Makoto	Haah... I'm feeling a bit flushed now.	00:04:06;
+
+[PlayVoice]=00:00:01	Voice05/05-5O/05-5O-D09/05-5O-D09-0030	1	mak	00:04:06;
+
+[PrintText]=00:03:17	Itaru	I'm okay.	00:05:08;
+
+[PlayVoice]=00:03:17	Voice05/05-5O/05-5O-D09/05-5O-D09-0040	0	ita	00:05:08;
+
+[PrintText]=00:05:09	Makoto	That's because you've just been splashing around this whole time.	00:08:11;
+
+[PlayVoice]=00:05:09	Voice05/05-5O/05-5O-D09/05-5O-D09-0050	1	mak	00:08:11;
+
+[PrintText]=00:08:06	Itaru	Eheheh...	00:09:12;
+
+[PlayVoice]=00:08:06	Voice05/05-5O/05-5O-D09/05-5O-D09-0060	0	ita	00:09:12;
+
+[PrintText]=00:09:08	Makoto	Okay, dip down to your shoulders and count for 20 seconds, then we'll get out and have some peach juice.	00:15:03;
+
+[PlayVoice]=00:09:08	Voice05/05-5O/05-5O-D09/05-5O-D09-0070	1	mak	00:15:03;
+
+[PlayMovie]=00:14:18	Movie05/05-5O/05-5O-D09/05-5O-D09-002	0	00:25:02;
+
+[PrintText]=00:15:00	Itaru	Peach juice!	00:16:17;
+
+[PlayVoice]=00:15:00	Voice05/05-5O/05-5O-D09/05-5O-D09-0080	0	ita	00:16:17;
+
+[PrintText]=00:16:07	Makoto	Hey, now. Count to 20 first.	00:19:05;
+
+[PlayVoice]=00:16:07	Voice05/05-5O/05-5O-D09/05-5O-D09-0100	1	mak	00:19:05;
+
+[PrintText]=00:19:03	Itaru	Okay! One! Two! Three!...	00:25:02;
+
+[PlayVoice]=00:19:03	Voice05/05-5O/05-5O-D09/05-5O-D09-0120	0	ita	00:25:02;
+
+[BlackFade]=00:24:02	OUT	00:25:02;
+
+ ;
+
+[Next]=00:25:02;
+

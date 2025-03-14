@@ -1,0 +1,606 @@
+[SkipFRAME]=06:37:07;
+
+[PlaySe]=00:00:00	2	Se04/04-SB/04-SB-E00/SE04-SB-E00-001	01:26:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-001	00:18:01;
+
+[PrintText]=00:00:00	Nanami	Why'd you suddenly call me out here like this?	00:02:17;
+
+[PlayVoice]=00:00:00	Voice04/04-SB/04-SB-E00/04-SB-E00-0040	0	nan	00:02:17;
+
+[PrintText]=00:02:17	Sekai	Ah... Nanami. You're in a bad mood.	00:06:14;
+
+[PlayVoice]=00:02:17	Voice04/04-SB/04-SB-E00/04-SB-E00-0050	0	sek	00:06:14;
+
+[PrintText]=00:06:13	Nanami	Well, of course. It's my day off from club. I'd prefer to be out spending it on a date with my boyfriend.	00:12:19;
+
+[PlayVoice]=00:06:13	Voice04/04-SB/04-SB-E00/04-SB-E00-0060	0	nan	00:12:19;
+
+[PrintText]=00:12:19	Hikari	You should have just gone.	00:14:11;
+
+[PlayVoice]=00:12:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0070	0	hik	00:14:11;
+
+[PrintText]=00:14:11	Setsuna	She just called him. Sounds like they're fighting.	00:18:04;
+
+[PlayVoice]=00:14:11	Voice04/04-SB/04-SB-E00/04-SB-E00-0080	0	set	00:18:04;
+
+[CreateBG]=00:18:01	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-002	00:19:18;
+
+[PrintText]=00:18:04	Nanami	You keep quiet, Setsuna!	00:19:16;
+
+[PlayVoice]=00:18:04	Voice04/04-SB/04-SB-E00/04-SB-E00-0090	0	nan	00:19:16;
+
+[PrintText]=00:19:16	Setsuna	Bullseye.	00:20:19;
+
+[PlayVoice]=00:19:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0100	0	set	00:20:19;
+
+[CreateBG]=00:19:18	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-003	00:42:04;
+
+[PrintText]=00:20:19	Hikari	Oh, so they're fighting.	00:23:19;
+
+[PlayVoice]=00:20:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0120	0	hik	00:23:19;
+
+[PrintText]=00:23:19	Nanami	Well, just listen to this. Senpai turned me down because today's the release date for a game.	00:30:12;
+
+[PlayVoice]=00:23:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0130	0	nan	00:30:12;
+
+[PrintText]=00:30:12	Hikari	Release date for a game?	00:32:14;
+
+[PlayVoice]=00:30:12	Voice04/04-SB/04-SB-E00/04-SB-E00-0140	0	hik	00:32:14;
+
+[PrintText]=00:32:14	Nanami	Apparently the official date is tomorrow, but he said something about having a contact	00:38:11;
+
+[PlayVoice]=00:32:14	Voice04/04-SB/04-SB-E00/04-SB-E00-0150	0	nan	00:38:11;
+
+[PrintText]=00:38:11	Nanami	who was breaking the street date or something, so he's going to buy it today.	00:42:03;
+
+[PlayVoice]=00:38:11	Voice04/04-SB/04-SB-E00/04-SB-E00-0151	0	nan	00:42:03;
+
+[CreateBG]=00:42:04	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-004	00:52:06;
+
+[PrintText]=00:42:11	Setsuna	What kind of game?	00:43:17;
+
+[PlayVoice]=00:42:11	Voice04/04-SB/04-SB-E00/04-SB-E00-0160	0	set	00:43:17;
+
+[PrintText]=00:43:17	Nanami	One on the PC... what was it called again? One of those indecent ones!	00:49:14;
+
+[PlayVoice]=00:43:17	Voice04/04-SB/04-SB-E00/04-SB-E00-0170	0	nan	00:49:14;
+
+[PrintText]=00:49:13	Hikari	What? That sounds like fun.	00:52:07;
+
+[PlayVoice]=00:49:13	Voice04/04-SB/04-SB-E00/04-SB-E00-0180	0	hik	00:52:07;
+
+[CreateBG]=00:52:06	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-005	00:57:06;
+
+[PrintText]=00:52:08	Nanami	It's not! Just the other day, I went over to his room to have some fun, and...	00:57:09;
+
+[PlayVoice]=00:52:08	Voice04/04-SB/04-SB-E00/04-SB-E00-0190	0	nan	00:57:09;
+
+[CreateBG]=00:57:06	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-006	01:11:18;
+
+[PrintText]=00:57:09	Hikari	Uwah... you've been going to your boyfriend's room?	01:00:07;
+
+[PlayVoice]=00:57:09	Voice04/04-SB/04-SB-E00/04-SB-E00-0200	0	hik	01:00:07;
+
+[PrintText]=01:00:07	Nanami	Yep. So, I was lying on his bed, and I said, 'Senpai, do you want to go out somewhere?	01:07:02;
+
+[PlayVoice]=01:00:07	Voice04/04-SB/04-SB-E00/04-SB-E00-0210	0	nan	01:07:02;
+
+[PrintText]=01:07:02	Nanami	Or would you prefer we have some fun here?'	01:10:16;
+
+[PlayVoice]=01:07:02	Voice04/04-SB/04-SB-E00/04-SB-E00-0211	0	nan	01:10:16;
+
+[PrintText]=01:10:16	Hikari	That's bold...	01:11:21;
+
+[PlayVoice]=01:10:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0220	0	hik	01:11:21;
+
+[CreateBG]=01:11:18	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-007	01:18:05;
+
+[PrintText]=01:11:20	Nanami	Right? I mean, that took guts to say!	01:16:07;
+
+[PlayVoice]=01:11:20	Voice04/04-SB/04-SB-E00/04-SB-E00-0230	0	nan	01:16:07;
+
+[PrintText]=01:16:08	Hikari	Yeah, yeah! So?	01:18:08;
+
+[PlayVoice]=01:16:08	Voice04/04-SB/04-SB-E00/04-SB-E00-0240	0	hik	01:18:08;
+
+[CreateBG]=01:18:05	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-001	01:26:00;
+
+[PrintText]=01:18:07	Nanami	And then... he just stared at his monitor. He hadn't heard a word!	01:24:06;
+
+[PlayVoice]=01:18:07	Voice04/04-SB/04-SB-E00/04-SB-E00-0250	0	nan	01:24:06;
+
+[PrintText]=01:24:06	Hikari	Ahahah.	01:25:23;
+
+[PlayVoice]=01:24:06	Voice04/04-SB/04-SB-E00/04-SB-E00-0260	0	hik	01:25:23;
+
+[PrintText]=01:25:23	Nanami	And then, this girl with red or pink hair or whatever pops up!	01:31:04;
+
+[PlayVoice]=01:25:23	Voice04/04-SB/04-SB-E00/04-SB-E00-0270	0	nan	01:31:04;
+
+[PlayMovie]=01:26:00	Movie04/04-SB/04-SB-E00/H4-SB-E00-009	0	01:51:06;
+
+[PlaySe]=01:26:16	3	Se04/04-SB/04-SB-E00/SE04-SB-E00-001	02:53:15;
+
+[PrintText]=01:31:04	Nanami	And she's all naked, and like, 'Kasannoin-senpai, I love you!'	01:36:12;
+
+[PlayVoice]=01:31:04	Voice04/04-SB/04-SB-E00/04-SB-E00-0271	0	nan	01:36:12;
+
+[PrintText]=01:36:11	Hikari	Kasannoin?	01:38:05;
+
+[PlayVoice]=01:36:11	Voice04/04-SB/04-SB-E00/04-SB-E00-0280	0	hik	01:38:05;
+
+[PrintText]=01:38:05	Setsuna	Her boyfriend's name. Kasannoin Kyouichi. Second year class 1.	01:43:17;
+
+[PlayVoice]=01:38:05	Voice04/04-SB/04-SB-E00/04-SB-E00-0290	0	set	01:43:17;
+
+[PrintText]=01:43:17	Hikari	I see...	01:45:00;
+
+[PlayVoice]=01:43:17	Voice04/04-SB/04-SB-E00/04-SB-E00-0300	0	hik	01:45:00;
+
+[PrintText]=01:44:23	Nanami	So then, he was like...	01:46:09;
+
+[PlayVoice]=01:44:23	Voice04/04-SB/04-SB-E00/04-SB-E00-0310	0	nan	01:46:09;
+
+[PrintText]=01:46:09	Nanami	'Whatever-tan, haah haah.'	01:48:19;
+
+[PlayVoice]=01:46:09	Voice04/04-SB/04-SB-E00/04-SB-E00-0320	0	nan	01:48:19;
+
+[PrintText]=01:48:19	Nanami	That's what he said!	01:51:05;
+
+[PlayVoice]=01:48:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0330	0	nan	01:51:05;
+
+[PrintText]=01:51:05	Hikari	Uwah...	01:52:22;
+
+[PlayVoice]=01:51:05	Voice04/04-SB/04-SB-E00/04-SB-E00-0340	0	hik	01:52:22;
+
+[PlayMovie]=01:51:06	Movie04/04-SB/04-SB-E00/04-SB-E00-010	0	02:10:00;
+
+[PrintText]=01:52:22	Setsuna	He's an otaku.	01:54:05;
+
+[PlayVoice]=01:52:22	Voice04/04-SB/04-SB-E00/04-SB-E00-0350	0	set	01:54:05;
+
+[PrintText]=01:54:05	Nanami	That's fine! I'm aware of that, and I still like him!	01:57:13;
+
+[PlayVoice]=01:54:05	Voice04/04-SB/04-SB-E00/04-SB-E00-0360	0	nan	01:57:13;
+
+[PlaySe]=01:54:08	1	Se04/04-SB/04-SB-E00/SE04-SB-E00-002	01:54:23;
+
+[PrintText]=01:57:13	Setsuna	Now she's defending him.	01:59:01;
+
+[PlayVoice]=01:57:13	Voice04/04-SB/04-SB-E00/04-SB-E00-0370	0	set	01:59:01;
+
+[PrintText]=01:59:01	Nanami	But getting all into a girl on his monitor while his girlfriend's lying on his bed? You've got to be kidding, right?!	02:07:08;
+
+[PlayVoice]=01:59:01	Voice04/04-SB/04-SB-E00/04-SB-E00-0380	0	nan	02:07:08;
+
+[PrintText]=02:07:08	Hikari	Haha... yeah.	02:09:22;
+
+[PlayVoice]=02:07:08	Voice04/04-SB/04-SB-E00/04-SB-E00-0390	0	hik	02:09:22;
+
+[PrintText]=02:09:22	Nanami	So, I got mad and just started picking up his game boxes lying all over the place!	02:14:05;
+
+[PlayVoice]=02:09:22	Voice04/04-SB/04-SB-E00/04-SB-E00-0400	0	nan	02:14:05;
+
+[CreateBG]=02:10:00	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-011	02:22:19;
+
+[PrintText]=02:14:05	Hikari	Yeah, throw them away!	02:16:18;
+
+[PlayVoice]=02:14:05	Voice04/04-SB/04-SB-E00/04-SB-E00-0410	0	hik	02:16:18;
+
+[PrintText]=02:16:18	Nanami	And then he was like, 'If you're interested in any of them, feel free to take them.'...	02:21:01;
+
+[PlayVoice]=02:16:18	Voice04/04-SB/04-SB-E00/04-SB-E00-0420	0	nan	02:21:01;
+
+[PrintText]=02:21:01	Hikari	Aww.	02:22:19;
+
+[PlayVoice]=02:21:01	Voice04/04-SB/04-SB-E00/04-SB-E00-0430	0	hik	02:22:19;
+
+[CreateBG]=02:22:19	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-012	02:28:21;
+
+[PrintText]=02:22:19	Setsuna	Did you take them?	02:24:06;
+
+[PlayVoice]=02:22:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0440	0	set	02:24:06;
+
+[PrintText]=02:24:05	Hikari	Come on, what would she do with them?	02:27:18;
+
+[PlayVoice]=02:24:05	Voice04/04-SB/04-SB-E00/04-SB-E00-0450	0	hik	02:27:18;
+
+[PrintText]=02:27:18	Nanami	...	02:28:21;
+
+[PlayVoice]=02:27:18	Voice04/04-SB/04-SB-E00/04-SB-E00-0460	0	xxx	02:28:21;
+
+[PlayMovie]=02:28:21	Movie04/04-SB/04-SB-E00/04-SB-E00-013	0	02:42:18;
+
+[PrintText]=02:28:21	Hikari	Eh? Nanami, don't tell me you...?	02:32:21;
+
+[PlayVoice]=02:28:21	Voice04/04-SB/04-SB-E00/04-SB-E00-0470	0	hik	02:32:21;
+
+[PrintText]=02:32:21	Nanami	I took them! I mean... it's the first time he's ever given me anything!	02:38:23;
+
+[PlayVoice]=02:32:21	Voice04/04-SB/04-SB-E00/04-SB-E00-0480	0	nan	02:38:23;
+
+[PrintText]=02:38:23	Hikari	His first present was a porn game...?	02:42:17;
+
+[PlayVoice]=02:38:23	Voice04/04-SB/04-SB-E00/04-SB-E00-0490	0	hik	02:42:17;
+
+[PrintText]=02:42:17	Nanami	Even after I took all his games, he's still going to buy more today. It's so frustrating! You guys agree with me, right?!	02:51:00;
+
+[PlayVoice]=02:42:17	Voice04/04-SB/04-SB-E00/04-SB-E00-0500	0	nan	02:51:00;
+
+[CreateBG]=02:42:18	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-014	02:52:16;
+
+[PrintText]=02:51:00	Hikari	Yeah, I guess...	02:52:16;
+
+[PlayVoice]=02:51:00	Voice04/04-SB/04-SB-E00/04-SB-E00-0510	0	hik	02:52:16;
+
+[CreateBG]=02:52:16	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-015	02:57:19;
+
+[PrintText]=02:52:16	Setsuna	But still.	02:53:12;
+
+[PlayVoice]=02:52:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0520	0	set	02:53:12;
+
+[PlaySe]=02:52:18	2	Se04/04-SB/04-SB-E00/SE04-SB-E00-001	04:19:17;
+
+[PrintText]=02:53:12	Hikari	Yeah.	02:54:12;
+
+[PlayVoice]=02:53:12	Voice04/04-SB/04-SB-E00/04-SB-E00-0530	0	hik	02:54:12;
+
+[PrintText]=02:54:12	Nanami	What?	02:55:14;
+
+[PlayVoice]=02:54:12	Voice04/04-SB/04-SB-E00/04-SB-E00-0540	0	nan	02:55:14;
+
+[PrintText]=02:55:14	Setsuna	We're single.	02:57:19;
+
+[PlayVoice]=02:55:14	Voice04/04-SB/04-SB-E00/04-SB-E00-0550	0	set	02:57:19;
+
+[CreateBG]=02:57:19	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-001	03:05:13;
+
+[PrintText]=02:57:19	Hikari	We wouldn't understand such extravagant concerns.	03:01:15;
+
+[PlayVoice]=02:57:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0560	0	hik	03:01:15;
+
+[PrintText]=03:01:15	Nanami	Kuh... you insensitive clods!	03:03:23;
+
+[PlayVoice]=03:01:15	Voice04/04-SB/04-SB-E00/04-SB-E00-0570	0	nan	03:03:23;
+
+[PrintText]=03:03:22	Hikari	Ahahah.	03:05:12;
+
+[PlayVoice]=03:03:22	Voice04/04-SB/04-SB-E00/04-SB-E00-0580	0	hik	03:05:12;
+
+[PlayMovie]=03:05:13	Movie04/04-SB/04-SB-E00/04-SB-E00-017	0	03:15:05;
+
+[PrintText]=03:05:13	Sekai	Hey... sorry to interrupt when you're all getting excited...	03:09:19;
+
+[PlayVoice]=03:05:13	Voice04/04-SB/04-SB-E00/04-SB-E00-0590	0	sek	03:09:19;
+
+[PrintText]=03:09:19	Hikari	Eh?	03:10:12;
+
+[PlayVoice]=03:09:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0600	0	hik	03:10:12;
+
+[PrintText]=03:10:12	Sekai	But can we get to the main issue?	03:12:04;
+
+[PlayVoice]=03:10:12	Voice04/04-SB/04-SB-E00/04-SB-E00-0610	0	sek	03:12:04;
+
+[PrintText]=03:12:04	Hikari	Ah! Sorry.	03:13:22;
+
+[PlayVoice]=03:12:04	Voice04/04-SB/04-SB-E00/04-SB-E00-0620	0	hik	03:13:22;
+
+[PrintText]=03:13:22	Setsuna	Sure.	03:15:05;
+
+[PlayVoice]=03:13:22	Voice04/04-SB/04-SB-E00/04-SB-E00-0630	0	set	03:15:05;
+
+[CreateBG]=03:15:05	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-018	03:25:04;
+
+[PrintText]=03:15:05	Sekai	Um... please don't be too surprised, but...	03:20:06;
+
+[PlayVoice]=03:15:05	Voice04/04-SB/04-SB-E00/04-SB-E00-0640	0	sek	03:20:06;
+
+[PrintText]=03:20:05	Nanami	What is it? Stop teasing us.	03:22:15;
+
+[PlayVoice]=03:20:05	Voice04/04-SB/04-SB-E00/04-SB-E00-0650	0	nan	03:22:15;
+
+[PrintText]=03:22:16	Sekai	Well...	03:23:14;
+
+[PlayVoice]=03:22:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0660	0	sek	03:23:14;
+
+[PrintText]=03:23:13	Hikari	Uh-huh.	03:24:07;
+
+[PlayVoice]=03:23:13	Voice04/04-SB/04-SB-E00/04-SB-E00-0670	0	hik	03:24:07;
+
+[PrintText]=03:24:08	Setsuna	Tell us.	03:25:04;
+
+[PlayVoice]=03:24:08	Voice04/04-SB/04-SB-E00/04-SB-E00-0680	0	set	03:25:04;
+
+[CreateBG]=03:25:04	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-019	03:28:07;
+
+[PrintText]=03:25:04	Sekai	...Sawanaga's got a girlfriend.	03:28:07;
+
+[PlayVoice]=03:25:04	Voice04/04-SB/04-SB-E00/04-SB-E00-0690	0	sek	03:28:07;
+
+[CreateBG]=03:28:07	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-020	03:50:15;
+
+[PrintText]=03:28:09	Setsuna Setsuna・Nanami・Hikari Nanami Setsuna・Nanami・Hikari Hikari	What?!	03:30:03;
+
+[PlayVoice]=03:28:09	Voice04/04-SB/04-SB-E00/04-SB-E00-0700	0	x03	03:30:03;
+
+[PrintText]=03:31:06	Sekai	I knew you'd all be surprised.	03:32:19;
+
+[PlayVoice]=03:31:06	Voice04/04-SB/04-SB-E00/04-SB-E00-0710	0	sek	03:32:19;
+
+[PrintText]=03:32:19	Nanami	Of course we are!	03:34:17;
+
+[PlayVoice]=03:32:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0720	0	nan	03:34:17;
+
+[PrintText]=03:34:17	Setsuna	Who is she?	03:36:09;
+
+[PlayVoice]=03:34:17	Voice04/04-SB/04-SB-E00/04-SB-E00-0730	0	set	03:36:09;
+
+[PrintText]=03:36:08	Sekai	Well... it's a girl that I know.	03:40:13;
+
+[PlayVoice]=03:36:08	Voice04/04-SB/04-SB-E00/04-SB-E00-0740	0	sek	03:40:13;
+
+[PrintText]=03:40:14	Nanami	From junior high?	03:41:22;
+
+[PlayVoice]=03:40:14	Voice04/04-SB/04-SB-E00/04-SB-E00-0750	0	nan	03:41:22;
+
+[PrintText]=03:41:23	Sekai	No... from class 4.	03:44:17;
+
+[PlayVoice]=03:41:23	Voice04/04-SB/04-SB-E00/04-SB-E00-0760	0	sek	03:44:17;
+
+[PrintText]=03:44:16	Hikari	Who?	03:45:21;
+
+[PlayVoice]=03:44:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0770	0	hik	03:45:21;
+
+[PrintText]=03:45:21	Sekai	Her name's Katsura...	03:48:03;
+
+[PlayVoice]=03:45:21	Voice04/04-SB/04-SB-E00/04-SB-E00-0780	0	sek	03:48:03;
+
+[PrintText]=03:48:03	Nanami	Katsura? You mean...?	03:50:17;
+
+[PlayVoice]=03:48:03	Voice04/04-SB/04-SB-E00/04-SB-E00-0790	0	nan	03:50:17;
+
+[CreateBG]=03:50:15	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-004	03:57:22;
+
+[PrintText]=03:50:16	Sekai	You know her?	03:51:14;
+
+[PlayVoice]=03:50:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0800	0	sek	03:51:14;
+
+[PrintText]=03:51:14	Nanami	If you mean Katsura from class 4, we went to Harami junior high together.	03:55:13;
+
+[PlayVoice]=03:51:14	Voice04/04-SB/04-SB-E00/04-SB-E00-0810	0	nan	03:55:13;
+
+[PrintText]=03:55:13	Setsuna	So, you're from the same school.	03:57:23;
+
+[PlayVoice]=03:55:13	Voice04/04-SB/04-SB-E00/04-SB-E00-0820	0	set	03:57:23;
+
+[CreateBG]=03:57:22	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-018	04:09:14;
+
+[PrintText]=03:57:23	Nanami	Yeah, but we didn't have any contact at all... she got bullied, and I was a club member. We had no connections.	04:07:19;
+
+[PlayVoice]=03:57:23	Voice04/04-SB/04-SB-E00/04-SB-E00-0830	0	nan	04:07:19;
+
+[PrintText]=04:07:19	Sekai	She got bullied?	04:09:14;
+
+[PlayVoice]=04:07:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0840	0	sek	04:09:14;
+
+[CreateBG]=04:09:14	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-012	04:32:01;
+
+[PrintText]=04:09:14	Nanami	If you know her, I'm sure you must have seen that chest of hers.	04:13:06;
+
+[PlayVoice]=04:09:14	Voice04/04-SB/04-SB-E00/04-SB-E00-0850	0	nan	04:13:06;
+
+[PrintText]=04:13:07	Sekai	Ah... yeah.	04:15:04;
+
+[PlayVoice]=04:13:07	Voice04/04-SB/04-SB-E00/04-SB-E00-0860	0	sek	04:15:04;
+
+[PrintText]=04:15:03	Nanami	She's not bad looking, and with those breasts, she was a real hit with the boys...	04:20:03;
+
+[PlayVoice]=04:15:03	Voice04/04-SB/04-SB-E00/04-SB-E00-0870	0	nan	04:20:03;
+
+[PlaySe]=04:19:06	3	Se04/04-SB/04-SB-E00/SE04-SB-E00-001	05:46:05;
+
+[PrintText]=04:20:03	Nanami	but she's got no initiative, and she can't take a hint, right? That's why all the girls ignored her.	04:26:03;
+
+[PlayVoice]=04:20:03	Voice04/04-SB/04-SB-E00/04-SB-E00-0871	0	nan	04:26:03;
+
+[PrintText]=04:26:16	Sekai	I see...	04:28:04;
+
+[PlayVoice]=04:26:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0880	0	sek	04:28:04;
+
+[PrintText]=04:28:03	Setsuna	Sawanaga's got no experience with this sort of thing, so it must have hit him hard.	04:32:01;
+
+[PlayVoice]=04:28:03	Voice04/04-SB/04-SB-E00/04-SB-E00-0890	0	set	04:32:01;
+
+[CreateBG]=04:32:01	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-011	04:50:22;
+
+[PrintText]=04:32:01	Nanami	That's a pretty shameless thing to say, Setsuna.	04:34:18;
+
+[PlayVoice]=04:32:01	Voice04/04-SB/04-SB-E00/04-SB-E00-0900	0	nan	04:34:18;
+
+[PrintText]=04:34:18	Nanami	She probably lives within the Harami junior high school district... so it shouldn't be far from Hikari's house, right?	04:40:10;
+
+[PlayVoice]=04:34:18	Voice04/04-SB/04-SB-E00/04-SB-E00-0910	0	nan	04:40:10;
+
+[PrintText]=04:40:10	Sekai	Huh? Didn't Hikari go to the same school as Sawanaga?	04:44:19;
+
+[PlayVoice]=04:40:10	Voice04/04-SB/04-SB-E00/04-SB-E00-0920	0	sek	04:44:19;
+
+[PrintText]=04:44:19	Nanami	They waited until she went to high school before moving to their brand new house. We all went there last time, remember?	04:51:00;
+
+[PlayVoice]=04:44:19	Voice04/04-SB/04-SB-E00/04-SB-E00-0930	0	nan	04:51:00;
+
+[CreateBG]=04:50:22	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-027	05:10:20;
+
+[PrintText]=04:50:23	Sekai	I see. I guess her house is pretty new.	04:54:13;
+
+[PlayVoice]=04:50:23	Voice04/04-SB/04-SB-E00/04-SB-E00-0940	0	sek	04:54:13;
+
+[PrintText]=04:54:13	Setsuna	A new house... with the lovely smell of wood.	04:58:01;
+
+[PlayVoice]=04:54:13	Voice04/04-SB/04-SB-E00/04-SB-E00-0950	0	set	04:58:01;
+
+[PrintText]=04:58:00	Hikari	Hey.	04:59:00;
+
+[PlayVoice]=04:58:00	Voice04/04-SB/04-SB-E00/04-SB-E00-0960	0	hik	04:59:00;
+
+[PrintText]=04:59:00	Nanami	Hmn?	04:59:16;
+
+[PlayVoice]=04:59:00	Voice04/04-SB/04-SB-E00/04-SB-E00-0970	0	nan	04:59:16;
+
+[PrintText]=04:59:16	Hikari	...What's this Katsura girl like? Do you have a photo?	05:03:17;
+
+[PlayVoice]=04:59:16	Voice04/04-SB/04-SB-E00/04-SB-E00-0980	0	hik	05:03:17;
+
+[PrintText]=05:03:17	Sekai	Well, I took one with my phone before...	05:07:07;
+
+[PlayVoice]=05:03:17	Voice04/04-SB/04-SB-E00/04-SB-E00-0990	0	sek	05:07:07;
+
+[PrintText]=05:07:09	Hikari	Show me.	05:08:08;
+
+[PlayVoice]=05:07:09	Voice04/04-SB/04-SB-E00/04-SB-E00-1000	0	hik	05:08:08;
+
+[PrintText]=05:08:05	Setsuna	Me too.	05:09:08;
+
+[PlayVoice]=05:08:05	Voice04/04-SB/04-SB-E00/04-SB-E00-1010	0	set	05:09:08;
+
+[PlayMovie]=05:10:20	Movie04/04-SB/04-SB-E00/04-SB-E00-029	0	05:19:00;
+
+[PrintText]=05:10:20	Setsuna	Hmn.	05:11:12;
+
+[PlayVoice]=05:10:20	Voice04/04-SB/04-SB-E00/04-SB-E00-1030	0	set	05:11:12;
+
+[PrintText]=05:11:08	Hikari	What's this...?	05:12:21;
+
+[PlayVoice]=05:11:08	Voice04/04-SB/04-SB-E00/04-SB-E00-1040	0	hik	05:12:21;
+
+[PrintText]=05:12:19	Setsuna	She's cute.	05:13:22;
+
+[PlayVoice]=05:12:19	Voice04/04-SB/04-SB-E00/04-SB-E00-1050	0	set	05:13:22;
+
+[PrintText]=05:13:22	Hikari	No, she's not.	05:15:05;
+
+[PlayVoice]=05:13:22	Voice04/04-SB/04-SB-E00/04-SB-E00-1060	0	hik	05:15:05;
+
+[PrintText]=05:15:06	Setsuna	Really?	05:16:06;
+
+[PlayVoice]=05:15:06	Voice04/04-SB/04-SB-E00/04-SB-E00-1070	0	set	05:16:06;
+
+[PrintText]=05:16:06	Hikari	She's not cute at all!	05:19:00;
+
+[PlayVoice]=05:16:06	Voice04/04-SB/04-SB-E00/04-SB-E00-1080	0	hik	05:19:00;
+
+[CreateBG]=05:19:00	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-001	05:39:11;
+
+[PrintText]=05:19:00	Nanami	H-hey, calm down.	05:21:23;
+
+[PlayVoice]=05:19:00	Voice04/04-SB/04-SB-E00/04-SB-E00-1090	0	nan	05:21:23;
+
+[PrintText]=05:21:23	Hikari	Though her breasts... might be a little big.	05:25:19;
+
+[PlayVoice]=05:21:23	Voice04/04-SB/04-SB-E00/04-SB-E00-1100	0	hik	05:25:19;
+
+[PrintText]=05:25:19	Nanami	They've gotten even bigger since junior high. Despite her height, they're even bigger than mine.	05:33:15;
+
+[PlayVoice]=05:25:19	Voice04/04-SB/04-SB-E00/04-SB-E00-1110	0	nan	05:33:15;
+
+[PrintText]=05:33:15	Hikari	Sawanaga... that damn pervert.	05:37:00;
+
+[PlayVoice]=05:33:15	Voice04/04-SB/04-SB-E00/04-SB-E00-1120	0	hik	05:37:00;
+
+[PrintText]=05:37:01	Setsuna	There's no point taking it out on him.	05:39:13;
+
+[PlayVoice]=05:37:01	Voice04/04-SB/04-SB-E00/04-SB-E00-1130	0	set	05:39:13;
+
+[CreateBG]=05:39:11	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-032	05:43:05;
+
+[PrintText]=05:39:13	Hikari	I know!	05:41:00;
+
+[PlayVoice]=05:39:13	Voice04/04-SB/04-SB-E00/04-SB-E00-1140	0	hik	05:41:00;
+
+[PrintText]=05:41:00	Sekai	Hikari...	05:42:05;
+
+[PlayVoice]=05:41:00	Voice04/04-SB/04-SB-E00/04-SB-E00-1150	0	sek	05:42:05;
+
+[PrintText]=05:42:05	Hikari	...	05:43:05;
+
+[PlayVoice]=05:42:05	Voice04/04-SB/04-SB-E00/04-SB-E00-1160	0	xxx	05:43:05;
+
+[CreateBG]=05:43:05	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-033	06:06:04;
+
+[PrintText]=05:43:05	Nanami	Still, that Katsura sure has weird taste. I thought that Hikari would be the only one who'd go for someone like Sawanaga.	05:51:08;
+
+[PlayVoice]=05:43:05	Voice04/04-SB/04-SB-E00/04-SB-E00-1170	0	nan	05:51:08;
+
+[PlaySe]=05:43:09	2	Se04/04-SB/04-SB-E00/SE04-SB-E00-001	06:37:07;
+
+[PrintText]=05:51:07	Setsuna	Me too.	05:52:09;
+
+[PlayVoice]=05:51:07	Voice04/04-SB/04-SB-E00/04-SB-E00-1180	0	set	05:52:09;
+
+[PrintText]=05:52:09	Sekai	Yeah... but it seems they got pretty close during the festival.	05:58:01;
+
+[PlayVoice]=05:52:09	Voice04/04-SB/04-SB-E00/04-SB-E00-1190	0	sek	05:58:01;
+
+[PrintText]=05:58:02	Nanami	The festival?	05:59:07;
+
+[PlayVoice]=05:58:02	Voice04/04-SB/04-SB-E00/04-SB-E00-1200	0	nan	05:59:07;
+
+[PrintText]=05:59:07	Sekai	Uh-huh.	06:00:05;
+
+[PlayVoice]=05:59:07	Voice04/04-SB/04-SB-E00/04-SB-E00-1210	0	sek	06:00:05;
+
+[PrintText]=06:00:05	Nanami	So that's why we couldn't find him when we were inviting people to the bonfire...	06:06:04;
+
+[PlayVoice]=06:00:05	Voice04/04-SB/04-SB-E00/04-SB-E00-1220	0	nan	06:06:04;
+
+[CreateBG]=06:06:04	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-012	06:11:19;
+
+[PrintText]=06:06:04	Setsuna	Hikari sure was disappointed.	06:09:08;
+
+[PlayVoice]=06:06:04	Voice04/04-SB/04-SB-E00/04-SB-E00-1230	0	set	06:09:08;
+
+[PrintText]=06:09:08	Nanami	Not as much as she is now.	06:11:02;
+
+[PlayVoice]=06:09:08	Voice04/04-SB/04-SB-E00/04-SB-E00-1240	0	nan	06:11:02;
+
+[PrintText]=06:11:02	Setsuna	Uh-huh.	06:11:19;
+
+[PlayVoice]=06:11:02	Voice04/04-SB/04-SB-E00/04-SB-E00-1250	0	set	06:11:19;
+
+[CreateBG]=06:11:19	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-001	06:20:09;
+
+[PrintText]=06:11:19	Sekai	Come on, you two. Don't rub it in!	06:17:14;
+
+[PlayVoice]=06:11:19	Voice04/04-SB/04-SB-E00/04-SB-E00-1260	0	sek	06:17:14;
+
+[PrintText]=06:17:13	Nanami	Haha... sorry.	06:19:11;
+
+[PlayVoice]=06:17:13	Voice04/04-SB/04-SB-E00/04-SB-E00-1270	0	nan	06:19:11;
+
+[PrintText]=06:19:11	Setsuna	Sorry.	06:20:09;
+
+[PlayVoice]=06:19:11	Voice04/04-SB/04-SB-E00/04-SB-E00-1280	0	set	06:20:09;
+
+[CreateBG]=06:20:09	BGS	Event04/04-SB/04-SB-E00/04-SB-E00-036	06:37:06;
+
+[PrintText]=06:20:10	Sekai	Well, they've only just started going out, so there's no telling what'll happen. Still, I thought you should know.	06:28:23;
+
+[PlayVoice]=06:20:10	Voice04/04-SB/04-SB-E00/04-SB-E00-1290	0	sek	06:28:23;
+
+[PrintText]=06:28:23	Hikari	Uh-huh... thanks, Sekai.	06:32:23;
+
+[PlayVoice]=06:28:23	Voice04/04-SB/04-SB-E00/04-SB-E00-1300	0	hik	06:32:23;
+
+[PrintText]=06:33:00	Sekai	...Y-you look like you're taking it well, Hikari.	06:36:09;
+
+[PlayVoice]=06:33:00	Voice04/04-SB/04-SB-E00/04-SB-E00-1310	0	sek	06:36:09;
+
+[PrintText]=06:36:09	Hikari	Uh-huh...	06:37:05;
+
+[PlayVoice]=06:36:09	Voice04/04-SB/04-SB-E00/04-SB-E00-1320	0	hik	06:37:05;
+
+ ;
+
+[Next]=06:37:07;
+

@@ -1,0 +1,44 @@
+[SkipFRAME]=00:18:12;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	00:18:12;
+
+[PlaySe]=00:00:00	1	Se03/03-BK/03-BK-D03/SE03-BK-D03-001	00:18:12;
+
+[CreateBG]=00:00:00	BGS	Event03/03-BK/03-BK-D03/03-BK-D03-001	00:08:23;
+
+[PrintText]=00:00:00	Makoto	Congratulations.	00:01:05;
+
+[PlayVoice]=00:00:00	Voice03/03-BK/03-BK-D03/03-BK-D03-0030	1	mak	00:01:05;
+
+[PrintText]=00:00:22	Taisuke	Ahaha. Oh, knock it off, you're embarrassing me.	00:04:18;
+
+[PlayVoice]=00:00:22	Voice03/03-BK/03-BK-D03/03-BK-D03-0040	1	tai	00:04:18;
+
+[PrintText]=00:04:11	Makoto	I think you and Sekai make a nice couple.	00:08:20;
+
+[PlayVoice]=00:04:11	Voice03/03-BK/03-BK-D03/03-BK-D03-0050	1	mak	00:08:20;
+
+[CreateBG]=00:08:23	BGS	Event03/03-BK/03-BK-D03/03-BK-D03-002	00:18:12;
+
+[PrintText]=00:08:23	Taisuke	Don't we? That's just what we were thinking when we decided to go out. Right?	00:13:19;
+
+[PlayVoice]=00:08:23	Voice03/03-BK/03-BK-D03/03-BK-D03-0060	1	tai	00:13:19;
+
+[PrintText]=00:13:22	Sekai	Y-yeah.	00:15:13;
+
+[PlayVoice]=00:13:22	Voice03/03-BK/03-BK-D03/03-BK-D03-0070	0	sek	00:15:13;
+
+[PrintText]=00:15:07	Makoto	I see...	00:16:09;
+
+[PlayVoice]=00:15:07	Voice03/03-BK/03-BK-D03/03-BK-D03-0080	1	mak	00:16:09;
+
+[PrintText]=00:16:15	Sekai	...	00:17:10;
+
+[PlayVoice]=00:16:15	Voice03/03-BK/03-BK-D03/03-BK-D03-0090	0	xxx	00:17:10;
+
+[BlackFade]=00:17:12	OUT	00:18:12;
+
+ ;
+
+[Next]=00:18:12;
+

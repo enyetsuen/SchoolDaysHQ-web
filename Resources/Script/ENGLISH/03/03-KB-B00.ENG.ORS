@@ -1,0 +1,422 @@
+[SkipFRAME]=04:04:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	04:04:14;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-B00/SE03-KB-B00-001	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-002	00:10:14;
+
+[PrintText]=00:02:00	Natsumi	Minami, is it true the plans are done?	00:04:10;
+
+[PlayVoice]=00:02:00	Voice03/03-KB/03-KB-B00/03-KB-B00-0100	0	nat	00:04:10;
+
+[PrintText]=00:04:10	Minami	Shh! Don't talk so loudly.	00:06:18;
+
+[PlayVoice]=00:04:10	Voice03/03-KB/03-KB-B00/03-KB-B00-0110	0	min	00:06:18;
+
+[PrintText]=00:06:18	Kumi	Yeah, it's a secret from the boys, you know.	00:10:13;
+
+[PlayVoice]=00:06:18	Voice03/03-KB/03-KB-B00/03-KB-B00-0120	0	kum	00:10:13;
+
+[PrintText]=00:10:13	Minami	Come on, take a look.	00:11:18;
+
+[PlayVoice]=00:10:13	Voice03/03-KB/03-KB-B00/03-KB-B00-0130	0	min	00:11:18;
+
+[CreateBG]=00:10:14	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-003	00:11:19;
+
+[PrintText]=00:11:18	Kumi	Wow... these are the plans for the haunted house?	00:15:22;
+
+[PlayVoice]=00:11:18	Voice03/03-KB/03-KB-B00/03-KB-B00-0150	0	kum	00:15:22;
+
+[CreateBG]=00:11:19	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-004	00:23:18;
+
+[PrintText]=00:15:22	Minami	Yep!	00:16:14;
+
+[PlayVoice]=00:15:22	Voice03/03-KB/03-KB-B00/03-KB-B00-0160	0	min	00:16:14;
+
+[PrintText]=00:16:14	Natsumi	But... there's no you-know-what, is there?	00:19:23;
+
+[PlayVoice]=00:16:14	Voice03/03-KB/03-KB-B00/03-KB-B00-0170	0	nat	00:19:23;
+
+[PrintText]=00:19:23	Minami	Yeah, these are the ones we show to the boys. And THESE...	00:24:14;
+
+[PlayVoice]=00:19:23	Voice03/03-KB/03-KB-B00/03-KB-B00-0180	0	min	00:24:14;
+
+[CreateBG]=00:23:18	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-005	00:27:17;
+
+[PrintText]=00:24:14	Minami	...are the real plans.	00:26:02;
+
+[PlayVoice]=00:24:14	Voice03/03-KB/03-KB-B00/03-KB-B00-0200	0	min	00:26:02;
+
+[PrintText]=00:26:03	Kumi	So, there are two of them!	00:28:01;
+
+[PlayVoice]=00:26:03	Voice03/03-KB/03-KB-B00/03-KB-B00-0210	0	kum	00:28:01;
+
+[CreateBG]=00:27:17	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-004	00:29:10;
+
+[PrintText]=00:28:01	Natsumi	Let's see...	00:29:10;
+
+[PlayVoice]=00:28:01	Voice03/03-KB/03-KB-B00/03-KB-B00-0220	0	nat	00:29:10;
+
+[CreateBG]=00:29:10	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-007	00:36:12;
+
+[PrintText]=00:29:10	Minami	Ah! The blackboard's here, so look at it like this...	00:32:18;
+
+[PlayVoice]=00:29:10	Voice03/03-KB/03-KB-B00/03-KB-B00-0230	0	min	00:32:18;
+
+[PrintText]=00:32:18	Natsumi	Uh-huh. Let's see... ah! Here?	00:36:12;
+
+[PlayVoice]=00:32:18	Voice03/03-KB/03-KB-B00/03-KB-B00-0240	0	nat	00:36:12;
+
+[CreateBG]=00:36:12	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-008	00:42:17;
+
+[PrintText]=00:36:12	Minami	Yep.	00:37:04;
+
+[PlayVoice]=00:36:12	Voice03/03-KB/03-KB-B00/03-KB-B00-0250	0	min	00:37:04;
+
+[PrintText]=00:37:03	Natsumi	Isn't it a bit cramped?	00:38:20;
+
+[PlayVoice]=00:37:03	Voice03/03-KB/03-KB-B00/03-KB-B00-0260	0	nat	00:38:20;
+
+[PrintText]=00:38:20	Minami	If we make it any bigger than that, other people are going to see.	00:41:06;
+
+[PlayVoice]=00:38:20	Voice03/03-KB/03-KB-B00/03-KB-B00-0270	0	min	00:41:06;
+
+[PrintText]=00:41:06	Natsumi	You think so?	00:42:16;
+
+[PlayVoice]=00:41:06	Voice03/03-KB/03-KB-B00/03-KB-B00-0280	0	nat	00:42:16;
+
+[PlayMovie]=00:42:17	Movie03/03-KB/03-KB-B00/03-KB-B00-009	0	00:49:14;
+
+[PrintText]=00:42:17	Minami	Besides, it doesn't have to be that wide. You both just have to lie down.	00:47:14;
+
+[PlayVoice]=00:42:17	Voice03/03-KB/03-KB-B00/03-KB-B00-0290	0	min	00:47:14;
+
+[PrintText]=00:47:14	Natsumi	Wah! Talk about perverted!	00:49:13;
+
+[PlayVoice]=00:47:14	Voice03/03-KB/03-KB-B00/03-KB-B00-0300	0	nat	00:49:13;
+
+[PrintText]=00:49:13	Otome	I've brought the veneer. Ah, is it done?	00:53:20;
+
+[PlayVoice]=00:49:13	Voice03/03-KB/03-KB-B00/03-KB-B00-0320	0	oto	00:53:20;
+
+[CreateBG]=00:49:14	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-010	00:53:21;
+
+[CreateBG]=00:53:20	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-007	00:55:14;
+
+[PrintText]=00:53:20	Minami	Yep. Here, take a look.	00:55:15;
+
+[PlayVoice]=00:53:20	Voice03/03-KB/03-KB-B00/03-KB-B00-0330	0	min	00:55:15;
+
+[CreateBG]=00:55:14	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-012	00:59:17;
+
+[PrintText]=00:55:15	Otome	Wow, so that's how it is. It's pretty amazing, isn't it.	00:59:17;
+
+[PlayVoice]=00:55:15	Voice03/03-KB/03-KB-B00/03-KB-B00-0340	0	oto	00:59:17;
+
+[CreateBG]=00:59:17	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-013	01:06:06;
+
+[PrintText]=00:59:17	Minami	Isn't it just? Hey, you'll be inviting him too, won't you?	01:03:11;
+
+[PlayVoice]=00:59:17	Voice03/03-KB/03-KB-B00/03-KB-B00-0350	0	min	01:03:11;
+
+[PrintText]=01:03:11	Otome	Eh?!	01:04:06;
+
+[PlayVoice]=01:03:11	Voice03/03-KB/03-KB-B00/03-KB-B00-0360	0	oto	01:04:06;
+
+[PrintText]=01:04:06	Natsumi	That guy who doesn't know how you feel about him?	01:06:06;
+
+[PlayVoice]=01:04:06	Voice03/03-KB/03-KB-B00/03-KB-B00-0370	0	nat	01:06:06;
+
+[CreateBG]=01:06:06	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-014	01:19:08;
+
+[PrintText]=01:06:06	Otome	U-um... I don't know. After all, he'd probably turn me down...	01:11:21;
+
+[PlayVoice]=01:06:06	Voice03/03-KB/03-KB-B00/03-KB-B00-0380	0	oto	01:11:21;
+
+[PrintText]=01:11:21	Kumi	No way. There's no boy who'd turn down a confession from you.	01:18:11;
+
+[PlayVoice]=01:11:21	Voice03/03-KB/03-KB-B00/03-KB-B00-0390	0	kum	01:18:11;
+
+[PrintText]=01:18:10	Minami	Yeah, that's right.	01:19:08;
+
+[PlayVoice]=01:18:10	Voice03/03-KB/03-KB-B00/03-KB-B00-0400	0	min	01:19:08;
+
+[CreateBG]=01:19:08	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-007	01:25:04;
+
+[PrintText]=01:19:08	Natsumi	...So, just who is this boy that you like?	01:22:17;
+
+[PlayVoice]=01:19:08	Voice03/03-KB/03-KB-B00/03-KB-B00-0410	0	nat	01:22:17;
+
+[PrintText]=01:22:17	Otome	I can't tell you.	01:23:20;
+
+[PlayVoice]=01:22:17	Voice03/03-KB/03-KB-B00/03-KB-B00-0420	0	oto	01:23:20;
+
+[PrintText]=01:23:20	Natsumi	Eh?!	01:25:04;
+
+[PlayVoice]=01:23:20	Voice03/03-KB/03-KB-B00/03-KB-B00-0430	0	nat	01:25:04;
+
+[CreateBG]=01:25:04	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-013	01:32:10;
+
+[PrintText]=01:25:04	Otome	C-come on. If we keep talking like this, we won't be ready in time for tomorrow.	01:29:21;
+
+[PlayVoice]=01:25:04	Voice03/03-KB/03-KB-B00/03-KB-B00-0440	0	oto	01:29:21;
+
+[PrintText]=01:29:20	Minami	Okay, let's begin.	01:31:17;
+
+[PlayVoice]=01:29:20	Voice03/03-KB/03-KB-B00/03-KB-B00-0450	0	min	01:31:17;
+
+[PrintText]=01:31:17	Kumi	Okay.	01:32:10;
+
+[PlayVoice]=01:31:17	Voice03/03-KB/03-KB-B00/03-KB-B00-0460	0	kum	01:32:10;
+
+[CreateBG]=01:32:10	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-017	01:36:08;
+
+[PrintText]=01:32:10	Otome	Ah, that's right. The girls from basketball said they'll come by later and help.	01:36:09;
+
+[PlayVoice]=01:32:10	Voice03/03-KB/03-KB-B00/03-KB-B00-0470	0	oto	01:36:09;
+
+[CreateBG]=01:36:08	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-018	01:38:06;
+
+[PrintText]=01:36:09	Kotonoha	U-um...	01:38:06;
+
+[PlayVoice]=01:36:09	Voice03/03-KB/03-KB-B00/03-KB-B00-0500	0	kot	01:38:06;
+
+[CreateBG]=01:38:06	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-019	01:59:00;
+
+[PrintText]=01:38:06	Natsumi	What is it?	01:39:14;
+
+[PlayVoice]=01:38:06	Voice03/03-KB/03-KB-B00/03-KB-B00-0510	0	nat	01:39:14;
+
+[PrintText]=01:39:14	Kotonoha	If we don't start building Koizumi-san's areas soon, I don't think we'll finish in time...	01:47:01;
+
+[PlayVoice]=01:39:14	Voice03/03-KB/03-KB-B00/03-KB-B00-0520	0	kot	01:47:01;
+
+[PrintText]=01:47:01	Natsumi	Oh, shut up. We're just about to start.	01:50:03;
+
+[PlayVoice]=01:47:01	Voice03/03-KB/03-KB-B00/03-KB-B00-0530	0	nat	01:50:03;
+
+[PrintText]=01:50:03	Minami	Stop nagging us about every little thing. We're working at our own pace.	01:54:12;
+
+[PlayVoice]=01:50:03	Voice03/03-KB/03-KB-B00/03-KB-B00-0540	0	min	01:54:12;
+
+[PrintText]=01:54:12	Kotonoha	I-I'm sorry...	01:57:00;
+
+[PlayVoice]=01:54:12	Voice03/03-KB/03-KB-B00/03-KB-B00-0550	0	kot	01:57:00;
+
+[PrintText]=01:57:02	Kumi	Just get lost!	01:59:00;
+
+[PlayVoice]=01:57:02	Voice03/03-KB/03-KB-B00/03-KB-B00-0560	0	kum	01:59:00;
+
+[PrintText]=01:58:22	Kotonoha	O-okay...	01:59:21;
+
+[PlayVoice]=01:58:22	Voice03/03-KB/03-KB-B00/03-KB-B00-0570	0	kot	01:59:21;
+
+[CreateBG]=01:59:00	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-020	02:01:01;
+
+[PlaySe]=01:59:01	2	Se03/03-KB/03-KB-B00/SE03-KB-B00-001	03:58:06;
+
+[PlaySe]=02:01:01	1	SysSe/SE_all/door/door_kyousitu	02:06:17;
+
+[CreateBG]=02:01:01	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-008	02:04:23;
+
+[PrintText]=02:04:19	Minami	Sheesh... just when we were about to start, too. She's such a pain.	02:08:23;
+
+[PlayVoice]=02:04:19	Voice03/03-KB/03-KB-B00/03-KB-B00-0590	0	min	02:08:23;
+
+[CreateBG]=02:04:23	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-019	02:09:00;
+
+[PrintText]=02:08:23	Otome	Besides, the boys are slacking off, too. She ought to go and warn them instead.	02:12:17;
+
+[PlayVoice]=02:08:23	Voice03/03-KB/03-KB-B00/03-KB-B00-0600	0	oto	02:12:17;
+
+[CreateBG]=02:09:00	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-007	02:20:12;
+
+[PrintText]=02:12:17	Kumi	She wants to be popular with the boys, so she's only picking on us.	02:18:02;
+
+[PlayVoice]=02:12:17	Voice03/03-KB/03-KB-B00/03-KB-B00-0610	0	kum	02:18:02;
+
+[PrintText]=02:18:02	Minami	Uwah... what a bitch.	02:20:12;
+
+[PlayVoice]=02:18:02	Voice03/03-KB/03-KB-B00/03-KB-B00-0620	0	min	02:20:12;
+
+[CreateBG]=02:20:12	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-017	02:23:17;
+
+[PrintText]=02:20:12	Otome	Think she'll be taking turns with different boys on festival day?	02:22:22;
+
+[PlayVoice]=02:20:12	Voice03/03-KB/03-KB-B00/03-KB-B00-0630	0	oto	02:22:22;
+
+[PrintText]=02:22:20	Kumi	Uwah! Uwah!	02:25:16;
+
+[PlayVoice]=02:22:20	Voice03/03-KB/03-KB-B00/03-KB-B00-0640	0	kum	02:25:16;
+
+[CreateBG]=02:23:17	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-007	02:26:12;
+
+[CreateBG]=02:26:12	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-013	02:33:07;
+
+[PrintText]=02:26:12	Natsumi	Hey, come to think of it...	02:27:23;
+
+[PlayVoice]=02:26:12	Voice03/03-KB/03-KB-B00/03-KB-B00-0660	0	nat	02:27:23;
+
+[PrintText]=02:27:23	Minami	What?	02:28:19;
+
+[PlayVoice]=02:27:23	Voice03/03-KB/03-KB-B00/03-KB-B00-0670	0	min	02:28:19;
+
+[PrintText]=02:28:19	Natsumi	Katsura has a boyfriend, right?	02:31:08;
+
+[PlayVoice]=02:28:19	Voice03/03-KB/03-KB-B00/03-KB-B00-0680	0	nat	02:31:08;
+
+[PrintText]=02:31:08	Minami	You're kidding! Who?	02:33:06;
+
+[PlayVoice]=02:31:08	Voice03/03-KB/03-KB-B00/03-KB-B00-0690	0	min	02:33:06;
+
+[PrintText]=02:33:06	Natsumi	Mmn... well, it's just a rumor...	02:35:15;
+
+[PlayVoice]=02:33:06	Voice03/03-KB/03-KB-B00/03-KB-B00-0700	0	nat	02:35:15;
+
+[CreateBG]=02:33:07	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-007	02:43:10;
+
+[PrintText]=02:35:14	Kumi	I want to hear it!	02:36:21;
+
+[PlayVoice]=02:35:14	Voice03/03-KB/03-KB-B00/03-KB-B00-0710	0	kum	02:36:21;
+
+[PrintText]=02:36:21	Natsumi	Just the other day, my friend in class 2 said she saw her walking around Sakakino with a boy from class 3.	02:43:10;
+
+[PlayVoice]=02:36:21	Voice03/03-KB/03-KB-B00/03-KB-B00-0720	0	nat	02:43:10;
+
+[PrintText]=02:43:04	Kumi	Fwah... they're definitely going out, then!	02:47:00;
+
+[PlayVoice]=02:43:04	Voice03/03-KB/03-KB-B00/03-KB-B00-0730	0	kum	02:47:00;
+
+[CreateBG]=02:43:10	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-002	02:54:10;
+
+[PrintText]=02:47:07	Minami	You think so? Maybe he's her client instead of her boyfriend.	02:51:06;
+
+[PlayVoice]=02:47:07	Voice03/03-KB/03-KB-B00/03-KB-B00-0740	0	min	02:51:06;
+
+[PrintText]=02:51:06	Kumi	'Client?'	02:52:10;
+
+[PlayVoice]=02:51:06	Voice03/03-KB/03-KB-B00/03-KB-B00-0750	0	kum	02:52:10;
+
+[PrintText]=02:52:09	Minami	Paid dating.	02:53:13;
+
+[PlayVoice]=02:52:09	Voice03/03-KB/03-KB-B00/03-KB-B00-0760	0	min	02:53:13;
+
+[PrintText]=02:53:13	Kumi	Wah!	02:54:10;
+
+[PlayVoice]=02:53:13	Voice03/03-KB/03-KB-B00/03-KB-B00-0770	0	kum	02:54:10;
+
+[PrintText]=02:54:09	Otome	So who was she walking around with?	02:56:15;
+
+[PlayVoice]=02:54:09	Voice03/03-KB/03-KB-B00/03-KB-B00-0780	0	oto	02:56:15;
+
+[CreateBG]=02:54:10	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-029	03:05:08;
+
+[PrintText]=02:56:15	Natsumi	Um... whatshisname from class 3... you know... um, 'Itou', I think? Kind of a plain name...	03:05:07;
+
+[PlayVoice]=02:56:15	Voice03/03-KB/03-KB-B00/03-KB-B00-0790	0	nat	03:05:07;
+
+[PrintText]=03:05:07	Otome	!	03:06:06;
+
+[PlayVoice]=03:05:07	Voice03/03-KB/03-KB-B00/03-KB-B00-0800	0	oto	03:06:06;
+
+[CreateBG]=03:05:08	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-030	03:06:07;
+
+[PrintText]=03:06:06	Kumi	Itou? They have a guy with that name?	03:09:01;
+
+[PlayVoice]=03:06:06	Voice03/03-KB/03-KB-B00/03-KB-B00-0810	0	kum	03:09:01;
+
+[CreateBG]=03:06:07	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-007	03:16:06;
+
+[PrintText]=03:09:00	Natsumi	Yep. No mistake about it. Itou from class 3.	03:12:00;
+
+[PlayVoice]=03:09:00	Voice03/03-KB/03-KB-B00/03-KB-B00-0820	0	nat	03:12:00;
+
+[PrintText]=03:12:00	Minami	So in other words, Itou is Katsura's...?	03:15:01;
+
+[PlayVoice]=03:12:00	Voice03/03-KB/03-KB-B00/03-KB-B00-0830	0	min	03:15:01;
+
+[PrintText]=03:15:01	Kumi	Client?	03:16:05;
+
+[PlayVoice]=03:15:01	Voice03/03-KB/03-KB-B00/03-KB-B00-0840	0	kum	03:16:05;
+
+[PrintText]=03:16:05	Otome	That's ridiculous!	03:17:23;
+
+[PlayVoice]=03:16:05	Voice03/03-KB/03-KB-B00/03-KB-B00-0850	0	oto	03:17:23;
+
+[CreateBG]=03:16:06	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-032	03:25:02;
+
+[PrintText]=03:17:23	Minami	Otome...?	03:18:22;
+
+[PlayVoice]=03:17:23	Voice03/03-KB/03-KB-B00/03-KB-B00-0860	0	min	03:18:22;
+
+[PrintText]=03:18:22	Otome	Just because they're walking around together doesn't mean he's BUYING her! Maybe they just happened to run into each other.	03:25:02;
+
+[PlayVoice]=03:18:22	Voice03/03-KB/03-KB-B00/03-KB-B00-0870	0	oto	03:25:02;
+
+[CreateBG]=03:25:02	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-033	03:32:02;
+
+[PrintText]=03:25:02	Kumi	Ehh? But a guy from class 3 wouldn't have had any contact with her before.	03:30:04;
+
+[PlayVoice]=03:25:02	Voice03/03-KB/03-KB-B00/03-KB-B00-0880	0	kum	03:30:04;
+
+[PrintText]=03:30:03	Otome	He's not paying her. I'm sure of it.	03:32:02;
+
+[PlayVoice]=03:30:03	Voice03/03-KB/03-KB-B00/03-KB-B00-0890	0	oto	03:32:02;
+
+[CreateBG]=03:32:02	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-034	03:34:23;
+
+[PrintText]=03:32:02	Minami	In that case, do you think they're going out?	03:34:22;
+
+[PlayVoice]=03:32:02	Voice03/03-KB/03-KB-B00/03-KB-B00-0900	0	min	03:34:22;
+
+[PrintText]=03:34:22	Otome	No! It's just that she's loose and good at tricking boys... there's no way they're going out.	03:43:18;
+
+[PlayVoice]=03:34:22	Voice03/03-KB/03-KB-B00/03-KB-B00-0910	0	oto	03:43:18;
+
+[CreateBG]=03:34:23	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-035	03:47:15;
+
+[PrintText]=03:43:18	Natsumi	Hmmn.	03:45:04;
+
+[PlayVoice]=03:43:18	Voice03/03-KB/03-KB-B00/03-KB-B00-0920	0	nat	03:45:04;
+
+[PrintText]=03:45:04	Otome	...What?	03:47:15;
+
+[PlayVoice]=03:45:04	Voice03/03-KB/03-KB-B00/03-KB-B00-0930	0	oto	03:47:15;
+
+[CreateBG]=03:47:15	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-036	03:51:01;
+
+[PrintText]=03:47:15	Natsumi	I've worked out who you were going to invite.	03:51:00;
+
+[PlayVoice]=03:47:15	Voice03/03-KB/03-KB-B00/03-KB-B00-0940	0	nat	03:51:00;
+
+[PrintText]=03:51:00	Otome	W... what are you talking about?!	03:53:13;
+
+[PlayVoice]=03:51:00	Voice03/03-KB/03-KB-B00/03-KB-B00-0950	0	oto	03:53:13;
+
+[CreateBG]=03:51:01	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-037	03:54:14;
+
+[PlayVoice]=03:53:13	Voice03/03-KB/03-KB-B00/03-KB-B00-0960			03:54:14;
+
+[CreateBG]=03:54:14	BGS	Event03/03-KB/03-KB-B00/03-KB-B00-002	04:04:14;
+
+[PrintText]=03:54:14	Kumi	Ehh?! Who? Who?	03:56:17;
+
+[PlayVoice]=03:54:14	Voice03/03-KB/03-KB-B00/03-KB-B00-0970	0	kum	03:56:17;
+
+[PrintText]=03:56:17	Natsumi	Fufufu... you don't mind if I say it, do you? Do you?	04:01:11;
+
+[PlayVoice]=03:56:17	Voice03/03-KB/03-KB-B00/03-KB-B00-0980	0	nat	04:01:11;
+
+[PlaySe]=03:58:04	1	Se03/03-KB/03-KB-B00/SE03-KB-B00-001	04:04:14;
+
+[PrintText]=04:01:11	Otome	Don't!	04:03:03;
+
+[PlayVoice]=04:01:11	Voice03/03-KB/03-KB-B00/03-KB-B00-0990	0	oto	04:03:03;
+
+ ;
+
+[Next]=04:04:14;
+

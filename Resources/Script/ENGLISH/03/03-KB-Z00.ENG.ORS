@@ -1,0 +1,98 @@
+[SkipFRAME]=02:47:07;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm28	00:36:12;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-M07/SE03-KB-M07-001	00:41:13;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-M07/03-KB-M07-001	00:11:10;
+
+[PrintText]=00:00:00	Makoto	Sorry. I shouldn't have asked you something so dumb on a night like this.	00:06:03;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0030	1	mak	00:06:03;
+
+[PrintText]=00:06:03	Sekai	N-no!	00:07:18;
+
+[PlayVoice]=00:06:03	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0040	0	sek	00:07:18;
+
+[PrintText]=00:07:20	Makoto	Okay, I'm going, then.	00:09:11;
+
+[PlayVoice]=00:07:20	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0050	1	mak	00:09:11;
+
+[PrintText]=00:09:11	Sekai	H-hey.	00:10:16;
+
+[PlayVoice]=00:09:11	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0060	0	sek	00:10:16;
+
+[PrintText]=00:10:19	Makoto	Hmn?	00:11:09;
+
+[PlayVoice]=00:10:19	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0070	1	mak	00:11:09;
+
+[PrintText]=00:11:09	Sekai	Is it all right if I stay?	00:14:02;
+
+[PlayVoice]=00:11:09	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0080	0	sek	00:14:02;
+
+[PlayMovie]=00:11:10	Movie03/03-KB/03-KB-M07/03-KB-M07-002	0	00:34:16;
+
+[PrintText]=00:14:03	Makoto	Stay?	00:14:20;
+
+[PlayVoice]=00:14:03	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0090	1	mak	00:14:20;
+
+[PrintText]=00:14:22	Sekai	By your side.	00:16:12;
+
+[PlayVoice]=00:14:22	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0100	0	sek	00:16:12;
+
+[PrintText]=00:16:12	Makoto	Huh...?	00:17:10;
+
+[PlayVoice]=00:16:12	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0110	1	mak	00:17:10;
+
+[PrintText]=00:17:13	Sekai	Can I be beside you again?	00:21:12;
+
+[PlayVoice]=00:17:13	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0120	0	sek	00:21:12;
+
+[PrintText]=00:21:17	Makoto	...	00:22:11;
+
+[PlayVoice]=00:21:17	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0130	1	xxx	00:22:11;
+
+[PrintText]=00:22:17	Sekai	Even if it's just as Katsura-san's replacement...	00:24:22;
+
+[PlayVoice]=00:22:17	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0140	0	sek	00:24:22;
+
+[PrintText]=00:24:22	Makoto	That's not...	00:26:06;
+
+[PlayVoice]=00:24:22	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0150	1	mak	00:26:06;
+
+[PrintText]=00:26:09	Sekai	I want to be there. Beside you.	00:29:14;
+
+[PlayVoice]=00:26:09	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0160	0	sek	00:29:14;
+
+[PrintText]=00:29:14	Makoto	...	00:30:01;
+
+[PlayVoice]=00:29:14	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0170	1	xxx	00:30:01;
+
+[PrintText]=00:30:01	Sekai	You don't mind, do you?	00:32:12;
+
+[PlayVoice]=00:30:01	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0180	0	sek	00:32:12;
+
+[PrintText]=00:32:11	Makoto	...Okay.	00:33:02;
+
+[PlayVoice]=00:32:11	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0200	1	mak	00:33:02;
+
+[PrintText]=00:33:03	Sekai	Eheheh.	00:34:16;
+
+[PlayVoice]=00:33:03	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0210	0	sek	00:34:16;
+
+[CreateBG]=00:34:17	BGS	Event03/03-KB/03-KB-M07/03-KB-M07-003	00:37:14;
+
+[PrintText]=00:35:04	Taisuke	Aww.	00:36:21;
+
+[PlayVoice]=00:35:04	Voice03/03-KB/03-KB-Z00/03-KB-Z00-0230	1	tai	00:36:21;
+
+[EndBGM]=00:36:12	BGM/Vocal/SDV04	02:47:05;
+
+[CreateBG]=00:37:14	BGS	Event03/03-KB/03-KB-M07/03-KB-M07-004	00:42:14;
+
+[EndRoll]=00:42:14	Movie03/03-KB/03-KB-Z00/03-KB-Z00-005	02:47:07;
+
+ ;
+
+[Next]=02:47:07;
+

@@ -1,0 +1,214 @@
+[SkipFRAME]=01:59:07;
+
+[PlaySe]=00:00:00	1	Se04/04-KA/04-KA-D00/SE04-KA-D00-001	00:04:21;
+
+[PlayMovie]=00:00:00	Movie04/04-KA/04-KA-D00/04-KA-D00-001	0	00:01:09;
+
+[PrintText]=00:00:00	Makoto	Phew...	00:01:01;
+
+[PlayVoice]=00:00:00	Voice04/04-KA/04-KA-D00/04-KA-D00-0040	1	mak	00:01:01;
+
+[PrintText]=00:01:08	Makoto	I didn't notice the alarm clock at all...	00:05:02;
+
+[PlayVoice]=00:01:08	Voice04/04-KA/04-KA-D00/04-KA-D00-0050	1	mak	00:05:02;
+
+[PlayMovie]=00:01:09	Movie00/00-00/00-00-A00/00-00-A00-005	0	00:04:21;
+
+[WhiteFade]=00:04:09	OUT	00:04:21;
+
+[PlayBgm]=00:04:21	BGM/SD_BGM/sdbgm28	01:47:07;
+
+[CreateBG]=00:04:21	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-003	00:16:15;
+
+[WhiteFade]=00:04:21	IN	00:05:09;
+
+[PrintText]=00:05:13	Makoto	Hey... come on, I said I was sorry.	00:09:22;
+
+[PlayVoice]=00:05:13	Voice04/04-KA/04-KA-D00/04-KA-D00-0090	1	mak	00:09:22;
+
+[PrintText]=00:09:10	Sekai	Whatever.	00:10:12;
+
+[PlayVoice]=00:09:10	Voice04/04-KA/04-KA-D00/04-KA-D00-0100	0	sek	00:10:12;
+
+[PrintText]=00:10:07	Makoto	It's my fault that I couldn't make it to the bonfire... but there's no need to be so angry about it...	00:16:06;
+
+[PlayVoice]=00:10:07	Voice04/04-KA/04-KA-D00/04-KA-D00-0110	1	mak	00:16:06;
+
+[PrintText]=00:15:08	Sekai	Yes, there is.	00:17:00;
+
+[PlayVoice]=00:15:08	Voice04/04-KA/04-KA-D00/04-KA-D00-0120	0	sek	00:17:00;
+
+[CreateBG]=00:16:15	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-004	00:29:10;
+
+[PrintText]=00:16:15	Makoto	Why?	00:18:11;
+
+[PlayVoice]=00:16:15	Voice04/04-KA/04-KA-D00/04-KA-D00-0130	1	mak	00:18:11;
+
+[PrintText]=00:17:23	Sekai	There's something special about the folk dance at the bonfire!	00:21:21;
+
+[PlayVoice]=00:17:23	Voice04/04-KA/04-KA-D00/04-KA-D00-0140	0	sek	00:21:21;
+
+[PrintText]=00:21:15	Makoto	Like what?	00:23:08;
+
+[PlayVoice]=00:21:15	Voice04/04-KA/04-KA-D00/04-KA-D00-0150	1	mak	00:23:08;
+
+[PrintText]=00:22:21	Sekai	It's an event for couples who see the festival together to declare that they're going out to everyone else.	00:29:12;
+
+[PlayVoice]=00:22:21	Voice04/04-KA/04-KA-D00/04-KA-D00-0160	0	sek	00:29:12;
+
+[CreateBG]=00:29:10	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-005	00:40:09;
+
+[PrintText]=00:29:10	Makoto	But... it's fine as long as the two of us know, right?	00:34:00;
+
+[PlayVoice]=00:29:10	Voice04/04-KA/04-KA-D00/04-KA-D00-0170	1	mak	00:34:00;
+
+[PrintText]=00:33:09	Sekai	You don't understand at all!	00:35:16;
+
+[PlayVoice]=00:33:09	Voice04/04-KA/04-KA-D00/04-KA-D00-0180	0	sek	00:35:16;
+
+[PrintText]=00:35:08	Makoto	Hey, calm down.	00:37:22;
+
+[PlayVoice]=00:35:08	Voice04/04-KA/04-KA-D00/04-KA-D00-0190	1	mak	00:37:22;
+
+[PrintText]=00:36:22	Sekai	No, I can't calm down! Why weren't you able to come?	00:40:13;
+
+[PlayVoice]=00:36:22	Voice04/04-KA/04-KA-D00/04-KA-D00-0200	0	sek	00:40:13;
+
+[CreateBG]=00:40:09	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-003	00:50:02;
+
+[PrintText]=00:40:09	Makoto	Because... I fell asleep. Accidentally.	00:44:13;
+
+[PlayVoice]=00:40:09	Voice04/04-KA/04-KA-D00/04-KA-D00-0210	1	mak	00:44:13;
+
+[PrintText]=00:44:08	Sekai	Where?	00:45:05;
+
+[PlayVoice]=00:44:08	Voice04/04-KA/04-KA-D00/04-KA-D00-0220	0	sek	00:45:05;
+
+[PrintText]=00:45:09	Makoto	Um... in class.	00:48:15;
+
+[PlayVoice]=00:45:09	Voice04/04-KA/04-KA-D00/04-KA-D00-0230	1	mak	00:48:15;
+
+[PrintText]=00:48:05	Sekai	There was no one there in class 3.	00:50:08;
+
+[PlayVoice]=00:48:05	Voice04/04-KA/04-KA-D00/04-KA-D00-0240	0	sek	00:50:08;
+
+[CreateBG]=00:50:02	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-004	00:55:22;
+
+[PrintText]=00:50:02	Makoto	I left afterwards.	00:52:02;
+
+[PlayVoice]=00:50:02	Voice04/04-KA/04-KA-D00/04-KA-D00-0250	1	mak	00:52:02;
+
+[PrintText]=00:51:16	Sekai	If it was that late, you should have just come straight to the bonfire.	00:56:00;
+
+[PlayVoice]=00:51:16	Voice04/04-KA/04-KA-D00/04-KA-D00-0260	0	sek	00:56:00;
+
+[CreateBG]=00:55:22	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-008	01:07:01;
+
+[PrintText]=00:55:22	Makoto	Yeah, but...	00:58:05;
+
+[PlayVoice]=00:55:22	Voice04/04-KA/04-KA-D00/04-KA-D00-0270	1	mak	00:58:05;
+
+[PrintText]=00:57:10	Sekai	You didn't want to dance with me after all, did you?	01:01:06;
+
+[PlayVoice]=00:57:10	Voice04/04-KA/04-KA-D00/04-KA-D00-0280	0	sek	01:01:06;
+
+[PrintText]=01:01:04	Makoto	Huh?! What are you talking about?	01:04:14;
+
+[PlayVoice]=01:01:04	Voice04/04-KA/04-KA-D00/04-KA-D00-0290	1	mak	01:04:14;
+
+[PrintText]=01:03:15	Sekai	You didn't want people to think that we were going out... so you ran away.	01:07:21;
+
+[PlayVoice]=01:03:15	Voice04/04-KA/04-KA-D00/04-KA-D00-0300	0	sek	01:07:21;
+
+[CreateBG]=01:07:01	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-005	01:13:22;
+
+[PrintText]=01:07:01	Makoto	That's ridiculous!	01:09:17;
+
+[PlayVoice]=01:07:01	Voice04/04-KA/04-KA-D00/04-KA-D00-0310	1	mak	01:09:17;
+
+[PrintText]=01:08:08	Sekai	You did... you... don't really like me at all...	01:14:08;
+
+[PlayVoice]=01:08:08	Voice04/04-KA/04-KA-D00/04-KA-D00-0320	0	sek	01:14:08;
+
+[PrintText]=01:13:21	Makoto	Hey, don't cry!	01:16:12;
+
+[PlayVoice]=01:13:21	Voice04/04-KA/04-KA-D00/04-KA-D00-0330	1	mak	01:16:12;
+
+[CreateBG]=01:13:22	BGS	Event04/04-KA/04-KA-D00/04-KA-D00-003	01:47:07;
+
+[PrintText]=01:15:14	Sekai	Makoto... you're terrible...	01:18:17;
+
+[PlayVoice]=01:15:14	Voice04/04-KA/04-KA-D00/04-KA-D00-0340	0	sek	01:18:17;
+
+[PrintText]=01:18:10	Makoto	Aww... sheesh! I love you! I love you!	01:22:08;
+
+[PlayVoice]=01:18:10	Voice04/04-KA/04-KA-D00/04-KA-D00-0350	1	mak	01:22:08;
+
+[PrintText]=01:22:12	Sekai	...Really?	01:23:11;
+
+[PlayVoice]=01:22:12	Voice04/04-KA/04-KA-D00/04-KA-D00-0360	0	sek	01:23:11;
+
+[PrintText]=01:23:12	Makoto	Yeah!	01:24:23;
+
+[PlayVoice]=01:23:12	Voice04/04-KA/04-KA-D00/04-KA-D00-0370	1	mak	01:24:23;
+
+[PrintText]=01:25:06	Sekai	...I believe you.	01:26:19;
+
+[PlayVoice]=01:25:06	Voice04/04-KA/04-KA-D00/04-KA-D00-0380	0	sek	01:26:19;
+
+[PrintText]=01:26:17	Makoto	See?	01:28:08;
+
+[PlayVoice]=01:26:17	Voice04/04-KA/04-KA-D00/04-KA-D00-0390	1	mak	01:28:08;
+
+[PrintText]=01:28:07	Sekai	But...	01:29:10;
+
+[PlayVoice]=01:28:07	Voice04/04-KA/04-KA-D00/04-KA-D00-0400	0	sek	01:29:10;
+
+[PrintText]=01:29:15	Makoto	Argh! Look! The sun's starting to rise!	01:35:07;
+
+[PlayVoice]=01:29:15	Voice04/04-KA/04-KA-D00/04-KA-D00-0410	1	mak	01:35:07;
+
+[PrintText]=01:34:17	Sekai	You didn't come to the bonfire, even after the sun had set...	01:38:23;
+
+[PlayVoice]=01:34:17	Voice04/04-KA/04-KA-D00/04-KA-D00-0420	0	sek	01:38:23;
+
+[PrintText]=01:38:07	Makoto	Don't go bringing that up again!	01:40:21;
+
+[PlayVoice]=01:38:07	Voice04/04-KA/04-KA-D00/04-KA-D00-0430	1	mak	01:40:21;
+
+[PrintText]=01:39:22	Sekai	But...	01:41:02;
+
+[PlayVoice]=01:39:22	Voice04/04-KA/04-KA-D00/04-KA-D00-0440	0	sek	01:41:02;
+
+[PrintText]=01:40:21	Makoto	O-okay, I get it... just don't cry.	01:45:20;
+
+[PlayVoice]=01:40:21	Voice04/04-KA/04-KA-D00/04-KA-D00-0450	1	mak	01:45:20;
+
+[PrintText]=01:45:21	Sekai	Okay...	01:46:12;
+
+[PlayVoice]=01:45:21	Voice04/04-KA/04-KA-D00/04-KA-D00-0460	0	sek	01:46:12;
+
+[WhiteFade]=01:46:19	OUT	01:47:07;
+
+[PlaySe]=01:47:07	1	Se04/04-KA/04-KA-D00/SE04-KA-D00-001	01:59:07;
+
+[PlayMovie]=01:47:07	Movie00/00-00/00-00-A00/00-00-A00-005	0	01:50:19;
+
+[WhiteFade]=01:47:07	IN	01:47:19;
+
+[PrintText]=01:48:05	Makoto	What a depressing day...	01:50:03;
+
+[PlayVoice]=01:48:05	Voice04/04-KA/04-KA-D00/04-KA-D00-0480	1	mak	01:50:03;
+
+[PlayVoice]=01:49:21	Voice04/04-KA/04-KA-D00/04-KA-D00-0490	1	ana	01:59:07;
+
+[PlayMovie]=01:50:19	Movie04/04-KA/04-KA-D00/04-KA-D00-012	0	01:56:14;
+
+[PlayMovie]=01:56:14	Movie00/00-00/00-00-A00/00-00-A00-015	0	01:59:07;
+
+[BlackFade]=01:58:07	OUT	01:59:07;
+
+ ;
+
+[Next]=01:59:07;
+

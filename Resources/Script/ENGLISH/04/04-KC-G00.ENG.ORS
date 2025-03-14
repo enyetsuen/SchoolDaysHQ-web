@@ -1,0 +1,496 @@
+[SkipFRAME]=05:37:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	05:37:11;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-001	00:01:12;
+
+[CreateBG]=00:01:12	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-002	00:02:22;
+
+[CreateBG]=00:02:22	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-003	00:11:07;
+
+[PrintText]=00:03:00	Sekai	So... what did you want to talk about?	00:05:06;
+
+[PlayVoice]=00:03:00	Voice04/04-KC/04-KC-G00/04-KC-G00-0060	0	sek	00:05:06;
+
+[PrintText]=00:05:06	Kotonoha	Ah... yes. It's about Makoto-kun.	00:10:15;
+
+[PlayVoice]=00:05:06	Voice04/04-KC/04-KC-G00/04-KC-G00-0070	0	kot	00:10:15;
+
+[PrintText]=00:10:15	Sekai	Uh-huh.	00:11:09;
+
+[PlayVoice]=00:10:15	Voice04/04-KC/04-KC-G00/04-KC-G00-0080	0	sek	00:11:09;
+
+[CreateBG]=00:11:07	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-004	00:28:07;
+
+[PrintText]=00:11:09	Kotonoha	I'm sorry...	00:12:19;
+
+[PlayVoice]=00:11:09	Voice04/04-KC/04-KC-G00/04-KC-G00-0090	0	kot	00:12:19;
+
+[PrintText]=00:12:18	Sekai	Oh, it's not a problem.	00:14:19;
+
+[PlayVoice]=00:12:18	Voice04/04-KC/04-KC-G00/04-KC-G00-0100	0	sek	00:14:19;
+
+[PrintText]=00:14:20	Kotonoha	So... before we talk about Makoto-kun, there's something I'd like to ask you.	00:23:15;
+
+[PlayVoice]=00:14:20	Voice04/04-KC/04-KC-G00/04-KC-G00-0110	0	kot	00:23:15;
+
+[PrintText]=00:23:15	Sekai	What is it?	00:24:17;
+
+[PlayVoice]=00:23:15	Voice04/04-KC/04-KC-G00/04-KC-G00-0120	0	sek	00:24:17;
+
+[PrintText]=00:24:16	Kotonoha	You don't have to answer if you don't want to...	00:28:11;
+
+[PlayVoice]=00:24:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0130	0	kot	00:28:11;
+
+[CreateBG]=00:28:07	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-005	00:42:11;
+
+[PrintText]=00:28:11	Sekai	In that case, I won't.	00:30:10;
+
+[PlayVoice]=00:28:11	Voice04/04-KC/04-KC-G00/04-KC-G00-0140	0	sek	00:30:10;
+
+[PrintText]=00:30:10	Kotonoha	Wa-wah! I didn't mean that. I really do want you to answer.	00:34:15;
+
+[PlayVoice]=00:30:10	Voice04/04-KC/04-KC-G00/04-KC-G00-0150	0	kot	00:34:15;
+
+[PrintText]=00:34:15	Sekai	So, what is it?	00:35:22;
+
+[PlayVoice]=00:34:15	Voice04/04-KC/04-KC-G00/04-KC-G00-0160	0	sek	00:35:22;
+
+[PrintText]=00:35:22	Kotonoha	Um... Saionji-san, have you...	00:41:12;
+
+[PlayVoice]=00:35:22	Voice04/04-KC/04-KC-G00/04-KC-G00-0170	0	kot	00:41:12;
+
+[PrintText]=00:41:12	Sekai	Have I?	00:42:13;
+
+[PlayVoice]=00:41:12	Voice04/04-KC/04-KC-G00/04-KC-G00-0180	0	sek	00:42:13;
+
+[CreateBG]=00:42:11	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-006	00:47:13;
+
+[PrintText]=00:42:13	Kotonoha	...had the experience?	00:45:07;
+
+[PlayVoice]=00:42:13	Voice04/04-KC/04-KC-G00/04-KC-G00-0190	0	kot	00:45:07;
+
+[PrintText]=00:45:07	Sekai	Eh?	00:45:23;
+
+[PlayVoice]=00:45:07	Voice04/04-KC/04-KC-G00/04-KC-G00-0200	0	sek	00:45:23;
+
+[PrintText]=00:45:23	Kotonoha	The experience!	00:47:17;
+
+[PlayVoice]=00:45:23	Voice04/04-KC/04-KC-G00/04-KC-G00-0210	0	kot	00:47:17;
+
+[CreateBG]=00:47:13	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-007	00:51:08;
+
+[PrintText]=00:47:17	Sekai	You mean...	00:49:19;
+
+[PlayVoice]=00:47:17	Voice04/04-KC/04-KC-G00/04-KC-G00-0220	0	sek	00:49:19;
+
+[PrintText]=00:49:19	Kotonoha	Yes!	00:50:21;
+
+[PlayVoice]=00:49:19	Voice04/04-KC/04-KC-G00/04-KC-G00-0230	0	kot	00:50:21;
+
+[PrintText]=00:50:21	Sekai	...	00:51:09;
+
+[PlayVoice]=00:50:21	Voice04/04-KC/04-KC-G00/04-KC-G00-0240	0	xxx	00:51:09;
+
+[CreateBG]=00:51:08	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-008	01:33:18;
+
+[PrintText]=00:51:09	Kotonoha	I... was thinking of giving it away to Makoto-kun...	00:57:16;
+
+[PlayVoice]=00:51:09	Voice04/04-KC/04-KC-G00/04-KC-G00-0260	0	kot	00:57:16;
+
+[PrintText]=00:57:16	Sekai	Eh...	00:58:05;
+
+[PlayVoice]=00:57:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0270	0	sek	00:58:05;
+
+[PrintText]=00:58:04	Kotonoha	My virginity, I mean.	01:01:16;
+
+[PlayVoice]=00:58:04	Voice04/04-KC/04-KC-G00/04-KC-G00-0280	0	kot	01:01:16;
+
+[PrintText]=01:01:16	Sekai	Yeah, I figured.	01:03:11;
+
+[PlayVoice]=01:01:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0290	0	sek	01:03:11;
+
+[PrintText]=01:03:11	Kotonoha	I see...	01:05:03;
+
+[PlayVoice]=01:03:11	Voice04/04-KC/04-KC-G00/04-KC-G00-0300	0	kot	01:05:03;
+
+[PrintText]=01:05:03	Sekai	...	01:05:15;
+
+[PlayVoice]=01:05:03	Voice04/04-KC/04-KC-G00/04-KC-G00-0310	0	xxx	01:05:15;
+
+[PrintText]=01:05:15	Kotonoha	I've discussed this with you before, but I'm...	01:10:11;
+
+[PlayVoice]=01:05:15	Voice04/04-KC/04-KC-G00/04-KC-G00-0320	0	kot	01:10:11;
+
+[PrintText]=01:10:11	Kotonoha	no good when it comes to erotic stuff like that. It's something I can't really meet Makoto-kun on...	01:20:13;
+
+[PlayVoice]=01:10:11	Voice04/04-KC/04-KC-G00/04-KC-G00-0321	0	kot	01:20:13;
+
+[PrintText]=01:20:13	Sekai	Uh-huh...	01:21:08;
+
+[PlayVoice]=01:20:13	Voice04/04-KC/04-KC-G00/04-KC-G00-0330	0	sek	01:21:08;
+
+[PrintText]=01:21:08	Kotonoha	I'm sure Makoto-kun loves me...	01:25:09;
+
+[PlayVoice]=01:21:08	Voice04/04-KC/04-KC-G00/04-KC-G00-0340	0	kot	01:25:09;
+
+[PrintText]=01:25:09	Kotonoha	but I just don't have the courage... it's a constant problem for him, and it's all my fault.	01:33:18;
+
+[PlayVoice]=01:25:09	Voice04/04-KC/04-KC-G00/04-KC-G00-0341	0	kot	01:33:18;
+
+[PrintText]=01:33:17	Sekai	I see...	01:34:14;
+
+[PlayVoice]=01:33:17	Voice04/04-KC/04-KC-G00/04-KC-G00-0350	0	sek	01:34:14;
+
+[CreateBG]=01:33:18	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-009	01:53:15;
+
+[PrintText]=01:34:13	Kotonoha	That's why... I'm thinking of trying my hardest and... um... trying to doing it.	01:41:16;
+
+[PlayVoice]=01:34:13	Voice04/04-KC/04-KC-G00/04-KC-G00-0360	0	kot	01:41:16;
+
+[PrintText]=01:41:16	Sekai	You don't really have to TRY...	01:43:13;
+
+[PlayVoice]=01:41:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0370	0	sek	01:43:13;
+
+[PrintText]=01:43:13	Kotonoha	No! If I do my best, I'm sure Makoto-kun would be pleased.	01:48:09;
+
+[PlayVoice]=01:43:13	Voice04/04-KC/04-KC-G00/04-KC-G00-0380	0	kot	01:48:09;
+
+[PrintText]=01:48:09	Sekai	Yes, but...	01:50:05;
+
+[PlayVoice]=01:48:09	Voice04/04-KC/04-KC-G00/04-KC-G00-0390	0	sek	01:50:05;
+
+[PrintText]=01:50:05	Kotonoha	You agree with me, don't you?	01:52:23;
+
+[PlayVoice]=01:50:05	Voice04/04-KC/04-KC-G00/04-KC-G00-0400	0	kot	01:52:23;
+
+[PrintText]=01:52:23	Sekai	Yeah...	01:53:19;
+
+[PlayVoice]=01:52:23	Voice04/04-KC/04-KC-G00/04-KC-G00-0410	0	sek	01:53:19;
+
+[CreateBG]=01:53:15	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-010	02:10:08;
+
+[PrintText]=01:53:19	Kotonoha	So... I've tried to come up with a plan, and I'd like to know what you think.	02:00:06;
+
+[PlayVoice]=01:53:19	Voice04/04-KC/04-KC-G00/04-KC-G00-0420	0	kot	02:00:06;
+
+[PrintText]=02:00:06	Sekai	A plan...?	02:01:04;
+
+[PlayVoice]=02:00:06	Voice04/04-KC/04-KC-G00/04-KC-G00-0430	0	sek	02:01:04;
+
+[PrintText]=02:01:04	Kotonoha	Yes.	02:01:21;
+
+[PlayVoice]=02:01:04	Voice04/04-KC/04-KC-G00/04-KC-G00-0440	0	kot	02:01:21;
+
+[PrintText]=02:01:21	Sekai	You mean, like, whether to take your blouse or your skirt off first?	02:05:22;
+
+[PlayVoice]=02:01:21	Voice04/04-KC/04-KC-G00/04-KC-G00-0450	0	sek	02:05:22;
+
+[PrintText]=02:05:22	Kotonoha	N-nothing as raw as that!	02:09:12;
+
+[PlayVoice]=02:05:22	Voice04/04-KC/04-KC-G00/04-KC-G00-0460	0	kot	02:09:12;
+
+[PrintText]=02:09:12	Sekai	I see...	02:10:12;
+
+[PlayVoice]=02:09:12	Voice04/04-KC/04-KC-G00/04-KC-G00-0470	0	sek	02:10:12;
+
+[CreateBG]=02:10:08	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-011	02:21:12;
+
+[PrintText]=02:10:12	Kotonoha	It's December next month, isn't it?	02:13:09;
+
+[PlayVoice]=02:10:12	Voice04/04-KC/04-KC-G00/04-KC-G00-0480	0	kot	02:13:09;
+
+[PrintText]=02:13:09	Sekai	Yeah.	02:14:03;
+
+[PlayVoice]=02:13:09	Voice04/04-KC/04-KC-G00/04-KC-G00-0490	0	sek	02:14:03;
+
+[PrintText]=02:14:03	Kotonoha	December, meaning that it's Christmas.	02:17:04;
+
+[PlayVoice]=02:14:03	Voice04/04-KC/04-KC-G00/04-KC-G00-0500	0	kot	02:17:04;
+
+[PrintText]=02:17:04	Sekai	Well... yeah.	02:19:02;
+
+[PlayVoice]=02:17:04	Voice04/04-KC/04-KC-G00/04-KC-G00-0510	0	sek	02:19:02;
+
+[PrintText]=02:19:02	Kotonoha	So... it seems that my father is able to get a booking at the hotel in Sakakino Hills through his connections.	02:27:13;
+
+[PlayVoice]=02:19:02	Voice04/04-KC/04-KC-G00/04-KC-G00-0520	0	kot	02:27:13;
+
+[CreateBG]=02:21:12	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-012	02:44:20;
+
+[PrintText]=02:27:13	Sekai	The Hills Hotel in that high-rise building? That's really high class, isn't it? I've seen it before on TV.	02:34:10;
+
+[PlayVoice]=02:27:13	Voice04/04-KC/04-KC-G00/04-KC-G00-0530	0	sek	02:34:10;
+
+[PrintText]=02:34:10	Kotonoha	Yes. I was thinking of renting the presidential suite there on Christmas Eve...	02:41:00;
+
+[PlayVoice]=02:34:10	Voice04/04-KC/04-KC-G00/04-KC-G00-0540	0	kot	02:41:00;
+
+[PrintText]=02:41:00	Kotonoha	and then, looking out at the city scenery, we'd become one.	02:45:02;
+
+[PlayVoice]=02:41:00	Voice04/04-KC/04-KC-G00/04-KC-G00-0541	0	kot	02:45:02;
+
+[CreateBG]=02:44:20	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-013	02:53:01;
+
+[PrintText]=02:45:02	Sekai	Uwah...	02:46:06;
+
+[PlayVoice]=02:45:02	Voice04/04-KC/04-KC-G00/04-KC-G00-0550	0	sek	02:46:06;
+
+[PrintText]=02:46:06	Kotonoha	What do you think?	02:47:07;
+
+[PlayVoice]=02:46:06	Voice04/04-KC/04-KC-G00/04-KC-G00-0560	0	kot	02:47:07;
+
+[PrintText]=02:47:07	Sekai	...Just so I know, how much does one night cost at the presidential suite?	02:53:00;
+
+[PlayVoice]=02:47:07	Voice04/04-KC/04-KC-G00/04-KC-G00-0570	0	sek	02:53:00;
+
+[PrintText]=02:52:23	Kotonoha	It's the busy season, so probably something like 400,000 yen.	02:58:14;
+
+[PlayVoice]=02:52:23	Voice04/04-KC/04-KC-G00/04-KC-G00-0580	0	kot	02:58:14;
+
+[CreateBG]=02:53:01	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-014	03:16:00;
+
+[PrintText]=02:58:15	Sekai	400,000...?! You're going to borrow that much?	03:02:21;
+
+[PlayVoice]=02:58:15	Voice04/04-KC/04-KC-G00/04-KC-G00-0590	0	sek	03:02:21;
+
+[PrintText]=03:02:21	Kotonoha	Yes. It's a little expensive... but it's a once in a lifetime experience.	03:09:16;
+
+[PlayVoice]=03:02:21	Voice04/04-KC/04-KC-G00/04-KC-G00-0600	0	kot	03:09:16;
+
+[PrintText]=03:09:16	Sekai	But there's no way students like us could rent a room like that, right?!	03:15:01;
+
+[PlayVoice]=03:09:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0610	0	sek	03:15:01;
+
+[PrintText]=03:15:01	Kotonoha	I can.	03:16:07;
+
+[PlayVoice]=03:15:01	Voice04/04-KC/04-KC-G00/04-KC-G00-0620	0	kot	03:16:07;
+
+[CreateBG]=03:16:00	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-015	03:45:11;
+
+[PrintText]=03:16:07	Sekai	How?	03:17:07;
+
+[PlayVoice]=03:16:07	Voice04/04-KC/04-KC-G00/04-KC-G00-0630	0	sek	03:17:07;
+
+[PrintText]=03:17:07	Kotonoha	Like I said, my father has connections. He said that even Christmas Eve would be fine.	03:22:18;
+
+[PlayVoice]=03:17:07	Voice04/04-KC/04-KC-G00/04-KC-G00-0640	0	kot	03:22:18;
+
+[PrintText]=03:22:18	Sekai	Still, that's way too expensive for one night, isn't it? It's way more than what my mom makes in a month.	03:31:04;
+
+[PlayVoice]=03:22:18	Voice04/04-KC/04-KC-G00/04-KC-G00-0650	0	sek	03:31:04;
+
+[PrintText]=03:31:04	Kotonoha	Really...?	03:32:21;
+
+[PlayVoice]=03:31:04	Voice04/04-KC/04-KC-G00/04-KC-G00-0660	0	kot	03:32:21;
+
+[PrintText]=03:32:21	Sekai	Yeah.	03:33:19;
+
+[PlayVoice]=03:32:21	Voice04/04-KC/04-KC-G00/04-KC-G00-0670	0	sek	03:33:19;
+
+[PrintText]=03:33:19	Kotonoha	But you know... I asked my mother, and she said not to worry about money.	03:41:22;
+
+[PlayVoice]=03:33:19	Voice04/04-KC/04-KC-G00/04-KC-G00-0680	0	kot	03:41:22;
+
+[PrintText]=03:41:22	Sekai	H-how you could talk to your mother about something like that...?	03:45:16;
+
+[PlayVoice]=03:41:22	Voice04/04-KC/04-KC-G00/04-KC-G00-0690	0	sek	03:45:16;
+
+[CreateBG]=03:45:11	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-016	03:54:17;
+
+[PrintText]=03:45:16	Kotonoha	Shouldn't I have...?	03:47:20;
+
+[PlayVoice]=03:45:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0700	0	kot	03:47:20;
+
+[PrintText]=03:47:19	Sekai	Um...	03:49:01;
+
+[PlayVoice]=03:47:19	Voice04/04-KC/04-KC-G00/04-KC-G00-0710	0	sek	03:49:01;
+
+[PrintText]=03:49:00	Kotonoha	What do you think...?	03:50:03;
+
+[PlayVoice]=03:49:00	Voice04/04-KC/04-KC-G00/04-KC-G00-0720	0	kot	03:50:03;
+
+[PrintText]=03:50:03	Sekai	Well...	03:51:12;
+
+[PlayVoice]=03:50:03	Voice04/04-KC/04-KC-G00/04-KC-G00-0730	0	sek	03:51:12;
+
+[PrintText]=03:51:12	Kotonoha	Do you think Makoto-kun would refuse?	03:54:16;
+
+[PlayVoice]=03:51:12	Voice04/04-KC/04-KC-G00/04-KC-G00-0740	0	kot	03:54:16;
+
+[PrintText]=03:54:16	Sekai	No, I don't think he would.	03:56:08;
+
+[PlayVoice]=03:54:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0750	0	sek	03:56:08;
+
+[CreateBG]=03:54:17	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-017	04:00:14;
+
+[PrintText]=03:56:08	Kotonoha	Really...? That's wonderful.	04:00:03;
+
+[PlayVoice]=03:56:08	Voice04/04-KC/04-KC-G00/04-KC-G00-0760	0	kot	04:00:03;
+
+[PrintText]=04:00:03	Sekai	...	04:00:15;
+
+[PlayVoice]=04:00:03	Voice04/04-KC/04-KC-G00/04-KC-G00-0770	0	xxx	04:00:15;
+
+[CreateBG]=04:00:14	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-018	04:26:04;
+
+[PrintText]=04:00:15	Kotonoha	It's what Makoto-kun wants to do, so I was thinking he'd say okay, but I just couldn't help feeling uneasy.	04:09:09;
+
+[PlayVoice]=04:00:15	Voice04/04-KC/04-KC-G00/04-KC-G00-0780	0	kot	04:09:09;
+
+[PrintText]=04:09:09	Sekai	What about you, Katsura-san? You said that you weren't good with things like that... does that mean you're ready now?	04:18:10;
+
+[PlayVoice]=04:09:09	Voice04/04-KC/04-KC-G00/04-KC-G00-0790	0	sek	04:18:10;
+
+[PrintText]=04:18:10	Kotonoha	I... haven't prepared myself yet, but it's what Makoto-kun wants.	04:26:05;
+
+[PlayVoice]=04:18:10	Voice04/04-KC/04-KC-G00/04-KC-G00-0800	0	kot	04:26:05;
+
+[CreateBG]=04:26:04	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-019	04:47:02;
+
+[PrintText]=04:26:05	Sekai	And that makes it okay?	04:28:06;
+
+[PlayVoice]=04:26:05	Voice04/04-KC/04-KC-G00/04-KC-G00-0810	0	sek	04:28:06;
+
+[PrintText]=04:28:06	Kotonoha	Yes... to tell you the truth, it's not something I want to do... but I don't want to stress our relationship any further...	04:39:01;
+
+[PlayVoice]=04:28:06	Voice04/04-KC/04-KC-G00/04-KC-G00-0820	0	kot	04:39:01;
+
+[PrintText]=04:39:01	Sekai	I see...	04:40:03;
+
+[PlayVoice]=04:39:01	Voice04/04-KC/04-KC-G00/04-KC-G00-0840	0	sek	04:40:03;
+
+[PrintText]=04:40:02	Kotonoha	Do you think that's strange?	04:41:12;
+
+[PlayVoice]=04:40:02	Voice04/04-KC/04-KC-G00/04-KC-G00-0850	0	kot	04:41:12;
+
+[PrintText]=04:41:12	Sekai	Are you happy to sleep with him for a reason like that?	04:44:12;
+
+[PlayVoice]=04:41:12	Voice04/04-KC/04-KC-G00/04-KC-G00-0860	0	sek	04:44:12;
+
+[PrintText]=04:44:11	Kotonoha	Eh?!	04:45:04;
+
+[PlayVoice]=04:44:11	Voice04/04-KC/04-KC-G00/04-KC-G00-0870	0	kot	04:45:04;
+
+[PrintText]=04:45:04	Sekai	...That's what I've been thinking.	04:47:00;
+
+[PlayVoice]=04:45:04	Voice04/04-KC/04-KC-G00/04-KC-G00-0880	0	sek	04:47:00;
+
+[PrintText]=04:47:00	Kotonoha	I'm sure I could endure it, if it's the person that I love.	04:50:12;
+
+[PlayVoice]=04:47:00	Voice04/04-KC/04-KC-G00/04-KC-G00-0890	0	kot	04:50:12;
+
+[CreateBG]=04:47:02	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-020	04:58:02;
+
+[PrintText]=04:50:12	Sekai	'Endure'...	04:51:15;
+
+[PlayVoice]=04:50:12	Voice04/04-KC/04-KC-G00/04-KC-G00-0900	0	sek	04:51:15;
+
+[PrintText]=04:51:15	Kotonoha	If you were in the same situation, what would you do?	04:55:10;
+
+[PlayVoice]=04:51:15	Voice04/04-KC/04-KC-G00/04-KC-G00-0910	0	kot	04:55:10;
+
+[PrintText]=04:55:10	Sekai	If it were me...	04:56:16;
+
+[PlayVoice]=04:55:10	Voice04/04-KC/04-KC-G00/04-KC-G00-0920	0	sek	04:56:16;
+
+[PrintText]=04:56:16	Taisuke	Hey!	04:58:07;
+
+[PlayVoice]=04:56:16	Voice04/04-KC/04-KC-G00/04-KC-G00-0940	1	tai	04:58:07;
+
+[CreateBG]=04:58:02	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-021	05:05:00;
+
+[PrintText]=04:58:08	Makoto	Are you guys eating there?	04:59:19;
+
+[PlayVoice]=04:58:08	Voice04/04-KC/04-KC-G00/04-KC-G00-0950	1	mak	04:59:19;
+
+[PrintText]=04:59:19	Kotonoha	Ah... Makoto-kun.	05:02:05;
+
+[PlayVoice]=04:59:19	Voice04/04-KC/04-KC-G00/04-KC-G00-0960	0	kot	05:02:05;
+
+[PrintText]=05:02:04	Sekai	Makoto...	05:03:07;
+
+[PlayVoice]=05:02:04	Voice04/04-KC/04-KC-G00/04-KC-G00-0970	0	sek	05:03:07;
+
+[PrintText]=05:03:07	Makoto	Mind if we join you?	05:05:04;
+
+[PlayVoice]=05:03:07	Voice04/04-KC/04-KC-G00/04-KC-G00-0980	1	mak	05:05:04;
+
+[CreateBG]=05:05:00	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-022	05:10:16;
+
+[PrintText]=05:05:04	Kotonoha	Sure. You don't mind, do you, Saionji-san?	05:08:11;
+
+[PlayVoice]=05:05:04	Voice04/04-KC/04-KC-G00/04-KC-G00-0990	0	kot	05:08:11;
+
+[PrintText]=05:08:11	Sekai	Uh-huh.	05:09:06;
+
+[PlayVoice]=05:08:11	Voice04/04-KC/04-KC-G00/04-KC-G00-1000	0	sek	05:09:06;
+
+[PrintText]=05:09:06	Taisuke	Awesome.	05:10:04;
+
+[PlayVoice]=05:09:06	Voice04/04-KC/04-KC-G00/04-KC-G00-1010	1	tai	05:10:04;
+
+[PrintText]=05:10:03	Makoto	In that case...	05:10:23;
+
+[PlayVoice]=05:10:03	Voice04/04-KC/04-KC-G00/04-KC-G00-1020	1	mak	05:10:23;
+
+[CreateBG]=05:10:16	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-023	05:25:04;
+
+[PrintText]=05:10:23	Taisuke	Hey, what were you guys talking about?	05:13:01;
+
+[PlayVoice]=05:10:23	Voice04/04-KC/04-KC-G00/04-KC-G00-1030	1	tai	05:13:01;
+
+[PrintText]=05:13:01	Kotonoha	Eh?!	05:13:19;
+
+[PlayVoice]=05:13:01	Voice04/04-KC/04-KC-G00/04-KC-G00-1040	0	kot	05:13:19;
+
+[PrintText]=05:13:23	Makoto	It looked like a real serious conversation.	05:17:15;
+
+[PlayVoice]=05:13:23	Voice04/04-KC/04-KC-G00/04-KC-G00-1050	1	mak	05:17:15;
+
+[PrintText]=05:17:12	Taisuke	Yeah, totally.	05:18:16;
+
+[PlayVoice]=05:17:12	Voice04/04-KC/04-KC-G00/04-KC-G00-1060	1	tai	05:18:16;
+
+[PrintText]=05:18:16	Sekai	It's... what you call a secret between ladies.	05:22:12;
+
+[PlayVoice]=05:18:16	Voice04/04-KC/04-KC-G00/04-KC-G00-1070	0	sek	05:22:12;
+
+[PrintText]=05:22:12	Taisuke	Lady? Where?	05:24:02;
+
+[PlayVoice]=05:22:12	Voice04/04-KC/04-KC-G00/04-KC-G00-1080	1	tai	05:24:02;
+
+[PrintText]=05:24:02	Sekai	Shut up.	05:25:06;
+
+[PlayVoice]=05:24:02	Voice04/04-KC/04-KC-G00/04-KC-G00-1090	0	sek	05:25:06;
+
+[CreateBG]=05:25:04	BGS	Event04/04-KC/04-KC-G00/04-KC-G00-001	05:37:11;
+
+[PrintText]=05:25:06	Makoto	You really have zero delicacy, don't you?	05:27:15;
+
+[PlayVoice]=05:25:06	Voice04/04-KC/04-KC-G00/04-KC-G00-1100	1	mak	05:27:15;
+
+[PrintText]=05:27:15	Taisuke	What, just me?!	05:29:22;
+
+[PlayVoice]=05:27:15	Voice04/04-KC/04-KC-G00/04-KC-G00-1110	1	tai	05:29:22;
+
+[PrintText]=05:29:23	Makoto	Yeah.	05:30:17;
+
+[PlayVoice]=05:29:23	Voice04/04-KC/04-KC-G00/04-KC-G00-1120	1	mak	05:30:17;
+
+[PrintText]=05:30:17	Sekai	Uh-huh.	05:31:18;
+
+[PlayVoice]=05:30:17	Voice04/04-KC/04-KC-G00/04-KC-G00-1130	0	sek	05:31:18;
+
+[PrintText]=05:31:17	Kotonoha	Ufufu...	05:33:03;
+
+[PlayVoice]=05:31:17	Voice04/04-KC/04-KC-G00/04-KC-G00-1140	0	kot	05:33:03;
+
+[PrintText]=05:33:03	Taisuke	Damn it...	05:35:16;
+
+[PlayVoice]=05:33:03	Voice04/04-KC/04-KC-G00/04-KC-G00-1150	1	tai	05:35:16;
+
+ ;
+
+[Next]=05:37:11;
+

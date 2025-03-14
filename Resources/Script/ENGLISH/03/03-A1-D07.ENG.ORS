@@ -1,0 +1,60 @@
+[SkipFRAME]=00:34:18;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:34:18;
+
+[CreateBG]=00:00:00	BGS	Event03/03-A1/03-A1-D07/03-A1-D07-001	00:05:15;
+
+[PrintText]=00:00:00	Makoto	And so in the end... she slapped me across the face.	00:05:14;
+
+[PlayVoice]=00:00:00	Voice03/03-A1/03-A1-D07/03-A1-D07-0030	1	mak	00:05:14;
+
+[PrintText]=00:05:14	Setsuna	She slapped you?	00:06:21;
+
+[PlayVoice]=00:05:14	Voice03/03-A1/03-A1-D07/03-A1-D07-0040	0	set	00:06:21;
+
+[CreateBG]=00:05:15	BGS	Event03/03-A1/03-A1-D07/03-A1-D07-002	00:18:16;
+
+[PrintText]=00:06:22	Makoto	Didn't you hear? It was right in front of everyone on the station platform, so someone from class might have seen it.	00:15:09;
+
+[PlayVoice]=00:06:22	Voice03/03-A1/03-A1-D07/03-A1-D07-0050	1	mak	00:15:09;
+
+[PrintText]=00:15:09	Setsuna	I haven't heard anything.	00:17:10;
+
+[PlayVoice]=00:15:09	Voice03/03-A1/03-A1-D07/03-A1-D07-0060	0	set	00:17:10;
+
+[PrintText]=00:17:10	Makoto	I see.	00:18:09;
+
+[PlayVoice]=00:17:10	Voice03/03-A1/03-A1-D07/03-A1-D07-0070	1	mak	00:18:09;
+
+[CreateBG]=00:18:16	BGS	Event03/03-A1/03-A1-D07/03-A1-D07-003	00:24:12;
+
+[PrintText]=00:18:22	Setsuna	But that would explain everyone's reaction at lunchtime.	00:23:08;
+
+[PlayVoice]=00:18:22	Voice03/03-A1/03-A1-D07/03-A1-D07-0080	0	set	00:23:08;
+
+[PrintText]=00:23:13	Makoto	Yeah.	00:24:05;
+
+[PlayVoice]=00:23:13	Voice03/03-A1/03-A1-D07/03-A1-D07-0090	1	mak	00:24:05;
+
+[CreateBG]=00:24:12	BGS	Event03/03-A1/03-A1-D07/03-A1-D07-004	00:34:18;
+
+[PrintText]=00:24:18	Setsuna	Don't worry about it. It won't be long before everyone forgets.	00:28:09;
+
+[PlayVoice]=00:24:18	Voice03/03-A1/03-A1-D07/03-A1-D07-0100	0	set	00:28:09;
+
+[PrintText]=00:28:09	Makoto	Haha...	00:30:11;
+
+[PlayVoice]=00:28:09	Voice03/03-A1/03-A1-D07/03-A1-D07-0110	1	mak	00:30:11;
+
+[PrintText]=00:30:11	Setsuna	...	00:31:05;
+
+[PlayVoice]=00:30:11	Voice03/03-A1/03-A1-D07/03-A1-D07-0120	0	xxx	00:31:05;
+
+[PrintText]=00:31:05	Makoto	...	00:34:05;
+
+[PlayVoice]=00:31:05	Voice03/03-A1/03-A1-D07/03-A1-D07-0140	1	xxx	00:34:05;
+
+ ;
+
+[Next]=00:34:18;
+

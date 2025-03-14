@@ -1,0 +1,52 @@
+[SkipFRAME]=00:25:22;
+
+[PlaySe]=00:00:00	2	SysSe/SE_all/gaya/syoutengai	00:31:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-J00/04-SA-J00-001	00:05:05;
+
+[PrintText]=00:00:06	Makoto	Ah...	00:00:20;
+
+[PlayVoice]=00:00:06	Voice04/04-SA/04-SA-J00/04-SA-J00-0030	1	mak	00:00:20;
+
+[PrintText]=00:00:20	Makoto	I've got to buy a birthday present for Itaru.	00:04:07;
+
+[PlayVoice]=00:00:20	Voice04/04-SA/04-SA-J00/04-SA-J00-0040	1	mak	00:04:07;
+
+[BlackFade]=00:04:16	OUT	00:05:05;
+
+[PlaySe]=00:05:05	1	SysSe/SE_all/other/register	00:06:11;
+
+[CreateBG]=00:05:05	BGS	Event04/04-SA/04-SA-J00/04-SA-J00-002	00:08:00;
+
+[PrintText]=00:06:10	Store Clerk	Thank you!	00:08:03;
+
+[PlayVoice]=00:06:10	Voice04/04-SA/04-SA-J00/04-SA-J00-0060	0	ten	00:08:03;
+
+[CreateBG]=00:08:00	BGS	Event04/04-SA/04-SA-J00/04-SA-J00-003B	00:18:03;
+
+[BlackFade]=00:08:00	IN	00:08:11;
+
+[PrintText]=00:09:02	Makoto	Talk about steep!	00:10:17;
+
+[PlayVoice]=00:09:02	Voice04/04-SA/04-SA-J00/04-SA-J00-0080	1	mak	00:10:17;
+
+[PrintText]=00:11:02	Makoto	Let's see, I've got... geh, only 2,000 yen left, huh.	00:18:04;
+
+[PlayVoice]=00:11:02	Voice04/04-SA/04-SA-J00/04-SA-J00-0090	1	mak	00:18:04;
+
+[CreateBG]=00:18:03	BGS	Event04/04-SA/04-SA-J00/04-SA-J00-004	00:31:23;
+
+[PrintText]=00:18:11	Makoto	I wonder how much a pool ticket costs.	00:22:02;
+
+[PlayVoice]=00:18:11	Voice04/04-SA/04-SA-J00/04-SA-J00-0100	1	mak	00:22:02;
+
+[PrintText]=00:22:10	Makoto	It'd be no joke if I didn't have enough left...	00:25:11;
+
+[PlayVoice]=00:22:10	Voice04/04-SA/04-SA-J00/04-SA-J00-0110	1	mak	00:25:11;
+
+[SetSELECT]=00:25:22	'Check the price'	null	00:30:22;
+
+ ;
+
+[Next]=00:31:23;
+

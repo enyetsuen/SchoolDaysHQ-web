@@ -1,0 +1,98 @@
+[SkipFRAME]=00:45:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm19	00:51:09;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-005	00:08:07;
+
+[PrintText]=00:00:00	Makoto	Probably...	00:01:02;
+
+[PlayVoice]=00:00:00	Voice05/05-SD/05-SD-D02/05-SD-D02-0030	1	mak	00:01:02;
+
+[PrintText]=00:01:03	Sekai	Eh?!	00:02:03;
+
+[PlayVoice]=00:01:03	Voice05/05-SD/05-SD-D02/05-SD-D02-0040	0	sek	00:02:03;
+
+[PrintText]=00:02:03	Makoto	To be honest... right now, I just don't know what to tell you.	00:08:07;
+
+[PlayVoice]=00:02:03	Voice05/05-SD/05-SD-D02/05-SD-D02-0050	1	mak	00:08:07;
+
+[CreateBG]=00:08:07	BGS	Event05/05-SD/05-SD-D01/05-SD-D01-004	00:16:21;
+
+[PrintText]=00:08:07	Sekai	Why?	00:09:09;
+
+[PlayVoice]=00:08:07	Voice05/05-SD/05-SD-D02/05-SD-D02-0060	0	sek	00:09:09;
+
+[PrintText]=00:09:09	Makoto	All of a sudden, I hear that you're going to transfer away...	00:13:09;
+
+[PlayVoice]=00:09:09	Voice05/05-SD/05-SD-D02/05-SD-D02-0070	1	mak	00:13:09;
+
+[PrintText]=00:13:10	Sekai	Even if I do, that won't change us.	00:16:21;
+
+[PlayVoice]=00:13:10	Voice05/05-SD/05-SD-D02/05-SD-D02-0080	0	sek	00:16:21;
+
+[CreateBG]=00:16:21	BGS	Event05/05-SD/05-SD-D00/05-SD-D00-001	00:19:23;
+
+[PrintText]=00:16:21	Makoto	Are you... really going to transfer away?	00:19:23;
+
+[PlayVoice]=00:16:21	Voice05/05-SD/05-SD-D02/05-SD-D02-0090	1	mak	00:19:23;
+
+[CreateBG]=00:19:23	BGS	Event05/05-SD/05-SD-D02/05-SD-D02-004	00:24:15;
+
+[PrintText]=00:19:23	Sekai	It can't be helped... my mom's moving because of her job.	00:24:14;
+
+[PlayVoice]=00:19:23	Voice05/05-SD/05-SD-D02/05-SD-D02-0100	0	sek	00:24:14;
+
+[CreateBG]=00:24:15	BGS	Event05/05-SD/05-SD-D02/05-SD-D02-005	00:32:01;
+
+[PrintText]=00:24:15	Makoto	Can't you stay here on your own?	00:26:23;
+
+[PlayVoice]=00:24:15	Voice05/05-SD/05-SD-D02/05-SD-D02-0110	1	mak	00:26:23;
+
+[PrintText]=00:26:23	Sekai	Mom said that I couldn't...	00:30:00;
+
+[PlayVoice]=00:26:23	Voice05/05-SD/05-SD-D02/05-SD-D02-0120	0	sek	00:30:00;
+
+[PrintText]=00:30:00	Makoto	So there's nothing you can do about it?	00:32:01;
+
+[PlayVoice]=00:30:00	Voice05/05-SD/05-SD-D02/05-SD-D02-0130	1	mak	00:32:01;
+
+[CreateBG]=00:32:01	BGS	Event05/05-SD/05-SD-D02/05-SD-D02-006	00:33:16;
+
+[PrintText]=00:32:01	Sekai	Yeah...	00:32:13;
+
+[PlayVoice]=00:32:01	Voice05/05-SD/05-SD-D02/05-SD-D02-0140	0	sek	00:32:13;
+
+[PrintText]=00:32:13	Makoto	I see...	00:33:15;
+
+[PlayVoice]=00:32:13	Voice05/05-SD/05-SD-D02/05-SD-D02-0150	1	mak	00:33:15;
+
+[CreateBG]=00:33:16	BGS	Event05/05-SD/05-SD-D02/05-SD-D02-007	00:38:19;
+
+[PrintText]=00:33:16	Sekai	But still...! We won't change, will we? Even if we're apart...	00:38:18;
+
+[PlayVoice]=00:33:16	Voice05/05-SD/05-SD-D02/05-SD-D02-0160	0	sek	00:38:18;
+
+[PrintText]=00:38:18	Makoto	...	00:39:20;
+
+[PlayVoice]=00:38:18	Voice05/05-SD/05-SD-D02/05-SD-D02-0170	1	xxx	00:39:20;
+
+[CreateBG]=00:38:19	BGS	Event05/05-SD/05-SD-D02/05-SD-D02-008	00:39:20;
+
+[CreateBG]=00:39:20	BGS	Event05/05-SD/05-SD-D02/05-SD-D02-009	00:44:03;
+
+[PrintText]=00:39:20	Sekai	We'll still always love each other, right?!	00:44:02;
+
+[PlayVoice]=00:39:20	Voice05/05-SD/05-SD-D02/05-SD-D02-0180	0	sek	00:44:02;
+
+[PrintText]=00:44:02	Makoto	Sekai...	00:45:08;
+
+[PlayVoice]=00:44:02	Voice05/05-SD/05-SD-D02/05-SD-D02-0190	1	mak	00:45:08;
+
+[CreateBG]=00:44:03	BGS	Event05/05-SD/05-SD-D02/05-SD-D02-009B	00:51:09;
+
+[SetSELECT]=00:45:09	'We will'	null	00:50:09;
+
+ ;
+
+[Next]=00:51:09;
+

@@ -1,0 +1,356 @@
+[SkipFRAME]=03:27:06;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	01:59:05;
+
+[CreateBG]=00:00:00	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-001	00:03:00;
+
+[CreateBG]=00:03:00	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-002	00:04:05;
+
+[PrintText]=00:03:02	Makoto	Phew...	00:04:01;
+
+[PlayVoice]=00:03:02	Voice05/05-KA/05-KA-H00/05-KA-H00-0030	1	mak	00:04:01;
+
+[CreateBG]=00:04:05	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-003	00:13:19;
+
+[PrintText]=00:04:07	Otome	...	00:05:22;
+
+[PlayVoice]=00:04:07	Voice05/05-KA/05-KA-H00/05-KA-H00-0040	0	xxx	00:05:22;
+
+[PrintText]=00:06:00	Makoto	Sorry, I guess I just put you through some serious drama.	00:10:13;
+
+[PlayVoice]=00:06:00	Voice05/05-KA/05-KA-H00/05-KA-H00-0050	1	mak	00:10:13;
+
+[PrintText]=00:10:16	Otome	Haha... it was pretty shocking.	00:13:18;
+
+[PlayVoice]=00:10:16	Voice05/05-KA/05-KA-H00/05-KA-H00-0060	0	oto	00:13:18;
+
+[CreateBG]=00:13:19	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-004	00:20:04;
+
+[PrintText]=00:13:19	Makoto	Thanks... to tell you the truth, I was still a little hesitant.	00:19:07;
+
+[PlayVoice]=00:13:19	Voice05/05-KA/05-KA-H00/05-KA-H00-0070	1	mak	00:19:07;
+
+[PrintText]=00:19:07	Otome	Eh...?	00:20:04;
+
+[PlayVoice]=00:19:07	Voice05/05-KA/05-KA-H00/05-KA-H00-0080	0	oto	00:20:04;
+
+[CreateBG]=00:20:04	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-005	00:34:08;
+
+[PrintText]=00:20:04	Makoto	Kotonoha was coming on pretty strong... I knew that if I didn't reject her, she would just keep dragging me along forever.	00:28:05;
+
+[PlayVoice]=00:20:04	Voice05/05-KA/05-KA-H00/05-KA-H00-0090	1	mak	00:28:05;
+
+[PrintText]=00:28:06	Makoto	But at the same time, a part of me thought that maybe it wouldn't be so bad.	00:34:05;
+
+[PlayVoice]=00:28:06	Voice05/05-KA/05-KA-H00/05-KA-H00-0091	1	mak	00:34:05;
+
+[CreateBG]=00:34:08	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-006	00:35:23;
+
+[PrintText]=00:34:11	Otome	Itou...	00:35:16;
+
+[PlayVoice]=00:34:11	Voice05/05-KA/05-KA-H00/05-KA-H00-0100	0	oto	00:35:16;
+
+[CreateBG]=00:35:23	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-007A	00:44:07;
+
+[PrintText]=00:35:23	Makoto	At the festival, when I saw her sitting there all by herself with this sad look in her eyes, I wanted to protect her.	00:48:04;
+
+[PlayVoice]=00:35:23	Voice05/05-KA/05-KA-H00/05-KA-H00-0110	1	mak	00:48:04;
+
+[CreateBG]=00:44:07	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-007B	00:51:13;
+
+[PrintText]=00:48:09	Otome	Ah...	00:49:08;
+
+[PlayVoice]=00:48:09	Voice05/05-KA/05-KA-H00/05-KA-H00-0120	0	oto	00:49:08;
+
+[PrintText]=00:49:11	Makoto	It was a mistake, wasn't it? Getting caught up in the mood like that... I really am a jerk.	01:00:09;
+
+[PlayVoice]=00:49:11	Voice05/05-KA/05-KA-H00/05-KA-H00-0140	1	mak	01:00:09;
+
+[CreateBG]=00:51:13	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-007C	01:00:10;
+
+[CreateBG]=01:00:10	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-008A	01:05:10;
+
+[PrintText]=01:00:11	Otome	...	01:01:01;
+
+[PlayVoice]=01:00:11	Voice05/05-KA/05-KA-H00/05-KA-H00-0150	0	xxx	01:01:01;
+
+[PrintText]=01:01:05	Makoto	But when I heard what you said to her, it's like I finally woke up... I realized that I loved Sekai after all.	01:11:13;
+
+[PlayVoice]=01:01:05	Voice05/05-KA/05-KA-H00/05-KA-H00-0160	1	mak	01:11:13;
+
+[CreateBG]=01:05:10	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-008B	01:14:17;
+
+[PrintText]=01:11:14	Otome	...I see.	01:13:17;
+
+[PlayVoice]=01:11:14	Voice05/05-KA/05-KA-H00/05-KA-H00-0170	0	oto	01:13:17;
+
+[PrintText]=01:13:23	Makoto	Yeah.	01:14:14;
+
+[PlayVoice]=01:13:23	Voice05/05-KA/05-KA-H00/05-KA-H00-0180	1	mak	01:14:14;
+
+[CreateBG]=01:14:17	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-009	01:18:17;
+
+[PrintText]=01:14:20	Otome	So, the girl you liked was Saionji-san.	01:18:17;
+
+[PlayVoice]=01:14:20	Voice05/05-KA/05-KA-H00/05-KA-H00-0190	0	oto	01:18:17;
+
+[CreateBG]=01:18:17	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-010	01:26:02;
+
+[PrintText]=01:18:17	Makoto	You know about Sekai? Oh, you have P.E. together, don't you?	01:25:23;
+
+[PlayVoice]=01:18:17	Voice05/05-KA/05-KA-H00/05-KA-H00-0200	1	mak	01:25:23;
+
+[CreateBG]=01:26:02	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-011	01:35:05;
+
+[PrintText]=01:26:04	Otome	She was with Nanami at the girls' basketball club's party.	01:29:19;
+
+[PlayVoice]=01:26:04	Voice05/05-KA/05-KA-H00/05-KA-H00-0210	0	oto	01:29:19;
+
+[PrintText]=01:29:18	Makoto	Ah, I see.	01:31:10;
+
+[PlayVoice]=01:29:18	Voice05/05-KA/05-KA-H00/05-KA-H00-0220	1	mak	01:31:10;
+
+[PrintText]=01:31:19	Otome	Saionji-san... is cute, isn't she?	01:35:04;
+
+[PlayVoice]=01:31:19	Voice05/05-KA/05-KA-H00/05-KA-H00-0230	0	oto	01:35:04;
+
+[CreateBG]=01:35:05	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-012	01:38:04;
+
+[PrintText]=01:35:05	Makoto	Yeah.	01:35:20;
+
+[PlayVoice]=01:35:05	Voice05/05-KA/05-KA-H00/05-KA-H00-0240	1	mak	01:35:20;
+
+[PrintText]=01:35:21	Otome	And she's got a nice body, too.	01:37:11;
+
+[PlayVoice]=01:35:21	Voice05/05-KA/05-KA-H00/05-KA-H00-0250	0	oto	01:37:11;
+
+[PrintText]=01:37:11	Makoto	Yeah.	01:38:02;
+
+[PlayVoice]=01:37:11	Voice05/05-KA/05-KA-H00/05-KA-H00-0260	1	mak	01:38:02;
+
+[CreateBG]=01:38:04	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-013	01:41:12;
+
+[PrintText]=01:38:06	Otome	And she's short, too. Unlike me...	01:41:11;
+
+[PlayVoice]=01:38:06	Voice05/05-KA/05-KA-H00/05-KA-H00-0270	0	oto	01:41:11;
+
+[CreateBG]=01:41:12	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-014A	01:45:20;
+
+[PrintText]=01:41:13	Makoto	It's not like you're particularly tall, though. You're only about my size.	01:45:19;
+
+[PlayVoice]=01:41:13	Voice05/05-KA/05-KA-H00/05-KA-H00-0280	1	mak	01:45:19;
+
+[CreateBG]=01:45:20	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-014B	01:49:11;
+
+[PrintText]=01:45:21	Otome	They say that boys prefer smaller girls, right?	01:49:12;
+
+[PlayVoice]=01:45:21	Voice05/05-KA/05-KA-H00/05-KA-H00-0290	0	oto	01:49:12;
+
+[CreateBG]=01:49:11	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-014C	01:55:07;
+
+[PrintText]=01:49:11	Makoto	I don't think that's true. I could definitely go for someone about your height.	01:55:05;
+
+[PlayVoice]=01:49:11	Voice05/05-KA/05-KA-H00/05-KA-H00-0300	1	mak	01:55:05;
+
+[CreateBG]=01:55:07	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-015	02:03:10;
+
+[PrintText]=01:55:08	Otome	Haah... the way you make others feel special... I'll bet what just happened was because of that, too.	02:03:09;
+
+[PlayVoice]=01:55:08	Voice05/05-KA/05-KA-H00/05-KA-H00-0310	0	oto	02:03:09;
+
+[PlaySe]=01:57:17	2	SysSe/SE_all/gaya/kyousitu_rouka	03:26:12;
+
+[CreateBG]=02:03:10	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-16A	02:07:23;
+
+[PrintText]=02:03:12	Makoto	Huh?	02:04:04;
+
+[PlayVoice]=02:03:12	Voice05/05-KA/05-KA-H00/05-KA-H00-0320	1	mak	02:04:04;
+
+[PrintText]=02:04:09	Otome	Nothing.	02:06:10;
+
+[PlayVoice]=02:04:09	Voice05/05-KA/05-KA-H00/05-KA-H00-0330	0	oto	02:06:10;
+
+[PrintText]=02:06:11	Makoto	Well, anyhow... I'm grateful to you.	02:09:00;
+
+[PlayVoice]=02:06:11	Voice05/05-KA/05-KA-H00/05-KA-H00-0340	1	mak	02:09:00;
+
+[CreateBG]=02:07:23	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-16B	02:13:20;
+
+[PrintText]=02:09:06	Otome	Uh-huh.	02:09:21;
+
+[PlayVoice]=02:09:06	Voice05/05-KA/05-KA-H00/05-KA-H00-0350	0	oto	02:09:21;
+
+[PrintText]=02:09:22	Makoto	I guess it really does pay to have friends, huh?	02:12:11;
+
+[PlayVoice]=02:09:22	Voice05/05-KA/05-KA-H00/05-KA-H00-0360	1	mak	02:12:11;
+
+[PrintText]=02:12:14	Otome	You can count on me.	02:13:19;
+
+[PlayVoice]=02:12:14	Voice05/05-KA/05-KA-H00/05-KA-H00-0370	0	oto	02:13:19;
+
+[CreateBG]=02:13:20	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-16C	02:19:20;
+
+[PrintText]=02:13:21	Makoto	Well, I'll be going now.	02:15:19;
+
+[PlayVoice]=02:13:21	Voice05/05-KA/05-KA-H00/05-KA-H00-0380	1	mak	02:15:19;
+
+[PrintText]=02:15:19	Otome	Huh? Where?	02:17:08;
+
+[PlayVoice]=02:15:19	Voice05/05-KA/05-KA-H00/05-KA-H00-0390	0	oto	02:17:08;
+
+[PrintText]=02:17:08	Makoto	To see Sekai.	02:18:14;
+
+[PlayVoice]=02:17:08	Voice05/05-KA/05-KA-H00/05-KA-H00-0400	1	mak	02:18:14;
+
+[PrintText]=02:18:18	Otome	Right now?	02:19:20;
+
+[PlayVoice]=02:18:18	Voice05/05-KA/05-KA-H00/05-KA-H00-0410	0	oto	02:19:20;
+
+[CreateBG]=02:19:20	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-16D	02:25:19;
+
+[PrintText]=02:19:20	Makoto	Yeah.	02:20:11;
+
+[PlayVoice]=02:19:20	Voice05/05-KA/05-KA-H00/05-KA-H00-0420	1	mak	02:20:11;
+
+[PrintText]=02:20:14	Otome	What about school?	02:22:00;
+
+[PlayVoice]=02:20:14	Voice05/05-KA/05-KA-H00/05-KA-H00-0430	0	oto	02:22:00;
+
+[PrintText]=02:22:04	Makoto	I'm skipping it.	02:22:23;
+
+[PlayVoice]=02:22:04	Voice05/05-KA/05-KA-H00/05-KA-H00-0440	1	mak	02:22:23;
+
+[PrintText]=02:23:04	Otome	Isn't it kind of a problem for you to just suddenly disappear?	02:26:01;
+
+[PlayVoice]=02:23:04	Voice05/05-KA/05-KA-H00/05-KA-H00-0450	0	oto	02:26:01;
+
+[CreateBG]=02:25:19	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-014A	02:27:01;
+
+[PrintText]=02:26:01	Makoto	It'll be fine.	02:26:19;
+
+[PlayVoice]=02:26:01	Voice05/05-KA/05-KA-H00/05-KA-H00-0460	1	mak	02:26:19;
+
+[PrintText]=02:26:22	Otome	No, it won't.	02:28:14;
+
+[PlayVoice]=02:26:22	Voice05/05-KA/05-KA-H00/05-KA-H00-0470	0	oto	02:28:14;
+
+[CreateBG]=02:27:01	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-013	02:28:16;
+
+[CreateBG]=02:28:16	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-019	02:35:00;
+
+[PrintText]=02:28:17	Makoto	Besides... right now, I don't want to go another moment without seeing her.	02:34:21;
+
+[PlayVoice]=02:28:17	Voice05/05-KA/05-KA-H00/05-KA-H00-0480	1	mak	02:34:21;
+
+[CreateBG]=02:35:00	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-020	02:42:06;
+
+[PrintText]=02:35:01	Otome	Ah...	02:35:22;
+
+[PlayVoice]=02:35:01	Voice05/05-KA/05-KA-H00/05-KA-H00-0490	0	oto	02:35:22;
+
+[PrintText]=02:36:01	Makoto	She probably won't forgive me... and maybe it's just for my own satisfaction, but...	02:41:12;
+
+[PlayVoice]=02:36:01	Voice05/05-KA/05-KA-H00/05-KA-H00-0500	1	mak	02:41:12;
+
+[PrintText]=02:41:12	Otome	Uh-huh...	02:42:05;
+
+[PlayVoice]=02:41:12	Voice05/05-KA/05-KA-H00/05-KA-H00-0510	0	oto	02:42:05;
+
+[CreateBG]=02:42:06	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-010	02:47:23;
+
+[PrintText]=02:42:06	Makoto	I'm going anyway.	02:45:11;
+
+[PlayVoice]=02:42:06	Voice05/05-KA/05-KA-H00/05-KA-H00-0520	1	mak	02:45:11;
+
+[PrintText]=02:45:13	Otome	Okay. Give it your best.	02:47:05;
+
+[PlayVoice]=02:45:13	Voice05/05-KA/05-KA-H00/05-KA-H00-0530	0	oto	02:47:05;
+
+[PrintText]=02:47:05	Makoto	You bet.	02:47:20;
+
+[PlayVoice]=02:47:05	Voice05/05-KA/05-KA-H00/05-KA-H00-0540	1	mak	02:47:20;
+
+[CreateBG]=02:47:23	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-022	02:50:14;
+
+[PrintText]=02:48:02	Otome	...Hey, Itou.	02:50:13;
+
+[PlayVoice]=02:48:02	Voice05/05-KA/05-KA-H00/05-KA-H00-0550	0	oto	02:50:13;
+
+[CreateBG]=02:50:14	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-023	02:51:06;
+
+[PrintText]=02:50:14	Makoto	Yeah?	02:51:04;
+
+[PlayVoice]=02:50:14	Voice05/05-KA/05-KA-H00/05-KA-H00-0560	1	mak	02:51:04;
+
+[CreateBG]=02:51:06	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-009	02:56:14;
+
+[PrintText]=02:51:13	Otome	If it doesn't work out, I'll be happy to go out with you... out of pity, that is.	02:56:13;
+
+[PlayVoice]=02:51:13	Voice05/05-KA/05-KA-H00/05-KA-H00-0570	0	oto	02:56:13;
+
+[CreateBG]=02:56:14	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-010	03:03:22;
+
+[PrintText]=02:56:14	Makoto	Haha! Thanks.	02:58:23;
+
+[PlayVoice]=02:56:14	Voice05/05-KA/05-KA-H00/05-KA-H00-0580	1	mak	02:58:23;
+
+[PrintText]=02:59:01	Otome	I'm serious, you know.	03:00:20;
+
+[PlayVoice]=02:59:01	Voice05/05-KA/05-KA-H00/05-KA-H00-0590	0	oto	03:00:20;
+
+[PrintText]=03:00:23	Makoto	Yeah, you've really cheered me up.	03:03:21;
+
+[PlayVoice]=03:00:23	Voice05/05-KA/05-KA-H00/05-KA-H00-0600	1	mak	03:03:21;
+
+[CreateBG]=03:03:22	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-028	03:10:02;
+
+[PrintText]=03:03:22	Otome	...	03:04:14;
+
+[PlayVoice]=03:03:22	Voice05/05-KA/05-KA-H00/05-KA-H00-0610	0	xxx	03:04:14;
+
+[PrintText]=03:04:16	Makoto	Well, I'll be going in, prepared for rejection.	03:07:21;
+
+[PlayVoice]=03:04:16	Voice05/05-KA/05-KA-H00/05-KA-H00-0620	1	mak	03:07:21;
+
+[PrintText]=03:07:23	Otome	Have a safe trip.	03:09:05;
+
+[PlayVoice]=03:07:23	Voice05/05-KA/05-KA-H00/05-KA-H00-0630	0	oto	03:09:05;
+
+[BlackFade]=03:09:12	OUT	03:10:02;
+
+[CreateBG]=03:10:02	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-027	03:10:15;
+
+[CreateBG]=03:10:15	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-028	03:13:03;
+
+[BlackFade]=03:10:15	IN	03:11:00;
+
+[PrintText]=03:11:00	Otome	Haah... what are the chances of him getting rejected, coming back and going out with me...	03:18:16;
+
+[PlayVoice]=03:11:00	Voice05/05-KA/05-KA-H00/05-KA-H00-0650	0	oto	03:18:16;
+
+[CreateBG]=03:13:03	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-029	03:20:08;
+
+[PrintText]=03:19:03	Otome	...	03:19:21;
+
+[PlayVoice]=03:19:03	Voice05/05-KA/05-KA-H00/05-KA-H00-0660	0	xxx	03:19:21;
+
+[BlackFade]=03:19:20	OUT	03:20:08;
+
+[CreateBG]=03:20:08	BGS	Event05/05-KA/05-KA-H00/05-KA-H00-027	03:27:06;
+
+[PrintText]=03:20:10	Otome	...It's not going to happen, is it?	03:22:00;
+
+[PlayVoice]=03:20:10	Voice05/05-KA/05-KA-H00/05-KA-H00-0670	0	oto	03:22:00;
+
+[PrintText]=03:22:10	Otome	Tsk. I really do love you, you know.	03:25:15;
+
+[PlayVoice]=03:22:10	Voice05/05-KA/05-KA-H00/05-KA-H00-0680	0	oto	03:25:15;
+
+[PrintText]=03:26:03	Otome	You idiot.	03:26:21;
+
+[PlayVoice]=03:26:03	Voice05/05-KA/05-KA-H00/05-KA-H00-0690	0	oto	03:26:21;
+
+ ;
+
+[Next]=03:27:06;
+

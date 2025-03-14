@@ -1,0 +1,210 @@
+[SkipFRAME]=02:54:14;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	02:54:14;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-001	00:21:09;
+
+[PrintText]=00:00:00	Makoto	...Things got awkward between us before the festival.	00:04:19;
+
+[PlayVoice]=00:00:00	Voice04/04-KB/04-KB-C05/04-KB-C05-0030	1	mak	00:04:19;
+
+[PrintText]=00:04:19	Sekai	...I see.	00:05:18;
+
+[PlayVoice]=00:04:19	Voice04/04-KB/04-KB-C05/04-KB-C05-0040	0	sek	00:05:18;
+
+[PrintText]=00:05:18	Makoto	I think it was for the same reason.	00:09:06;
+
+[PlayVoice]=00:05:18	Voice04/04-KB/04-KB-C05/04-KB-C05-0050	1	mak	00:20:18;
+
+[PrintText]=00:09:06	Makoto	I was moving too fast, pushing too far, getting angry when she pulled away...  the same thing, over and over.	00:20:18;
+
+[PrintText]=00:20:18	Sekai	...	00:21:10;
+
+[PlayVoice]=00:20:18	Voice04/04-KB/04-KB-C05/04-KB-C05-0060	0	xxx	00:21:10;
+
+[CreateBG]=00:21:09	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-002	00:31:01;
+
+[PrintText]=00:21:10	Makoto	This one time, she invited me.	00:24:19;
+
+[PlayVoice]=00:21:10	Voice04/04-KB/04-KB-C05/04-KB-C05-0070	1	mak	00:24:19;
+
+[PrintText]=00:24:19	Sekai	Invited you...?	00:26:19;
+
+[PlayVoice]=00:24:19	Voice04/04-KB/04-KB-C05/04-KB-C05-0080	0	sek	00:26:19;
+
+[PrintText]=00:26:19	Makoto	She handed me a condom and said, 'Please.'	00:31:01;
+
+[PlayVoice]=00:26:19	Voice04/04-KB/04-KB-C05/04-KB-C05-0090	1	mak	00:31:01;
+
+[PrintText]=00:31:00	Sekai	Ah...!	00:32:08;
+
+[PlayVoice]=00:31:00	Voice04/04-KB/04-KB-C05/04-KB-C05-0100	0	sek	00:32:08;
+
+[CreateBG]=00:31:01	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-003	00:37:00;
+
+[PrintText]=00:32:08	Makoto	But in the end, I could tell she was really forcing herself to go through with it...	00:36:22;
+
+[PlayVoice]=00:32:08	Voice04/04-KB/04-KB-C05/04-KB-C05-0110	1	mak	00:36:22;
+
+[PrintText]=00:36:23	Makoto	it didn't feel right to sleep with her when she was so nervous, like she was about to cry... so we all we did was touch...	00:49:02;
+
+[PlayVoice]=00:36:23	Voice04/04-KB/04-KB-C05/04-KB-C05-0111	1	mak	00:49:02;
+
+[CreateBG]=00:37:00	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-004	01:05:13;
+
+[PrintText]=00:49:01	Sekai	...	00:49:20;
+
+[PlayVoice]=00:49:01	Voice04/04-KB/04-KB-C05/04-KB-C05-0120	0	xxx	00:49:20;
+
+[PrintText]=00:49:20	Makoto	It would have been nice if things had progressed even a little after that...	00:55:03;
+
+[PlayVoice]=00:49:20	Voice04/04-KB/04-KB-C05/04-KB-C05-0130	1	mak	00:55:03;
+
+[PrintText]=00:55:03	Makoto	but you know how she is. It was like the adventure of a lifetime, and then everything went back to normal.	01:05:15;
+
+[PlayVoice]=00:55:03	Voice04/04-KB/04-KB-C05/04-KB-C05-0131	1	mak	01:05:15;
+
+[CreateBG]=01:05:13	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-005	01:21:20;
+
+[PrintText]=01:05:15	Makoto	I'm trying to understand how she feels, so I'm holding back... but it's hard.	01:14:07;
+
+[PlayVoice]=01:05:15	Voice04/04-KB/04-KB-C05/04-KB-C05-0140	1	mak	01:14:07;
+
+[PrintText]=01:14:08	Sekai	I see...	01:15:21;
+
+[PlayVoice]=01:14:08	Voice04/04-KB/04-KB-C05/04-KB-C05-0150	0	sek	01:15:21;
+
+[PrintText]=01:15:21	Makoto	Is going out with someone really this exhausting...?	01:21:21;
+
+[PlayVoice]=01:15:21	Voice04/04-KB/04-KB-C05/04-KB-C05-0160	1	mak	01:21:21;
+
+[CreateBG]=01:21:20	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-006	01:31:13;
+
+[PrintText]=01:21:21	Sekai	I don't know... who can say?	01:25:05;
+
+[PlayVoice]=01:21:21	Voice04/04-KB/04-KB-C05/04-KB-C05-0170	0	sek	01:25:05;
+
+[PrintText]=01:25:05	Makoto	Yeah... you know, I've been thinking lately...	01:31:11;
+
+[PlayVoice]=01:25:05	Voice04/04-KB/04-KB-C05/04-KB-C05-0180	1	mak	01:31:11;
+
+[PrintText]=01:31:11	Makoto	I had more fun back then talking about stuff and messing around with you than I do going out with her now.	01:39:05;
+
+[PlayVoice]=01:31:11	Voice04/04-KB/04-KB-C05/04-KB-C05-0181	1	mak	01:39:05;
+
+[CreateBG]=01:31:13	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-007	01:47:06;
+
+[PrintText]=01:39:04	Sekai	...	01:39:16;
+
+[PlayVoice]=01:39:04	Voice04/04-KB/04-KB-C05/04-KB-C05-0190	0	xxx	01:39:16;
+
+[PrintText]=01:39:17	Makoto	I'll bet I'd be having more fun if it were you by my side. Haha... talk about whining. I really am hopeless.	01:56:06;
+
+[PlayVoice]=01:39:17	Voice04/04-KB/04-KB-C05/04-KB-C05-0200	1	mak	01:56:06;
+
+[CreateBG]=01:47:06	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-008	01:59:14;
+
+[PrintText]=01:56:05	Sekai	...In that case, how about I go out with you instead?	01:59:14;
+
+[PlayVoice]=01:56:05	Voice04/04-KB/04-KB-C05/04-KB-C05-0210	0	sek	01:59:14;
+
+[CreateBG]=01:59:14	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-009	02:05:02;
+
+[PrintText]=01:59:14	Makoto	Huh?	02:00:08;
+
+[PlayVoice]=01:59:14	Voice04/04-KB/04-KB-C05/04-KB-C05-0220	1	mak	02:00:08;
+
+[PrintText]=02:00:08	Sekai	Y'know, like, 'I'm nominating myself to be your new girlfriend!'	02:05:03;
+
+[PlayVoice]=02:00:08	Voice04/04-KB/04-KB-C05/04-KB-C05-0230	0	sek	02:05:03;
+
+[CreateBG]=02:05:02	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-010	02:07:01;
+
+[PrintText]=02:05:03	Makoto	Don't be stupid!	02:07:00;
+
+[PlayVoice]=02:05:03	Voice04/04-KB/04-KB-C05/04-KB-C05-0240	1	mak	02:07:00;
+
+[PrintText]=02:07:00	Sekai	Wah!	02:08:02;
+
+[PlayVoice]=02:07:00	Voice04/04-KB/04-KB-C05/04-KB-C05-0250	0	sek	02:08:02;
+
+[CreateBG]=02:07:01	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-011	02:08:03;
+
+[PrintText]=02:08:02	Makoto	Do you know how hard I've tried since you rejected me? Since you told me to be with Kotonoha?! How can you even say that?!	02:20:03;
+
+[PlayVoice]=02:08:02	Voice04/04-KB/04-KB-C05/04-KB-C05-0260	1	mak	02:20:03;
+
+[CreateBG]=02:08:03	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-012	02:17:16;
+
+[CreateBG]=02:17:16	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-013	02:21:16;
+
+[PrintText]=02:20:04	Sekai	I-I'm sorr...	02:21:16;
+
+[PlayVoice]=02:20:04	Voice04/04-KB/04-KB-C05/04-KB-C05-0270	0	sek	02:21:16;
+
+[CreateBG]=02:21:16	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-014	02:28:23;
+
+[PrintText]=02:21:16	Makoto	You know exactly how I feel!	02:24:02;
+
+[PlayVoice]=02:21:16	Voice04/04-KB/04-KB-C05/04-KB-C05-0280	1	mak	02:24:02;
+
+[PrintText]=02:24:02	Sekai	I'm sorry, Makoto...	02:25:22;
+
+[PlayVoice]=02:24:02	Voice04/04-KB/04-KB-C05/04-KB-C05-0290	0	sek	02:25:22;
+
+[PrintText]=02:25:22	Makoto	...I was just starting to think I'd finally gotten over you.	02:31:08;
+
+[PlayVoice]=02:25:22	Voice04/04-KB/04-KB-C05/04-KB-C05-0300	1	mak	02:31:08;
+
+[CreateBG]=02:28:23	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-015	02:32:04;
+
+[PrintText]=02:31:08	Sekai	Eh...	02:32:03;
+
+[PlayVoice]=02:31:08	Voice04/04-KB/04-KB-C05/04-KB-C05-0310	0	sek	02:32:03;
+
+[PrintText]=02:32:03	Makoto	...So stop bringing up stuff like that again.	02:35:09;
+
+[PlayVoice]=02:32:03	Voice04/04-KB/04-KB-C05/04-KB-C05-0320	1	mak	02:35:09;
+
+[CreateBG]=02:32:04	BGS	Event04/04-KB/04-KB-C05/04-KB-C05-016	02:54:14;
+
+[PrintText]=02:35:10	Sekai	...Okay.	02:36:05;
+
+[PlayVoice]=02:35:10	Voice04/04-KB/04-KB-C05/04-KB-C05-0330	0	sek	02:36:05;
+
+[PrintText]=02:36:04	Makoto	...	02:37:09;
+
+[PlayVoice]=02:36:04	Voice04/04-KB/04-KB-C05/04-KB-C05-0340	1	xxx	02:37:09;
+
+[PrintText]=02:37:09	Sekai	...	02:37:20;
+
+[PlayVoice]=02:37:09	Voice04/04-KB/04-KB-C05/04-KB-C05-0350	0	xxx	02:37:20;
+
+[PrintText]=02:37:21	Makoto	...I'm sorry. I got angry and yelled.	02:45:08;
+
+[PlayVoice]=02:37:21	Voice04/04-KB/04-KB-C05/04-KB-C05-0360	1	mak	02:45:08;
+
+[PrintText]=02:45:08	Sekai	N-no, it was my fault for making such a weird joke.	02:50:03;
+
+[PlayVoice]=02:45:08	Voice04/04-KB/04-KB-C05/04-KB-C05-0370	0	sek	02:50:03;
+
+[PrintText]=02:50:03	Makoto	A joke... huh.	02:52:03;
+
+[PlayVoice]=02:50:03	Voice04/04-KB/04-KB-C05/04-KB-C05-0380	1	mak	02:52:03;
+
+[PrintText]=02:52:03	Sekai	Ah...	02:53:07;
+
+[PlayVoice]=02:52:03	Voice04/04-KB/04-KB-C05/04-KB-C05-0390	0	sek	02:53:07;
+
+[PrintText]=02:53:06	Makoto	Yeah...	02:54:00;
+
+[PlayVoice]=02:53:06	Voice04/04-KB/04-KB-C05/04-KB-C05-0400	1	mak	02:54:00;
+
+[PrintText]=02:54:00	Sekai	...	02:54:12;
+
+[PlayVoice]=02:54:00	Voice04/04-KB/04-KB-C05/04-KB-C05-0410	0	xxx	02:54:12;
+
+ ;
+
+[Next]=02:54:14;
+

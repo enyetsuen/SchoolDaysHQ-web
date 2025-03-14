@@ -1,0 +1,120 @@
+[SkipFRAME]=01:32:16;
+
+[CreateBG]=00:00:00	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-014	00:08:10;
+
+[PrintText]=00:00:00	Makoto	That's right after we broke up, when you and Taisuke started going out together.	00:05:18;
+
+[PlayVoice]=00:00:00	Voice05/05-SE/05-SE-M00/05-SE-M00-0030	1	mak	00:05:18;
+
+[PrintText]=00:05:18	Sekai	...	00:06:04;
+
+[PlayVoice]=00:05:18	Voice05/05-SE/05-SE-M00/05-SE-M00-0040	0	xxx	00:06:04;
+
+[PrintText]=00:06:05	Makoto	...Is it Taisuke's baby?	00:08:09;
+
+[PlayVoice]=00:06:05	Voice05/05-SE/05-SE-M00/05-SE-M00-0050	1	mak	00:08:09;
+
+[PrintText]=00:08:09	Sekai	N-no! It's... it's yours!	00:13:17;
+
+[PlayVoice]=00:08:09	Voice05/05-SE/05-SE-M00/05-SE-M00-0060	0	sek	00:13:17;
+
+[CreateBG]=00:08:10	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-002	00:13:17;
+
+[CreateBG]=00:13:17	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-003	00:16:00;
+
+[PrintText]=00:13:17	Makoto	Wrong! It's not my baby!	00:15:23;
+
+[PlayVoice]=00:13:17	Voice05/05-SE/05-SE-M00/05-SE-M00-0070	1	mak	00:15:23;
+
+[PrintText]=00:15:23	Sekai	How could you say that? It's your... it's our baby...	00:23:05;
+
+[PlayVoice]=00:15:23	Voice05/05-SE/05-SE-M00/05-SE-M00-0080	0	sek	00:23:05;
+
+[CreateBG]=00:16:00	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-004	00:23:06;
+
+[PrintText]=00:23:05	Makoto	Face it! We didn't do it at all during that time! How could it possibly be our baby?!	00:31:16;
+
+[PlayVoice]=00:23:05	Voice05/05-SE/05-SE-M00/05-SE-M00-0090	1	mak	00:31:16;
+
+[CreateBG]=00:23:06	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-005	00:38:05;
+
+[PrintText]=00:31:16	Sekai	It can. It's yours... it's your...	00:37:02;
+
+[PlayVoice]=00:31:16	Voice05/05-SE/05-SE-M00/05-SE-M00-0100	0	sek	00:37:02;
+
+[PrintText]=00:37:02	Makoto	Sekai!	00:38:05;
+
+[PlayVoice]=00:37:02	Voice05/05-SE/05-SE-M00/05-SE-M00-0110	1	mak	00:38:05;
+
+[CreateBG]=00:38:05	BGS	Event05/05-SE/05-SE-C07/05-SE-C07-002	00:59:02;
+
+[PrintText]=00:38:05	Sekai	Makoto... please...	00:42:14;
+
+[PlayVoice]=00:38:05	Voice05/05-SE/05-SE-M00/05-SE-M00-0120	0	sek	00:42:14;
+
+[PrintText]=00:42:13	Makoto	...	00:43:16;
+
+[PlayVoice]=00:42:13	Voice05/05-SE/05-SE-M00/05-SE-M00-0130	1	xxx	00:43:16;
+
+[PrintText]=00:43:16	Sekai	Listen...	00:44:23;
+
+[PlayVoice]=00:43:16	Voice05/05-SE/05-SE-M00/05-SE-M00-0140	0	sek	00:44:23;
+
+[PrintText]=00:44:23	Makoto	To what?	00:46:03;
+
+[PlayVoice]=00:44:23	Voice05/05-SE/05-SE-M00/05-SE-M00-0150	1	mak	00:46:03;
+
+[PrintText]=00:46:04	Sekai	You know... sperm can survive inside the womb for more than a week. So there's still a good chance it could be your baby.	00:59:02;
+
+[PlayVoice]=00:46:04	Voice05/05-SE/05-SE-M00/05-SE-M00-0160	0	sek	00:59:02;
+
+[CreateBG]=00:59:02	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-007	01:11:22;
+
+[PrintText]=00:59:02	Makoto	We're not talking about a week here!	01:00:20;
+
+[PlayVoice]=00:59:02	Voice05/05-SE/05-SE-M00/05-SE-M00-0170	1	mak	01:00:20;
+
+[PrintText]=01:00:20	Sekai	Like I said, the doctor said it could be more than a week...	01:05:04;
+
+[PlayVoice]=01:00:20	Voice05/05-SE/05-SE-M00/05-SE-M00-0180	0	sek	01:05:04;
+
+[PrintText]=01:05:05	Makoto	But the odds are that it's Taisuke's, right?	01:08:23;
+
+[PlayVoice]=01:05:05	Voice05/05-SE/05-SE-M00/05-SE-M00-0190	1	mak	01:08:23;
+
+[PrintText]=01:08:23	Sekai	But there's still a possibility...	01:11:21;
+
+[PlayVoice]=01:08:23	Voice05/05-SE/05-SE-M00/05-SE-M00-0200	0	sek	01:11:21;
+
+[CreateBG]=01:11:22	BGS	Event05/05-SE/05-SE-M00/05-SE-M00-008	01:38:17;
+
+[PrintText]=01:11:22	Makoto	No, there isn't.	01:12:20;
+
+[PlayVoice]=01:11:22	Voice05/05-SE/05-SE-M00/05-SE-M00-0210	1	mak	01:12:20;
+
+[PrintText]=01:12:20	Sekai	Why do you say that...?	01:15:01;
+
+[PlayVoice]=01:12:20	Voice05/05-SE/05-SE-M00/05-SE-M00-0220	0	sek	01:15:01;
+
+[PrintText]=01:15:01	Makoto	...	01:16:01;
+
+[PlayVoice]=01:15:01	Voice05/05-SE/05-SE-M00/05-SE-M00-0230	1	xxx	01:16:01;
+
+[PrintText]=01:16:01	Sekai	I... think it's your baby. It's yours. I want to believe that it's yours. What's wrong with that...?	01:30:04;
+
+[PlayVoice]=01:16:01	Voice05/05-SE/05-SE-M00/05-SE-M00-0240	0	sek	01:30:04;
+
+[PrintText]=01:30:03	Makoto	Sekai...	01:31:12;
+
+[PlayVoice]=01:30:03	Voice05/05-SE/05-SE-M00/05-SE-M00-0250	1	mak	01:31:12;
+
+[PrintText]=01:31:12	Sekai	Uh-huh...	01:32:16;
+
+[PlayVoice]=01:31:12	Voice05/05-SE/05-SE-M00/05-SE-M00-0260	0	sek	01:32:16;
+
+[SetSELECT]=01:32:16	'Let's break up'	'Abort the baby'	01:37:16;
+
+ ;
+
+[Next]=01:38:17;
+

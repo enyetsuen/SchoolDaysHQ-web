@@ -1,0 +1,36 @@
+[SkipFRAME]=00:14:11;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:14:11;
+
+[PlaySe]=00:00:00	1	Se00/00-00/00-00-A05/SE00-00-A05-001	00:00:16;
+
+[PlaySe]=00:00:00	2	Voice00/00-00/00-00-A03/00-00-A03-0341	00:11:16;
+
+[CreateBG]=00:00:00	BGS	Event00/00-00/00-00-A05/00-00-A05-001	00:03:01;
+
+[PrintText]=00:00:00	Makoto	"What? No."	00:03:01;
+
+[PlaySe]=00:02:23	1	Se00/00-00/00-00-A05/SE00-00-A05-001	00:03:15;
+
+[CreateBG]=00:03:01	BGS	Event00/00-00/00-00-A05/00-00-A05-002	00:05:23;
+
+[PrintText]=00:03:01	Sekai	"You're doing that charm, right?\nThen why?"	00:05:23;
+
+[PlaySe]=00:05:23	1	Se00/00-00/00-00-A05/SE00-00-A05-001	00:06:15;
+
+[PlayMovie]=00:05:23	Movie00/00-00/00-00-A05/00-00-A05-003	0	00:09:11;
+
+[PrintText]=00:05:23	Makoto	"I just happened to take a photo of her."	00:09:11;
+
+[PlayMovie]=00:09:11	Movie00/00-00/00-00-A05/00-00-A05-004	0	00:14:11;
+
+[PrintText]=00:10:22	Makoto	...Not even I'd believe that.	00:13:20;
+
+[PlayVoice]=00:10:22	Voice00/00-00/00-00-A05/00-00-A05-0070	1	xxx	00:13:20;
+
+[PlaySe]=00:12:00	1	Voice00/00-00/00-00-A03/00-00-A03-0342	00:14:11;
+
+ ;
+
+[Next]=00:14:11;
+

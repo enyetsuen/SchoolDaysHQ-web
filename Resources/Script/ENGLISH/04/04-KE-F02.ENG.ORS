@@ -1,0 +1,80 @@
+[SkipFRAME]=00:44:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:44:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-KE/04-KE-F02/04-KE-F02-001	00:13:05;
+
+[PrintText]=00:00:00	Makoto	Kotonoha.	00:00:23;
+
+[PlayVoice]=00:00:00	Voice04/04-KE/04-KE-F02/04-KE-F02-0030	1	mak	00:00:23;
+
+[PrintText]=00:01:00	Kotonoha	Yes?	00:01:18;
+
+[PlayVoice]=00:01:00	Voice04/04-KE/04-KE-F02/04-KE-F02-0040	0	kot	00:01:18;
+
+[PrintText]=00:01:18	Makoto	You mentioned that your dad has some connections in Sakakino Hills, didn't you?	00:08:05;
+
+[PlayVoice]=00:01:18	Voice04/04-KE/04-KE-F02/04-KE-F02-0050	1	mak	00:08:05;
+
+[PrintText]=00:08:05	Kotonoha	That's right.	00:09:12;
+
+[PlayVoice]=00:08:05	Voice04/04-KE/04-KE-F02/04-KE-F02-0060	0	kot	00:09:12;
+
+[PrintText]=00:09:12	Makoto	And that's why you need to go over there now, isn't it?	00:13:06;
+
+[PlayVoice]=00:09:12	Voice04/04-KE/04-KE-F02/04-KE-F02-0070	1	mak	00:13:06;
+
+[CreateBG]=00:13:05	BGS	Event04/04-KE/04-KE-F02/04-KE-F02-002	00:24:16;
+
+[PrintText]=00:13:06	Kotonoha	Huh? No, I don't...	00:16:00;
+
+[PlayVoice]=00:13:06	Voice04/04-KE/04-KE-F02/04-KE-F02-0080	0	kot	00:16:00;
+
+[PrintText]=00:16:01	Makoto	You could, for example, find out what sort of present he wants. I've got a good feeling about that.	00:23:18;
+
+[PlayVoice]=00:16:01	Voice04/04-KE/04-KE-F02/04-KE-F02-0090	1	mak	00:23:18;
+
+[PrintText]=00:23:18	Kotonoha	Ah! Yes, yes! I have to take care of something for my father at Sakakino Hills!	00:29:18;
+
+[PlayVoice]=00:23:18	Voice04/04-KE/04-KE-F02/04-KE-F02-0100	0	kot	00:29:18;
+
+[CreateBG]=00:24:16	BGS	Event04/04-KE/04-KE-F02/04-KE-F02-003	00:35:01;
+
+[PrintText]=00:29:18	Makoto	Right?	00:30:22;
+
+[PlayVoice]=00:29:18	Voice04/04-KE/04-KE-F02/04-KE-F02-0110	1	mak	00:30:22;
+
+[PrintText]=00:30:22	Kotonoha	Well, then, I'll be going now!	00:34:02;
+
+[PlayVoice]=00:30:22	Voice04/04-KE/04-KE-F02/04-KE-F02-0120	0	kot	00:34:02;
+
+[PrintText]=00:34:02	Sekai	Ah...	00:35:00;
+
+[PlayVoice]=00:34:02	Voice04/04-KE/04-KE-F02/04-KE-F02-0130	0	sek	00:35:00;
+
+[CreateBG]=00:35:01	BGS	Event04/04-KE/04-KE-F02/04-KE-F02-004B	00:40:01;
+
+[PrintText]=00:35:01	Makoto	See you.	00:36:19;
+
+[PlayVoice]=00:35:01	Voice04/04-KE/04-KE-F02/04-KE-F02-0140	1	mak	00:36:19;
+
+[PrintText]=00:36:20	Kotonoha	Yes, goodbye.	00:38:22;
+
+[PlayVoice]=00:36:20	Voice04/04-KE/04-KE-F02/04-KE-F02-0150	0	kot	00:38:22;
+
+[CreateBG]=00:40:01	BGS	Event04/04-KE/04-KE-F02/04-KE-F02-005	00:44:09;
+
+[PrintText]=00:40:04	Makoto	Let's take the train home.	00:41:22;
+
+[PlayVoice]=00:40:04	Voice04/04-KE/04-KE-F02/04-KE-F02-0170	1	mak	00:41:22;
+
+[PrintText]=00:42:02	Sekai	Yeah...	00:42:20;
+
+[PlayVoice]=00:42:02	Voice04/04-KE/04-KE-F02/04-KE-F02-0180	0	sek	00:42:20;
+
+[BlackFade]=00:43:09	OUT	00:44:09;
+
+ ;
+
+[Next]=00:44:09;
+

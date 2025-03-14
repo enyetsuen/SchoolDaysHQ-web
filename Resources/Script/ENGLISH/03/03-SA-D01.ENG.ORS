@@ -1,0 +1,126 @@
+[SkipFRAME]=01:13:20;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm16	01:19:20;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-D01/SE03-SA-D01-001	01:19:20;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-001	00:08:13;
+
+[PrintText]=00:00:00	Sekai	Hey, let's go somewhere.	00:01:20;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-D01/03-SA-D01-0030	0	sek	00:01:20;
+
+[PrintText]=00:01:21	Makoto	Yeah... I'm not feeling hungry.	00:06:01;
+
+[PlayVoice]=00:01:21	Voice03/03-SA/03-SA-D01/03-SA-D01-0040	1	mak	00:06:01;
+
+[PrintText]=00:06:00	Sekai	We did have those snacks, after all.	00:08:12;
+
+[PlayVoice]=00:06:00	Voice03/03-SA/03-SA-D01/03-SA-D01-0050	0	sek	00:08:12;
+
+[PrintText]=00:08:07	Makoto	You sure had a lot, didn't you?	00:10:17;
+
+[PlayVoice]=00:08:07	Voice03/03-SA/03-SA-D01/03-SA-D01-0060	1	mak	00:10:17;
+
+[CreateBG]=00:08:13	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-002A	00:10:17;
+
+[PrintText]=00:10:13	Sekai	No way. Just a few sandwiches and cakes.	00:15:13;
+
+[PlayVoice]=00:10:13	Voice03/03-SA/03-SA-D01/03-SA-D01-0070	0	sek	00:15:13;
+
+[CreateBG]=00:10:17	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-002B	00:15:14;
+
+[CreateBG]=00:15:14	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-002A	00:20:03;
+
+[PrintText]=00:15:15	Makoto	I think it was more than just 'a few' cakes...	00:20:08;
+
+[PlayVoice]=00:15:15	Voice03/03-SA/03-SA-D01/03-SA-D01-0080	1	mak	00:20:08;
+
+[PrintText]=00:20:01	Sekai	Chestnut custard, cheesecake and apple pie, right?	00:24:22;
+
+[PlayVoice]=00:20:01	Voice03/03-SA/03-SA-D01/03-SA-D01-0090	0	sek	00:24:22;
+
+[CreateBG]=00:20:03	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-003	00:26:04;
+
+[PrintText]=00:24:18	Makoto	That's too much.	00:26:04;
+
+[PlayVoice]=00:24:18	Voice03/03-SA/03-SA-D01/03-SA-D01-0100	1	mak	00:26:04;
+
+[CreateBG]=00:26:04	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-004	00:34:00;
+
+[PrintText]=00:26:05	Sekai	But they were delicious.	00:28:09;
+
+[PlayVoice]=00:26:05	Voice03/03-SA/03-SA-D01/03-SA-D01-0110	0	sek	00:28:09;
+
+[PrintText]=00:28:03	Makoto	That's true.	00:29:23;
+
+[PlayVoice]=00:28:03	Voice03/03-SA/03-SA-D01/03-SA-D01-0120	1	mak	00:29:23;
+
+[PrintText]=00:29:23	Sekai	What did you eat?	00:31:20;
+
+[PlayVoice]=00:29:23	Voice03/03-SA/03-SA-D01/03-SA-D01-0130	0	sek	00:31:20;
+
+[PrintText]=00:31:20	Makoto	I had a sandwich and the lemon custard.	00:34:00;
+
+[PlayVoice]=00:31:20	Voice03/03-SA/03-SA-D01/03-SA-D01-0140	1	mak	00:34:00;
+
+[PrintText]=00:33:23	Sekai	Ah! Hey, listen! I was the one who made the lemon custard!	00:38:13;
+
+[PlayVoice]=00:33:23	Voice03/03-SA/03-SA-D01/03-SA-D01-0150	0	sek	00:38:13;
+
+[CreateBG]=00:34:00	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-005	00:46:00;
+
+[PrintText]=00:38:14	Makoto	Seriously? It was really delicious.	00:41:05;
+
+[PlayVoice]=00:38:14	Voice03/03-SA/03-SA-D01/03-SA-D01-0160	1	mak	00:41:05;
+
+[PrintText]=00:41:05	Sekai	All right! All that training at Hikari's house paid off.	00:45:23;
+
+[PlayVoice]=00:41:05	Voice03/03-SA/03-SA-D01/03-SA-D01-0170	0	sek	00:45:23;
+
+[PrintText]=00:45:23	Makoto	Kuroda's family runs a cake shop, don't they?	00:48:06;
+
+[PlayVoice]=00:45:23	Voice03/03-SA/03-SA-D01/03-SA-D01-0180	1	mak	00:48:06;
+
+[CreateBG]=00:46:00	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-006	00:55:07;
+
+[PrintText]=00:48:06	Sekai	Actually, it's a sweets shop, but they're famous for their cakes.	00:51:20;
+
+[PlayVoice]=00:48:06	Voice03/03-SA/03-SA-D01/03-SA-D01-0190	0	sek	00:51:20;
+
+[PrintText]=00:51:20	Makoto	I see. You got proper training, then.	00:55:07;
+
+[PlayVoice]=00:51:20	Voice03/03-SA/03-SA-D01/03-SA-D01-0200	1	mak	00:55:07;
+
+[PrintText]=00:55:06	Sekai	Uh-huh. So go ahead and eat plenty of it.	00:58:15;
+
+[PlayVoice]=00:55:06	Voice03/03-SA/03-SA-D01/03-SA-D01-0210	0	sek	00:58:15;
+
+[CreateBG]=00:55:07	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-007	01:05:12;
+
+[PrintText]=00:58:16	Makoto	Sure... Kioura's going to kill me if she finds out, isn't she?	01:02:21;
+
+[PlayVoice]=00:58:16	Voice03/03-SA/03-SA-D01/03-SA-D01-0220	1	mak	01:02:21;
+
+[PrintText]=01:02:21	Sekai	Ahaha, that's true.	01:05:11;
+
+[PlayVoice]=01:02:21	Voice03/03-SA/03-SA-D01/03-SA-D01-0230	0	sek	01:05:11;
+
+[PrintText]=01:05:11	Makoto	Now, then... where should we go?	01:08:00;
+
+[PlayVoice]=01:05:11	Voice03/03-SA/03-SA-D01/03-SA-D01-0240	1	mak	01:08:00;
+
+[CreateBG]=01:05:12	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-008	01:08:01;
+
+[PrintText]=01:08:00	Sekai	Well, I'd like you to come with me to a certain place. How about it?	01:12:13;
+
+[PlayVoice]=01:08:00	Voice03/03-SA/03-SA-D01/03-SA-D01-0250	0	sek	01:12:13;
+
+[CreateBG]=01:08:01	BGS	Event03/03-SA/03-SA-D01/03-SA-D01-009	01:19:20;
+
+[SetSELECT]=01:13:20	'Sure'	null	01:18:20;
+
+ ;
+
+[Next]=01:19:20;
+

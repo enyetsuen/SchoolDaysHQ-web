@@ -1,0 +1,30 @@
+[SkipFRAME]=00:10:17;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm06	00:10:17;
+
+[PlaySe]=00:00:00	1	Se02/02-2S/02-2S-C05/SE02-2S-C05-001	00:10:17;
+
+[CreateBG]=00:00:00	BGS	Event02/02-2S/02-2S-C05/02-2S-C05-001	00:02:00;
+
+[PrintText]=00:00:00	Makoto	Let's tell her together.	00:01:23;
+
+[PlayVoice]=00:00:00	Voice02/02-2S/02-2S-C05/02-2S-C05-0030	1	mak	00:01:23;
+
+[CreateBG]=00:02:00	BGS	Event02/02-2S/02-2S-C05/02-2S-C05-002	00:10:17;
+
+[PrintText]=00:02:00	Sekai	Yeah.	00:03:01;
+
+[PlayVoice]=00:02:00	Voice02/02-2S/02-2S-C05/02-2S-C05-0040	0	sek	00:03:01;
+
+[PrintText]=00:03:01	Makoto	After all, it's about the two of us.	00:06:06;
+
+[PlayVoice]=00:03:01	Voice02/02-2S/02-2S-C05/02-2S-C05-0050	1	mak	00:06:06;
+
+[PrintText]=00:06:06	Sekai	Yep. It's better if we both tell her.	00:09:23;
+
+[PlayVoice]=00:06:06	Voice02/02-2S/02-2S-C05/02-2S-C05-0060	0	sek	00:09:23;
+
+ ;
+
+[Next]=00:10:17;
+

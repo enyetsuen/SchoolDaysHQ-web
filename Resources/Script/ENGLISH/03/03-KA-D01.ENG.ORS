@@ -1,0 +1,140 @@
+[SkipFRAME]=01:24:04;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	01:24:04;
+
+[PlaySe]=00:00:00	1	Se03/03-KA/03-KA-D01/SE03-KA-D01-001	01:24:04;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KA/03-KA-D00/03-KA-D00-001	00:03:00;
+
+[PrintText]=00:00:00	Makoto	...We couldn't kiss.	00:02:02;
+
+[PlayVoice]=00:00:00	Voice03/03-KA/03-KA-D01/03-KA-D01-0030	1	mak	00:02:02;
+
+[PrintText]=00:02:06	Kotonoha	Ah...	00:02:20;
+
+[PlayVoice]=00:02:06	Voice03/03-KA/03-KA-D01/03-KA-D01-0040	0	kot	00:02:20;
+
+[CreateBG]=00:03:00	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-002	00:08:06;
+
+[PrintText]=00:03:05	Makoto	Just kidding. It's not as if we ever do that anyway.	00:06:12;
+
+[PlayVoice]=00:03:05	Voice03/03-KA/03-KA-D01/03-KA-D01-0050	1	mak	00:06:12;
+
+[PrintText]=00:06:16	Kotonoha	...	00:07:18;
+
+[PlayVoice]=00:06:16	Voice03/03-KA/03-KA-D01/03-KA-D01-0060	0	xxx	00:07:18;
+
+[CreateBG]=00:08:06	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-003	00:13:17;
+
+[PrintText]=00:08:09	Makoto	Ah, sorry. I didn't mean to blame you...	00:13:14;
+
+[PlayVoice]=00:08:09	Voice03/03-KA/03-KA-D01/03-KA-D01-0070	1	mak	00:13:14;
+
+[CreateBG]=00:13:17	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-004	00:34:12;
+
+[PrintText]=00:13:21	Kotonoha	...	00:14:23;
+
+[PlayVoice]=00:13:21	Voice03/03-KA/03-KA-D01/03-KA-D01-0080	0	xxx	00:14:23;
+
+[PrintText]=00:15:06	Makoto	I want to try and avoid doing anything you wouldn't like.	00:23:00;
+
+[PlayVoice]=00:15:06	Voice03/03-KA/03-KA-D01/03-KA-D01-0090	1	mak	00:23:00;
+
+[PrintText]=00:23:10	Makoto	It's just that... sometimes, I can't help but want to. I'm a guy, after all...	00:34:09;
+
+[PlayVoice]=00:23:10	Voice03/03-KA/03-KA-D01/03-KA-D01-0091	1	mak	00:34:09;
+
+[CreateBG]=00:34:12	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-005	00:39:22;
+
+[PrintText]=00:34:13	Kotonoha	I understand.	00:36:01;
+
+[PlayVoice]=00:34:13	Voice03/03-KA/03-KA-D01/03-KA-D01-0100	0	kot	00:36:01;
+
+[PrintText]=00:36:03	Makoto	I'm glad you do.	00:37:12;
+
+[PlayVoice]=00:36:03	Voice03/03-KA/03-KA-D01/03-KA-D01-0110	1	mak	00:37:12;
+
+[PrintText]=00:37:21	Kotonoha	And besides...	00:38:23;
+
+[PlayVoice]=00:37:21	Voice03/03-KA/03-KA-D01/03-KA-D01-0120	0	kot	00:38:23;
+
+[PrintText]=00:39:04	Makoto	Uh-huh.	00:39:20;
+
+[PlayVoice]=00:39:04	Voice03/03-KA/03-KA-D01/03-KA-D01-0130	1	mak	00:39:20;
+
+[CreateBG]=00:39:22	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-006	00:45:07;
+
+[PrintText]=00:40:04	Kotonoha	I... kind of thought it was kind of a shame too.	00:45:14;
+
+[PlayVoice]=00:40:04	Voice03/03-KA/03-KA-D01/03-KA-D01-0140	0	kot	00:45:14;
+
+[CreateBG]=00:45:07	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-007	00:46:08;
+
+[PrintText]=00:45:20	Makoto	Eh?!	00:46:10;
+
+[PlayVoice]=00:45:20	Voice03/03-KA/03-KA-D01/03-KA-D01-0150	1	mak	00:46:10;
+
+[CreateBG]=00:46:08	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-008	00:51:22;
+
+[PrintText]=00:46:10	Kotonoha	Just when I'd gathered my determination, Kokoro came in.	00:51:20;
+
+[PlayVoice]=00:46:10	Voice03/03-KA/03-KA-D01/03-KA-D01-0160	0	kot	00:51:20;
+
+[CreateBG]=00:51:22	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-009	00:57:01;
+
+[PrintText]=00:52:00	Makoto	Haha... Kokoro-chan sure was lively.	00:56:21;
+
+[PlayVoice]=00:52:00	Voice03/03-KA/03-KA-D01/03-KA-D01-0170	1	mak	00:56:21;
+
+[CreateBG]=00:57:01	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-010	01:04:02;
+
+[PrintText]=00:57:02	Kotonoha	She's not usually like that. She was really excited because you were coming over...	01:04:00;
+
+[PlayVoice]=00:57:02	Voice03/03-KA/03-KA-D01/03-KA-D01-0180	0	kot	01:04:00;
+
+[CreateBG]=01:04:02	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-011	01:09:17;
+
+[PrintText]=01:04:03	Makoto	I guess I should be honored.	01:05:16;
+
+[PlayVoice]=01:04:03	Voice03/03-KA/03-KA-D01/03-KA-D01-0190	1	mak	01:05:16;
+
+[PrintText]=01:05:15	Kotonoha	Next time, I'll make sure to tell her not to come into my room.	01:09:17;
+
+[PlayVoice]=01:05:15	Voice03/03-KA/03-KA-D01/03-KA-D01-0200	0	kot	01:09:17;
+
+[CreateBG]=01:09:17	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-012	01:10:16;
+
+[PrintText]=01:09:18	Makoto	Next time?	01:10:12;
+
+[PlayVoice]=01:09:18	Voice03/03-KA/03-KA-D01/03-KA-D01-0210	1	mak	01:10:12;
+
+[CreateBG]=01:10:16	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-013	01:14:15;
+
+[PrintText]=01:10:17	Kotonoha	...Don't you want to come over again?	01:13:10;
+
+[PlayVoice]=01:10:17	Voice03/03-KA/03-KA-D01/03-KA-D01-0220	0	kot	01:13:10;
+
+[PrintText]=01:13:12	Makoto	No, that's not what I mean...	01:16:12;
+
+[PlayVoice]=01:13:12	Voice03/03-KA/03-KA-D01/03-KA-D01-0230	1	mak	01:16:12;
+
+[CreateBG]=01:14:15	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-014A	01:22:19;
+
+[PrintText]=01:16:08	Kotonoha	Yes?	01:17:03;
+
+[PlayVoice]=01:16:08	Voice03/03-KA/03-KA-D01/03-KA-D01-0240	0	kot	01:17:03;
+
+[PrintText]=01:17:11	Makoto	...But does that mean next time, we can kiss?	01:22:20;
+
+[PlayVoice]=01:17:11	Voice03/03-KA/03-KA-D01/03-KA-D01-0250	1	mak	01:22:20;
+
+[CreateBG]=01:22:19	BGS	Event03/03-KA/03-KA-D01/03-KA-D01-014B	01:24:04;
+
+[PrintText]=01:22:19	Kotonoha	Ah...!	01:23:21;
+
+[PlayVoice]=01:22:19	Voice03/03-KA/03-KA-D01/03-KA-D01-0260	0	kot	01:23:21;
+
+ ;
+
+[Next]=01:24:04;
+

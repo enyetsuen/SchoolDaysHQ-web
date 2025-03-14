@@ -1,0 +1,102 @@
+[SkipFRAME]=01:07:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm18	01:07:15;
+
+[CreateBG]=00:00:00	BGS	Event05/05-5O/05-5O-F01/05-5O-F01-001	00:13:20;
+
+[PlayVoice]=00:00:22	Voice05/05-5O/05-5O-F01/05-5O-F01-0040	1	tat	00:06:13;
+
+[PrintText]=00:00:22	Teacher	Okay, now I'm going to time you one by one! When I call your name, step up to the line.	00:06:15;
+
+[PrintText]=00:06:15	Girl A	Did you hear about what happened at lunch?	00:08:13;
+
+[PlayVoice]=00:06:15	Voice05/05-5O/05-5O-F01/05-5O-F01-0060	0	joa	00:08:13;
+
+[PrintText]=00:08:17	Girl B	Yeah, yeah!	00:10:11;
+
+[PlayVoice]=00:08:17	Voice05/05-5O/05-5O-F01/05-5O-F01-0070	0	job	00:10:11;
+
+[PrintText]=00:10:15	Girl C	What's this?	00:11:14;
+
+[PlayVoice]=00:10:15	Voice05/05-5O/05-5O-F01/05-5O-F01-0080	0	joc	00:11:14;
+
+[PrintText]=00:11:18	Girl A	The incident with Itou from class 3.	00:13:17;
+
+[PlayVoice]=00:11:18	Voice05/05-5O/05-5O-F01/05-5O-F01-0090	0	joa	00:13:17;
+
+[CreateBG]=00:13:20	BGS	Event05/05-5O/05-5O-F01/05-5O-F01-002	00:18:01;
+
+[PrintText]=00:13:22	Girl C	That messy scene after class with Saionji and Katsura?	00:17:23;
+
+[PlayVoice]=00:13:22	Voice05/05-5O/05-5O-F01/05-5O-F01-0100	0	joc	00:17:23;
+
+[CreateBG]=00:18:01	BGS	Event05/05-5O/05-5O-F01/05-5O-F01-003	00:39:19;
+
+[PrintText]=00:18:02	Girl B	Yeah, that's the one.	00:19:21;
+
+[PlayVoice]=00:18:02	Voice05/05-5O/05-5O-F01/05-5O-F01-0120	0	job	00:19:21;
+
+[PrintText]=00:20:02	Girl A	Well, today, at the cafeteria... Katou also confessed to him.	00:25:00;
+
+[PlayVoice]=00:20:02	Voice05/05-5O/05-5O-F01/05-5O-F01-0140	0	joa	00:25:00;
+
+[PrintText]=00:25:06	Girl C	Seriously?!	00:26:15;
+
+[PlayVoice]=00:25:06	Voice05/05-5O/05-5O-F01/05-5O-F01-0160	0	joc	00:26:15;
+
+[PrintText]=00:26:14	Girl A	Everyone around them was listening with their ears wide open. Apparently, it was pretty incredible.	00:32:02;
+
+[PlayVoice]=00:26:14	Voice05/05-5O/05-5O-F01/05-5O-F01-0170	0	joa	00:32:02;
+
+[PrintText]=00:32:11	Girl B	That's hilarious!	00:34:11;
+
+[PlayVoice]=00:32:11	Voice05/05-5O/05-5O-F01/05-5O-F01-0180	0	job	00:34:11;
+
+[PrintText]=00:34:19	Girl C	Is this Itou guy really that special?	00:36:20;
+
+[PlayVoice]=00:34:19	Voice05/05-5O/05-5O-F01/05-5O-F01-0190	0	joc	00:36:20;
+
+[PrintText]=00:36:13	Girl B	He's one of those guys who's popular among certain girls, isn't he?	00:39:15;
+
+[PlayVoice]=00:36:13	Voice05/05-5O/05-5O-F01/05-5O-F01-0200	0	job	00:39:15;
+
+[CreateBG]=00:39:19	BGS	Event05/05-5O/05-5O-F01/05-5O-F01-004	01:07:15;
+
+[PrintText]=00:39:23	Girl C	He's in class 3, right? I don't really remember him making an impression on me.	00:45:08;
+
+[PlayVoice]=00:39:23	Voice05/05-5O/05-5O-F01/05-5O-F01-0210	0	joc	00:45:08;
+
+[PrintText]=00:45:08	Girl A	But to think that even Katou's confessed to him. He must really be amazing, huh?	00:49:22;
+
+[PlayVoice]=00:45:08	Voice05/05-5O/05-5O-F01/05-5O-F01-0220	0	joa	00:49:22;
+
+[PrintText]=00:49:18	Girl B	Amazing, like how?	00:51:17;
+
+[PlayVoice]=00:49:18	Voice05/05-5O/05-5O-F01/05-5O-F01-0230	0	job	00:51:17;
+
+[PrintText]=00:51:17	Girl A	There must be something about him that we don't know... like, he's amazing in bed or something.	00:56:23;
+
+[PlayVoice]=00:51:17	Voice05/05-5O/05-5O-F01/05-5O-F01-0240	0	joa	00:56:23;
+
+[PrintText]=00:56:22	Girl C	Uwah! You guys think way too much like dirty old men!	01:01:10;
+
+[PlayVoice]=00:56:22	Voice05/05-5O/05-5O-F01/05-5O-F01-0250	0	joc	01:01:10;
+
+[PlayVoice]=01:01:11	Voice05/05-5O/05-5O-F01/05-5O-F01-0270	1	tat	01:02:20;
+
+[PrintText]=01:02:06	Girl A	Yes! Sorry!	01:05:02;
+
+[PlayVoice]=01:02:06	Voice05/05-5O/05-5O-F01/05-5O-F01-0280	0	joa	01:05:02;
+
+[PrintText]=01:05:02	Girl B	Sorry!	01:06:06;
+
+[PlayVoice]=01:05:02	Voice05/05-5O/05-5O-F01/05-5O-F01-0290	0	job	01:06:06;
+
+[PrintText]=01:06:07	Kotonoha	...	01:07:10;
+
+[PlayVoice]=01:06:07	Voice05/05-5O/05-5O-F01/05-5O-F01-0310	0	xxx	01:07:10;
+
+ ;
+
+[Next]=01:07:15;
+

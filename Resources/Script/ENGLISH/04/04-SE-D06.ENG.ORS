@@ -1,0 +1,86 @@
+[SkipFRAME]=00:52:00;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/kyousitu_rouka	00:58:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-001	00:02:00;
+
+[CreateBG]=00:02:00	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-002	00:08:01;
+
+[PrintText]=00:02:00	Makoto	Fwah... morning... mnyah.	00:08:01;
+
+[PlayVoice]=00:02:00	Voice04/04-SE/04-SE-D06/04-SE-D06-0030	1	mak	00:08:01;
+
+[PrintText]=00:08:00	Taisuke	You look really sleepy.	00:10:02;
+
+[PlayVoice]=00:08:00	Voice04/04-SE/04-SE-D06/04-SE-D06-0040	1	tai	00:10:02;
+
+[CreateBG]=00:08:01	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-003	00:10:03;
+
+[PrintText]=00:10:02	Makoto	Well, I stayed up until dawn on the phone again last night...	00:15:16;
+
+[PlayVoice]=00:10:02	Voice04/04-SE/04-SE-D06/04-SE-D06-0050	1	mak	00:15:16;
+
+[CreateBG]=00:10:03	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-004	00:26:14;
+
+[PrintText]=00:15:16	Taisuke	Haha, I'm surprised you can keep it up. I went straight to sleep after I got home yesterday.	00:20:23;
+
+[PlayVoice]=00:15:16	Voice04/04-SE/04-SE-D06/04-SE-D06-0060	1	tai	00:20:23;
+
+[PrintText]=00:20:23	Makoto	I should have done the same... fwah.	00:26:13;
+
+[PlayVoice]=00:20:23	Voice04/04-SE/04-SE-D06/04-SE-D06-0070	1	mak	00:26:13;
+
+[CreateBG]=00:26:14	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-006	00:33:09;
+
+[PrintText]=00:26:14	Sekai	Makoto.	00:27:16;
+
+[PlayVoice]=00:26:14	Voice04/04-SE/04-SE-D06/04-SE-D06-0090	0	sek	00:27:16;
+
+[PrintText]=00:27:16	Makoto	Fwah... hmn? What?	00:31:15;
+
+[PlayVoice]=00:27:16	Voice04/04-SE/04-SE-D06/04-SE-D06-0100	1	mak	00:31:15;
+
+[PrintText]=00:31:15	Sekai	You really do look sleepy.	00:33:08;
+
+[PlayVoice]=00:31:15	Voice04/04-SE/04-SE-D06/04-SE-D06-0110	0	sek	00:33:08;
+
+[PrintText]=00:33:08	Makoto	Mmn... it's because you wouldn't call me.	00:37:18;
+
+[PlayVoice]=00:33:08	Voice04/04-SE/04-SE-D06/04-SE-D06-0120	1	mak	00:37:18;
+
+[CreateBG]=00:33:09	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-007	00:42:17;
+
+[PrintText]=00:37:18	Sekai	Eh?!	00:38:08;
+
+[PlayVoice]=00:37:18	Voice04/04-SE/04-SE-D06/04-SE-D06-0130	0	sek	00:38:08;
+
+[PrintText]=00:38:08	Makoto	I was waiting for you to call.	00:41:18;
+
+[PlayVoice]=00:38:08	Voice04/04-SE/04-SE-D06/04-SE-D06-0140	1	mak	00:41:18;
+
+[PrintText]=00:41:19	Sekai	Sorry...	00:42:16;
+
+[PlayVoice]=00:41:19	Voice04/04-SE/04-SE-D06/04-SE-D06-0150	0	sek	00:42:16;
+
+[PrintText]=00:42:16	Makoto	Well, don't worry about it. It wasn't your fault I stayed up late on the phone.	00:47:19;
+
+[PlayVoice]=00:42:16	Voice04/04-SE/04-SE-D06/04-SE-D06-0160	1	mak	00:47:19;
+
+[CreateBG]=00:42:17	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-008	00:47:20;
+
+[PrintText]=00:47:19	Sekai	Who were you speaking to?	00:49:20;
+
+[PlayVoice]=00:47:19	Voice04/04-SE/04-SE-D06/04-SE-D06-0170	0	sek	00:49:20;
+
+[CreateBG]=00:47:20	BGS	Event04/04-SE/04-SE-D06/04-SE-D06-009	00:58:00;
+
+[PrintText]=00:49:21	Makoto	Oh...	00:50:19;
+
+[PlayVoice]=00:49:21	Voice04/04-SE/04-SE-D06/04-SE-D06-0180	1	mak	00:50:19;
+
+[SetSELECT]=00:52:00	'Katou'	'It's a secret'	00:57:00;
+
+ ;
+
+[Next]=00:58:00;
+

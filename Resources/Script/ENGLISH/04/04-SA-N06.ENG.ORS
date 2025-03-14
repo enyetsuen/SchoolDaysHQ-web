@@ -1,0 +1,60 @@
+[SkipFRAME]=00:39:20;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/aqua_square	00:46:08;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N06/04-SA-N06-001	00:08:03;
+
+[PrintText]=00:00:00	Makoto	...	00:00:21;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N06/04-SA-N06-0030	1	xxx	00:00:21;
+
+[PrintText]=00:00:21	Kotonoha	Y-yes, it's not easy to answer, is it...? A question like that...	00:07:07;
+
+[PlayVoice]=00:00:21	Voice04/04-SA/04-SA-N06/04-SA-N06-0040	0	kot	00:07:07;
+
+[PrintText]=00:07:07	Makoto	Yeah.	00:08:02;
+
+[PlayVoice]=00:07:07	Voice04/04-SA/04-SA-N06/04-SA-N06-0050	1	mak	00:08:02;
+
+[PrintText]=00:08:02	Kotonoha	I think I'd be troubled, too, if I were asked, 'Do you want to?'	00:13:15;
+
+[PlayVoice]=00:08:02	Voice04/04-SA/04-SA-N06/04-SA-N06-0060	0	kot	00:13:15;
+
+[CreateBG]=00:08:03	BGS	Event04/04-SA/04-SA-N06/04-SA-N06-002	00:19:19;
+
+[PrintText]=00:13:15	Makoto	...	00:14:11;
+
+[PlayVoice]=00:13:15	Voice04/04-SA/04-SA-N06/04-SA-N06-0070	1	xxx	00:14:11;
+
+[PrintText]=00:14:11	Kotonoha	The truth is, I'd be even more bothered if I were actually touched.	00:19:19;
+
+[PlayVoice]=00:14:11	Voice04/04-SA/04-SA-N06/04-SA-N06-0080	0	kot	00:19:19;
+
+[CreateBG]=00:19:19	BGS	Event04/04-SA/04-SA-N06/04-SA-N06-003	00:46:08;
+
+[PrintText]=00:19:19	Makoto	...	00:21:01;
+
+[PlayVoice]=00:19:19	Voice04/04-SA/04-SA-N06/04-SA-N06-0090	1	xxx	00:21:01;
+
+[PrintText]=00:21:01	Kotonoha	Because of that, I've caused you trouble before...	00:25:14;
+
+[PlayVoice]=00:21:01	Voice04/04-SA/04-SA-N06/04-SA-N06-0100	0	kot	00:25:14;
+
+[PrintText]=00:25:14	Makoto	...	00:26:08;
+
+[PlayVoice]=00:25:14	Voice04/04-SA/04-SA-N06/04-SA-N06-0110	1	xxx	00:26:08;
+
+[PrintText]=00:26:08	Kotonoha	But... the truth is, I do want to be brave and respond... I'm sorry, I don't know what I'm saying.	00:39:02;
+
+[PlayVoice]=00:26:08	Voice04/04-SA/04-SA-N06/04-SA-N06-0120	0	kot	00:39:02;
+
+[PrintText]=00:39:02	Makoto	It's okay...	00:39:21;
+
+[PlayVoice]=00:39:02	Voice04/04-SA/04-SA-N06/04-SA-N06-0130	1	mak	00:39:21;
+
+[SetSELECT]=00:39:20	'You want to apologize'	'You want me to touch you'	00:44:21;
+
+ ;
+
+[Next]=00:46:08;
+

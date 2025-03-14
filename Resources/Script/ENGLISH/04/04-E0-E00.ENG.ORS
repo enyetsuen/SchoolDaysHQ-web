@@ -1,0 +1,328 @@
+[SkipFRAME]=05:12:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm21	02:18:00;
+
+[PlaySe]=00:00:00	1	Se04/04-E0/04-E0-E00/SE04-E0-E00-001	01:15:00;
+
+[CreateBG]=00:00:00	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-001	00:23:22;
+
+[PrintText]=00:00:00	Sekai	So, what did you want to talk about?	00:02:10;
+
+[PlayVoice]=00:00:00	Voice04/04-E0/04-E0-E00/04-E0-E00-0040	0	sek	00:02:10;
+
+[PrintText]=00:02:10	Kotonoha	Well, it's about Makoto-kun.	00:06:05;
+
+[PlayVoice]=00:02:10	Voice04/04-E0/04-E0-E00/04-E0-E00-0050	0	kot	00:06:05;
+
+[PrintText]=00:06:05	Sekai	Yes?	00:06:22;
+
+[PlayVoice]=00:06:05	Voice04/04-E0/04-E0-E00/04-E0-E00-0060	0	sek	00:06:22;
+
+[PrintText]=00:06:22	Kotonoha	I... was dumped by Makoto-kun.	00:12:21;
+
+[PlayVoice]=00:06:22	Voice04/04-E0/04-E0-E00/04-E0-E00-0070	0	kot	00:12:21;
+
+[PrintText]=00:12:21	Sekai	...	00:13:22;
+
+[PlayVoice]=00:12:21	Voice04/04-E0/04-E0-E00/04-E0-E00-0080	0	xxx	00:13:22;
+
+[PrintText]=00:13:22	Kotonoha	He... said that he was going to see the person he loved.	00:19:14;
+
+[PlayVoice]=00:13:22	Voice04/04-E0/04-E0-E00/04-E0-E00-0090	0	kot	00:19:14;
+
+[PrintText]=00:19:13	Sekai	Uh-huh...	00:20:09;
+
+[PlayVoice]=00:19:13	Voice04/04-E0/04-E0-E00/04-E0-E00-0100	0	sek	00:20:09;
+
+[PrintText]=00:20:09	Kotonoha	He said that he was sorry... that there was someone he loved long before he met me.	00:29:02;
+
+[PlayVoice]=00:20:09	Voice04/04-E0/04-E0-E00/04-E0-E00-0110	0	kot	00:29:02;
+
+[PlayMovie]=00:23:22	Movie04/04-E0/04-E0-E00/04-E0-E00-002	0	02:16:19;
+
+[PrintText]=00:29:00	Sekai	Uh-huh...	00:29:18;
+
+[PlayVoice]=00:29:00	Voice04/04-E0/04-E0-E00/04-E0-E00-0120	0	sek	00:29:18;
+
+[PrintText]=00:29:18	Kotonoha	I was really shocked...	00:33:02;
+
+[PlayVoice]=00:29:18	Voice04/04-E0/04-E0-E00/04-E0-E00-0130	0	kot	00:33:02;
+
+[PrintText]=00:33:02	Sekai	Yeah...	00:34:11;
+
+[PlayVoice]=00:33:02	Voice04/04-E0/04-E0-E00/04-E0-E00-0140	0	sek	00:34:11;
+
+[PrintText]=00:34:12	Kotonoha	Did you know that Makoto-kun was in love with someone else?	00:39:06;
+
+[PlayVoice]=00:34:12	Voice04/04-E0/04-E0-E00/04-E0-E00-0150	0	kot	00:39:06;
+
+[PrintText]=00:39:11	Sekai	Y-yes... um... I wasn't sure... but kind of.	00:47:10;
+
+[PlayVoice]=00:39:11	Voice04/04-E0/04-E0-E00/04-E0-E00-0160	0	sek	00:47:10;
+
+[PrintText]=00:47:09	Kotonoha	Yes... the truth is, I don't know who it is, and it's really been bothering me.	00:56:11;
+
+[PlayVoice]=00:47:09	Voice04/04-E0/04-E0-E00/04-E0-E00-0170	0	kot	00:56:11;
+
+[PrintText]=00:56:11	Sekai	Eh? Didn't Makoto tell you who it was?	00:59:17;
+
+[PlayVoice]=00:56:11	Voice04/04-E0/04-E0-E00/04-E0-E00-0180	0	sek	00:59:17;
+
+[PrintText]=00:59:17	Kotonoha	No. He... simply said it was someone he's loved for some time.	01:04:23;
+
+[PlayVoice]=00:59:17	Voice04/04-E0/04-E0-E00/04-E0-E00-0190	0	kot	01:04:23;
+
+[PrintText]=01:04:23	Sekai	Uwah...	01:07:06;
+
+[PlayVoice]=01:04:23	Voice04/04-E0/04-E0-E00/04-E0-E00-0200	0	sek	01:07:06;
+
+[PrintText]=01:07:06	Kotonoha	So, last night, I couldn't sleep and was thinking about it... about who it was that Makoto-kun loved.	01:15:09;
+
+[PlayVoice]=01:07:06	Voice04/04-E0/04-E0-E00/04-E0-E00-0210	0	kot	01:15:09;
+
+[PlaySe]=01:13:09	2	Se04/04-E0/04-E0-E00/SE04-E0-E00-001	02:25:16;
+
+[PrintText]=01:15:08	Sekai	U-um... well, actually, that person is m...	01:20:09;
+
+[PlayVoice]=01:15:08	Voice04/04-E0/04-E0-E00/04-E0-E00-0220	0	sek	01:20:09;
+
+[PrintText]=01:20:09	Kotonoha	I was thinking of killing her, and then myself!	01:24:14;
+
+[PlayVoice]=01:20:09	Voice04/04-E0/04-E0-E00/04-E0-E00-0230	0	kot	01:24:14;
+
+[PrintText]=01:24:15	Sekai	Eh?!	01:25:11;
+
+[PlayVoice]=01:24:15	Voice04/04-E0/04-E0-E00/04-E0-E00-0240	0	sek	01:25:11;
+
+[PrintText]=01:25:11	Sekai	Eek!	01:26:10;
+
+[PlayVoice]=01:25:11	Voice04/04-E0/04-E0-E00/04-E0-E00-0260	0	sek	01:26:10;
+
+[PrintText]=01:28:16	Kotonoha	That's why I've brought this fruit knife here from home.	01:32:15;
+
+[PlayVoice]=01:28:16	Voice04/04-E0/04-E0-E00/04-E0-E00-0270	0	kot	01:32:15;
+
+[PrintText]=01:32:14	Sekai	I-I see...	01:34:12;
+
+[PlayVoice]=01:32:14	Voice04/04-E0/04-E0-E00/04-E0-E00-0280	0	sek	01:34:12;
+
+[PrintText]=01:34:14	Kotonoha	I thought I'd stick this knife in her throat and... twist a little. Then, I'd slit my own throat, and we'd die together...	01:44:10;
+
+[PlayVoice]=01:34:14	Voice04/04-E0/04-E0-E00/04-E0-E00-0290	0	kot	01:44:10;
+
+[PrintText]=01:44:08	Sekai	Eek...	01:45:17;
+
+[PlayVoice]=01:44:08	Voice04/04-E0/04-E0-E00/04-E0-E00-0300	0	sek	01:45:17;
+
+[PrintText]=01:45:18	Kotonoha	I didn't want to leave this person who Makoto-kun loves alive,	01:49:14;
+
+[PlayVoice]=01:45:18	Voice04/04-E0/04-E0-E00/04-E0-E00-0310	0	kot	01:49:14;
+
+[PrintText]=01:49:14	Kotonoha	and I didn't believe that I should continue living after I killed her, so that Makoto-kun would come to hate me, so...	01:55:10;
+
+[PlayVoice]=01:49:14	Voice04/04-E0/04-E0-E00/04-E0-E00-0311	0	kot	01:55:10;
+
+[PrintText]=01:55:09	Sekai	U-um... y-you know, you shouldn't be so hasty.	01:59:19;
+
+[PlayVoice]=01:55:09	Voice04/04-E0/04-E0-E00/04-E0-E00-0320	0	sek	01:59:19;
+
+[PrintText]=01:59:20	Sekai	I mean... lots of good things could happen if you just keep living, and... you'd really hurt that person... you know.	02:09:08;
+
+[PlayVoice]=01:59:20	Voice04/04-E0/04-E0-E00/04-E0-E00-0321	0	sek	02:09:08;
+
+[PrintText]=02:09:09	Kotonoha	Do you know who it is that Makoto-kun loves?	02:14:21;
+
+[PlayVoice]=02:09:09	Voice04/04-E0/04-E0-E00/04-E0-E00-0330	0	kot	02:14:21;
+
+[PrintText]=02:14:20	Sekai	Y-yeah...	02:16:21;
+
+[PlayVoice]=02:14:20	Voice04/04-E0/04-E0-E00/04-E0-E00-0340	0	sek	02:16:21;
+
+[CreateBG]=02:16:19	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-003	02:26:03;
+
+[PrintText]=02:17:04	Kotonoha	It's Katou-san, isn't it?	02:18:19;
+
+[PlayVoice]=02:17:04	Voice04/04-E0/04-E0-E00/04-E0-E00-0350	0	kot	02:18:19;
+
+[PrintText]=02:18:13	Sekai	Eh?	02:19:03;
+
+[PlayVoice]=02:18:13	Voice04/04-E0/04-E0-E00/04-E0-E00-0360	0	sek	02:19:03;
+
+[PrintText]=02:19:10	Kotonoha	She plays basketball, so she's quite fit, and big, too. I didn't think that I could stab someone like her to death...	02:29:02;
+
+[PlayVoice]=02:19:10	Voice04/04-E0/04-E0-E00/04-E0-E00-0370	0	kot	02:29:02;
+
+[PlaySe]=02:24:19	1	Se04/04-E0/04-E0-E00/SE04-E0-E00-001	03:39:19;
+
+[CreateBG]=02:26:03	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-004	02:57:15;
+
+[PrintText]=02:29:02	Kotonoha	and so, I gave up.	02:32:03;
+
+[PlayVoice]=02:29:02	Voice04/04-E0/04-E0-E00/04-E0-E00-0371	0	kot	02:32:03;
+
+[PrintText]=02:31:20	Sekai	Katou-san... you mean that girl Makoto knows from junior high?	02:38:10;
+
+[PlayVoice]=02:31:20	Voice04/04-E0/04-E0-E00/04-E0-E00-0390	0	sek	02:38:10;
+
+[PrintText]=02:38:17	Kotonoha	Yes. You seem to know a lot about her.	02:41:12;
+
+[PlayVoice]=02:38:17	Voice04/04-E0/04-E0-E00/04-E0-E00-0400	0	kot	02:41:12;
+
+[PrintText]=02:41:06	Sekai	Well... only what I've heard from Makoto.	02:44:22;
+
+[PlayVoice]=02:41:06	Voice04/04-E0/04-E0-E00/04-E0-E00-0410	0	sek	02:44:22;
+
+[PrintText]=02:45:05	Kotonoha	It came to me when I thought about how she was a girl that Makoto-kun knew before he met me, and how close they are.	02:51:15;
+
+[PlayVoice]=02:45:05	Voice04/04-E0/04-E0-E00/04-E0-E00-0420	0	kot	02:51:15;
+
+[PrintText]=02:51:08	Sekai	Haha... surely it's not Katou-san?	02:56:00;
+
+[PlayVoice]=02:51:08	Voice04/04-E0/04-E0-E00/04-E0-E00-0430	0	sek	02:56:00;
+
+[PrintText]=02:56:07	Kotonoha	No, there's no mistaking it. I'm certain.	02:59:02;
+
+[PlayVoice]=02:56:07	Voice04/04-E0/04-E0-E00/04-E0-E00-0450	0	kot	02:59:02;
+
+[CreateBG]=02:57:15	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-005	03:23:21;
+
+[PlayBgm]=02:58:12	BGM/SD_BGM/sdbgm29	05:12:10;
+
+[PrintText]=02:58:19	Sekai	I see...	02:59:23;
+
+[PlayVoice]=02:58:19	Voice04/04-E0/04-E0-E00/04-E0-E00-0470	0	sek	02:59:23;
+
+[PrintText]=03:00:06	Kotonoha	I have evidence, you know.	03:01:23;
+
+[PlayVoice]=03:00:06	Voice04/04-E0/04-E0-E00/04-E0-E00-0480	0	kot	03:01:23;
+
+[PrintText]=03:01:16	Sekai	Evidence?	03:03:02;
+
+[PlayVoice]=03:01:16	Voice04/04-E0/04-E0-E00/04-E0-E00-0490	0	sek	03:03:02;
+
+[PrintText]=03:03:09	Kotonoha	Yes. The truth is... I heard it from Katou-san when she was talking to her friends at lunch.	03:12:07;
+
+[PlayVoice]=03:03:09	Voice04/04-E0/04-E0-E00/04-E0-E00-0500	0	kot	03:12:07;
+
+[PrintText]=03:12:00	Sekai	Eh...? That she likes Makoto?	03:15:12;
+
+[PlayVoice]=03:12:00	Voice04/04-E0/04-E0-E00/04-E0-E00-0510	0	sek	03:15:12;
+
+[PrintText]=03:15:19	Kotonoha	That doesn't begin to describe it.	03:17:15;
+
+[PlayVoice]=03:15:19	Voice04/04-E0/04-E0-E00/04-E0-E00-0520	0	kot	03:17:15;
+
+[PrintText]=03:17:08	Sekai	That can't be true. Makoto said that they've been friends since junior high.	03:22:23;
+
+[PlayVoice]=03:17:08	Voice04/04-E0/04-E0-E00/04-E0-E00-0530	0	sek	03:22:23;
+
+[PrintText]=03:22:18	Kotonoha	They're not friends. They're going out.	03:25:23;
+
+[PlayVoice]=03:22:18	Voice04/04-E0/04-E0-E00/04-E0-E00-0540	0	kot	03:25:23;
+
+[CreateBG]=03:23:21	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-006	03:48:15;
+
+[PrintText]=03:26:00	Sekai	No way...	03:27:00;
+
+[PlayVoice]=03:26:00	Voice04/04-E0/04-E0-E00/04-E0-E00-0550	0	sek	03:27:00;
+
+[PrintText]=03:27:00	Kotonoha	There's no mistaking it. In his e-mail to me, he made it sound like they were going out long before he met me.	03:35:06;
+
+[PlayVoice]=03:27:00	Voice04/04-E0/04-E0-E00/04-E0-E00-0560	0	kot	03:35:06;
+
+[PrintText]=03:35:06	Sekai	Long before he met you...?	03:37:21;
+
+[PlayVoice]=03:35:06	Voice04/04-E0/04-E0-E00/04-E0-E00-0570	0	sek	03:37:21;
+
+[PrintText]=03:37:21	Kotonoha	And I also heard she was so determined to go to the same school as him that she spent all her time studying for the exams.	03:47:23;
+
+[PlayVoice]=03:37:21	Voice04/04-E0/04-E0-E00/04-E0-E00-0580	0	kot	03:47:23;
+
+[PlaySe]=03:38:04	2	Se04/04-E0/04-E0-E00/SE04-E0-E00-001	04:53:04;
+
+[PrintText]=03:47:23	Sekai	That's... a lie...	03:50:18;
+
+[PlayVoice]=03:47:23	Voice04/04-E0/04-E0-E00/04-E0-E00-0590	0	sek	03:50:18;
+
+[CreateBG]=03:48:15	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-007	04:15:21;
+
+[PrintText]=03:50:18	Kotonoha	No, it isn't. I couldn't believe it either... but I saw her turning red while being teased by her friends.	04:02:08;
+
+[PlayVoice]=03:50:18	Voice04/04-E0/04-E0-E00/04-E0-E00-0600	0	kot	04:02:08;
+
+[PrintText]=04:02:08	Sekai	...	04:02:19;
+
+[PlayVoice]=04:02:08	Voice04/04-E0/04-E0-E00/04-E0-E00-0610	0	xxx	04:02:19;
+
+[PrintText]=04:02:19	Sekai	Katou-san... is she really...?	04:05:14;
+
+[PlayVoice]=04:02:19	Voice04/04-E0/04-E0-E00/04-E0-E00-0620	0	sek	04:05:14;
+
+[PrintText]=04:05:14	Kotonoha	Katou-san said she hasn't kissed him yet, so next time, she's going to invite him to her house and throw herself at him.	04:14:02;
+
+[PlayVoice]=04:05:14	Voice04/04-E0/04-E0-E00/04-E0-E00-0630	0	kot	04:14:02;
+
+[PrintText]=04:14:02	Sekai	Come to think of it... she did invite him over during lunch...	04:18:10;
+
+[PlayVoice]=04:14:02	Voice04/04-E0/04-E0-E00/04-E0-E00-0640	0	sek	04:18:10;
+
+[CreateBG]=04:15:21	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-008	04:31:16;
+
+[PrintText]=04:18:10	Kotonoha	See?!	04:19:11;
+
+[PlayVoice]=04:18:10	Voice04/04-E0/04-E0-E00/04-E0-E00-0650	0	kot	04:19:11;
+
+[PrintText]=04:19:11	Sekai	B-but... she said her little sister would be there, too...	04:22:17;
+
+[PlayVoice]=04:19:11	Voice04/04-E0/04-E0-E00/04-E0-E00-0660	0	sek	04:22:17;
+
+[PrintText]=04:22:17	Kotonoha	Just now, she was scheming about how she'll have to drive her sister off so that they can be alone.	04:30:04;
+
+[PlayVoice]=04:22:17	Voice04/04-E0/04-E0-E00/04-E0-E00-0670	0	kot	04:30:04;
+
+[PrintText]=04:30:04	Sekai	I can't believe it... so, her sister is...?	04:33:20;
+
+[PlayVoice]=04:30:04	Voice04/04-E0/04-E0-E00/04-E0-E00-0680	0	sek	04:33:20;
+
+[CreateBG]=04:31:16	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-009	05:01:23;
+
+[PrintText]=04:33:20	Kotonoha	She told him her sister would be there to make it easier for him to come over.	04:38:15;
+
+[PlayVoice]=04:33:20	Voice04/04-E0/04-E0-E00/04-E0-E00-0690	0	kot	04:38:15;
+
+[PrintText]=04:38:15	Kotonoha	You hear it a lot, don't you? Girls saying things like, 'I'll lure him over, and then he's mine!'	04:47:08;
+
+[PlayVoice]=04:38:15	Voice04/04-E0/04-E0-E00/04-E0-E00-0691	0	kot	04:47:08;
+
+[PrintText]=04:47:08	Sekai	...	04:47:19;
+
+[PlayVoice]=04:47:08	Voice04/04-E0/04-E0-E00/04-E0-E00-0700	0	xxx	04:47:19;
+
+[PrintText]=04:47:19	Kotonoha	Saionji-san... what should I do?	04:54:07;
+
+[PlayVoice]=04:47:19	Voice04/04-E0/04-E0-E00/04-E0-E00-0710	0	kot	04:54:07;
+
+[PlaySe]=04:52:09	1	Se04/04-E0/04-E0-E00/SE04-E0-E00-001	05:12:10;
+
+[PrintText]=04:54:07	Sekai	I don't know...	04:55:18;
+
+[PlayVoice]=04:54:07	Voice04/04-E0/04-E0-E00/04-E0-E00-0720	0	sek	04:55:18;
+
+[PrintText]=04:55:18	Kotonoha	Neither do I. If it's Katou-san... then I really don't know...	05:04:03;
+
+[PlayVoice]=04:55:18	Voice04/04-E0/04-E0-E00/04-E0-E00-0730	0	kot	05:04:03;
+
+[CreateBG]=05:01:23	BGS	Event04/04-E0/04-E0-E00/04-E0-E00-010	05:12:10;
+
+[PrintText]=05:04:03	Sekai	I don't know... I just don't know... Makoto...	05:09:09;
+
+[PlayVoice]=05:04:03	Voice04/04-E0/04-E0-E00/04-E0-E00-0740	0	sek	05:09:09;
+
+[PrintText]=05:09:09	Kotonoha	Uuh...	05:11:22;
+
+[PlayVoice]=05:09:09	Voice04/04-E0/04-E0-E00/04-E0-E00-0750	0	kot	05:11:22;
+
+ ;
+
+[Next]=05:12:10;
+

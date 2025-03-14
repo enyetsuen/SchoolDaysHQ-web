@@ -1,0 +1,62 @@
+[SkipFRAME]=00:21:19;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm25	00:21:19;
+
+[PlayMovie]=00:00:00	Movie03/03-KB/03-KB-N06/03-KB-N06-001	0	00:21:19;
+
+[PrintText]=00:00:00	Makoto	I'll guide you through it.	00:02:07;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-N06/03-KB-N06-0030	1	mak	00:02:07;
+
+[PrintText]=00:02:08	Kotonoha	O-okay.	00:04:01;
+
+[PlayVoice]=00:02:08	Voice03/03-KB/03-KB-N06/03-KB-N06-0040	0	kot	00:04:01;
+
+[PrintText]=00:04:01	Makoto	Now, just stay still.	00:07:04;
+
+[PlayVoice]=00:04:01	Voice03/03-KB/03-KB-N06/03-KB-N06-0050	1	mak	00:07:04;
+
+[PrintText]=00:07:04	Kotonoha	...	00:08:07;
+
+[PlayVoice]=00:07:04	Voice03/03-KB/03-KB-N06/03-KB-N06-0060	0	xxx	00:08:07;
+
+[PrintText]=00:08:07	Makoto	Kotonoha...	00:09:18;
+
+[PlayVoice]=00:08:07	Voice03/03-KB/03-KB-N06/03-KB-N06-0070	1	mak	00:09:18;
+
+[PrintText]=00:09:18	Kotonoha	Makoto-kun.	00:10:23;
+
+[PlayVoice]=00:09:18	Voice03/03-KB/03-KB-N06/03-KB-N06-0080	0	kot	00:10:23;
+
+[PrintText]=00:11:00	Makoto	Hmn?	00:11:15;
+
+[PlayVoice]=00:11:00	Voice03/03-KB/03-KB-N06/03-KB-N06-0090	1	mak	00:11:15;
+
+[PrintText]=00:11:15	Kotonoha	Um...	00:12:14;
+
+[PlayVoice]=00:11:15	Voice03/03-KB/03-KB-N06/03-KB-N06-0100	0	kot	00:12:14;
+
+[PrintText]=00:12:14	Makoto	What?	00:13:08;
+
+[PlayVoice]=00:12:14	Voice03/03-KB/03-KB-N06/03-KB-N06-0110	1	mak	00:13:08;
+
+[PrintText]=00:13:08	Kotonoha	Have you... done it before?	00:18:07;
+
+[PlayVoice]=00:13:08	Voice03/03-KB/03-KB-N06/03-KB-N06-0120	0	kot	00:18:07;
+
+[PrintText]=00:18:07	Makoto	Eh?	00:18:21;
+
+[PlayVoice]=00:18:07	Voice03/03-KB/03-KB-N06/03-KB-N06-0130	1	mak	00:18:21;
+
+[PrintText]=00:18:22	Kotonoha	This sort of thing...	00:20:08;
+
+[PlayVoice]=00:18:22	Voice03/03-KB/03-KB-N06/03-KB-N06-0140	0	kot	00:20:08;
+
+[PrintText]=00:20:08	Makoto	Well...	00:21:18;
+
+[PlayVoice]=00:20:08	Voice03/03-KB/03-KB-N06/03-KB-N06-0150	1	mak	00:21:18;
+
+ ;
+
+[Next]=00:21:19;
+

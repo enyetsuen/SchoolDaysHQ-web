@@ -1,0 +1,188 @@
+[SkipFRAME]=02:12:09;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm20	02:12:09;
+
+[PlaySe]=00:00:00	1	Se03/03-SA/03-SA-F02/SE03-SA-F02-001	01:39:10;
+
+[CreateBG]=00:00:00	BGS	Event03/03-SA/03-SA-F02/03-SA-F02-001	00:47:13;
+
+[PrintText]=00:00:00	Girl A	Hey, do you think he'll really come?	00:02:15;
+
+[PlayVoice]=00:00:00	Voice03/03-SA/03-SA-F02/03-SA-F02-0040	0	joa	00:02:15;
+
+[PrintText]=00:02:15	Girl B	Who knows? It'd be interesting if he did, but even more so if he didn't.	00:09:00;
+
+[PlayVoice]=00:02:15	Voice03/03-SA/03-SA-F02/03-SA-F02-0050	0	job	00:09:00;
+
+[PrintText]=00:09:01	Girl C	You said it. That girl's always acting cute towards the boys. It'd serve her right.	00:16:05;
+
+[PlayVoice]=00:09:01	Voice03/03-SA/03-SA-F02/03-SA-F02-0060	0	joc	00:16:05;
+
+[PrintText]=00:16:06	Girl B	The boys in our class always say she's cute, too, but I'm like, 'How?!'	00:22:16;
+
+[PlayVoice]=00:16:06	Voice03/03-SA/03-SA-F02/03-SA-F02-0070	0	job	00:22:16;
+
+[PrintText]=00:22:16	Girl C	Yeah, yeah.	00:23:23;
+
+[PlayVoice]=00:22:16	Voice03/03-SA/03-SA-F02/03-SA-F02-0080	0	joc	00:23:23;
+
+[PrintText]=00:24:00	Girl D	What? What's happening?	00:25:10;
+
+[PlayVoice]=00:24:00	Voice03/03-SA/03-SA-F02/03-SA-F02-0090	0	jod	00:25:10;
+
+[PrintText]=00:25:10	Girl B	Those girls from class 4 were having an argument.	00:29:01;
+
+[PlayVoice]=00:25:10	Voice03/03-SA/03-SA-F02/03-SA-F02-0100	0	job	00:29:01;
+
+[PrintText]=00:29:01	Girl A	See? Katsura's from class 4.	00:32:00;
+
+[PlayVoice]=00:29:01	Voice03/03-SA/03-SA-F02/03-SA-F02-0110	0	joa	00:32:00;
+
+[PrintText]=00:32:01	Girl D	I know. What's the deal with her?	00:34:07;
+
+[PlayVoice]=00:32:01	Voice03/03-SA/03-SA-F02/03-SA-F02-0120	0	jod	00:34:07;
+
+[PrintText]=00:34:07	Girl B	Seems like she was boasting about having a boyfriend, and then the others were like, 'Then call him over.'	00:40:07;
+
+[PlayVoice]=00:34:07	Voice03/03-SA/03-SA-F02/03-SA-F02-0130	0	job	00:40:07;
+
+[PrintText]=00:40:08	Girl C	Yeah, there's no room for excuses if your man doesn't come during the school festival.	00:44:12;
+
+[PlayVoice]=00:40:08	Voice03/03-SA/03-SA-F02/03-SA-F02-0140	0	joc	00:44:12;
+
+[PrintText]=00:44:12	Girl D	You're so totally right.	00:46:17;
+
+[PlayVoice]=00:44:12	Voice03/03-SA/03-SA-F02/03-SA-F02-0150	0	jod	00:46:17;
+
+[PrintText]=00:46:18	Makoto	Ah...	00:47:13;
+
+[PlayVoice]=00:46:18	Voice03/03-SA/03-SA-F02/03-SA-F02-0170	1	mak	00:47:13;
+
+[CreateBG]=00:47:13	BGS	Event03/03-SA/03-SA-F02/03-SA-F02-002	01:07:13;
+
+[PrintText]=00:47:13	Minami	Look... we're asking you WHEN he's going to get here.	00:50:21;
+
+[PlayVoice]=00:47:13	Voice03/03-SA/03-SA-F02/03-SA-F02-0190	0	min	00:50:21;
+
+[PrintText]=00:50:22	Kotonoha	...	00:52:10;
+
+[PlayVoice]=00:50:22	Voice03/03-SA/03-SA-F02/03-SA-F02-0200	0	xxx	00:52:10;
+
+[PrintText]=00:52:10	Natsumi	If we don't know when he's coming, we can't go out and see the festival.	00:57:01;
+
+[PlayVoice]=00:52:10	Voice03/03-SA/03-SA-F02/03-SA-F02-0210	0	nat	00:57:01;
+
+[PrintText]=00:57:01	Kotonoha	...	00:58:22;
+
+[PlayVoice]=00:57:01	Voice03/03-SA/03-SA-F02/03-SA-F02-0220	0	xxx	00:58:22;
+
+[PrintText]=00:58:23	Kumi	Isn't she just planning to lie and say he came while we were gone?	01:03:06;
+
+[PlayVoice]=00:58:23	Voice03/03-SA/03-SA-F02/03-SA-F02-0230	0	kum	01:03:06;
+
+[PrintText]=01:03:06	Natsumi	Uwah. That's low.	01:05:17;
+
+[PlayVoice]=01:03:06	Voice03/03-SA/03-SA-F02/03-SA-F02-0240	0	nat	01:05:17;
+
+[PrintText]=01:05:17	Minami	Is that what you were planning to do?!	01:07:13;
+
+[PlayVoice]=01:05:17	Voice03/03-SA/03-SA-F02/03-SA-F02-0250	0	min	01:07:13;
+
+[PlayMovie]=01:07:13	Movie03/03-SA/03-SA-F02/03-SA-F02-003	0	01:46:11;
+
+[PrintText]=01:07:14	Kotonoha	No... it isn't.	01:10:14;
+
+[PlayVoice]=01:07:14	Voice03/03-SA/03-SA-F02/03-SA-F02-0260	0	kot	01:10:14;
+
+[PrintText]=01:10:14	Minami	Then just what ARE you going to do?!	01:12:09;
+
+[PlayVoice]=01:10:14	Voice03/03-SA/03-SA-F02/03-SA-F02-0270	0	min	01:12:09;
+
+[PrintText]=01:12:10	Kotonoha	He's... probably busy.	01:15:08;
+
+[PlayVoice]=01:12:10	Voice03/03-SA/03-SA-F02/03-SA-F02-0280	0	kot	01:15:08;
+
+[PrintText]=01:15:09	Natsumi	That's impossible. The festival's going to end in about an hour. There's no way he'd be busy up until now.	01:23:16;
+
+[PlayVoice]=01:15:09	Voice03/03-SA/03-SA-F02/03-SA-F02-0290	0	nat	01:23:16;
+
+[PrintText]=01:23:16	Kotonoha	He... has things to do...	01:27:10;
+
+[PlayVoice]=01:23:16	Voice03/03-SA/03-SA-F02/03-SA-F02-0300	0	kot	01:27:10;
+
+[PrintText]=01:27:11	Kumi	Could it be that she just lied about calling him?	01:32:05;
+
+[PlayVoice]=01:27:11	Voice03/03-SA/03-SA-F02/03-SA-F02-0310	0	kum	01:32:05;
+
+[PrintText]=01:32:06	Minami	Uwah... are we going that far back? We're not going to forgive you if you didn't actually invite him.	01:38:23;
+
+[PlayVoice]=01:32:06	Voice03/03-SA/03-SA-F02/03-SA-F02-0320	0	min	01:38:23;
+
+[PlaySe]=01:38:18	2	Se03/03-SA/03-SA-F02/SE03-SA-F02-001	02:12:09;
+
+[PrintText]=01:39:00	Kotonoha	I did call him... I called him, but... he... must have something he has to do.	01:46:11;
+
+[PlayVoice]=01:39:00	Voice03/03-SA/03-SA-F02/03-SA-F02-0330	0	kot	01:46:11;
+
+[CreateBG]=01:46:11	BGS	Event03/03-SA/03-SA-F02/03-SA-F02-004	01:56:06;
+
+[PrintText]=01:46:11	Kumi	What's this 'something'?	01:48:11;
+
+[PlayVoice]=01:46:11	Voice03/03-SA/03-SA-F02/03-SA-F02-0340	0	kum	01:48:11;
+
+[PrintText]=01:48:11	Kotonoha	I... don't know.	01:52:19;
+
+[PlayVoice]=01:48:11	Voice03/03-SA/03-SA-F02/03-SA-F02-0350	0	kot	01:52:19;
+
+[PrintText]=01:52:20	Minami	Aww, sheesh! She's really starting to piss me off!	01:56:06;
+
+[PlayVoice]=01:52:20	Voice03/03-SA/03-SA-F02/03-SA-F02-0360	0	min	01:56:06;
+
+[CreateBG]=01:56:06	BGS	Event03/03-SA/03-SA-F02/03-SA-F02-005	02:02:22;
+
+[PrintText]=01:56:06	Kotonoha	...	01:57:06;
+
+[PlayVoice]=01:56:06	Voice03/03-SA/03-SA-F02/03-SA-F02-0370	0	xxx	01:57:06;
+
+[PrintText]=01:57:06	Otome	...Hey, Katsura.	01:58:17;
+
+[PlayVoice]=01:57:06	Voice03/03-SA/03-SA-F02/03-SA-F02-0380	0	oto	01:58:17;
+
+[PrintText]=01:58:18	Kotonoha	Yes...?	01:59:11;
+
+[PlayVoice]=01:58:18	Voice03/03-SA/03-SA-F02/03-SA-F02-0390	0	kot	01:59:11;
+
+[PrintText]=01:59:12	Otome	Haven't you had enough?	02:01:12;
+
+[PlayVoice]=01:59:12	Voice03/03-SA/03-SA-F02/03-SA-F02-0400	0	oto	02:01:12;
+
+[PrintText]=02:01:13	Kotonoha	Of what?	02:02:22;
+
+[PlayVoice]=02:01:13	Voice03/03-SA/03-SA-F02/03-SA-F02-0410	0	kot	02:02:22;
+
+[CreateBG]=02:02:22	BGS	Event03/03-SA/03-SA-F02/03-SA-F02-001	02:12:09;
+
+[PrintText]=02:02:22	Otome	Just admit it. You aren't going out with Itou.	02:06:22;
+
+[PlayVoice]=02:02:22	Voice03/03-SA/03-SA-F02/03-SA-F02-0420	0	oto	02:06:22;
+
+[PrintText]=02:06:23	Kotonoha	?!	02:07:23;
+
+[PlayVoice]=02:06:23	Voice03/03-SA/03-SA-F02/03-SA-F02-0430	0	kot	02:07:23;
+
+[PrintText]=02:08:00	Otome	Everyone's already worked it out.	02:10:16;
+
+[PlayVoice]=02:08:00	Voice03/03-SA/03-SA-F02/03-SA-F02-0440	0	oto	02:10:16;
+
+[PrintText]=02:10:16	Minami	Yeah.	02:11:16;
+
+[PlayVoice]=02:10:16	Voice03/03-SA/03-SA-F02/03-SA-F02-0450	0	min	02:11:16;
+
+[PrintText]=02:11:16	Natsumi	Uh-huh.	02:12:08;
+
+[PlayVoice]=02:11:16	Voice03/03-SA/03-SA-F02/03-SA-F02-0460	0	nat	02:12:08;
+
+ ;
+
+[Next]=02:12:09;
+

@@ -1,0 +1,72 @@
+[SkipFRAME]=00:41:15;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm29	00:41:15;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-F01/03-KB-F01-001	00:08:19;
+
+[PrintText]=00:00:00	Sekai	I-if it's just a phone call... I guess that would be okay, right?	00:04:05;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-F01/03-KB-F01-0030	0	sek	00:04:05;
+
+[PrintText]=00:04:04	Setsuna	Why wouldn't it be? I think he'll probably still be awake at this hour.	00:08:18;
+
+[PlayVoice]=00:04:04	Voice03/03-KB/03-KB-F01/03-KB-F01-0040	0	set	00:08:18;
+
+[PrintText]=00:08:18	Sekai	B-but he'll already have plans! I'm sure of it!	00:12:03;
+
+[PlayVoice]=00:08:18	Voice03/03-KB/03-KB-F01/03-KB-F01-0050	0	sek	00:12:03;
+
+[CreateBG]=00:08:19	BGS	Event03/03-KB/03-KB-F01/03-KB-F01-002	00:18:17;
+
+[PrintText]=00:12:03	Setsuna	With whom? Knowing him, there's no way he'd accept an invitation from another girl.	00:18:16;
+
+[PlayVoice]=00:12:03	Voice03/03-KB/03-KB-F01/03-KB-F01-0060	0	set	00:18:16;
+
+[PrintText]=00:18:16	Sekai	Of course he would! After all, he's going out with Katsura-san...	00:23:23;
+
+[PlayVoice]=00:18:16	Voice03/03-KB/03-KB-F01/03-KB-F01-0070	0	sek	00:23:23;
+
+[CreateBG]=00:18:17	BGS	Event03/03-KB/03-KB-F01/03-KB-F01-003	00:24:00;
+
+[PrintText]=00:23:23	Setsuna	Hmn?	00:24:14;
+
+[PlayVoice]=00:23:23	Voice03/03-KB/03-KB-F01/03-KB-F01-0080	0	set	00:24:14;
+
+[CreateBG]=00:24:00	BGS	Event03/03-KB/03-KB-F01/03-KB-F01-004	00:27:02;
+
+[PrintText]=00:24:14	Sekai	N-n-n-nothing!	00:27:02;
+
+[PlayVoice]=00:24:14	Voice03/03-KB/03-KB-F01/03-KB-F01-0090	0	sek	00:27:02;
+
+[CreateBG]=00:27:02	BGS	Event03/03-KB/03-KB-F01/03-KB-F01-005	00:36:15;
+
+[PrintText]=00:27:02	Setsuna	Come on, call him.	00:29:22;
+
+[PlayVoice]=00:27:02	Voice03/03-KB/03-KB-F01/03-KB-F01-0100	0	set	00:29:22;
+
+[PrintText]=00:29:22	Sekai	Okay, I'll just try calling him!	00:32:23;
+
+[PlayVoice]=00:29:22	Voice03/03-KB/03-KB-F01/03-KB-F01-0110	0	sek	00:32:23;
+
+[PrintText]=00:32:23	Setsuna	Uh-huh.	00:33:14;
+
+[PlayVoice]=00:32:23	Voice03/03-KB/03-KB-F01/03-KB-F01-0120	0	set	00:33:14;
+
+[PrintText]=00:33:14	Sekai	I'll let it ring five times, and if he doesn't pick up, that's it, okay?!	00:36:15;
+
+[PlayVoice]=00:33:14	Voice03/03-KB/03-KB-F01/03-KB-F01-0130	0	sek	00:36:15;
+
+[CreateBG]=00:36:15	BGS	Event03/03-KB/03-KB-F01/03-KB-F01-006	00:41:15;
+
+[PrintText]=00:36:15	Setsuna	?	00:37:07;
+
+[PlayVoice]=00:36:15	Voice03/03-KB/03-KB-F01/03-KB-F01-0140	0	set	00:37:07;
+
+[PrintText]=00:37:07	Sekai	It's settled! All right, I'm going to call him now!	00:40:02;
+
+[PlayVoice]=00:37:07	Voice03/03-KB/03-KB-F01/03-KB-F01-0150	0	sek	00:40:02;
+
+ ;
+
+[Next]=00:41:15;
+

@@ -1,0 +1,92 @@
+[SkipFRAME]=00:48:10;
+
+[PlayBgm]=00:00:00	BGM/SD_BGM/sdbgm07	00:48:10;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-001	00:01:21;
+
+[CreateBG]=00:01:21	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-001B	00:05:03;
+
+[PrintText]=00:01:21	Otome	So, have you heard about Arima-sensei?	00:05:03;
+
+[PlayVoice]=00:01:21	Voice04/04-SE/04-SE-B06/04-SE-B06-0030	0	oto	00:05:03;
+
+[CreateBG]=00:05:03	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-001C	00:09:10;
+
+[PrintText]=00:05:06	Makoto	No. Did something happen?	00:07:17;
+
+[PlayVoice]=00:05:06	Voice04/04-SE/04-SE-B06/04-SE-B06-0040	1	mak	00:07:17;
+
+[PrintText]=00:07:14	Otome	It seems he's getting married.	00:09:09;
+
+[PlayVoice]=00:07:14	Voice04/04-SE/04-SE-B06/04-SE-B06-0050	0	oto	00:09:09;
+
+[CreateBG]=00:09:10	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-002	00:10:12;
+
+[PrintText]=00:09:12	Makoto	Seriously?!	00:10:14;
+
+[PlayVoice]=00:09:12	Voice04/04-SE/04-SE-B06/04-SE-B06-0060	1	mak	00:10:14;
+
+[PrintText]=00:10:11	Otome	Yeah, seriously.	00:11:15;
+
+[PlayVoice]=00:10:11	Voice04/04-SE/04-SE-B06/04-SE-B06-0070	0	oto	00:11:15;
+
+[CreateBG]=00:10:12	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-002B	00:11:15;
+
+[CreateBG]=00:11:15	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-003	00:13:20;
+
+[PrintText]=00:11:18	Makoto	That Arima... married, huh...?	00:13:22;
+
+[PlayVoice]=00:11:18	Voice04/04-SE/04-SE-B06/04-SE-B06-0080	1	mak	00:13:22;
+
+[PrintText]=00:13:19	Otome	Have you been keeping in touch with the guys from junior high?	00:17:00;
+
+[PlayVoice]=00:13:19	Voice04/04-SE/04-SE-B06/04-SE-B06-0090	0	oto	00:17:00;
+
+[CreateBG]=00:13:20	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-003B	00:18:04;
+
+[PrintText]=00:17:03	Makoto	Not at all.	00:18:06;
+
+[PlayVoice]=00:17:03	Voice04/04-SE/04-SE-B06/04-SE-B06-0100	1	mak	00:18:06;
+
+[PrintText]=00:18:03	Otome	I thought so. Ii was complaining about how hard it was to get a hold of you.	00:22:14;
+
+[PlayVoice]=00:18:03	Voice04/04-SE/04-SE-B06/04-SE-B06-0110	0	oto	00:22:14;
+
+[CreateBG]=00:18:04	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-004	00:22:14;
+
+[CreateBG]=00:22:14	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-005	00:24:18;
+
+[PrintText]=00:22:17	Makoto	That suits me just fine, when it comes to Ii.	00:24:21;
+
+[PlayVoice]=00:22:17	Voice04/04-SE/04-SE-B06/04-SE-B06-0120	1	mak	00:24:21;
+
+[PrintText]=00:24:17	Otome	Ahahah... what about this, then? Have you heard that Ikeda and Reizei are going out now?	00:30:07;
+
+[PlayVoice]=00:24:17	Voice04/04-SE/04-SE-B06/04-SE-B06-0130	0	oto	00:30:07;
+
+[CreateBG]=00:24:18	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-006	00:35:11;
+
+[PrintText]=00:30:10	Makoto	Seriously?! Uwah... I'm really losing touch with the world...	00:35:14;
+
+[PlayVoice]=00:30:10	Voice04/04-SE/04-SE-B06/04-SE-B06-0140	1	mak	00:35:14;
+
+[CreateBG]=00:35:11	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-007	00:42:04;
+
+[PrintText]=00:35:11	Otome	Let's all get together some time at that beach near your house. That place where we used to hang out all the time.	00:42:04;
+
+[PlayVoice]=00:35:11	Voice04/04-SE/04-SE-B06/04-SE-B06-0150	0	oto	00:42:04;
+
+[CreateBG]=00:42:04	BGS	Event04/04-SE/04-SE-B06/04-SE-B06-008	00:48:10;
+
+[PrintText]=00:42:07	Makoto	Yeah. For the first time in ages, I feel like seeing all of them again.	00:45:05;
+
+[PlayVoice]=00:42:07	Voice04/04-SE/04-SE-B06/04-SE-B06-0160	1	mak	00:45:05;
+
+[PrintText]=00:45:01	Otome	See?	00:46:03;
+
+[PlayVoice]=00:45:01	Voice04/04-SE/04-SE-B06/04-SE-B06-0170	0	oto	00:46:03;
+
+ ;
+
+[Next]=00:48:10;
+

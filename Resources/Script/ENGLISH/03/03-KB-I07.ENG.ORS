@@ -1,0 +1,26 @@
+[SkipFRAME]=00:18:23;
+
+[PlaySe]=00:00:00	1	Se03/03-KB/03-KB-I07/SE03-KB-I07-001	00:18:23;
+
+[CreateBG]=00:00:00	BGS	Event03/03-KB/03-KB-I07/03-KB-I07-001	00:13:23;
+
+[PrintText]=00:00:00	Taisuke	Come to think of it, I don't even know Saionji's cell phone number.	00:06:11;
+
+[PlayVoice]=00:00:00	Voice03/03-KB/03-KB-I07/03-KB-I07-0030	1	tai	00:11:09;
+
+[PrintText]=00:06:11	Taisuke	Given the situation, I guess asking her out might be a bit too much for me after all.	00:11:09;
+
+[PrintText]=00:11:09	Kotonoha	No, that's not true.	00:13:22;
+
+[PlayVoice]=00:11:09	Voice03/03-KB/03-KB-I07/03-KB-I07-0040	0	kot	00:13:22;
+
+[CreateBG]=00:13:23	BGS	Event03/03-KB/03-KB-I07/03-KB-I07-002	00:18:23;
+
+[PrintText]=00:13:23	Taisuke	You think?	00:15:06;
+
+[PlayVoice]=00:13:23	Voice03/03-KB/03-KB-I07/03-KB-I07-0050	1	tai	00:15:06;
+
+ ;
+
+[Next]=00:18:23;
+

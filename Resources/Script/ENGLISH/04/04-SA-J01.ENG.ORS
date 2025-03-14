@@ -1,0 +1,56 @@
+[SkipFRAME]=00:38:09;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/syoutengai	00:38:09;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-J01/04-SA-J01-001	00:06:07;
+
+[PrintText]=00:00:05	Makoto	I guess I'll go and check.	00:01:20;
+
+[PlayVoice]=00:00:05	Voice04/04-SA/04-SA-J01/04-SA-J01-0030	1	mak	00:01:20;
+
+[PrintText]=00:02:01	Makoto	Let's see... I think the ticket shop at the station should...	00:07:00;
+
+[PlayVoice]=00:02:01	Voice04/04-SA/04-SA-J01/04-SA-J01-0040	1	mak	00:07:00;
+
+[BlackFade]=00:05:20	OUT	00:06:07;
+
+[CreateBG]=00:06:07	BGS	Event04/04-SA/04-SA-J01/04-SA-J01-002	00:15:00;
+
+[PrintText]=00:08:02	Makoto	A student ticket to Aqua Square is 3,200 yen...	00:14:21;
+
+[PlayVoice]=00:08:02	Voice04/04-SA/04-SA-J01/04-SA-J01-0060	1	mak	00:14:21;
+
+[CreateBG]=00:15:00	BGS	Event04/04-SA/04-SA-J01/04-SA-J01-003	00:33:09;
+
+[BlackFade]=00:15:00	IN	00:15:10;
+
+[PrintText]=00:15:09	Makoto	I don't have enough...	00:17:02;
+
+[PlayVoice]=00:15:09	Voice04/04-SA/04-SA-J01/04-SA-J01-0080	1	mak	00:17:02;
+
+[PrintText]=00:17:02	Makoto	It's even worse when I consider the costs of the train fare and food and drink.	00:24:05;
+
+[PlayVoice]=00:17:02	Voice04/04-SA/04-SA-J01/04-SA-J01-0090	1	mak	00:24:05;
+
+[PrintText]=00:24:12	Makoto	But seeing as how I don't have a part-time job, it's not like I have any spare money...	00:29:01;
+
+[PlayVoice]=00:24:12	Voice04/04-SA/04-SA-J01/04-SA-J01-0100	1	mak	00:29:01;
+
+[PrintText]=00:29:02	Makoto	Haah... I'll just pretend to be sick.	00:33:07;
+
+[PlayVoice]=00:29:02	Voice04/04-SA/04-SA-J01/04-SA-J01-0110	1	mak	00:33:07;
+
+[CreateBG]=00:33:09	BGS	Event04/04-SA/04-SA-J01/04-SA-J01-004	00:38:09;
+
+[PrintText]=00:34:05	Makoto	Better than looking like an idiot.	00:36:16;
+
+[PlayVoice]=00:34:05	Voice04/04-SA/04-SA-J01/04-SA-J01-0120	1	mak	00:36:16;
+
+[PrintText]=00:37:02	Makoto	...	00:38:03;
+
+[PlayVoice]=00:37:02	Voice04/04-SA/04-SA-J01/04-SA-J01-0130	1	xxx	00:38:03;
+
+ ;
+
+[Next]=00:38:09;
+

@@ -1,0 +1,50 @@
+[SkipFRAME]=00:29:23;
+
+[PlaySe]=00:00:00	1	SysSe/SE_all/gaya/aqua_square	00:29:23;
+
+[CreateBG]=00:00:00	BGS	Event04/04-SA/04-SA-N04/04-SA-N04-001	00:03:21;
+
+[PrintText]=00:00:00	Makoto	Not if you don't want me to.	00:01:17;
+
+[PlayVoice]=00:00:00	Voice04/04-SA/04-SA-N04/04-SA-N04-0030	1	mak	00:01:17;
+
+[PrintText]=00:01:17	Kotonoha	Yes, I see.	00:03:05;
+
+[PlayVoice]=00:01:17	Voice04/04-SA/04-SA-N04/04-SA-N04-0040	0	kot	00:03:05;
+
+[PrintText]=00:03:05	Makoto	...	00:03:19;
+
+[PlayVoice]=00:03:05	Voice04/04-SA/04-SA-N04/04-SA-N04-0050	1	xxx	00:03:19;
+
+[PrintText]=00:03:20	Kotonoha	Well, what if I wanted you to touch me...? Would you want to?	00:12:20;
+
+[PlayVoice]=00:03:20	Voice04/04-SA/04-SA-N04/04-SA-N04-0060	0	kot	00:12:20;
+
+[CreateBG]=00:03:21	BGS	Event04/04-SA/04-SA-N04/04-SA-N04-002	00:12:20;
+
+[CreateBG]=00:12:20	BGS	Event04/04-SA/04-SA-N04/04-SA-N04-003	00:24:02;
+
+[PrintText]=00:12:20	Makoto	Do you?	00:14:09;
+
+[PlayVoice]=00:12:20	Voice04/04-SA/04-SA-N04/04-SA-N04-0070	1	mak	00:14:09;
+
+[PrintText]=00:14:09	Kotonoha	N-no, I mean... just hypothetically.	00:19:07;
+
+[PlayVoice]=00:14:09	Voice04/04-SA/04-SA-N04/04-SA-N04-0080	0	kot	00:19:07;
+
+[PrintText]=00:19:07	Makoto	I don't know... maybe I would.	00:24:02;
+
+[PlayVoice]=00:19:07	Voice04/04-SA/04-SA-N04/04-SA-N04-0090	1	mak	00:24:02;
+
+[CreateBG]=00:24:02	BGS	Event04/04-SA/04-SA-N04/04-SA-N04-004	00:25:17;
+
+[PrintText]=00:24:02	Kotonoha	Yes, I thought so.	00:25:16;
+
+[PlayVoice]=00:24:02	Voice04/04-SA/04-SA-N04/04-SA-N04-0100	0	kot	00:25:16;
+
+[CreateBG]=00:25:17	BGS	Event04/04-SA/04-SA-N04/04-SA-N04-005	00:29:23;
+
+ ;
+
+[Next]=00:29:23;
+
