@@ -17,7 +17,8 @@
 		}
 
 		div#gameContainer {
-			background: transparent !important;
+			background: url( loadingBG.webp ) no-repeat;
+			background-size: cover;
 			position: absolute;
 		}
 
@@ -43,14 +44,15 @@
 <body>
 	<div id="gameContainer">
 		<canvas id="unity-canvas" data-pixel-art="false"></canvas>
-		<script src="Build/schooldays build.loader.js"></script>
+		<script src="Build/SchoolDaysHQ-web.loader.js"></script>
 		<script>
 			var canvas = document.querySelector("#unity-canvas");
 			var config = {
 				arguments: [],
-				dataUrl: "Build/schooldays build.data",
-				frameworkUrl: "Build/schooldays build.framework.js",
-				codeUrl: "Build/schooldays build.wasm",
+				dataUrl: "Build/SchoolDaysHQ-web.data",
+				frameworkUrl: "Build/SchoolDaysHQ-web.framework.js",
+        		workerUrl: "Build/SchoolDaysHQ-web.worker.js",
+				codeUrl: "Build/SchoolDaysHQ-web.wasm",
 				streamingAssetsUrl: "StreamingAssets",
 				companyName: "DefaultCompany",
 				productName: "SchoolDays",
