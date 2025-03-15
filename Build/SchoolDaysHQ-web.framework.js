@@ -1285,10 +1285,10 @@ function dbg(text) {
 // === Body ===
 
 var ASM_CONSTS = {
-  4179396: () => { Module['emscripten_get_now_backup'] = performance.now; },  
- 4179451: ($0) => { performance.now = function() { return $0; }; },  
- 4179499: ($0) => { performance.now = function() { return $0; }; },  
- 4179547: () => { performance.now = Module['emscripten_get_now_backup']; }
+  4188980: () => { Module['emscripten_get_now_backup'] = performance.now; },  
+ 4189035: ($0) => { performance.now = function() { return $0; }; },  
+ 4189083: ($0) => { performance.now = function() { return $0; }; },  
+ 4189131: () => { performance.now = Module['emscripten_get_now_backup']; }
 };
 
 
@@ -2038,6 +2038,17 @@ var ASM_CONSTS = {
   		}
   	}
   }
+
+  function _JS_GetRandomBytes(destBuffer, numBytes) {
+      // Crypto is widely available in browsers, but if running in
+      // Node.js or another shell, it might not be present.
+      // getRandomValues() cannot be called for more than 64K bytes at a time.
+      if (typeof crypto === 'undefined' || numBytes > 65535)
+          return 0;
+  
+      crypto.getRandomValues(new Uint8Array(HEAPU8.buffer, destBuffer, numBytes));
+      return 1;
+    }
 
   function _JS_Get_WASM_Size()
     {
@@ -17092,6 +17103,7 @@ var wasmImports = {
   "JS_Eval_OpenURL": _JS_Eval_OpenURL,
   "JS_FileSystem_Initialize": _JS_FileSystem_Initialize,
   "JS_FileSystem_Sync": _JS_FileSystem_Sync,
+  "JS_GetRandomBytes": _JS_GetRandomBytes,
   "JS_Get_WASM_Size": _JS_Get_WASM_Size,
   "JS_GravitySensor_IsRunning": _JS_GravitySensor_IsRunning,
   "JS_GravitySensor_Start": _JS_GravitySensor_Start,
